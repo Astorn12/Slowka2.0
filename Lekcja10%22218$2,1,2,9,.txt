@@ -1,0 +1,52 @@
+pol,francuski,0,,0,0,0,3,Angielski,n
+karta dań,la carte,0,i,-1,3,0,3,Angielski,n
+przystawka,l'entrée,0,i,-1,3,0,3,Angielski,n
+potrawa,le plat,0,i,-1,3,0,3,Angielski,n
+deser,le dessert,0,i,-1,3,0,3,Angielski,n
+napój,la boisson,0,i,-1,3,0,3,Angielski,n
+jeść,manger,0,i,-2,3,0,3,Angielski,n
+pić,boire,0,i,-2,3,0,3,Angielski,n
+lody,la glace,0,i,-1,3,0,3,Angielski,n
+naleśnik,la crêpe,0,i,-2,3,0,3,Angielski,n
+ryż,le riz,0,i,-2,3,0,3,Angielski,n
+talerz,l'assiette,0,i,-1,3,0,3,Angielski,n
+zupa,la soupe,0,i,-2,3,0,3,Angielski,n
+kurczak,le poulet,0,i,-3,3,0,3,Angielski,n
+stek z frytkami,le steak-frites,0,i,-2,3,0,3,Angielski,n
+ser,le fromage,0,i,-2,3,0,3,Angielski,n
+wino białe,le vin blanc,0,i,-1,3,0,3,Angielski,n
+wino czerwone,le vin rouge,0,i,-2,3,0,3,Angielski,n
+woda,l'eau,0,i,-2,3,0,3,Angielski,n
+sok owowcowy,le jus de fruits,0,i,-2,3,0,3,Angielski,n
+kawa,le café,0,i,-2,3,0,3,Angielski,n
+herbata,le thé,0,i,-2,3,0,3,Angielski,n
+to już wszystko,ce sera tout,0,i,-1,3,0,3,Angielski,n
+szkoda,dommage,0,i,-2,3,0,3,Angielski,n
+to będzie...,ça fait...,0,i,-1,3,0,3,Angielski,n
+targ,le marché,0,i,-3,3,0,3,Angielski,n
+ogórek,le concombre,0,i,-1,3,0,3,Angielski,n
+Coś jeszcze?,Et avec cela?,0,ang,-1,3,0,3,Angielski,n
+klient,le client,0,i,-2,3,0,3,Angielski,n
+sprzedawca,le vendeur,0,i,-1,3,0,3,Angielski,n
+gruszka,la poire,0,i,-1,3,0,3,Angielski,n
+czosnek,l'ail,0,i,-2,3,0,3,Angielski,n
+sałata,la salade,0,i,-1,3,0,3,Angielski,n
+frytki,les frites,0,i,-2,3,0,3,Angielski,n
+grzyby,les champignons,0,i,-2,3,0,3,Angielski,n
+surówka,la crudité,3,ang,0,0,0,0,Angielski,n
+tacka,le plateau,3,ang,0,0,0,0,Angielski,n
+kula,la boule,3,ang,0,0,0,0,Angielski,n
+cukier,le sucre,3,ang,0,0,0,0,Angielski,n
+wieś,la campagne,3,ang,0,0,0,0,Angielski,n
+pasztet,la pâté,3,ang,0,0,0,0,Angielski,n
+tarta lotaryńska,la quiche lorraine,3,ang,0,0,0,0,Angielski,n
+bakłażan,la aubergine,3,ang,0,0,0,0,Angielski,n
+papryka,le poivron,3,ang,0,0,0,0,Angielski,n
+Chce pan coś z menu dnia?,Vous prenez le menu du jour?,3,ang,0,0,0,0,Angielski,n
+Czy coś do picia?,Vous buvez quelque chose?,3,ang,0,0,0,0,Angielski,n
+Może jakiś napój?,Vous prenez une boisson?,3,ang,0,0,0,0,Angielski,n
+Wezmę...,Je prends...,3,ang,0,0,0,0,Angielski,n
+Chciałbym...,Je voundrais...,3,ang,0,0,0,0,Angielski,n
+pomidor,la tomate,3,ang,0,0,0,0,Angielski,n
+nie ma problemu,pas de problème,3,ang,0,0,0,0,Angielski,n
+chcieć,désirer,3,ang,0,0,0,0,Angielski,n

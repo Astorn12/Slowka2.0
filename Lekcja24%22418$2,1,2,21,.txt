@@ -1,0 +1,25 @@
+pol,francuski,0,,0,0,0,3,Angielski,n
+pociąg dużych prędkości,le train à grande vitesse,0,i,-1,3,0,3,Angielski,n
+pociąg,le train,0,i,-1,3,0,3,Angielski,n
+bez przesiadek,direct,0,,-2,3,0,3,Angielski,n
+dworzec kolejowy,la gare,0,i,-1,3,0,3,Angielski,n
+z,depuis,0,i,-1,3,0,3,Angielski,n
+z góry,à l'avance,0,i,-1,3,0,3,Angielski,n
+samolot,l'avion,0,i,-2,3,0,3,Angielski,n
+bliski,proche,0,i,-1,3,0,3,Angielski,n
+dysponować czymś,disposer de qc,0,i,-1,3,0,3,Angielski,n
+miejsce parkingowe,la place de parking,0,i,-1,3,0,3,Angielski,n
+samochód,la voiture,0,i,-1,3,0,3,Angielski,n
+parking,le parking,0,i,-1,3,0,3,Angielski,n
+rezerwować,réserver,0,i,-1,3,0,3,Angielski,n
+wsiadać,monter,0,i,-1,3,0,3,Angielski,n
+wysiadać,descendre,0,i,-1,3,0,3,Angielski,n
+czekać,attendre,0,i,-2,3,0,3,Angielski,n
+przesiadać się,changer,0,i,-1,3,0,3,Angielski,n
+jechać tam i z powrotem,faire un aller et retour,0,,-1,3,0,3,Angielski,n
+oddawać,rendre,0,,-1,3,0,3,Angielski,n
+sprzedawać,vendre,0,i,-1,3,0,3,Angielski,n
+rozumieć,comprendre,0,i,-1,3,0,3,Angielski,n
+uczyć się,apprendre,0,i,-1,3,0,3,Angielski,n
+środki transportu,moyens de transport,0,i,-1,3,0,3,Angielski,n
+wracać,rentrer,0,i,-1,3,0,3,Angielski,n

@@ -1,0 +1,40 @@
+pol,francuski,0,,0,0,0,3,Angielski,n
+poduszka,l'oreille,3,ang,0,3,0,3,Angielski,n
+kanapa,le canapé,3,ang,0,3,0,3,Angielski,n
+obraz,le tableau,3,ang,0,3,0,3,Angielski,n
+dywan,le tapis,3,ang,0,3,0,3,Angielski,n
+lustro,le miroir,3,ang,0,3,0,3,Angielski,n
+szklanka,le verre,3,ang,0,3,0,3,Angielski,n
+ręcznik,la serviette,3,ang,0,3,0,3,Angielski,n
+umywalka,le lavabo,3,ang,0,3,0,3,Angielski,n
+śmietnik,la poubelle,3,ang,0,3,0,3,Angielski,n
+kaszka,la semoule,3,ang,0,3,0,3,Angielski,n
+gotować,cuire,3,ang,0,3,0,3,Angielski,n
+próba,la épreuve,3,ang,0,3,0,3,Angielski,n
+odwaga,le courage,3,ang,0,3,0,3,Angielski,n
+tkanina,le tissu,3,ang,0,3,0,3,Angielski,n
+fasola,le haricot,3,ang,0,3,0,3,Angielski,n
+przyjmować,reprendre,3,ang,0,3,0,3,Angielski,n
+syrop z granatów,la grenadine,3,ang,0,3,0,3,Angielski,n
+cielęcina,le veau,3,ang,0,3,0,3,Angielski,n
+omijać,éviter,3,ang,0,3,0,3,Angielski,n
+kłaść,mettre,3,ang,0,3,0,3,Angielski,n
+pić,boire,3,ang,0,3,0,3,Angielski,n
+każdy,chaque,3,ang,0,3,0,3,Angielski,n
+sąsiad,le voisin,3,ang,0,3,0,3,Angielski,n
+placek,le gâteau,3,ang,0,3,0,3,Angielski,n
+kufer,le coffre,3,ang,0,3,0,3,Angielski,n
+kluczyk,la clé,3,ang,0,3,0,3,Angielski,n
+słońce,le soleil,3,ang,0,3,0,3,Angielski,n
+porada,le conseil,3,ang,0,3,0,3,Angielski,n
+ołów,le plomb,3,ang,0,3,0,3,Angielski,n
+pełny,plein,3,ang,0,3,0,3,Angielski,n
+benzyna bezołowiowa,sans plomb,3,ang,0,3,0,3,Angielski,n
+moneta,la monnaie,3,ang,0,3,0,3,Angielski,n
+szczęście,la chance,3,ang,0,3,0,3,Angielski,n
+butelka,la bouteille,3,ang,0,3,0,3,Angielski,n
+książeczka czekowa,carnet de chèques,3,ang,0,3,0,3,Angielski,n
+sam,seul,3,ang,0,3,0,3,Angielski,n
+słonecznik,le tournesol,3,ang,0,3,0,3,Angielski,n
+ojel,huile,3,ang,0,3,0,3,Angielski,n
+paczka,le paquet,3,ang,0,3,0,3,Angielski,n

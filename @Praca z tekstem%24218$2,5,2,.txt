@@ -1,0 +1,22 @@
+polski,francuski,0,,0,0,0,0,Angielski,n,
+c,c,0,ang,-1,0,0,0,angielski,n,oo
+g,g,0,ang,-1,0,0,0,angielski,n,oo
+f,f,1,angi,0,0,0,0,angielski,n,oo
+r,r,1,ang,0,0,0,0,angielski,n,oo
+kotek,cat/pussycat,3,ang,0,0,0,0,angielski,n,oo
+film,film/movie,5,ang,0,0,0,0,angielski,n,oo
+light,lampa;świato,1,ang,0,0,0,0,angielski,n,oo
+coś,takie/i takie,4,ang,0,0,0,0,angielski,n,oo
+coś,takie;albo takie,4,ang,0,0,0,0,angielski,n,oo
+oskar3,oskar,3,angi,0,0,0,0,angielski,n,oo
+piosenka,song,1,francuski,0,0,0,0,angielski,n,oo
+piosenka,lalala,1,francusk,0,0,0,0,angielski,n,oo
+piosenka,piosenka,1,francuski,0,0,0,0,angielski,n,oo
+malgoska,piosenka,1,francuski,0,0,0,0,angielski,n,oo
+song,piosenka,1,francuski,0,0,0,0,angielski,n,oo
+lalala,piosenka,1,francusk,0,0,0,0,angielski,n,[I@103cdf5-[I@3830747d
+malgoska,piosenka,1,,0,0,0,0,angielski,n,344-353
+lalala,piosenka,1,francuski,0,0,0,0,angielski,n,344-353
+piosenka,,1,francuski,0,0,0,0,angielski,n,344-353
+string,łańcuch,1,francuski,0,0,0,0,angielski,n,372-379
+append,dodać,1,francuski,0,0,0,0,angielski,n,353-360

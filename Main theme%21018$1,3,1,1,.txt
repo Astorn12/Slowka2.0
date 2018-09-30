@@ -1,0 +1,33 @@
+pol,﻿angielski,0,,0,0,0,3,Angielski,n
+sumienny,conscientious,0,,-1,1,0,0,Angielski,n
+stanowczy/zdecydowany,decisive,0,,-1,1,0,0,Angielski,n
+twardo stąpający po ziemi,down-to-earth,0,,-1,1,0,0,Angielski,n
+mądry,knowledgeable,0,,-1,1,0,0,Angielski,n
+w przeciwnym wypadku,otherwise,0,,-1,1,0,0,Angielski,n
+o ile/pod warunkiem,provided,0,,-1,1,0,0,Angielski,n
+dzisiaj mija dokładnie rok do kiedy,today marks exactly one year since,0,,-1,1,0,0,Angielski,n
+skoczyć(z krótką wizytą),pop over,0,,-1,1,0,0,Angielski,n
+krótki urlop weekendowy,weekend getaway,0,,-2,1,0,0,Angielski,n
+czerstwy chleb,stale bread,0,,-2,1,0,0,Angielski,n
+zepsute/zgniłe owoce,rotten fruits,0,,-1,1,0,0,Angielski,n
+skwaśniałe mleko,sour milk,0,,-2,1,0,0,Angielski,n
+zjełczałe masło,rancid butter,0,ang,-1,1,0,0,Angielski,n
+musnąć,skim,0,,-1,1,0,0,Angielski,n
+obetrzeć,graze,0,,-1,1,0,0,Angielski,n
+trzeć,rub,0,,-1,1,0,0,Angielski,n
+szorować,scrub,0,,-1,1,0,0,Angielski,n
+jedynie,solely,0,,-2,1,0,0,Angielski,n
+tylko,merely,0,,-1,1,0,0,Angielski,n
+ledwie,barely,0,,-2,1,0,0,Angielski,n
+wyjątkowo,uniquely,0,,-1,1,0,0,Angielski,n
+dostarczać,deliver,0,,-1,1,0,0,Angielski,n
+ogromny,immense,0,,-1,1,0,0,Angielski,n
+nadmierny,excessive,0,,-1,1,0,0,Angielski,n
+solidny,reliable,0,,-1,1,0,0,Angielski,n
+stabilny,stable,0,,-1,1,0,0,Angielski,n
+spełniać oczekiwania,live up to sth,0,,-1,1,0,0,Angielski,n
+dlatego też,therefore,0,,-1,1,0,0,Angielski,n
+zbyt drogi,overpriced,0,,-1,1,0,0,Angielski,n
+nadmieniać/wspominać,mention,0,,-1,1,0,0,Angielski,n
+zdanie składowe,clause,0,,-1,1,0,0,Angielski,n
+powiew/haust,draft,0,,-1,1,0,0,Angielski,n

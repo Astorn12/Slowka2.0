@@ -1,0 +1,9 @@
+pol,francuski,0,,0,0,0,3,Angielski,n
+siekiera,la hache,3,ang,0,3,0,3,Angielski,n
+czekać,attendre,3,ang,0,3,0,3,Angielski,n
+chcieć,vouloir,3,ang,0,3,0,3,Angielski,n
+pytać,se renseigner,3,ang,0,3,0,3,Angielski,n
+prosić,demander,3,ang,0,3,0,3,Angielski,n
+oddawać,rendre,3,ang,0,3,0,3,Angielski,n
+zmartwiony czymś,fâché de qc,3,ang,0,3,0,3,Angielski,n
+zrezygnować z czegoś,renoncer â qc,3,ang,0,3,0,3,Angielski,n

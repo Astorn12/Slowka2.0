@@ -1,0 +1,64 @@
+﻿pol,﻿angielski
+konwalia,lily of the valley
+podgląd,preview
+paw,peacock
+naśladować,spoof
+pełnomocnik,proxy
+stajnia,stable
+ładunek,payload
+przedstawiać,depict
+utrzymywać/konserwować,maintain
+sterowany przerwaniam,event-driven
+filia,branch
+łysy,bald
+niemowa,mute
+nieróbstwo,idleness
+pan młody,groom
+nakaz sądowy,warrant
+skazywać,condemn
+pojawiać się(o problemie),arise
+wspólny,mutual
+ginąć,perish
+być winnym/być dłużnym,owe
+siłą zwerbować na statek,shanghai
+szubienica,gallows
+dokuczać,vex
+żal,sorrow
+wałęsać się,roam
+prokurator,prosecutor
+niepewny,iffy
+rozgłaszający,divulgatory
+podnieść/wciągać,hoist
+przestarzały,obsolete
+faktura,invoice
+gatunek,genre
+sierota,orphan
+odwyk,rehab
+iskra,spark
+szkic,sketch
+podejrzliwy,suspicious
+jasny/wyraźny,explicit
+kolor morski(niebieski z odcieniem zielonkawego),teal
+fałszerstwo,forgery
+łośliwy,malicious
+popełniać/dopuszczać się,commit
+co najmniej,at least
+używanie/eksploatowanie,utilising
+flaw,wada
+przeprowadzać obławę,raid
+ugoda obrończa,plea agreement
+aple/wołanie/błaganie/usprawiedliwienie/pretekst/wytłumaczenie/zarzut/skarga/powództwo,plea
+poważne przestępstwo/zbrodnia,felony
+zarzut zbrodni,felony charge
+wyrok w zawieszeniu,probation
+prace społeczne,community service
+rekompensata,restitution
+kompromitować,compromise
+prawdopodobieństwo,likelihood
+roździelczość,resolution
+próbka materiału,swatch
+wisielec,hanged man
+szczotka/pędzel,brush
+powierzać,entrust
+ruda,ore
+pokutować/zadośćuczynić,atone

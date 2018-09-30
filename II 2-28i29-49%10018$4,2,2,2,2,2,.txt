@@ -1,0 +1,75 @@
+przekazywać,hand over,0,angi,-1,0,1
+czołowi ministrowie,leading ministers,0,angi,-1,0,1
+zmuszać do dymisji,oust,0,angi,-1,0,1
+zarzuty,charges,0,angi,-1,0,1
+inwigilować,keep under surveillance,0,angi,-1,0,1
+zaskarżyć;wnosić pozew,sue,0,angi,-1,0,1
+orzekać;rządzić,rule,0,angi,-1,0,1
+płód,foetus,0,angi,-1,0,1
+niepełnosprawni,handicapped,0,angi,-1,0,1
+zmniejszenie produkcji,drop in production,0,angi,-1,0,1
+podwoić ceny,double prices,0,angi,-1,0,1
+pobudzać wzrost,prompt grows,0,angi,-1,0,1
+pobudzać produkcje,boost output,0,angi,-1,0,1
+rozwijający się,expanding,0,angi,-1,0,1
+ustępować,step down,0,angi,-1,0,1
+drażnięce;irytujące zagadnienie,vexed issues,0,angi,-1,0,1
+oddziaływać na,affect,0,angi,-1,0,1
+postawa wobec,attitude towards,0,angi,-1,0,1
+świecki,secular,0,angi,-1,0,1
+okazywać oznaki poprawy,show signs of recovery,0,angi,-1,0,1
+spadek w,decline in,0,angi,-1,0,2
+cięcia w,cut in,0,angi,-1,0,2
+opublikować dane,release figures,0,angi,-1,0,2
+zwiększać obawy,increase concerns,0,angi,-1,0,2
+przeprowadzenie wyborów,conduct of the poll,0,angi,-1,0,2
+wróżyć;zapowiadać,bode,0,angi,-1,0,2
+rzekomy;niedoszły wyborca,would-be vouters,0,angi,-1,0,2
+wrzucić kartę do głosowania,cast the ballot,0,angi,-1,0,2
+stanowczo zaprzeczyć,deny flatly,0,angi,-1,0,2
+okręg wyborczy,constituency,0,angi,-1,0,2
+towarzyszyć,accompany,0,angi,-1,0,2
+robić znaczące postępy,make significant advances,0,angi,-1,0,2
+odwrót;wycofanie się,withdrawal,0,angi,-1,0,2
+rozpocząć ofensywę,launch an offensive,0,angi,-1,0,2
+zatrzymywać,hold up,0,angi,-1,0,2
+walczyć przeciwko,battle against,0,angi,-1,0,2
+brzmieć,sound,0,angi,-1,0,2
+wzmocnienie,reinforcement,0,angi,-1,0,2
+wyboisty teren,rugged terrain,0,angi,-1,0,2
+zredukować,scale down,0,angi,-1,0,2
+stanowić lwią część sił zbrojnych,make up the bulk of the forces,0,angi,-1,0,3
+poruszyć kwestię,raise questions,0,angi,-1,0,3
+partyzantka,guerilla warfare,0,angi,-1,0,3
+na wielką skalę,large-scale,0,angi,-1,0,3
+zapewniać;zagwarantować,ensure,0,angi,-1,0,3
+dotycząca,concerning,0,angi,-1,0,3
+ogólnie;generalnie,on the whole,0,angi,-1,0,3
+brać udział,take part in,0,angi,-1,0,3
+główna kwestia;problem,main concern,0,angi,-1,0,3
+odpowiednik,counterpart,0,angi,-1,0,3
+możliwe zagrożenie,possible threat,0,angi,-1,0,3
+radzić sobie z,deal with,0,angi,-1,0,3
+walka w terenie zabudowanym,fighting in built-up area,0,angi,-1,0,3
+rozpraszać się,disperse from,0,angi,-1,0,3
+oszałamiający sukces,roaring success,0,angi,-1,0,3
+profesjonalne załatwienie/rzeprowadzenie czegoś,professional conduct of,0,angi,-1,0,3
+realizować;przeprowadzać coś,carry out,0,angi,-1,0,3
+efektywność;wydajność,efficiency,0,angi,-1,0,3
+środek chemiczny,chemical agent,0,angi,-1,0,3
+sprawa;przypadek,case,0,angi,-1,0,3
+zanieczyszczenie,contamination,0,angi,-1,0,4
+okop;rów,trench,0,angi,-1,0,4
+zbliżać się;nastawienie,approach,0,angi,-1,0,4
+przespać coś,sleep through,0,angi,-1,0,4
+wcześniejsze powiadomienia,advance warning,0,angi,-1,0,4
+zaangażowany w ,enganged in,0,angi,-1,0,4
+rezultat ćwiczeń/manewrów,outcome of the exercise,0,angi,-1,0,4
+wejść w posiadanie,get hold of,0,angi,-1,0,4
+przychylne komentarze,favourable comments,0,angi,-1,0,4
+przechowywać na,stored on,0,angi,-1,0,4
+precyzyjność strzelanie;celność,accurancy of weapon firing,0,angi,-1,0,4
+pamiętać o,keep in mind,0,angi,-1,0,4
+powiadomić,notify,0,angi,-1,0,4
+w odpowiednim czasie,in due time,0,angi,-1,0,4
+brać udział w posiedzeniu,attend the session,0,angi,-1,0,4

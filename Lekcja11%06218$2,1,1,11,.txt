@@ -1,0 +1,20 @@
+pol,francuski,0,,0,0,0,3,Angielski,n
+pod,sous,1,angi,1,3,0,3,Angielski,n
+w,dans,1,angi,1,3,0,3,Angielski,n
+pomiędzy,entre,1,angi,1,3,0,3,Angielski,n
+obok,à côté,1,angi,1,3,0,3,Angielski,n
+po lewej,à gauche,1,angi,1,3,0,3,Angielski,n
+po prawej,à droite,1,angi,1,3,0,3,Angielski,n
+wyraz,le mot,1,angi,1,3,0,3,Angielski,n
+według,suivant,1,angi,1,3,0,3,Angielski,n
+w zależności od,suivant,1,angi,1,3,0,3,Angielski,n
+na górze,en haut,1,angi,1,3,0,3,Angielski,n
+półka,la étagère,1,angi,1,3,0,3,Angielski,n
+kaloryfer,le radiateur,1,angi,1,3,0,3,Angielski,n
+rąkawiczki,les gants,1,angi,1,3,0,3,Angielski,n
+nożyczki,le ciseau,1,angi,1,3,0,3,Angielski,n
+środek,milieu,1,angi,1,3,0,3,Angielski,n
+poniżej,au-dessous,1,angi,1,3,0,3,Angielski,n
+na dole,en bas,1,angi,1,3,0,3,Angielski,n
+przed,devant,1,angi,1,3,0,3,Angielski,n
+za,derrière,1,angi,1,3,0,3,Angielski,n

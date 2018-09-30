@@ -1,0 +1,13 @@
+pol,﻿angielski,0,,0,0,0,0,angielski,n
+gardzić,despise,3,ang,0,0,0,0,angielski,n
+przez,through,3,ang,0,0,0,0,angielski,n
+pomimo,though,3,ang,0,0,0,0,angielski,n
+zawieść,bluff,3,ang,0,0,0,0,angielski,n
+koniec czasu,time is up,3,ang,0,0,0,0,angielski,n
+chciwość,greed,3,ang,0,0,0,0,angielski,n
+gniew/niechęć/frustracja,resentment,3,ang,0,0,0,0,angielski,n
+gruby,thick,3,ang,0,0,0,0,angielski,n
+wbicie noża w plecy,backstabbing,3,ang,0,0,0,0,angielski,n
+wycofać się,back down,3,ang,0,0,0,0,angielski,n
+udawać,pretend,3,ang,0,0,0,0,angielski,n
+przebrać się,disguise,3,ang,0,0,0,0,angielski,n

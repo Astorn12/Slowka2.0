@@ -1,0 +1,69 @@
+﻿zawiesić,suspend,3,ang,0,1,0
+skonfiskowany,impounded,3,ang,0,1,0
+pośród,amid,3,ang,0,2,0
+postępowanie upadłościowe,receivership,3,ang,0,1,0
+załamanie,downturn,3,ang,0,1,0
+tymczasowy,interim,3,ang,0,1,0
+orzeczenie,ruling,3,ang,0,1,0
+ława,bench,3,ang,0,1,0
+sąd najwyższy,The Supreme Court,3,ang,0,1,0
+cofać,reverse,3,ang,0,1,0
+były,former,3,ang,0,1,0
+ustępujący,outgoing,3,ang,0,1,0
+dosłownie,virtually,3,ang,0,1,0
+zgromadzienie narodowe,state assembly,3,ang,0,1,0
+wezwać,call on,3,ang,0,1,0
+nagana,reprehensible,3,ang,0,2,0
+wydaś oświadczenie,issue a statement,3,ang,0,1,0
+kosmetyczne zmiany,cosmetic steps,3,ang,0,1,0
+miejsce,venue,3,ang,0,1,0
+wyrzucać na śmietnik,scrap,3,ang,0,1,0
+wlewać,pour in,3,ang,0,1,0
+być pewnym,be in doubt,3,ang,0,1,0
+ciskać,toss,3,ang,0,2,0
+napędzany na 4 koła,four-wheel-drive,3,ang,0,1,0
+wiec,rally,3,ang,0,1,0
+cenna odzież,precious garment,3,ang,0,1,0
+sondaż,poll,3,ang,0,1,0
+szyberdach,sunroom,3,ang,-1,0,0
+mnóstwo,welter of,3,ang,0,1,0
+następnie,subsequently,3,ang,0,1,0
+w pewnym sensie,up to  a point,3,ang,0,1,0
+bezkrwany,bloodless,3,ang,0,1,0
+przewrót,coup,3,ang,0,1,0
+zastraszyć,intimidate,3,ang,0,1,0
+w przebraniu,in disguise,3,ang,0,1,0
+zgromadzieni,gathered,3,ang,0,1,0
+w imieniu,on behalf,3,ang,0,1,0
+odprawa,briefing,3,ang,0,1,0
+bez wątpliwości,no doubt,3,ang,0,1,0
+połączeni,paired,3,ang,0,1,0
+podczas gdy,whereas,3,ang,0,1,0
+wrogi,hostile,3,ang,0,1,0
+zamieszki,riots,3,ang,0,1,0
+zapenienie,reassurance,3,ang,0,1,0
+wielkim nakładem,at great expense,3,ang,0,2,0
+przerwa,recess,3,ang,0,1,0
+być odpowiedzialnym za coś,be in charge of sth,3,ang,0,1,0
+facile,płytki,3,ang,0,1,0
+tymczasowy,interim,3,ang,0,2,0
+prowizoryczny,provisional,3,ang,0,1,0
+winny,culpable,3,ang,0,1,0
+przyzwoity,creditable,3,ang,0,1,0
+haniebny,disgraceful,3,ang,0,1,0
+niechętnie,unwillingly,3,ang,0,1,0
+chętny,eager,3,ang,0,1,0
+niechętny;przeciwny,averse,3,ang,0,1,0
+niechętny,reluctant,3,ang,0,1,0
+nieprzyjaciel,foe,3,ang,0,1,0
+wspłólnik,associate,3,ang,0,1,0
+miniony,bygone,3,ang,0,1,0
+zamieszać;uwikłać,implicate,3,ang,0,1,0
+uniewinniać,exculpate,3,ang,0,1,0
+obwiniać,incriminate,3,ang,0,1,0
+konfiskować,impound,3,ang,0,2,0
+wypuścić,release,3,ang,0,1,0
+pochwycić,seize,3,ang,0,1,0
+ścierpieć,bear,3,ang,0,1,0
+uspokajać,soothe,3,ang,0,1,0
+wytrzymać,endure,3,ang,0,1,0

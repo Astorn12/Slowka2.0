@@ -1,0 +1,26 @@
+pol,francuski,0,,0,0,0,3,Angielski,n
+zabytki,les curiosités,0,i,-1,3,0,3,Angielski,n
+odkrywać,découvrir,0,i,-1,3,0,3,Angielski,n
+brzeg,la rive,0,i,-1,3,0,3,Angielski,n
+zamek,le château,0,i,-1,3,0,3,Angielski,n
+katedra,la cathédrale,0,i,-1,3,0,3,Angielski,n
+naleśnikarnia,la crêperie,0,i,-2,3,0,3,Angielski,n
+wypoczynek,le repos,0,i,-1,3,0,3,Angielski,n
+port,le port,0,i,-1,3,0,3,Angielski,n
+mury miejskie,les remparts,0,i,-1,3,0,3,Angielski,n
+ogród botaniczny,le Jardin Botanique,0,i,-1,3,0,3,Angielski,n
+spędzać,passer,0,i,-1,3,0,3,Angielski,n
+przygoda,l'aventure,0,i,-1,3,0,3,Angielski,n
+rower,le vélo,0,i,-1,3,0,3,Angielski,n
+znak drogowy,le panneau,0,i,-1,3,0,3,Angielski,n
+wszystkie kierunki,toutes directions,0,i,-2,3,0,3,Angielski,n
+przejście dla pieszych,le passage piétons,0,,-1,3,0,3,Angielski,n
+parking,le parking,0,i,-1,3,0,3,Angielski,n
+źle,mal,0,i,-1,3,0,3,Angielski,n
+powoli,lentement,0,i,-1,3,0,3,Angielski,n
+z pewnością,sûrement,0,i,-1,3,0,3,Angielski,n
+na szczęście,heureusement,0,i,-1,3,0,3,Angielski,n
+podobnie,ainsi que,0,ang,-1,3,0,3,Angielski,n
+w ten sposób,ainsi,0,i,-1,3,0,3,Angielski,n
+przyjemny,agréable,0,angi,-2,3,0,3,Angielski,n
+ostatni,dernier,0,ang,-2,3,0,3,Angielski,n

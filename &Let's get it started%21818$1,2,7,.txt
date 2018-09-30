@@ -1,0 +1,9 @@
+pol,﻿angielski,0,,0,0,0,0,Angielski,n
+rozbić/rozwalić,bust,3,ang,0,0,0,0,Angielski,n
+wypalać się,burn out,3,ang,0,0,0,0,Angielski,n
+nadawać,transmit,3,ang,0,0,0,0,Angielski,n
+złudzenie,delusion,3,ang,0,0,0,0,Angielski,n
+kręgosłup,spine,3,ang,0,0,0,0,Angielski,n
+podskakiwać,bob,3,ang,0,0,0,0,Angielski,n
+nerwowy/gorączkowy/napięty,hectic,3,ang,0,0,0,0,Angielski,n
+nieodparty,irresistible,3,ang,0,0,0,0,Angielski,n

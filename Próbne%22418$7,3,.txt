@@ -1,0 +1,4 @@
+pol,ang,0,,0,0,0,0,angielski
+kot,cat,5,ang,0,5,0,0,angielski
+kot,le chat,5,ang,0,5,0,0,angielski
+kotek,cat,5,ang,0,5,0,0,angielski

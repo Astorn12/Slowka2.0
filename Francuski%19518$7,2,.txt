@@ -1,0 +1,2 @@
+pol,ang,0,,0,0,0,3,
+cel,le but,0,ang,-1,0,0,0,angielski

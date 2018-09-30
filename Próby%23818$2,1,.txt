@@ -1,0 +1,6 @@
+pol,ang,0,,0,0,0,0,angielski
+oskar,zadora,1,ang,0,0,0,-1,angielski
+oskar,pierdoła,2,ang,0,0,0,-1,angielski
+oskar,boskar,5,ang,0,0,0,-1,angielski
+armin,pierdoła,5,ang,0,0,0,-1,angielski
+andrzej,zadora,1,ang,-1,0,0,-1,angielski

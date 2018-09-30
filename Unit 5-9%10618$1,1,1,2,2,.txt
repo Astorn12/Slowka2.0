@@ -1,0 +1,151 @@
+pol,﻿angielski,0,,0,0,0,3,Angielski,n
+objazd/podróż po kraju,tour of a country,3,ang,0,0,0,3,Angielski,n
+pobudzać handel z,boost trade with,3,ang,0,0,0,3,Angielski,n
+poprawić stosunki gospodarcze z,improve economic relations with,3,ang,0,0,0,3,Angielski,n
+zniszczyć więzi z,damage ties with,3,ang,0,0,0,3,Angielski,n
+problemy związane z,problems over,3,ang,0,0,0,3,Angielski,n
+na granicy,on the border,3,ang,0,0,0,3,Angielski,n
+wysoki rangą urzędnik,senior official,3,angi,0,0,0,3,Angielski,n
+handel zagraniczny,foreign trade,3,ang,0,0,0,3,Angielski,n
+podpisać porozumienie gospodarcze dotyczące czegoś,sign an economic accord on sth,3,ang,0,0,0,3,Angielski,n
+wzajemna ochrona inwestycji,mutual protection of investment,3,ang,0,0,0,3,Angielski,n
+unikanie podwójnego opodatkowania,avodiance of double taxation,3,ang,0,0,0,3,Angielski,n
+rozmowy dotyczące,talks on,3,angi,0,0,0,3,Angielski,n
+negocjować kontrakt gospodarczy,negotiate an economic contract,3,ang,0,0,0,3,Angielski,n
+współpraca w dziedzinie/zakresie,cooperation in,3,ang,0,0,0,3,Angielski,n
+budownictwo okrętowe,shipbulding,3,ang,0,0,0,3,Angielski,n
+zakup czegoś,purchase of sth,3,angi,0,0,0,3,Angielski,n
+siarka,sulphur,3,ang,0,0,0,3,Angielski,n
+karma dla zwierząt,animal feed,3,ang,0,0,0,3,Angielski,n
+ruda żelaza,irone ore,3,ang,0,0,0,3,Angielski,n
+osiągnąć szczytowy poziom,reach a peak of,3,ang,0,0,0,3,Angielski,n
+zmniejszać się;obniżać,decrease,3,ang,0,0,0,3,Angielski,n
+dług wynoszący 3 mld dolarów,3 billion dollar debt,3,ang,0,0,0,3,Angielski,n
+nie zapłacić długu,defaulrt on paying a debt,3,ang,0,0,0,3,Angielski,n
+interesy rozwijają się,business expands,3,ang,0,0,0,3,Angielski,n
+osiągnąć porozumienie odnośnie czegoś,reach agreement on sth,3,ang,0,0,0,3,Angielski,n
+zmiana terminu spłaty długu,debt rescheduling,3,ang,0,0,0,3,Angielski,n
+przywrócić stosunki z, restore relations with,3,ang,0,0,0,3,Angielski,n
+zagarnąć władzę,seize power,3,ang,0,0,0,3,Angielski,n
+wymiana handlowa z,trade with,3,ang,0,0,0,3,Angielski,n
+wynosić,amount to,3,ang,0,0,0,3,Angielski,n
+natomiast;podczas gdy,while,3,ang,0,0,0,3,Angielski,n
+wynosić ogółem,total,3,ang,0,0,0,3,Angielski,n
+założyć;utworzyć,set up,3,ang,0,0,0,3,Angielski,n
+utworzyć,establish,3,ang,0,0,0,3,Angielski,n
+traktat przewiduje,treaty provides for,3,ang,0,0,0,3,Angielski,n
+ugoda gospodarcza,economic accord,3,ang,0,0,0,3,Angielski,n
+ujednoliciś taryfy celne,standardize tariffs,3,ang,0,0,0,3,Angielski,n
+procedura stosowana w handlu,trade procedures,3,ang,0,0,0,3,Angielski,n
+wysłannik;poseł,envoy,3,ang,0,0,0,3,Angielski,n
+parafować,initial,3,ang,0,0,0,3,Angielski,n
+punkt traktatu,clause,3,ang,0,0,0,3,Angielski,n
+karta,charter,3,ang,0,0,0,3,Angielski,n
+sygnatariusz,signatory,3,ang,0,0,0,3,Angielski,n
+ratyfikacja,ratification,3,ang,0,0,0,3,Angielski,n
+ratyfikować,ratify,3,ang,0,0,0,3,Angielski,n
+wprowadzać w życie,implementation,3,ang,0,0,0,3,Angielski,n
+wprowadzać w życie;wdrożyć,implement,3,ang,0,0,0,3,Angielski,n
+jeszcze raz zapewnić,reaffirm,3,ang,0,0,0,3,Angielski,n
+wiara w coś,belief in sth,3,ang,0,0,0,3,Angielski,n
+wielostronny,multilateral,3,ang,0,0,0,3,Angielski,n
+ciepłe przyjęcie,warm reception,3,ang,0,0,0,3,Angielski,n
+kondygnacja schodów,flight of stairs,3,ang,0,0,0,3,Angielski,n
+starać się;dążyć do,seek to,3,ang,0,0,0,3,Angielski,n
+rozłam,rift,3,ang,0,0,0,3,Angielski,n
+zlikwidować rozłam,heal a rift,3,ang,0,0,0,3,Angielski,n
+przedstawiać komuś krótko jakąś sprawę,brief sb on,3,ang,0,0,0,3,Angielski,n
+zaangażowanie w,commitment to,3,ang,0,0,0,3,Angielski,n
+poruszyć problem,raise an issue,3,ang,0,0,0,3,Angielski,n
+problem powodujący wrzenie,boiling issue,3,ang,0,0,0,3,Angielski,n
+ludność,population,3,ang,0,0,0,3,Angielski,n
+doprowadzić do konfliktu z,bring sb into conflict with,4,ang,0,0,0,3,Angielski,n
+wyjść z domu,turn out,3,ang,0,0,0,3,Angielski,n
+wybuchać okrzykami radości,erupt in cheers,3,ang,0,0,0,3,Angielski,n
+opancerzony samochód,armoured vehicle,3,ang,0,0,0,3,Angielski,n
+uważnie słuchać,pay close attention,3,ang,0,0,0,3,Angielski,n
+łapówkarstwo,graft,3,ang,0,0,0,3,Angielski,n
+najważniejsze punkty wizyty,hightpoint of a visit,3,ang,0,0,0,3,Angielski,n
+wiadomość,message,3,ang,0,0,0,3,Angielski,n
+zacytować kogoś kto powiedział,quote sb as saying that,3,ang,0,0,0,3,Angielski,n
+chór,choir,3,ang,0,0,0,3,Angielski,n
+śpiew kościelny,chant,3,ang,0,0,0,3,Angielski,n
+ocieplenie stosunków między,warming of relations between,3,ang,0,0,0,3,Angielski,n
+zerwać stosunki z,sever ties with,3,ang,0,0,0,3,Angielski,n
+stolica apostolska,the Holy See,3,ang,0,0,0,3,Angielski,n
+z powodu,because of,3,ang,0,0,0,3,Angielski,n
+renegat,renegade,3,ang,0,0,0,3,Angielski,n
+przeddsięwziąć środki bezpieczeństwa,take security measures,3,ang,0,0,0,3,Angielski,n
+pogoń za kimś,hunt for sb,3,ang,0,0,0,3,Angielski,n
+pochodzenie,of...origin,3,ang,0,0,0,3,Angielski,n
+próbować coś zrobić,be out to do sth,3,ang,0,0,0,3,Angielski,n
+legitymować się paszportem,carry a...passport,3,ang,0,0,0,3,Angielski,n
+więzi z,links to,3,ang,0,0,0,3,Angielski,n
+co było to było,let bygones by bygones,3,ang,0,0,0,3,Angielski,n
+nawiązać stosunki dyplomatyczne,establish diplomatic relations,3,ang,0,0,0,3,Angielski,n
+uznanie jakiegoś kraju,recognition of a country,3,ang,0,0,0,3,Angielski,n
+uzyskać uznanie,win recognition,3,ang,0,0,0,3,Angielski,n
+poszukiwanie czegoś,search for sth,3,ang,0,0,0,3,Angielski,n
+szczątki,remains,3,ang,0,0,0,3,Angielski,n
+jeniec wojenny,prisoner of war,3,ang,0,0,0,3,Angielski,n
+przeszkoda,obstacle,3,ang,0,0,0,3,Angielski,n
+ujawnić informacje dotyczące,disclose information about,3,ang,0,0,0,3,Angielski,n
+figurujący w spisie jako,listed as,3,ang,0,0,0,3,Angielski,n
+zaginiony w boju,missing in action,3,ang,0,0,0,3,Angielski,n
+spełnić warunek,meet a condition,3,ang,0,0,0,3,Angielski,n
+nalegać żeby ktoś coś zrobił,urge sb to do sth,3,ang,0,0,0,3,Angielski,n
+rząd(USA),administration,3,ang,0,0,0,3,Angielski,n
+prowadzić politykę,pursue a policy,3,ang,0,0,0,3,Angielski,n
+reformy rynkowe,market reforms,3,ang,0,0,0,3,Angielski,n
+rynek na którym należy szybko inwestować,hot market,3,ang,0,0,0,3,Angielski,n
+poóźnć coś,delay sth,3,ang,0,0,0,3,Angielski,n
+ujemnie wpływać na coś,adversely affest sth,3,ang,0,0,0,3,Angielski,n
+być w niekorzystnej sytuacji,be at a disadvantage,3,ang,0,0,0,3,Angielski,n
+po długich negocjacjach,following long negotiotions,3,ang,0,0,0,3,Angielski,n
+sekretarz stanu,Secretary of State,3,ang,0,0,0,3,Angielski,n
+wznowienie stosunków,resumption of relations,3,ang,0,0,0,3,Angielski,n
+wnowić stosunki,resume relations,3,ang,0,0,0,3,Angielski,n
+uroczyście otworzyć jakiś obiekt,dedicate sth,3,ang,0,0,0,3,Angielski,n
+przedstawiać listy uwierzytelniające,present credentials,3,ang,0,0,0,3,Angielski,n
+przyjąć postawę,take an attitude,3,ang,0,0,0,3,Angielski,n
+dobroczynność,charity,3,ang,0,0,0,3,Angielski,n
+dobra konsumpcyjne trwałego użytku,constumer durables,3,ang,0,0,0,3,Angielski,n
+być uzależnionym od,be addicted to sth,3,ang,0,0,0,3,Angielski,n
+wyraźnie,distinctly,3,ang,0,0,0,3,Angielski,n
+być czymś pochłoniętym,be preoccupied with sth,3,ang,0,0,0,3,Angielski,n
+zyskiwać,profit from sth,3,ang,0,0,0,3,Angielski,n
+rozwijająca się pomyślnie gospodarka,growing economy,3,ang,0,0,0,3,Angielski,n
+wezwanie,call for,3,ang,0,0,0,3,Angielski,n
+prawa człowieka,human rights,3,ang,0,0,0,3,Angielski,n
+przekazać,convey,3,ang,0,0,0,3,Angielski,n
+wygłosić przemówienie,deliver a speech,3,ang,0,0,0,3,Angielski,n
+połączona sesja obu izb parlamentu,joint session of parliament,3,ang,0,0,0,3,Angielski,n
+przemawiać do,adress,3,ang,0,0,0,3,Angielski,n
+rządy prawa,the rule of law,3,ang,0,0,0,3,Angielski,n
+przyjać zaproszenie,accept an invitation,3,ang,0,0,0,3,Angielski,n
+monarcha,sovereign,3,ang,0,0,0,3,Angielski,n
+wyprzedzać swoje czasy,be ahead of one's time,3,ang,0,0,0,3,Angielski,n
+godny zaufania,notable,3,ang,0,0,0,3,Angielski,n
+myśl wieku oświecenia,inlightened thought,3,ang,0,0,0,3,Angielski,n
+wiek oświecenia,the Age of Enlightenment,3,ang,0,0,0,3,Angielski,n
+przodek,forebear,3,ang,0,0,0,3,Angielski,n
+na uchodźtstwie(o rządzie imigracyjnym),in exile,3,ang,0,0,0,3,Angielski,n
+siły lądowe,the Army,3,ang,0,0,0,3,Angielski,n
+wojska lotnicze,the Air Force,3,ang,0,0,0,3,Angielski,n
+marynarka wojenna,the Navy,3,ang,0,0,0,3,Angielski,n
+siły zbrojne,the armed forces(of a country),3,ang,0,0,0,3,Angielski,n
+hymn narodowy,national anthem,3,ang,0,0,0,3,Angielski,n
+waleczny,gallant,3,ang,0,0,0,3,Angielski,n
+sprzymierzeniec,ally,3,ang,0,0,0,3,Angielski,n
+ucieszyć się z czegoś,rejoice at sth,3,ang,0,0,0,3,Angielski,n
+odzyskać,recover,3,ang,0,0,0,3,Angielski,n
+suwerenność,sovereignty,3,ang,0,0,0,3,Angielski,n
+mieć silne postanowanie zrobienia czegoś,be determined to do sth,3,ang,0,0,0,3,Angielski,n
+zależeć od,be subject to,3,ang,0,0,0,3,Angielski,n
+bardzo szybki wzrost w,rapid growth in,3,ang,0,0,0,3,Angielski,n
+wielkiej wagi,vital,3,ang,0,0,0,3,Angielski,n
+fala zmian,tide of change,3,ang,0,0,0,3,Angielski,n
+przetaczać się przez,sweep throught,3,ang,0,0,0,3,Angielski,n
+gościnność,hospitality,3,ang,0,0,0,3,Angielski,n
+wyzwanie,chellenge,3,ang,0,0,0,3,Angielski,n
+sprostać wyzwaniu,meet a chellenge,3,ang,0,0,0,3,Angielski,n

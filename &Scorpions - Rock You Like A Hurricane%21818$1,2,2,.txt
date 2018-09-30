@@ -1,0 +1,9 @@
+pol,﻿angielski,0,,0,0,0,3,Angielski,n
+mruczeć,purr,0,ang,-1,1,0,0,Angielski,n
+drapać,scratch,0,ang,-1,1,0,0,Angielski,n
+grzech,sin,0,ang,-1,1,0,0,Angielski,n
+cal,inch,0,ang,-1,1,0,0,Angielski,n
+pożądanie,desire,0,ang,-1,1,0,0,Angielski,n
+żądza,lust,0,ang,-1,1,0,0,Angielski,n
+klatka,cage,0,ang,-1,1,0,0,Angielski,n
+ukłucie,sting,0,ang,-1,1,0,0,Angielski,n

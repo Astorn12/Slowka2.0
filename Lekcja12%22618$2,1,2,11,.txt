@@ -1,0 +1,42 @@
+pol,francuski,0,,0,0,0,3,Angielski,n
+spódnica,la jupe,0,i,-3,3,0,3,Angielski,n
+kurtka,la veste,0,i,-1,3,0,3,Angielski,n
+kozaki,les bottes,0,i,-3,3,0,3,Angielski,n
+buty,les chaussures,0,i,-1,3,0,3,Angielski,n
+spodnie,le pantalon,0,i,-4,3,0,3,Angielski,n
+kupować,acheter,0,i,-1,3,0,3,Angielski,n
+ubrania,les vêtements,0,i,-1,3,0,3,Angielski,n
+zakładać,mettre,0,i,-1,3,0,3,Angielski,n
+nowy,nouveau,0,i,-1,3,0,3,Angielski,n
+nowy2,nouvelle,0,i,-1,3,0,3,Angielski,n
+woleć,préférer,0,i,-1,3,0,3,Angielski,n
+przymierzać,essayer,0,i,-1,3,0,3,Angielski,n
+przymierzalnia,la cabin d'essayage,0,i,-1,3,0,3,Angielski,n
+chodzić po sklepach,faire les magasins,0,i,-1,3,0,3,Angielski,n
+garnitur,le costume,0,i,-2,3,0,3,Angielski,n
+kostium,le tailleur,0,i,-1,3,0,3,Angielski,n
+bluzka,le chemisier,0,i,-1,3,0,3,Angielski,n
+koszula z któtkim rękawem,la chemisette,0,i,-1,3,0,3,Angielski,n
+koszula z długim rękawem,la chemise,0,i,-1,3,0,3,Angielski,n
+skarpetki,les chaussettes,0,i,-3,3,0,3,Angielski,n
+płasz,le manteau,0,i,-3,3,0,3,Angielski,n
+czapka,le bonnet,0,i,-1,3,0,3,Angielski,n
+koszulka,le t-shirt,0,i,-3,3,0,3,Angielski,n
+kapelusz,le chapeau,0,i,-2,3,0,3,Angielski,n
+czerwony,rouge,0,i,-3,3,0,3,Angielski,n
+niebieski,bleu,0,i,-1,3,0,3,Angielski,n
+zielony,vert,0,i,-1,3,0,3,Angielski,n
+zółty,jaune,0,i,-1,3,0,3,Angielski,n
+biały,blanc,0,i,-2,3,0,3,Angielski,n
+czarny,noir,0,i,-3,3,0,3,Angielski,n
+modny,chic,0,i,-3,3,0,3,Angielski,n
+w kratkę,à carreaux,0,i,-1,3,0,3,Angielski,n
+w grochy,à pois,0,i,-3,3,0,3,Angielski,n
+w paski,à rayures,0,i,-1,3,0,3,Angielski,n
+rękawica,le gant,0,i,-3,3,0,3,Angielski,n
+suknia,la robe,3,ang,0,0,0,0,Angielski,n
+krawat,la cravate,3,ang,0,0,0,0,Angielski,n
+sweter,le pullover,3,ang,0,0,0,0,Angielski,n
+jasnoniebieski,bleu clair,3,ang,0,0,0,0,Angielski,n
+ciemnoniebieski,bleu foncé,3,ang,0,0,0,0,Angielski,n
+jak,comment,3,ang,0,0,0,0,Angielski,n

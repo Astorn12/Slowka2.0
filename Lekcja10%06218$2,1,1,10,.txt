@@ -1,0 +1,137 @@
+pol,francuski,0,,0,0,0,3,Angielski,n
+lewy,gauche,5,angi,1,3,0,3,Angielski,n
+lewa,la levée,1,angi,1,3,0,3,Angielski,n
+kontynuować,continuez,2,angi,1,3,0,3,Angielski,n
+prosto,tout droit,3,angi,1,3,0,3,Angielski,n
+brać,prendre,4,angi,1,3,0,3,Angielski,n
+znajdować,touver,5,angi,1,3,0,3,Angielski,n
+koniec,bout,3,angi,1,3,0,3,Angielski,n
+przekraczać,traversez,5,angi,1,3,0,3,Angielski,n
+aleja,l'avenue,4,angi,1,3,0,3,Angielski,n
+aż do,jusqu,5,angi,1,3,0,3,Angielski,n
+bulwar,le boulevard,4,angi,1,3,0,3,Angielski,n
+znaleźć,trouver,0,angi,1,3,0,3,Angielski,n
+szukać,chercher,1,angi,1,3,0,3,Angielski,n
+skręcać,tourner,4,angi,1,3,0,3,Angielski,n
+skrzyżowanie,le carrefour,4,angi,1,3,0,3,Angielski,n
+sygnalizacja świetlna,le feu,3,angi,1,3,0,3,Angielski,n
+ulica,la rue,3,angi,1,3,0,3,Angielski,n
+droga,la route,3,angi,1,3,0,3,Angielski,n
+północ,nord,4,angi,1,3,0,3,Angielski,n
+południe,sud,4,angi,1,3,0,3,Angielski,n
+wschód,est,2,angi,1,3,0,3,Angielski,n
+zachód,ouest,3,angi,1,3,0,3,Angielski,n
+zapominać,oublier,3,angi,1,3,0,3,Angielski,n
+chodzić,marcher,3,angi,1,3,0,3,Angielski,n
+pieszo,à pied,3,angi,1,3,0,3,Angielski,n
+niedaleki,proche,3,angi,1,3,0,3,Angielski,n
+inspektor,l'inspecteur,2,angi,1,3,0,3,Angielski,n
+rozpoczynać coś,commencer,5,angi,1,3,0,3,Angielski,n
+dźwięk,le son,2,angi,1,3,0,3,Angielski,n
+badanie,la enquête,4,angi,1,3,0,3,Angielski,n
+w,dans,1,angi,1,3,0,3,Angielski,n
+tydzień,la semaine,5,angi,1,3,0,3,Angielski,n
+winnny,coupable,2,angi,1,3,0,3,Angielski,n
+więzienie,la prison,3,angi,1,3,0,3,Angielski,n
+po,après,3,angi,1,3,0,3,Angielski,n
+jutro,demain,2,angi,1,3,0,3,Angielski,n
+pytać,interroger,5,angi,1,3,0,3,Angielski,n
+przychodzić,venir,5,angi,1,3,0,3,Angielski,n
+pochodzić,venir,2,angi,1,3,0,3,Angielski,n
+znajdować,trouver,1,angi,1,3,0,3,Angielski,n
+dziennikarz,le journaliste,4,angi,1,3,0,3,Angielski,n
+pisać,écrire,5,angi,1,3,0,3,Angielski,n
+odkrywać,découvrir,3,angi,1,3,0,3,Angielski,n
+informacje,la information,2,angi,1,3,0,3,Angielski,n
+być zamykanym,fermer,3,angi,1,3,0,3,Angielski,n
+plaża,la plage,2,angi,1,3,0,3,Angielski,n
+przestawać coś zrobić,arrê,4,angi,1,3,0,3,Angielski,n
+winny,coupable,1,angi,1,3,0,3,Angielski,n
+wieczór,soir,1,angi,1,3,0,3,Angielski,n
+trudny,difficile,3,angi,1,3,0,3,Angielski,n
+odszukiwać,retrouver,2,angi,1,3,0,3,Angielski,n
+mężczyzna,le homme,1,angi,1,3,0,3,Angielski,n
+wspinać się,gravir,3,angi,1,3,0,3,Angielski,n
+błagać,supplier,2,angi,1,3,0,3,Angielski,n
+skakać,bondir,5,angi,1,3,0,3,Angielski,n
+kończyć się,finir,2,angi,1,3,0,3,Angielski,n
+doba,jours,5,angi,1,3,0,3,Angielski,n
+około,vers,2,angi,1,3,0,3,Angielski,n
+przyjeżdżać,arriver,1,angi,1,3,0,3,Angielski,n
+pisarz,le écrivain,1,angi,1,3,0,3,Angielski,n
+może,peut-être,5,angi,1,3,0,3,Angielski,n
+niedawny,nouveau,2,angi,1,3,0,3,Angielski,n
+książka,le livre,2,angi,1,3,0,3,Angielski,n
+grać,jouer,3,angi,1,3,0,3,Angielski,n
+kawałek,le morceau,5,ang,1,3,0,3,Angielski,n
+muzyka,la musique,3,angi,1,3,0,3,Angielski,n
+odszukiwać,retrouver,3,angi,1,3,0,3,Angielski,n
+telefonować,téléphoner,3,angi,1,3,0,3,Angielski,n
+jeść coś,manger,2,angi,1,3,0,3,Angielski,n
+stołówka,la cantine,2,angi,1,3,0,3,Angielski,n
+południe,le midi,3,angi,1,3,0,3,Angielski,n
+zazdrościć,envier,2,angi,1,3,0,3,Angielski,n
+z pewnością,sûrement,2,angi,1,3,0,3,Angielski,n
+szczęście,le bonheur,3,angi,1,3,0,3,Angielski,n
+rocznica,le anniversaire,3,angi,1,3,0,3,Angielski,n
+zapraszać,inviter,2,angi,1,3,0,3,Angielski,n
+lepszy,meilleur,2,ang,1,3,0,3,Angielski,n
+dokonywać,établir,4,angi,1,3,0,3,Angielski,n
+miejsce,l'endroit,5,angi,1,3,0,3,Angielski,n
+silny,fort,1,angi,1,3,0,3,Angielski,n
+lekarz,médecin,3,angi,1,3,0,3,Angielski,n
+wykonywać,accomplir,4,angi,1,3,0,3,Angielski,n
+wyczyn,le exploit,4,angi,1,3,0,3,Angielski,n
+wynajdować,inventer,2,angi,1,3,0,3,Angielski,n
+szczepionka,le vaccin,3,angi,1,3,0,3,Angielski,n
+murarz,le maçon,1,angi,1,3,0,3,Angielski,n
+budować,bâtir,5,angi,1,3,0,3,Angielski,n
+nieruchomość,le immeuble,3,angi,1,3,0,3,Angielski,n
+praca,le travail,5,angi,1,3,0,3,Angielski,n
+przed,avant,4,angi,1,3,0,3,Angielski,n
+rozwywać się,se divertir,5,angi,1,3,0,3,Angielski,n
+robótka,le ouverage,4,angi,1,3,0,3,Angielski,n
+łączyć,réunir,4,angi,1,3,0,3,Angielski,n
+ świat,le monde,5,angi,1,3,0,3,Angielski,n
+brać,prendre,5,angi,1,3,0,3,Angielski,n
+decyzja,la décision,1,angi,1,3,0,3,Angielski,n
+wypełniać,remplir,4,angi,1,3,0,3,Angielski,n
+szklanka,le verre,3,angi,1,3,0,3,Angielski,n
+zdarzenie,le fait,3,angi,1,3,0,3,Angielski,n
+uwaga,la attention,1,angi,1,3,0,3,Angielski,n
+obrus,la nappe,4,angi,1,3,0,3,Angielski,n
+narciarstwo,le ski,2,angi,1,3,0,3,Angielski,n
+zima,le hiver,4,angi,1,3,0,3,Angielski,n
+razem,ensemble,4,angi,1,3,0,3,Angielski,n
+gdyby,si,1,angi,1,3,0,3,Angielski,n
+chcieć,veux,4,angi,1,3,0,3,Angielski,n
+władza,le pouvoir,2,angi,1,3,0,3,Angielski,n
+dołączyć,rejoindre,4,angi,1,3,0,3,Angielski,n
+w przeciwnym razie,sinon,4,angi,1,3,0,3,Angielski,n
+jeździć na nartach,skier,3,angi,1,3,0,3,Angielski,n
+uczyć się,apprendre,3,angi,1,3,0,3,Angielski,n
+szybko,vite,2,angi,1,3,0,3,Angielski,n
+szybko2,rapidement,4,angi,1,3,0,3,Angielski,n
+obowiązek,le devoir,4,ang,1,3,0,3,Angielski,n
+odjeżdżać,partir,1,angi,1,3,0,3,Angielski,n
+jutro,demain,3,angi,1,3,0,3,Angielski,n
+placek,la tarte,2,angi,1,3,0,3,Angielski,n
+jabłko,la pomme,1,angi,1,3,0,3,Angielski,n
+śpiewać,chanter,2,angi,1,3,0,3,Angielski,n
+scena,la scène,5,angi,1,3,0,3,Angielski,n
+zabawa w której uczestnicy przeskakują kolejno przez siebie,saute-mouton,3,angi,1,3,0,3,Angielski,n
+decydować się,choisir,4,angi,1,3,0,3,Angielski,n
+ulubiony,préféré,3,angi,1,3,0,3,Angielski,n
+wspinać się,gravir,3,angi,1,3,0,3,Angielski,n
+wysoki,haut,4,angi,1,3,0,3,Angielski,n
+góra,la montagne,4,ang,1,3,0,3,Angielski,n
+błagać,supplier,2,angi,1,3,0,3,Angielski,n
+wyjść,promener,3,angi,1,3,0,3,Angielski,n
+ciąć,couper,3,angi,1,3,0,3,Angielski,n
+ciasto,le gâteau,5,angi,1,3,0,3,Angielski,n
+liczyć,compter,3,angi,1,3,0,3,Angielski,n
+mapa,la carte,2,angi,1,3,0,3,Angielski,n
+kangur,le kangourou,3,angi,1,3,0,3,Angielski,n
+skakać,bondir,4,angi,1,3,0,3,Angielski,n
+tydzień,semaine,4,angi,1,3,0,3,Angielski,n
+opis,le exposé,3,angi,1,3,0,3,Angielski,n

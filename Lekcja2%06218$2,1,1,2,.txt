@@ -1,0 +1,57 @@
+pol,francuski,0,,0,0,0,3,Angielski,n
+dwa,deux,1,fra,1,3,0,3,Angielski,n
+trzy,trois,3,,1,3,0,3,Angielski,n
+cztery,quatre,2,,1,3,0,3,Angielski,n
+pięć,cinq,4,fra,1,3,0,3,Angielski,n
+szejść,six,2,,1,3,0,3,Angielski,n
+siedem,sept,0,,1,3,0,3,Angielski,n
+osiem,huit,0,i,1,3,0,3,Angielski,n
+dziewięć,neuf,2,fra,1,3,0,3,Angielski,n
+dziesięć,dex,3,fra,1,3,0,3,Angielski,n
+jedenaście,onze,1,,1,3,0,3,Angielski,n
+dwanaście,douze,2,,1,3,0,3,Angielski,n
+trzynaście,treize,2,,1,3,0,3,Angielski,n
+czernaście,quatorze,5,fra,1,3,0,3,Angielski,n
+piętnaście,quinze,6,fra,1,3,0,3,Angielski,n
+szesnaście,seize,1,,1,3,0,3,Angielski,n
+siedemnaście,dix-sept,2,fra,1,3,0,3,Angielski,n
+osiemnaście,dix-huit,1,,1,3,0,3,Angielski,n
+dziewiętnaście,dix-neuf,3,fra,1,3,0,3,Angielski,n
+dwadzieścia,vingt,1,,1,3,0,3,Angielski,n
+dwadzieścia jeden,vingt et une,5,,1,3,0,3,Angielski,n
+dwadzieścia dwa,vindt-deuxe,6,fra,1,3,0,3,Angielski,n
+trzydzieści,trente,2,fra,1,3,0,3,Angielski,n
+czterdzieści,quarante,5,fra,1,3,0,3,Angielski,n
+pięćdziesiąt,cinquante,1,fra,1,3,0,3,Angielski,n
+sześćdziesiąt,soixante,2,fra,1,3,0,3,Angielski,n
+siedemdziesiąt,soixante-dix,2,fra,1,3,0,3,Angielski,n
+siedemdziesiąt jeden,soixante et onze,3,fra,1,3,0,3,Angielski,n
+siedemdziesiąt dwa, soixante et douze,5,fra,1,3,0,3,Angielski,n
+osiemdziesiąt,quatre-vingts,2,fra,1,3,0,3,Angielski,n
+osiemdziesiąt jeden,quatre-vingts-un,6,fra,1,3,0,3,Angielski,n
+dziewiędziesiąt,quatre-vingt-dix,3,fra,1,3,0,3,Angielski,n
+dziewiędziesiąt jeden,quatre-vingt-onze,4,fra,1,3,0,3,Angielski,n
+dziewiędziesiąt siedem,quatre-vingt-dix-sept,6,fra,1,3,0,3,Angielski,n
+sto,cent,1,fra,1,3,0,3,Angielski,n
+sto jeden,cent un,3,fra,1,3,0,3,Angielski,n
+tysiąc,mille,1,fra,1,3,0,3,Angielski,n
+tysiąc jeden,mille un,1,fra,1,3,0,3,Angielski,n
+tysiąć osiemset,mille huit cents,6,fra,1,3,0,3,Angielski,n
+dziesięć tysięcy,dix mille,3,fra,1,3,0,3,Angielski,n
+sto tysięcy,cent mille,1,fra,1,3,0,3,Angielski,n
+dwieście,deux cents,1,fra,1,3,0,3,Angielski,n
+milion,un million,2,fra,1,3,0,3,Angielski,n
+dziesięć milionów,dix millions,2,fra,1,3,0,3,Angielski,n
+miliard,un milliard,2,fra,1,3,0,3,Angielski,n
+dziesięć milionów,dix milliards,3,fra,1,3,0,3,Angielski,n
+pół,un demi,1,fra,1,3,0,3,Angielski,n
+jedna trzecia,un tiers,5,fra,1,3,0,3,Angielski,n
+jedna czwarta,un quart,6,fra,1,3,0,3,Angielski,n
+jedna piąta,un cinquième,3,fra,1,3,0,3,Angielski,n
+jedna tysięczna,un millième,3,fra,1,3,0,3,Angielski,n
+dziesięć procent,dix pour cent,1,fra,1,3,0,3,Angielski,n
+plus,plus,0,fra,1,3,0,3,Angielski,n
+minus,moins,4,fra,1,3,0,3,Angielski,n
+równa się,ègal,2,fra,1,3,0,3,Angielski,n
+pierwszy,premier,1,fra,1,3,0,3,Angielski,n
+drugi,deuxième,5,fra﻿jeden,1,3,0,3,Angielski,n

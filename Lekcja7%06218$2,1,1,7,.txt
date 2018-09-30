@@ -1,0 +1,86 @@
+pol,francuski,0,,0,0,0,3,Angielski,n
+z,avec,3,ang,1,3,0,3,Angielski,n
+ne,przeczenie,3,ang,1,3,0,3,Angielski,n
+przychodzić,venir,3,ang,1,3,0,3,Angielski,n
+twój,ton,3,ang,1,3,0,3,Angielski,n
+krzesło,la chaise,3,ang,1,3,0,3,Angielski,n
+blisko,près,3,ang,1,3,0,3,Angielski,n
+łóżko,la lit,3,ang,1,3,0,3,Angielski,n
+robić,faire,3,ang,1,3,0,3,Angielski,n
+wieczór,soir,3,ang,1,3,0,3,Angielski,n
+ochota,envie,3,ang,1,3,0,3,Angielski,n
+widzieć,voir,3,ang,1,3,0,3,Angielski,n
+przyzwyczajenie,la habitude,3,ang,1,3,0,3,Angielski,n
+wybrany,choisi,3,ang,1,3,0,3,Angielski,n
+wieś,la campagne,3,ang,1,3,0,3,Angielski,n
+zapytać raz jeszcze, reposer,3,ang,1,3,0,3,Angielski,n
+wasz,votre,3,ang,1,3,0,3,Angielski,n
+podczas,pendant,3,ang,1,3,0,3,Angielski,n
+zdarzenie,le fait,3,ang,1,3,0,3,Angielski,n
+godzina,la heure,3,ang,1,3,0,3,Angielski,n
+jeść obiad,déjeuner,3,ang,1,3,0,3,Angielski,n
+u kogoś,chez qn,3,ang,1,3,0,3,Angielski,n
+jeść coś, manger,3,ang,1,3,0,3,Angielski,n
+jabłko,la pomme,3,ang,1,3,0,3,Angielski,n
+poniedziałek, le lundi,3,ang,1,3,0,3,Angielski,n
+wtorek, le mardi,3,ang,1,3,0,3,Angielski,n
+środa,le mercredi,3,ang,1,3,0,3,Angielski,n
+czwartek,le jeudi,3,ang,1,3,0,3,Angielski,n
+piątek,vendredi,3,ang,1,3,0,3,Angielski,n
+sobota,le samedi,3,ang,1,3,0,3,Angielski,n
+niedziela,le dimanche,3,ang,1,3,0,3,Angielski,n
+wczoraj,hier,3,ang,1,3,0,3,Angielski,n
+przedwczoraj,avant-hier,3,ang,1,3,0,3,Angielski,n
+demain,jutro,3,ang,1,3,0,3,Angielski,n
+pojutrze,après-demain,3,ang,1,3,0,3,Angielski,n
+styczeń,le janvier,3,ang,1,3,0,3,Angielski,n
+luty,le février,3,ang,1,3,0,3,Angielski,n
+marzec,le mars,3,ang,1,3,0,3,Angielski,n
+kwiecień,le avril,3,ang,1,3,0,3,Angielski,n
+maj,le mai,3,ang,1,3,0,3,Angielski,n
+czerwiec,le juin,3,ang,1,3,0,3,Angielski,n
+lipiec,le juillet,3,ang,1,3,0,3,Angielski,n
+sierpień,le août,3,ang,1,3,0,3,Angielski,n
+wrzesień,le septembre,3,ang,1,3,0,3,Angielski,n
+październik,le octobre,3,ang,1,3,0,3,Angielski,n
+listopad,;e novembre,3,ang,1,3,0,3,Angielski,n
+grudzień,le décembre,3,ang,1,3,0,3,Angielski,n
+zima,la hiver,3,ang,1,3,0,3,Angielski,n
+wiosna,le printemps,3,ang,1,3,0,3,Angielski,n
+lato,l'été,3,ang,1,3,0,3,Angielski,n
+jesień,l'automne,3,ang,1,3,0,3,Angielski,n
+przeciwny,contraire,3,ang,1,3,0,3,Angielski,n
+piękny,beau,3,ang,1,3,0,3,Angielski,n
+brzydki,moche,3,ang,1,3,0,3,Angielski,n
+niebo,ciel,3,ang,1,3,0,3,Angielski,n
+czas,temps,3,ang,1,3,0,3,Angielski,n
+suchy,sec,3,ang,1,3,0,3,Angielski,n
+wilgotny,humide,3,ang,1,3,0,3,Angielski,n
+ciepło,chaud,3,ang,1,3,0,3,Angielski,n
+zimno,froid,3,ang,1,3,0,3,Angielski,n
+Jest ciepło.,Il fait chaud.,3,ang,1,3,0,3,Angielski,n
+nie,non,3,ang,1,3,0,3,Angielski,n
+ciepło,la chaleur,3,ang,1,3,0,3,Angielski,n
+zamarznięty,gelé,3,ang,1,3,0,3,Angielski,n
+chmura,le nuage,3,ang,1,3,0,3,Angielski,n
+świecić,briller,3,ang,1,3,0,3,Angielski,n
+śnieg,la neige,3,ang,1,3,0,3,Angielski,n
+około,environ,3,ang,1,3,0,3,Angielski,n
+noc,nuit,3,ang,1,3,0,3,Angielski,n
+dzień,la jour,3,ang,1,3,0,3,Angielski,n
+pracować,travailler,3,ang,1,3,0,3,Angielski,n
+urlop,le congé,3,ang,1,3,0,3,Angielski,n
+grzmot,le tonnerre,3,ang,1,3,0,3,Angielski,n
+minus,moins,3,ang,1,3,0,3,Angielski,n
+znać,connaître ,3,ang,1,3,0,3,Angielski,n
+różowy,rouge,3,ang,1,3,0,3,Angielski,n
+żółty,jaune,3,ang,1,3,0,3,Angielski,n
+niebieski,bleu,3,ang,1,3,0,3,Angielski,n
+zielony,vert,3,ang,1,3,0,3,Angielski,n
+fioletowy,violet,3,ang,1,3,0,3,Angielski,n
+pomarańczowy,orange,3,ang,1,3,0,3,Angielski,n
+czarny,noir,3,ang,1,3,0,3,Angielski,n
+szary,gris,3,ang,1,3,0,3,Angielski,n
+biały,blanc,3,ang,1,3,0,3,Angielski,n
+różowy,rose,3,ang,1,3,0,3,Angielski,n
+brązowy,marron,3,ang,1,3,0,3,Angielski,n

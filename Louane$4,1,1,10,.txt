@@ -1,0 +1,41 @@
+﻿oskar,oskar,0,fra
+budynek,l'immeuble,0,angi
+wchodzić,entrer,0,angi
+okno,la fenêtre,0,angi
+balkon,le balcon,0,angi
+taras,la terrasse,0,angi
+korytarz,le couloir,0,angi
+piwnica,la cave,0,angi
+czynsz,le loyer,0,angi
+opłaty dodatkowe,les charges,0,angi
+pokój,la pièce,0,angi
+kuchnia,la cuisine,0,angi
+jadalnia,la salle à manger,0,angi
+sypialnia,la chambre,0,angi
+toaleta,les toilettes,0,angi
+łazienka,la salle de bains,0,angi
+salon,le salon,0,angi
+pokój dziecięcy,la chambre d'enfant,0,angi
+gabinet,le bureau,0,angi
+płacić,payer,0,angi
+pieniądze,l'argent,0,angi
+moneta,la pièce,0,angi
+banknot,le billet,0,angi
+euro,l'euro,0,angi
+praktyczny,pratique,3,ang
+idealny,idéal,3,ang
+nowoczesny,moderne,3,ang
+przyglądać się czemuś,regarder qc,3,ang
+możliwy,possible,3,ang
+Chodźcie!,Venez!,3,ang
+ładny,joli,3,ang
+jasny,claire,3,ang
+cudowny,magnifique,3,ang
+uwielbiać kogoś/coś,adorer qc/qn,3,ang
+sądzić o kimś/czymś,trouver qc/qn,3,ang
+wizyta,la visite,3,ang
+można,on peut,3,ang
+dziękuję,merci,3,ang
+prysznic,la douch,3,ang
+wanna,la baignoire,3,ang
+ogród,le jardin\,3,ang

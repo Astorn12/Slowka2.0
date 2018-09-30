@@ -1,0 +1,33 @@
+pol,francuski,0,,0,0,0,3,Angielski,n
+czytać,lire,0,i,-3,3,0,3,Angielski,n
+trudny,difficile,0,i,-3,3,0,3,Angielski,n
+wychodzić,sortir,0,i,-3,3,0,3,Angielski,n
+wędrówka,la randonnée,0,i,-1,3,0,3,Angielski,n
+internet,l'Internet,0,i,-1,3,0,3,Angielski,n
+internauta,l'internaute,0,i,-3,3,0,3,Angielski,n
+serfować w internecie,naviguer sur le net,0,,-1,3,0,3,Angielski,n
+Czy to prawda?,C'est vrai?,0,i,-3,3,0,3,Angielski,n
+aktywność,l'activité,0,i,-2,3,0,3,Angielski,n
+skrzypce,le violon,0,i,-3,3,0,3,Angielski,n
+na dworze,en plein air,0,i,-1,3,0,3,Angielski,n
+kanadyjka,le canoë,0,i,-3,3,0,3,Angielski,n
+przyjaciel,le copain,0,i,-3,3,0,3,Angielski,n
+przyjaciółka,la copine,0,i,-2,3,0,3,Angielski,n
+on-line,en ligne,0,i,-2,3,0,3,Angielski,n
+stacje telewizyjne,les chaînes,0,i,-3,3,0,3,Angielski,n
+prasa,la presse,0,i,-2,3,0,3,Angielski,n
+magazyn telewizyjny,la magasine,0,i,-1,3,0,3,Angielski,n
+sklep,le magasin,0,i,-3,3,0,3,Angielski,n
+gazeta,le journal,0,i,-1,3,0,3,Angielski,n
+grać na komputerze,jouer à l'ordinateur,0,i,-1,3,0,3,Angielski,n
+kino,le cinéma,0,i,-2,3,0,3,Angielski,n
+teatr,le théâtre,0,i,-2,3,0,3,Angielski,n
+muzeum,le musée,0,i,-1,3,0,3,Angielski,n
+wystawa,l'exposition,0,i,-2,3,0,3,Angielski,n
+seans,la séance,0,i,-1,3,0,3,Angielski,n
+koncert,le concert,0,i,-3,3,0,3,Angielski,n
+festiwal,le festival,0,i,-3,3,0,3,Angielski,n
+zwiedzać,visiter,0,i,-3,3,0,3,Angielski,n
+bilet wstępu,le billet,0,i,-3,3,0,3,Angielski,n
+miejsce,la place,0,i,-2,3,0,3,Angielski,n
+przykro mi,désolé,0,i,-3,3,0,3,Angielski,n

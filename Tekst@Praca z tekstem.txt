@@ -1,0 +1,7 @@
+pomocnik_plikowy.zczytywanie_z_pliku(tekst, '&', list, Strin.class);
+                                        for (int i = 0; i < list.size(); i++) {
+                                            if (i != 0) {
+                                                piosenka.append("\n");
+                                            }
+                                            piosenka.append(list.get(i).string);
+                                        }

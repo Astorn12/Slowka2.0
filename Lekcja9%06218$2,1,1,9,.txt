@@ -1,0 +1,146 @@
+pol,francuski,0,,0,0,0,3,Angielski,n
+gwiazdy,les étoiles,4,angi,1,3,0,3,Angielski,n
+ogień,le feu,0,angi,1,3,0,3,Angielski,n
+morze,la mer,0,angi,1,3,0,3,Angielski,n
+jezioro,le lac,2,angi,1,3,0,3,Angielski,n
+woda,l'eau,1,angi,1,3,0,3,Angielski,n
+deszcz,la pluie,0,angi,1,3,0,3,Angielski,n
+kamień,la pierre,0,angi,1,3,0,3,Angielski,n
+ziemia,la terre,1,angi,1,3,0,3,Angielski,n
+liście,les feuilles,5,angi,1,3,0,3,Angielski,n
+łąka,l'herbe,0,angi,1,3,0,3,Angielski,n
+drzewo,l'arbre,2,angi,1,3,0,3,Angielski,n
+kwiat,la fleur,0,angi,1,3,0,3,Angielski,n
+chmura,le nuage,0,angi,1,3,0,3,Angielski,n
+karetka pogotowia,la ambulance,0,angi,1,3,0,3,Angielski,n
+samolot,le avion,2,angi,1,3,0,3,Angielski,n
+łódź,la barque,0,angi,1,3,0,3,Angielski,n
+statek,le bateau,2,ang,1,3,0,3,Angielski,n
+rover,le vélo,0,angi,1,3,0,3,Angielski,n
+cięzarówka,la camion,0,angi,1,3,0,3,Angielski,n
+barka,la peniche,0,angi,1,3,0,3,Angielski,n
+rakieta,la fusee,3,angi,1,3,0,3,Angielski,n
+helikopter,le helicoptere,2,angi,1,3,0,3,Angielski,n
+metro,le métro,0,angi,1,3,0,3,Angielski,n
+motor,la mobylette,6,angi,1,3,0,3,Angielski,n
+motor,la moto,0,angi,1,3,0,3,Angielski,n
+balon,la montgolfiere,2,angi,1,3,0,3,Angielski,n
+taxi,le taxi,0,angi,1,3,0,3,Angielski,n
+traktor,le tracteur,2,angi,1,3,0,3,Angielski,n
+pociąg,le train,1,angi,1,3,0,3,Angielski,n
+samochód,la voiture,1,angi,1,3,0,3,Angielski,n
+byś możliwym,pouvoir,4,angi,1,3,0,3,Angielski,n
+kupować,acheter,0,angi,1,3,0,3,Angielski,n
+cukiernia,la pâtisserie,2,ang,1,3,0,3,Angielski,n
+miód,le miel,3,angi,1,3,0,3,Angielski,n
+płacić,payer,0,angi,1,3,0,3,Angielski,n
+słoik,le pot,0,angi,1,3,0,3,Angielski,n
+czynsz,le loyer,3,angi,1,3,0,3,Angielski,n
+tutaj,ici,0,angi,1,3,0,3,Angielski,n
+ale,mais,4,angi,1,3,0,3,Angielski,n
+???,pas,5,ang,1,3,0,3,Angielski,n
+móc,pouvoir,0,angi,1,3,0,3,Angielski,n
+miesiąć,le mois,7,angi,1,3,0,3,Angielski,n
+żyć,vivre,1,angi,1,3,0,3,Angielski,n
+ja mogę,je peux,2,ang,1,3,0,3,Angielski,n
+dość,assez,1,ang,1,3,0,3,Angielski,n
+wystarczający,suffisant,6,ang,1,3,0,3,Angielski,n
+dla,pour,0,angi,1,3,0,3,Angielski,n
+wyścig,la course,1,angi,1,3,0,3,Angielski,n
+doba,le jours,7,angi,1,3,0,3,Angielski,n
+miejsce,la pace,0,angi,1,3,0,3,Angielski,n
+bukiet,le bouquet,7,angi,1,3,0,3,Angielski,n
+promocja,la promotion,1,angi,1,3,0,3,Angielski,n
+luksus,le luxe,0,angi,1,3,0,3,Angielski,n
+formować,former,0,angi,1,3,0,3,Angielski,n
+towarzyszyć,accompagne,1,angi,1,3,0,3,Angielski,n
+rozwijać się,évoluer,3,ang,1,3,0,3,Angielski,n
+pozwalać,permettre,2,angi,1,3,0,3,Angielski,n
+zatrudniać,enganger,0,ang,1,3,0,3,Angielski,n
+zobowiązanie,le engangement,4,angi,1,3,0,3,Angielski,n
+gdy,lorsque,5,angi,1,3,0,3,Angielski,n
+rozwój,la formation,0,ang,1,3,0,3,Angielski,n
+akcja,la action,0,ang,1,3,0,3,Angielski,n
+ewolucja,la évolution,1,angi,1,3,0,3,Angielski,n
+od kiedy,depuis,8,ang,1,3,0,3,Angielski,n
+niemodny,dépassé,0,ang,1,3,0,3,Angielski,n
+stawać się,devenez,8,ang,1,3,0,3,Angielski,n
+podobny,même,0,ang,1,3,0,3,Angielski,n
+dla,pour,1,angi,1,3,0,3,Angielski,n
+zaufanie,la confiance,4,ang,1,3,0,3,Angielski,n
+następna stacja,la prochaine,11,ang,1,3,0,3,Angielski,n
+rok,la année,0,ang,1,3,0,3,Angielski,n
+armia,la armée,0,angi,1,3,0,3,Angielski,n
+zawód,le métier,7,ang,1,3,0,3,Angielski,n
+drzwi,la porte,0,angi,1,3,0,3,Angielski,n
+jednakowy,uniforme,4,angi,1,3,0,3,Angielski,n
+samotny,solitaire,4,ang,1,3,0,3,Angielski,n
+solidarny,soliraire,0,angi,1,3,0,3,Angielski,n
+przekraczać,dépasser,3,ang,1,3,0,3,Angielski,n
+granica,la limite,1,angi,1,3,0,3,Angielski,n
+przesuwać,repousser,2,angi,1,3,0,3,Angielski,n
+granica2,la frontière,14,angi,1,3,0,3,Angielski,n
+szukać,chercher,0,angi,1,3,0,3,Angielski,n
+przygoda,la aventure,0,angi,1,3,0,3,Angielski,n
+znajdować,trouver,4,angi,1,3,0,3,Angielski,n
+chęć,la volonté,7,ang,1,3,0,3,Angielski,n
+duma,la fierté,8,ang,1,3,0,3,Angielski,n
+wolność,la liberté,0,angi,1,3,0,3,Angielski,n
+oddech,le souffle,18,angi,1,3,0,3,Angielski,n
+sprawiedliwy,juste,3,angi,1,3,0,3,Angielski,n
+po,aprés,3,angi,1,3,0,3,Angielski,n
+gdzie indziej,ailleurs,6,ang,1,3,0,3,Angielski,n
+daleko,loin,0,ang,1,3,0,3,Angielski,n
+jeszcze,encore,4,ang,1,3,0,3,Angielski,n
+zawsze,toujours,0,angi,1,3,0,3,Angielski,n
+wyziew,le opar,0,angi,1,3,0,3,Angielski,n
+cofać się,reculer,0,angi,1,3,0,3,Angielski,n
+w żadnym wypadku,jamais,0,angi,1,3,0,3,Angielski,n
+strażnik,le gardien,0,angi,1,3,0,3,Angielski,n
+wartość,la valeur,10,ang,1,3,0,3,Angielski,n
+cena,le prix,2,angi,1,3,0,3,Angielski,n
+reszta,le reste,1,angi,1,3,0,3,Angielski,n
+czujność,la éveil,7,angi,1,3,0,3,Angielski,n
+spać,dormir,0,angi,1,3,0,3,Angielski,n
+pokój,la paix,1,angi,1,3,0,3,Angielski,n
+na stojąco,debout,1,angi,1,3,0,3,Angielski,n
+pobór,la conscription,4,angi,1,3,0,3,Angielski,n
+rekrut,le conscrit,1,angi,1,3,0,3,Angielski,n
+część zewnętrzna,la extérieir,2,angi,1,3,0,3,Angielski,n
+życzenie,le souhait,3,angi,1,3,0,3,Angielski,n
+życzenie2,le désir,4,angi,1,3,0,3,Angielski,n
+powołanie,la vocation,2,angi,1,3,0,3,Angielski,n
+zapewnić,fidéliser,8,angi,1,3,0,3,Angielski,n
+ubiór,la tenue,3,angi,1,3,0,3,Angielski,n
+gra,le jeu,0,angi,1,3,0,3,Angielski,n
+Ile kosztuje ta...?,Combien faut-il pour acheter...?,4,angi,1,3,0,3,Angielski,n
+potrzeba,le besoin,10,ang,1,3,0,3,Angielski,n
+cena,le coût,1,angi,1,3,0,3,Angielski,n
+dworzec,la gare,1,angi,1,3,0,3,Angielski,n
+około,environ,1,angi,1,3,0,3,Angielski,n
+świecić,briller,0,angi,1,3,0,3,Angielski,n
+niebezpieczny,dangereux,0,angi,1,3,0,3,Angielski,n
+żądać,vouloir,6,angi,1,3,0,3,Angielski,n
+poproszę,s'il vous plaît,4,angi,1,3,0,3,Angielski,n
+chciałbym coś,je voudrais gc,5,angi,1,3,0,3,Angielski,n
+odjeżdżać,partir,5,ang,1,3,0,3,Angielski,n
+przyszły,prochain,3,angi,1,3,0,3,Angielski,n
+rano,le matin,3,angi,1,3,0,3,Angielski,n
+więc,alors,0,angi,1,3,0,3,Angielski,n
+inny,autre,3,ang,1,3,0,3,Angielski,n
+brać,prendre,6,angi,1,3,0,3,Angielski,n
+podróżować,voyager,1,angi,1,3,0,3,Angielski,n
+obniżka,la réduction,2,angi,1,3,0,3,Angielski,n
+trzymać,tenir,0,angi,1,3,0,3,Angielski,n
+szczęśliwej podóży,bon voyage,1,angi,1,3,0,3,Angielski,n
+interesujący,intiressant,0,angi,1,3,0,3,Angielski,n
+bardziej,plus,1,angi,1,3,0,3,Angielski,n
+życie,la vie,0,angi,1,3,0,3,Angielski,n
+cywilny,civil,1,angi,1,3,0,3,Angielski,n
+dynamiczny,dynamique,1,angi,1,3,0,3,Angielski,n
+lubie to,ça me plait,6,angi,1,3,0,3,Angielski,n
+oczywiście,bien sûr,0,angi,1,3,0,3,Angielski,n
+pokazywać,montrer,8,angi,1,3,0,3,Angielski,n
+w mojej opini,À mon avis,1,angi,1,3,0,3,Angielski,n
+Ja sądze,Je pense,0,angi,1,3,0,3,Angielski,n
+Dla mnie,Pour moi,1,angi,1,3,0,3,Angielski,n

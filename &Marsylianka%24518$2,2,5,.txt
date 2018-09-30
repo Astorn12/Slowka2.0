@@ -1,0 +1,17 @@
+pol,francuski,0,,0,0,0,0,angielski,n
+ojczyzna,la patrie,3,ang,0,0,0,0,angielski,n
+sztandar,le étendard,3,ang,0,0,0,0,angielski,n
+krwawiący,sanglant,3,ang,0,0,0,0,angielski,n
+podnosić,lever,3,ang,0,0,0,0,angielski,n
+słyszeć,entendre,3,ang,0,0,0,0,angielski,n
+ryczeć/buczeć/huczeć,mugir,3,ang,0,0,0,0,angielski,n
+okrutny,féroce,3,ang,0,0,0,0,angielski,n
+żołnierz,le soldat,3,ang,0,0,0,0,angielski,n
+przybywać,venir,3,ang,0,0,0,0,angielski,n
+zarzynać,égorger,3,ang,0,0,0,0,angielski,n
+obywatel,le citoyen,3,ang,0,0,0,0,angielski,n
+formować,former,3,ang,0,0,0,0,angielski,n
+krew,le sang,3,ang,0,0,0,0,angielski,n
+brydny/nieczyst,impur,3,ang,0,0,0,0,angielski,n
+napoić,abreuver,3,ang,0,0,0,0,angielski,n
+ślad,le sillon,3,ang,0,0,0,0,angielski,n

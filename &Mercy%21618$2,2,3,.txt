@@ -1,0 +1,42 @@
+pol,francuski,0,,0,0,0,0,Angielski,n
+rano,le matin,0,i,-1,0,0,-1,Angielski,n
+urodzić się,être né,0,i,-2,0,0,-1,Angielski,n
+wśród,au milieu de,0,i,-1,0,0,-1,Angielski,n
+pomiędzy,entre,0,i,-2,0,0,-1,Angielski,n
+droga,le chemin,0,i,-1,0,0,-1,Angielski,n
+skóra,la peau,0,i,-2,0,0,-1,Angielski,n
+połowa,le demi,0,i,-1,0,0,-1,Angielski,n
+wojna,la guerre,0,i,-2,0,0,-1,Angielski,n
+pewny,sûr,0,i,-2,0,0,-1,Angielski,n
+żaden/nic,rien,0,i,-2,0,0,-1,Angielski,n
+tracić,perdre,0,i,-2,0,0,-1,Angielski,n
+z wyjątkiem/oprócz,excepté,0,i,-2,0,0,-1,Angielski,n
+życie,la vie,0,i,-2,0,0,-1,Angielski,n
+wyciągnąć/podać,tendre,0,i,-2,0,0,-1,Angielski,n
+brać,prendre,0,i,-2,0,0,-1,Angielski,n
+żyć,vivre,0,i,-2,0,0,-1,Angielski,n
+nagły,urgent,0,i,-2,0,0,-1,Angielski,n
+rodzić się,naître,0,i,-1,0,0,-1,Angielski,n
+rozumieć,comprendre,0,i,-1,0,0,-1,Angielski,n
+także,aussi,0,i,-2,0,0,-1,Angielski,n
+jeśli/gdyby,si,0,i,-2,0,0,-1,Angielski,n
+niszczyć,détruire,0,i,-1,0,0,-1,Angielski,n
+oczy,yeux,0,i,-2,0,0,-1,Angielski,n
+wróg,le ennemi,0,i,-2,0,0,-1,Angielski,n
+ogrom,la immensité,0,i,-1,0,0,-1,Angielski,n
+może,peut-être,0,i,-2,0,0,-1,Angielski,n
+nieskończony,infini,0,i,-2,0,0,-1,Angielski,n
+wyłaniać się,surgir,0,ang,-2,0,0,-1,Angielski,n
+niewyraźny,vague,0,angi,-1,0,0,-1,Angielski,n
+statek,le navire,0,i,-1,0,0,-1,Angielski,n
+dawać ponownie,redonner,0,i,-2,0,0,-1,Angielski,n
+przeżycie,la survie,0,i,-2,0,0,-1,Angielski,n
+popychać,pousser,0,i,-2,0,0,-1,Angielski,n
+krzyk,le cri,0,i,-2,0,0,-1,Angielski,n
+naciągać,tendre,0,i,-2,0,0,-1,Angielski,n
+za,derrière,0,i,-2,0,0,-1,Angielski,n
+semafor,le sémaphore,0,i,-1,0,0,-1,Angielski,n
+twarzą w twarz,face-à-face,0,i,-2,0,0,-1,Angielski,n
+co przyniesie jutro?,que sera demain?,0,i,-2,0,0,-1,Angielski,n
+opuszczać,quitter,0,,-2,0,0,-1,Angielski,n
+odradzać się,renaître,0,i,-2,0,0,-1,Angielski,n

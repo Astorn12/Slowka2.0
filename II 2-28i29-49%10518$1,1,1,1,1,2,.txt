@@ -1,0 +1,75 @@
+pol,﻿angielski,0,,0,0,0,3,Angielski,n
+czołowi ministrowie,leading ministers,0,angi,-1,0,1,3,Angielski,n
+zmuszać do dymisji,oust,0,angi,-1,0,1,3,Angielski,n
+zarzuty,charges,0,angi,-1,0,1,3,Angielski,n
+inwigilować,keep under surveillance,0,angi,-1,0,1,3,Angielski,n
+zaskarżyć;wnosić pozew,sue,0,angi,-1,0,1,3,Angielski,n
+orzekać;rządzić,rule,0,angi,-1,0,1,3,Angielski,n
+płód,foetus,0,angi,-1,0,1,3,Angielski,n
+niepełnosprawni,handicapped,0,angi,-1,0,1,3,Angielski,n
+zmniejszenie produkcji,drop in production,0,angi,-1,0,1,3,Angielski,n
+podwoić ceny,double prices,0,angi,-2,0,1,3,Angielski,n
+pobudzać wzrost,prompt grows,0,angi,-1,0,1,3,Angielski,n
+pobudzać produkcje,boost output,0,angi,-1,0,1,3,Angielski,n
+rozwijający się,expanding,0,angi,-1,0,1,3,Angielski,n
+ustępować,step down,0,angi,-1,0,1,3,Angielski,n
+drażnięce;irytujące zagadnienie,vexed issue,0,angi,-1,0,1,3,Angielski,n
+oddziaływać na,affect,0,angi,-1,0,1,3,Angielski,n
+postawa wobec,attitude towards,0,angi,-1,0,1,3,Angielski,n
+świecki,secular,0,angi,-2,0,1,3,Angielski,n
+okazywać oznaki poprawy,show signs of recovery,0,angi,-1,0,1,3,Angielski,n
+spadek w,decline in,0,angi,-1,0,1,3,Angielski,n
+cięcia w,cut in,1,angi,-1,0,2,3,Angielski,n
+opublikować dane,release figures,1,angi,-1,0,2,3,Angielski,n
+zwiększać obawy,increase concerns,1,angi,-1,0,2,3,Angielski,n
+przeprowadzenie wyborów,conduct of the poll,1,angi,-1,0,2,3,Angielski,n
+wróżyć;zapowiadać,bode,1,angi,-1,0,2,3,Angielski,n
+rzekomy;niedoszły wyborca,would-be vouters,2,angi,0,0,2,3,Angielski,n
+wrzucić kartę do głosowania,cast the ballot,1,angi,-1,0,2,3,Angielski,n
+stanowczo zaprzeczyć,deny flatly,1,angi,-1,0,2,3,Angielski,n
+okręg wyborczy,constituency,2,angi,0,0,2,3,Angielski,n
+towarzyszyć,accompany,1,angi,-1,0,2,3,Angielski,n
+robić znaczące postępy,make significant advances,1,angi,-1,0,2,3,Angielski,n
+odwrót;wycofanie się,withdrawal,1,angi,-1,0,2,3,Angielski,n
+rozpocząć ofensywę,launch an offensive,1,angi,-1,0,2,3,Angielski,n
+zatrzymywać,hold up,1,angi,-1,0,2,3,Angielski,n
+walczyć przeciwko,battle against,1,angi,-1,0,2,3,Angielski,n
+brzmieć,sound,1,angi,-1,0,2,3,Angielski,n
+wzmocnienie,reinforcement,2,angi,0,0,2,3,Angielski,n
+wyboisty teren,rugged terrain,2,angi,0,0,2,3,Angielski,n
+zredukować,scale down,1,angi,-1,0,2,3,Angielski,n
+stanowić lwią część sił zbrojnych,make up the bulk of the forces,1,angi,-1,0,2,3,Angielski,n
+poruszyć kwestię,raise questions,1,angi,-1,0,3,3,Angielski,n
+partyzantka,guerilla warfare,1,angi,-1,0,3,3,Angielski,n
+na wielką skalę,large-scale,1,angi,-1,0,3,3,Angielski,n
+zapewniać;zagwarantować,ensure,1,angi,-1,0,3,3,Angielski,n
+dotycząca,concerning,1,angi,-1,0,3,3,Angielski,n
+ogólnie;generalnie,on the whole,1,angi,-1,0,3,3,Angielski,n
+brać udział,take part in,1,angi,-1,0,3,3,Angielski,n
+główna kwestia;problem,main concern,1,angi,-1,0,3,3,Angielski,n
+odpowiednik,counterpart,1,angi,-1,0,3,3,Angielski,n
+możliwe zagrożenie,possible threat,1,angi,-1,0,3,3,Angielski,n
+radzić sobie z,deal with,1,angi,-1,0,3,3,Angielski,n
+walka w terenie zabudowanym,fighting in built-up area,1,angi,-1,0,3,3,Angielski,n
+rozpraszać się,disperse from,1,angi,-1,0,3,3,Angielski,n
+oszałamiający sukces,roaring success,1,angi,-1,0,3,3,Angielski,n
+profesjonalne załatwienie/rzeprowadzenie czegoś,professional conduct of,1,angi,-1,0,3,3,Angielski,n
+realizować;przeprowadzać coś,carry out,1,angi,-1,0,3,3,Angielski,n
+efektywność;wydajność,efficiency,1,angi,-1,0,3,3,Angielski,n
+środek chemiczny,chemical agent,1,angi,-1,0,3,3,Angielski,n
+sprawa;przypadek,case,1,angi,-1,0,3,3,Angielski,n
+zanieczyszczenie,contamination,1,angi,-1,0,3,3,Angielski,n
+okop;rów,trench,1,angi,-1,0,4,3,Angielski,n
+zbliżać się;nastawienie,approach,1,angi,-1,0,4,3,Angielski,n
+przespać coś,sleep through,1,angi,-1,0,4,3,Angielski,n
+wcześniejsze powiadomienia,advance warning,1,angi,-1,0,4,3,Angielski,n
+zaangażowany w ,enganged in,1,angi,-1,0,4,3,Angielski,n
+rezultat ćwiczeń/manewrów,outcome of the exercise,1,angi,-1,0,4,3,Angielski,n
+wejść w posiadanie,get hold of,1,angi,-1,0,4,3,Angielski,n
+przychylne komentarze,favourable comments,1,angi,-1,0,4,3,Angielski,n
+przechowywać na,stored on,1,angi,-1,0,4,3,Angielski,n
+precyzyjność strzelanie;celność,accurancy of weapon firing,1,angi,-1,0,4,3,Angielski,n
+pamiętać o,keep in mind,1,angi,-1,0,4,3,Angielski,n
+powiadomić,notify,1,angi,-1,0,4,3,Angielski,n
+w odpowiednim czasie,in due time,1,angi,-1,0,4,3,Angielski,n
+brać udział w posiedzeniu,attend the session,1,angi,-1,0,4,3,Angielski,n
