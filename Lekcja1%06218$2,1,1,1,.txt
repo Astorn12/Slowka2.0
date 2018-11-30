@@ -1,4 +1,4 @@
-pol,francuski,0,,0,0,0,3,Angielski,n
+polski,francuski,0,,6,0,0,3,Angielski,n
 dżownica,ver,3,fra,1,3,0,3,Angielski,n
 szkło,verre,3,fra,1,3,0,3,Angielski,n
 w kierunku,vers,3,fra,1,3,0,3,Angielski,n
@@ -8,7 +8,7 @@ dom,maison,3,fra,1,3,0,3,Angielski,n
 królowa,reine,3,fra,1,3,0,3,Angielski,n
 godzina,heure,3,fra,1,3,0,3,Angielski,n
 siostra,soeur,3,fra,1,3,0,3,Angielski,n
-oko,oeil,3,fra,1,3,0,3,Angielski,n
+oko,oeil,4,fra,0,3,0,3,Angielski,n
 życzenia,voeux,3,fra,1,3,0,3,Angielski,n
 czytać,lire,3,fra,1,3,0,3,Angielski,n
 obiad,dîner,3,fra,1,3,0,3,Angielski,n
@@ -37,7 +37,7 @@ sierpień,aoù t,3,fra,1,3,0,3,Angielski,n
 koniec,fin,3,fra,1,3,0,3,Angielski,n
 prosty,sample,3,fra,1,3,0,3,Angielski,n
 przyjacie,copain,3,fra,1,3,0,3,Angielski,n
-głód,faim,3,fra,1,3,0,3,Angielski,n
+głód,faim,4,fra,0,3,0,3,Angielski,n
 obraz,peinture,3,fra,1,3,0,3,Angielski,n
 składnia,syntaxe,3,fra,1,3,0,3,Angielski,n
 przyjacielski,sympa,3,fra,1,3,0,3,Angielski,n
@@ -45,7 +45,7 @@ brązowy,brun,3,fra,1,3,0,3,Angielski,n
 perfum,parfum,3,fra,1,3,0,3,Angielski,n
 egzamin,examen,3,fra,1,3,0,3,Angielski,n
 dobrze,bien,3,fra,1,3,0,3,Angielski,n
-pomarańczowy,orange,3,fra,1,3,0,3,Angielski,n
+pomarańczowy,orange,4,fra,0,3,0,3,Angielski,n
 lampa,lampe,3,fra,1,3,0,3,Angielski,n
 dziecko,enfant,3,fra,1,3,0,3,Angielski,n
 czas,temps,3,fra,1,3,0,3,Angielski,n
@@ -62,7 +62,7 @@ zdjęcie,photo,3,fra,1,3,0,3,Angielski,n
 przystanek,gare,3,fra,1,3,0,3,Angielski,n
 dialog,dialogue,3,fra,1,3,0,3,Angielski,n
 kawa,café,3,fra,1,3,0,3,Angielski,n
-kilo,kilo,3,fra,1,3,0,3,Angielski,n
+kilo,kilo,4,fra,0,3,0,3,Angielski,n
 jemioła,gui,3,fra,1,3,0,3,Angielski,n
 chór,chorale,3,fra,1,3,0,3,Angielski,n
 czytać,lire,3,fra,1,3,0,3,Angielski,n
@@ -72,10 +72,10 @@ strona,page,3,fra,1,3,0,3,Angielski,n
 nieobecny,absent,3,fra,1,3,0,3,Angielski,n
 śmiać się,rire,3,fra,1,3,0,3,Angielski,n
 cześć,salut,3,fra,1,3,0,3,Angielski,n
-adres,adresse,3,fra,1,3,0,3,Angielski,n
+adres,adresse,4,fra,0,3,0,3,Angielski,n
 środek,centre,3,fra,1,3,0,3,Angielski,n
 chłopiec,garcon,3,fra,1,3,0,3,Angielski,n
-pływać,natation,3,fra,1,3,0,3,Angielski,n
+pływać,natation,4,fra,0,3,0,3,Angielski,n
 magazyn,magazine,3,fra,1,3,0,3,Angielski,n
 różowy,rose,3,fra,1,3,0,3,Angielski,n
 róża,rose,4,fra,1,3,0,3,Angielski,n

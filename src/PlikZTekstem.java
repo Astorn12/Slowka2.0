@@ -85,7 +85,7 @@ public PlikZTekstem()
         return this.tekst;
     }
     @Override
-    void zapis_zmian() {
+    public void zapis_zmian() {
 
         Pomocnik_plikowy p = new Pomocnik_plikowy();
 

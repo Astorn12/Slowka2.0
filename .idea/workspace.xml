@@ -1,7 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f6a29ee-953d-4e0f-b717-9d850a2d3359" name="Default" comment="" />
+    <list default="true" id="6f6a29ee-953d-4e0f-b717-9d850a2d3359" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/issueTable.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lekcja4%26218$2,1,2,4,.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lekcja5%25718$2,1,2,5,.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lekcja6%20418$2,1,2,6,.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Piraci z karaibów%06818$1,5,1,.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$12$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$12.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$13.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$14.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$15$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$15$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$15.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$6$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$7$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$7$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$8$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$8$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$8$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$8$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$17$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$17$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$17$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$17$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$17$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$17$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$17$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/Zagadnienie.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Zagadnienie.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$1.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$10.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$12.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$13.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$13.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$14.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$15.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$15.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$16.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$16.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$17.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$17.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$18.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$18.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$19.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$19.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$2.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$20$1.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$20$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$20.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$20.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$21.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$21.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$22.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$22.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$23.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$23.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$24.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$24.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$25.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$25.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$26.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$26.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$27.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$27.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$28.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$28.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$29.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$29.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$3.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$30.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$30.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$31$1.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$31$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$31.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$31.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$32.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$32.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$4.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$5.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$6.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$7.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$8.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$9.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/AplicationSlowka2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/Pakiet$1.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/Pakiet$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/Pakiet.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/Pakiet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/Plik.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/Plik.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/PlikZTekstem.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/PlikZTekstem.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/Pomocnik_plikowy.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/Pomocnik_plikowy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/StatyPlik.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/StatyPlik.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/UstawieniaSystemowe.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/UstawieniaSystemowe.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/#Słówka2.0/Zbiornik.class" afterPath="$PROJECT_DIR$/out/production/#Słówka2.0/Zbiornik.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Archiwum%19618$1,7,.txt" afterPath="$PROJECT_DIR$/Archiwum%19618$1,7,.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lekcja1%06218$2,1,1,1,.txt" afterPath="$PROJECT_DIR$/Lekcja1%06218$2,1,1,1,.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lekcja1%22618$2,1,2,1,.txt" afterPath="$PROJECT_DIR$/Lekcja1%22618$2,1,2,1,.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lekcja2%25318$2,1,2,2,.txt" afterPath="$PROJECT_DIR$/Lekcja2%25318$2,1,2,2,.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lekcja3%25518$2,1,2,3,.txt" afterPath="$PROJECT_DIR$/Lekcja3%25518$2,1,2,3,.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lekcja8%21618$2,1,2,7,.txt" afterPath="$PROJECT_DIR$/Lekcja8%21618$2,1,2,7,.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lekcja9%22118$2,1,2,8,.txt" afterPath="$PROJECT_DIR$/Lekcja9%22118$2,1,2,8,.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Podsumowanie.txt" afterPath="$PROJECT_DIR$/Podsumowanie.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Zbiornik.txt" afterPath="$PROJECT_DIR$/Zbiornik.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AplicationSlowka2.java" afterPath="$PROJECT_DIR$/src/AplicationSlowka2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Pakiet.java" afterPath="$PROJECT_DIR$/src/Pakiet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Plik.java" afterPath="$PROJECT_DIR$/src/Plik.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PlikZTekstem.java" afterPath="$PROJECT_DIR$/src/PlikZTekstem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Pomocnik_plikowy.java" afterPath="$PROJECT_DIR$/src/Pomocnik_plikowy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StatyPlik.java" afterPath="$PROJECT_DIR$/src/StatyPlik.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/UstawieniaSystemowe.java" afterPath="$PROJECT_DIR$/src/UstawieniaSystemowe.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Zbiornik.java" afterPath="$PROJECT_DIR$/src/Zbiornik.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,7 +113,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/#Słówka2.0$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1537295762923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/#Słówka2.0$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1539015498209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -22,24 +124,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Zagadnienie.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Zagadnienie.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AplicationSlowka2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AplicationSlowka2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="944" column="0" lean-forward="false" selection-start-line="944" selection-start-column="0" selection-end-line="944" selection-end-column="0" />
+            <state relative-caret-position="14124">
+              <caret line="3392" column="0" lean-forward="false" selection-start-line="3392" selection-start-column="0" selection-end-line="3392" selection-end-column="0" />
               <folding>
                 <element signature="method#AplicationSlowka2#0;class#AplicationSlowka2#0" expanded="false" />
                 <element signature="method#wczytaniePlikowSystemowych#0;class#AplicationSlowka2#0" expanded="false" />
+                <element signature="method#pierwszeZaladowanie#0;class#AplicationSlowka2#0" expanded="false" />
                 <element signature="method#wepnijDrzewo#0;class#AplicationSlowka2#0" expanded="false" />
                 <element signature="method#valueChanged#0;class#AplicationSlowka2#0" expanded="false" />
                 <element signature="method#createMenu#0;class#AplicationSlowka2#0" expanded="false" />
@@ -52,46 +145,10 @@
                 <element signature="method#numer_po_sciezce2#0;class#AplicationSlowka2#0" expanded="false" />
                 <element signature="method#numer_po_sciezce2doUsuwaniaGrup#0;class#AplicationSlowka2#0" expanded="false" />
                 <element signature="method#loadImage#0;class#AplicationSlowka2#0" expanded="false" />
-                <element signature="e#32794#34352#0" expanded="true" />
-                <element signature="e#34351#34352#0" expanded="true" />
-                <element signature="e#34411#35904#0" expanded="true" />
-                <element signature="e#35903#35904#0" expanded="true" />
-                <element signature="e#35971#37137#0" expanded="true" />
-                <element signature="e#37136#37137#0" expanded="true" />
-                <element signature="e#37201#38099#0" expanded="true" />
-                <element signature="e#38098#38099#0" expanded="true" />
-                <element signature="e#38157#38867#0" expanded="true" />
-                <element signature="e#38866#38867#0" expanded="true" />
-                <element signature="e#38931#51063#0" expanded="true" />
-                <element signature="e#40583#50988#0" expanded="true" />
-                <element signature="e#50987#50988#0" expanded="true" />
-                <element signature="e#51062#51063#0" expanded="true" />
-                <element signature="e#51126#57321#0" expanded="true" />
-                <element signature="e#53078#55532#0" expanded="true" />
-                <element signature="e#55531#55532#0" expanded="true" />
-                <element signature="e#55605#55963#0" expanded="true" />
-                <element signature="e#55962#55963#0" expanded="true" />
-                <element signature="e#57320#57321#0" expanded="true" />
-                <element signature="e#57635#65842#0" expanded="true" />
-                <element signature="e#60817#61274#0" expanded="true" />
-                <element signature="e#61273#61274#0" expanded="true" />
-                <element signature="e#61343#61841#0" expanded="true" />
-                <element signature="e#61840#61841#0" expanded="true" />
-                <element signature="e#61994#62829#0" expanded="true" />
-                <element signature="e#62828#62829#0" expanded="true" />
-                <element signature="e#62912#64622#0" expanded="true" />
-                <element signature="e#64621#64622#0" expanded="true" />
-                <element signature="e#65841#65842#0" expanded="true" />
-                <element signature="e#66242#66546#0" expanded="true" />
-                <element signature="e#66545#66546#0" expanded="true" />
-                <element signature="e#67941#68615#0" expanded="true" />
-                <element signature="e#68614#68615#0" expanded="true" />
+                <element signature="method#createDrzewo#0;class#AplicationSlowka2#0" expanded="false" />
                 <element signature="method#createDodawanieSlowek1#0;class#AplicationSlowka2#0" expanded="false" />
                 <element signature="method#createPanelListySlowek#0;class#AplicationSlowka2#0" expanded="false" />
-                <element signature="method#createTest1#0;class#AplicationSlowka2#0" expanded="false" />
-                <element signature="method#createStatystyki#0;class#AplicationSlowka2#0" expanded="false" />
                 <element signature="method#createStatystykiOgolne#0;class#AplicationSlowka2#0" expanded="false" />
-                <element signature="method#createUstawieniaGrupy#0;class#AplicationSlowka2#0" expanded="false" />
                 <element signature="method#createUstawieniaCalosciowe#0;class#AplicationSlowka2#0" expanded="false" />
                 <element signature="method#loadArchiwumForFile#0;class#AplicationSlowka2#0" expanded="false" />
                 <element signature="method#getArchiwumForFile#0;class#AplicationSlowka2#0" expanded="false" />
@@ -103,47 +160,97 @@
                 <element signature="method#zczytywanieSlownikow#0;class#AplicationSlowka2#0" expanded="false" />
                 <element signature="method#addNewLanguage#0;class#AplicationSlowka2#0" expanded="false" />
                 <element signature="method#addDefaultEnglish#0;class#AplicationSlowka2#0" expanded="false" />
+                <element signature="method#copyFileUsingJava7Files#0;class#AplicationSlowka2#0" expanded="false" />
+                <element signature="method#deleteDirectory#0;class#AplicationSlowka2#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <file leaf-file-name="Pakiet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Pakiet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            <state relative-caret-position="2970">
+              <caret line="281" column="0" lean-forward="false" selection-start-line="281" selection-start-column="0" selection-end-line="281" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="method#Pakiet#1;class#Pakiet#0" expanded="false" />
+                <element signature="method#laduj_pliki#0;class#Pakiet#0" expanded="false" />
+                <element signature="method#clone#0;class#Pakiet#0" expanded="false" />
+                <element signature="method#czy_moje_Dziecko#0;class#Pakiet#0" expanded="false" />
+                <element signature="method#zwrocPakietPoNumerze#0;class#Pakiet#0" expanded="false" />
+                <element signature="method#pliksSort#0;class#Pakiet#0" expanded="false" />
+                <element signature="method#zapisPlikow#0;class#Pakiet#0" expanded="false" />
+                <element signature="method#getPlik#0;class#Pakiet#0" expanded="false" />
+                <element signature="method#wGore#0;class#Pakiet#0" expanded="false" />
+                <element signature="method#wDol#0;class#Pakiet#0" expanded="false" />
+                <element signature="method#poZmianie#0;class#Pakiet#0" expanded="false" />
+                <element signature="method#getNumerPliku#0;class#Pakiet#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlikZTekstem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PlikZTekstem.java">
+      <file leaf-file-name="Plik.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Plik.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="29" column="43" lean-forward="false" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+            <state relative-caret-position="88">
+              <caret line="1357" column="5" lean-forward="true" selection-start-line="1357" selection-start-column="5" selection-end-line="1357" selection-end-column="5" />
               <folding>
-                <element signature="method#PlikZTekstem#0;class#PlikZTekstem#0" expanded="false" />
-                <element signature="method#PlikZTekstem#1;class#PlikZTekstem#0" expanded="false" />
-                <element signature="method#getNazwaPlikuZTekstem#0;class#PlikZTekstem#0" expanded="false" />
-                <element signature="method#setTekst#0;class#PlikZTekstem#0" expanded="false" />
-                <element signature="method#getTekstFromFile#0;class#PlikZTekstem#0" expanded="false" />
-                <element signature="method#set_nazwa_pliku#0;class#PlikZTekstem#0" expanded="false" />
+                <element signature="method#change_nazwa_pliku#0;class#Plik#0" expanded="false" />
+                <element signature="method#test#0;class#Plik#0" expanded="false" />
+                <element signature="method#powtorka#0;class#Plik#0" expanded="false" />
+                <element signature="method#change_language#0;class#Plik#0" expanded="false" />
+                <element signature="method#clone#0;class#Plik#0" expanded="false" />
+                <element signature="method#rozkodowywanie_numeru#0;class#Plik#0" expanded="false" />
+                <element signature="method#testGUI#0;class#Plik#0" expanded="false" />
+                <element signature="method#okreslZakres#0;class#Plik#0" expanded="false" />
+                <element signature="method#dolnyZakres#0;class#Plik#0" expanded="false" />
+                <element signature="method#gornyZakres#0;class#Plik#0" expanded="false" />
+                <element signature="method#dolnyZakresRE#0;class#Plik#0" expanded="false" />
+                <element signature="method#gornyZakresRE#0;class#Plik#0" expanded="false" />
+                <element signature="method#opanowaneSlowka#0;class#Plik#0" expanded="false" />
+                <element signature="method#getWhite#0;class#Plik#0" expanded="false" />
+                <element signature="method#getBlack#0;class#Plik#0" expanded="false" />
+                <element signature="method#procentOpanowanychSłówek#0;class#Plik#0" expanded="false" />
+                <element signature="method#iloscOdpowiedziDoZakonczeniaTematu#0;class#Plik#0" expanded="false" />
+                <element signature="method#najgorszeSlowko#0;class#Plik#0" expanded="false" />
+                <element signature="method#procentOdpowiedziDoUdzielenia#0;class#Plik#0" expanded="false" />
+                <element signature="method#aktualizujNazweSystemowa#0;class#Plik#0" expanded="false" />
+                <element signature="method#usunSlowoZListy#0;class#Plik#0" expanded="false" />
+                <element signature="method#getEnumeracje#0;class#Plik#0" expanded="false" />
+                <element signature="method#setEnumeracje#0;class#Plik#0" expanded="false" />
+                <element signature="method#rozbicieEnumeracyjne#0;class#Plik#0" expanded="false" />
+                <element signature="method#wszystkieZdane#0;class#Plik#0" expanded="false" />
+                <element signature="method#wszystkieZdaneRE#0;class#Plik#0" expanded="false" />
+                <element signature="method#getNazwaBezDany#0;class#Plik#0" expanded="false" />
+                <element signature="method#extractPodpowiedz#0;class#Plik#0" expanded="false" />
+                <element signature="method#manipulatorZapytan#0;class#Plik#0" expanded="false" />
+                <element signature="method#manipulatorOdpowiedzi#0;class#Plik#0" expanded="false" />
+                <element signature="method#wGore#0;class#Plik#0" expanded="false" />
+                <element signature="method#wDol#0;class#Plik#0" expanded="false" />
+                <element signature="method#wGore#1;class#Plik#0" expanded="false" />
+                <element signature="method#wDol#1;class#Plik#0" expanded="false" />
+                <element signature="method#zmienNumerPliku#0;class#Plik#0" expanded="false" />
+                <element signature="method#removeSlowko#0;class#Plik#0" expanded="false" />
+                <element signature="method#aktualizacjaArchiwumWGore#0;class#Plik#0" expanded="false" />
+                <element signature="method#aktualizacjaArchiwumWDol#0;class#Plik#0" expanded="false" />
+                <element signature="method#aktualizacjaArchiwumUsunięcie#0;class#Plik#0" expanded="false" />
+                <element signature="method#ifDoReArchiwum#0;class#Plik#0" expanded="false" />
+                <element signature="method#ifDoArchiwum#0;class#Plik#0" expanded="false" />
+                <element signature="method#setExpansionState#0;class#Plik#0" expanded="false" />
+                <element signature="method#getExpansionState#0;class#Plik#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyNewCellRanderer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyNewCellRanderer.java">
+      <file leaf-file-name="MyCellRanderer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MyCellRanderer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="616">
+              <caret line="46" column="190" lean-forward="false" selection-start-line="46" selection-start-column="190" selection-end-line="46" selection-end-column="190" />
               <folding>
-                <element signature="imports" expanded="false" />
+                <element signature="method#getTreeCellRendererComponent#0;class#MyCellRanderer#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -152,12 +259,10 @@
       <file leaf-file-name="PomocnikDrzewowy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PomocnikDrzewowy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1188">
-              <caret line="177" column="31" lean-forward="false" selection-start-line="177" selection-start-column="31" selection-end-line="177" selection-end-column="31" />
+            <state relative-caret-position="2530">
+              <caret line="194" column="0" lean-forward="false" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="false" />
                 <element signature="method#numer_po_sciezce#0;class#PomocnikDrzewowy#0" expanded="false" />
-                <element signature="method#numer_po_sciezce#1;class#PomocnikDrzewowy#0" expanded="false" />
                 <element signature="method#zwrocPlikPoSciezce#0;class#PomocnikDrzewowy#0" expanded="false" />
                 <element signature="method#czy_moje_Dziecko#0;class#PomocnikDrzewowy#0" expanded="false" />
                 <element signature="method#numerPoNazwie#0;class#PomocnikDrzewowy#0" expanded="false" />
@@ -167,75 +272,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pomocnik_plikowy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Pomocnik_plikowy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="29" column="66" lean-forward="false" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pakiet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Pakiet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Plik.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Plik.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39622">
-              <caret line="2613" column="21" lean-forward="false" selection-start-line="2613" selection-start-column="21" selection-end-line="2613" selection-end-column="21" />
-              <folding>
-                <element signature="method#Plik#1;class#Plik#0" expanded="false" />
-                <element signature="method#Plik#2;class#Plik#0" expanded="false" />
-                <element signature="method#zczytywanie#0;class#Plik#0" expanded="false" />
-                <element signature="method#wypisanie_listy#0;class#Plik#0" expanded="false" />
-                <element signature="method#set_nazwa_pliku#0;class#Plik#0" expanded="false" />
-                <element signature="method#change_nazwa_pliku#0;class#Plik#0" expanded="false" />
-                <element signature="method#test#0;class#Plik#0" expanded="false" />
-                <element signature="method#powtorka#0;class#Plik#0" expanded="false" />
-                <element signature="method#change_language#0;class#Plik#0" expanded="false" />
-                <element signature="method#clone#0;class#Plik#0" expanded="false" />
-                <element signature="method#rozkodowywanie_numeru#0;class#Plik#0" expanded="false" />
-                <element signature="method#testGUI#0;class#Plik#0" expanded="false" />
-                <element signature="e#42086#42087#0" expanded="true" />
-                <element signature="e#42140#42141#0" expanded="true" />
-                <element signature="e#43259#43260#0" expanded="true" />
-                <element signature="e#43324#43325#0" expanded="true" />
-                <element signature="e#43989#43990#0" expanded="true" />
-                <element signature="e#44029#44030#0" expanded="true" />
-                <element signature="e#50711#50712#0" expanded="true" />
-                <element signature="e#50753#50754#0" expanded="true" />
-                <element signature="e#52440#52441#0" expanded="true" />
-                <element signature="e#52483#52484#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Zbiornik.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Zbiornik.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="3168">
+              <caret line="251" column="22" lean-forward="false" selection-start-line="251" selection-start-column="22" selection-end-line="251" selection-end-column="22" />
               <folding>
                 <element signature="method#masoweZmienianieNazwPlikow#0;class#Zbiornik#0" expanded="false" />
-                <element signature="method#zmienPobrane#0;class#Zbiornik#0" expanded="false" />
                 <element signature="method#zakutualizujPobrane#0;class#Zbiornik#0" expanded="false" />
                 <element signature="method#zakualizuj_zbiornik#0;class#Zbiornik#0" expanded="false" />
                 <element signature="method#zaktualizujZmiany#0;class#Zbiornik#0" expanded="false" />
+                <element signature="method#zapelnij_Zbiornik#0;class#Zbiornik#0" expanded="false" />
                 <element signature="method#dodaj_pakiet#0;class#Zbiornik#0" expanded="false" />
                 <element signature="method#zamkniecie#0;class#Zbiornik#0" expanded="false" />
-                <element signature="method#wczytaj_pliki#0;class#Zbiornik#0" expanded="false" />
                 <element signature="method#poszukiwanie_pakietu#0;class#Zbiornik#0" expanded="false" />
-                <element signature="method#rozkodowywanie_numeru#0;class#Zbiornik#0" expanded="false" />
                 <element signature="method#wyswietl#0;class#Zbiornik#0" expanded="false" />
                 <element signature="method#zwroc_nazwe#0;class#Zbiornik#0" expanded="false" />
                 <element signature="method#przeszukaj_liste_pakietow#0;class#Zbiornik#0" expanded="false" />
@@ -261,11 +311,62 @@
                 <element signature="method#zapisPlikow#0;class#Zbiornik#0" expanded="false" />
                 <element signature="method#zwrocPlikPoNumerze#0;class#Zbiornik#0" expanded="false" />
                 <element signature="method#zmienNazwePakietuPoNumerze#0;class#Zbiornik#0" expanded="false" />
-                <element signature="method#zwrocJezykGrupy#0;class#Zbiornik#0" expanded="false" />
                 <element signature="method#zmienJezyk#0;class#Zbiornik#0" expanded="false" />
                 <element signature="method#getNumerNowegoJezyka#0;class#Zbiornik#0" expanded="false" />
                 <element signature="method#poZmianie#0;class#Zbiornik#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZagadnienieGramatyczne.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ZagadnienieGramatyczne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4070">
+              <caret line="271" column="11" lean-forward="false" selection-start-line="271" selection-start-column="11" selection-end-line="271" selection-end-column="11" />
+              <folding>
+                <element signature="method#createShowingJPanel#0;class#ZagadnienieGramatyczne#0" expanded="false" />
+                <element signature="method#zczytywanie#0;class#ZagadnienieGramatyczne#0" expanded="false" />
+                <element signature="method#zapis_zmian#0;class#ZagadnienieGramatyczne#0" expanded="false" />
+                <element signature="method#wypisanie_listy#0;class#ZagadnienieGramatyczne#0" expanded="false" />
+                <element signature="method#rozkodowywanieZTabeli#0;class#ZagadnienieGramatyczne#0" expanded="false" />
+                <element signature="method#addKindCheckbox#0;class#ZagadnienieGramatyczne#0" expanded="false" />
+                <element signature="method#getLatestIssueTable#0;class#ZagadnienieGramatyczne#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pomocnik_plikowy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Pomocnik_plikowy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+              <folding>
+                <element signature="method#zapisywanie_do_pliku#0;class#Pomocnik_plikowy#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IssueTable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/IssueTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="61" column="39" lean-forward="false" selection-start-line="61" selection-start-column="39" selection-end-line="61" selection-end-column="39" />
+              <folding>
+                <element signature="method#IssueTable#2;class#IssueTable#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeadlineGrama.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HeadlineGrama.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1012">
+              <caret line="46" column="71" lean-forward="false" selection-start-line="46" selection-start-column="71" selection-end-line="46" selection-end-column="71" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -282,41 +383,46 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>createpanel</find>
-      <find>defaultList</find>
-      <find>defaultLista</find>
-      <find>new WordFromBook</find>
-      <find>defaultlista</find>
-      <find>jframe</find>
-      <find>enter</find>
-      <find>utf</find>
-      <find>slowniki</find>
-      <find>sciezkadoslowni</find>
-      <find>nowy j</find>
-      <find>zbiornikliter</find>
-      <find>dodaj</find>
-      <find>usun</find>
-      <find>usunPakiet</find>
-      <find>dodaj nowy j</find>
-      <find>jezyki</find>
-      <find>w gór</find>
-      <find>tree</find>
-      <find>zmień język</find>
-      <find>testgui</find>
-      <find>eif</find>
-      <find>html</find>
-      <find>ksiaz</find>
-      <find>C:\\#JAVA_M\\#Słówka2.</find>
-      <find>z.</find>
-      <find>node</find>
       <find>node=</find>
-      <find>node</find>
       <find>panelRodzajuPracy</find>
+      <find>Zagadnienie.class</find>
+      <find>plikztek</find>
+      <find>PlikZTekstem.class</find>
+      <find>!</find>
+      <find>aktualny_plik=</find>
+      <find>!&quot;</find>
+      <find>zczytywanieSlo</find>
+      <find>zmień</find>
+      <find>jframe</find>
+      <find>aplikacja</find>
+      <find>createustawieniaca</find>
+      <find>&quot;tmp&quot;</find>
+      <find>zmień naz</find>
+      <find>get</find>
+      <find>dodajtemat</find>
+      <find>zwrocJe</find>
+      <find>get_naz</find>
+      <find>50%</find>
+      <find>Checkbox</find>
+      <find>font</find>
+      <find>frame</find>
+      <find>książki</find>
+      <find>ilość odpo</find>
+      <find>manipulatorZapytan</find>
+      <find>desktop</find>
+      <find>DESK</find>
+      <find>copy</find>
+      <find>desk</find>
     </findStrings>
     <replaceStrings>
       <replace>thi.aktualny_plik</replace>
       <replace>thi.panelRodzajuPracy</replace>
+      <replace>Grama.class</replace>
+      <replace>kind.</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -326,15 +432,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/TreeBackground.java" />
-        <option value="$PROJECT_DIR$/src/Slowo2.java" />
-        <option value="$PROJECT_DIR$/src/Strin.java" />
-        <option value="$PROJECT_DIR$/src/MyJTree.java" />
-        <option value="$PROJECT_DIR$/src/MyNode.java" />
-        <option value="$PROJECT_DIR$/src/JScrollPaneWithBackground.java" />
-        <option value="$PROJECT_DIR$/src/MyColor.java" />
-        <option value="$PROJECT_DIR$/src/RedGreenJPanel.java" />
-        <option value="$PROJECT_DIR$/src/InterfacePodsumowania.java" />
         <option value="$PROJECT_DIR$/src/SJButton.java" />
         <option value="$PROJECT_DIR$/src/SIcon.java" />
         <option value="$PROJECT_DIR$/src/ColorJPanel.java" />
@@ -354,28 +451,37 @@
         <option value="$PROJECT_DIR$/src/JPanelWithBackgrounds.java" />
         <option value="$PROJECT_DIR$/src/ListaSepcyficznychLiterek.java" />
         <option value="$PROJECT_DIR$/src/SpecyficznaLiterka.java" />
-        <option value="$PROJECT_DIR$/src/Pakiet.java" />
         <option value="$PROJECT_DIR$/src/Word.java" />
         <option value="$PROJECT_DIR$/src/ObsługaNazwowa.java" />
-        <option value="$PROJECT_DIR$/src/StatyPlik.java" />
         <option value="$PROJECT_DIR$/src/Slownik.java" />
         <option value="$PROJECT_DIR$/src/G2button.java" />
         <option value="$PROJECT_DIR$/src/Gpanel.java" />
         <option value="$PROJECT_DIR$/src/Gbutton.java" />
         <option value="$PROJECT_DIR$/src/Slowo.java" />
-        <option value="$PROJECT_DIR$/src/PlikZTekstem.java" />
         <option value="$PROJECT_DIR$/src/WordFromBook.java" />
         <option value="$PROJECT_DIR$/src/Podsumowanie.java" />
-        <option value="$PROJECT_DIR$/src/UstawieniaSystemowe.java" />
         <option value="$PROJECT_DIR$/src/PomocnikDrzewowy.java" />
         <option value="$PROJECT_DIR$/src/MyCellRanderer.java" />
-        <option value="$PROJECT_DIR$/src/Zbiornik.java" />
         <option value="$PROJECT_DIR$/src/MyNewCellRanderer.java" />
-        <option value="$PROJECT_DIR$/src/Pomocnik_plikowy.java" />
-        <option value="$PROJECT_DIR$/src/Zagadnienie.java" />
-        <option value="$PROJECT_DIR$/src/Drzewo.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Zagadnienie.java" />
+        <option value="$PROJECT_DIR$/src/NaglowekGrama.java" />
+        <option value="$PROJECT_DIR$/src/headlineGrama.java" />
+        <option value="$PROJECT_DIR$/src/PlikZTekstem.java" />
+        <option value="$PROJECT_DIR$/src/Grama.java" />
+        <option value="$PROJECT_DIR$/src/SlowaNieregularne.java" />
+        <option value="$PROJECT_DIR$/src/Wypelnianki.java" />
+        <option value="$PROJECT_DIR$/src/UstawieniaSystemowe.java" />
+        <option value="$PROJECT_DIR$/src/Drzewo.java" />
+        <option value="$PROJECT_DIR$/src/Zbiornik.java" />
+        <option value="$PROJECT_DIR$/src/StatyPlik.java" />
+        <option value="$PROJECT_DIR$/src/issueTable.java" />
+        <option value="$PROJECT_DIR$/src/HeadlineGrama.java" />
+        <option value="$PROJECT_DIR$/src/IssueTable.java" />
+        <option value="$PROJECT_DIR$/src/ZagadnienieGramatyczne.java" />
+        <option value="$PROJECT_DIR$/src/Pomocnik_plikowy.java" />
         <option value="$PROJECT_DIR$/src/AplicationSlowka2.java" />
+        <option value="$PROJECT_DIR$/src/Pakiet.java" />
         <option value="$PROJECT_DIR$/src/Plik.java" />
       </list>
     </option>
@@ -390,10 +496,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
+    <option name="x" value="2391" />
     <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="width" value="2418" />
+    <option name="height" value="1318" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -410,9 +516,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -439,16 +542,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="#Słówka2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="#Słówka2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pictures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="replace&#9;ACTION&#9;Replace&#10;365&#9;FILE&#9;file://C:/#JAVA_M/#Słówka2.0/3-4-32-46%15618$1,1,1,1,2,1,.txt&#10;jcom&#9;PSI&#9;JAVA://javax.swing.JComponent&#10;jbutt&#9;PSI&#9;JAVA://javax.swing.JButton&#10;color&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/java/awt/Color.class&#10;graphic&#9;PSI&#9;JAVA://java.awt.Graphics&#10;Rectangle&#9;PSI&#9;JAVA://java.awt.Rectangle&#10;icon&#9;PSI&#9;JAVA://javax.swing.Icon&#10;jlabel&#9;PSI&#9;JAVA://javax.swing.JLabel&#10;jpanel&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/swing/JPanel.java&#10;Jb&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/swing/JButton.java&#10;JB&#9;FILE&#9;file://C:/#JAVA_M/#Słówka2.0/src/SJButton.java&#10;DefaultLook&#9;PSI&#9;JAVA://sun.swing.DefaultLookup&#10;DefaultTree&#9;PSI&#9;JAVA://javax.swing.tree.DefaultTreeCellEditor" />
+    <property name="SearchEverywhereHistoryKey" value="replace&#9;ACTION&#9;Replace&#10;repl&#9;ACTION&#9;Replace&#10;365&#9;FILE&#9;file://C:/#JAVA_M/#Słówka2.0/3-4-32-46%15618$1,1,1,1,2,1,.txt&#10;jcom&#9;PSI&#9;JAVA://javax.swing.JComponent&#10;jbutt&#9;PSI&#9;JAVA://javax.swing.JButton&#10;color&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/java/awt/Color.class&#10;graphic&#9;PSI&#9;JAVA://java.awt.Graphics&#10;Rectangle&#9;PSI&#9;JAVA://java.awt.Rectangle&#10;icon&#9;PSI&#9;JAVA://javax.swing.Icon&#10;jlabel&#9;PSI&#9;JAVA://javax.swing.JLabel&#10;jpanel&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/swing/JPanel.java&#10;Jb&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/swing/JButton.java&#10;JB&#9;FILE&#9;file://C:/#JAVA_M/#Słówka2.0/src/SJButton.java&#10;DefaultLook&#9;PSI&#9;JAVA://sun.swing.DefaultLookup&#10;DefaultTree&#9;PSI&#9;JAVA://javax.swing.tree.DefaultTreeCellEditor" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../#Zadoriada" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -723,35 +847,35 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="2391" y="-9" width="2418" height="1318" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15367728" sideWeight="0.42083332" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32491767" sideWeight="0.59479165" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27773073" sideWeight="0.59291667" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18551043" sideWeight="0.5161458" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27773073" sideWeight="0.40708333" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18072917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14458333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39458087" sideWeight="0.39083335" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34577388" sideWeight="0.40520832" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16684961" sideWeight="0.40833333" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -765,7 +889,45 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="629" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AplicationSlowka2.java</url>
+          <line>1339</line>
+          <properties />
+          <option name="timeStamp" value="769" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AplicationSlowka2.java</url>
+          <line>1340</line>
+          <properties />
+          <option name="timeStamp" value="770" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AplicationSlowka2.java</url>
+          <line>1914</line>
+          <properties />
+          <option name="timeStamp" value="771" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AplicationSlowka2.java</url>
+          <line>1917</line>
+          <properties />
+          <option name="timeStamp" value="772" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ZagadnienieGramatyczne.java</url>
+          <line>285</line>
+          <properties />
+          <option name="timeStamp" value="784" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ZagadnienieGramatyczne.java</url>
+          <line>172</line>
+          <properties />
+          <option name="timeStamp" value="794" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="815" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -780,66 +942,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/swing/JTextArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="473" column="0" lean-forward="false" selection-start-line="473" selection-start-column="0" selection-end-line="473" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/AbstractCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1364">
-          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Język.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="747" column="0" lean-forward="false" selection-start-line="747" selection-start-column="0" selection-end-line="747" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jezyk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Numer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pictures/BigBen.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pictures/Eiffla.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Background.jpg" />
     <entry file="file://$PROJECT_DIR$/src/RozwijaneMenuPliku.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -867,13 +969,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3-4-32-46%15618$1,1,1,1,2,1,.txt" />
-    <entry file="file://$PROJECT_DIR$/src/JPanelWithBackgrounds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ListaSepcyficznychLiterek.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -927,9 +1022,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -944,7 +1036,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -952,77 +1043,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="475" column="0" lean-forward="false" selection-start-line="475" selection-start-column="0" selection-end-line="475" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Slowo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="29" column="62" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#Slowo#0;class#Slowo#0" expanded="false" />
-            <element signature="method#Slowo#1;class#Slowo#0" expanded="false" />
-            <element signature="method#Slowo#2;class#Slowo#0" expanded="false" />
-            <element signature="method#Slowo#3;class#Slowo#0" expanded="false" />
-            <element signature="e#2026#2027#0" expanded="false" />
-            <element signature="e#2080#2081#0" expanded="false" />
-            <element signature="e#2124#2125#0" expanded="false" />
-            <element signature="e#2181#2182#0" expanded="false" />
-            <element signature="e#2230#2231#0" expanded="false" />
-            <element signature="e#2270#2271#0" expanded="false" />
-            <element signature="e#2322#2323#0" expanded="false" />
-            <element signature="e#2391#2392#0" expanded="false" />
-            <element signature="e#2437#2438#0" expanded="false" />
-            <element signature="e#2494#2495#0" expanded="false" />
-            <element signature="e#2541#2542#0" expanded="false" />
-            <element signature="e#2601#2602#0" expanded="false" />
-            <element signature="e#2653#2654#0" expanded="false" />
-            <element signature="e#2728#2729#0" expanded="false" />
-            <element signature="e#2783#2784#0" expanded="false" />
-            <element signature="e#2855#2856#0" expanded="false" />
-            <element signature="e#2890#2891#0" expanded="false" />
-            <element signature="e#2921#2922#0" expanded="false" />
-            <element signature="e#2956#2957#0" expanded="false" />
-            <element signature="e#2988#2989#0" expanded="false" />
-            <element signature="e#3024#3025#0" expanded="false" />
-            <element signature="e#3060#3061#0" expanded="false" />
-            <element signature="e#3099#3100#0" expanded="false" />
-            <element signature="e#3135#3136#0" expanded="false" />
-            <element signature="method#zapytanie#0;class#Slowo#0" expanded="false" />
-            <element signature="e#3826#3827#0" expanded="false" />
-            <element signature="e#3855#3856#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ObsługaNazwowa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2640">
-          <caret line="123" column="39" lean-forward="false" selection-start-line="123" selection-start-column="39" selection-end-line="123" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WordFromBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="48" column="26" lean-forward="false" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
-          <folding>
-            <element signature="method#WordFromBook#0;class#WordFromBook#0" expanded="false" />
-            <element signature="method#WordFromBook#1;class#WordFromBook#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StatyPlik.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding>
-            <element signature="method#StatyPlik#0;class#StatyPlik#0" expanded="false" />
-            <element signature="method#StatyPlik#1;class#StatyPlik#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1054,37 +1074,220 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UstawieniaSystemowe.java">
+    <entry file="file://$PROJECT_DIR$/src/MyNewCellRanderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Slowo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="method#Slowo#0;class#Slowo#0" expanded="false" />
+            <element signature="method#Slowo#1;class#Slowo#0" expanded="false" />
+            <element signature="method#Slowo#2;class#Slowo#0" expanded="false" />
+            <element signature="method#Slowo#3;class#Slowo#0" expanded="false" />
+            <element signature="method#zapytanie#0;class#Slowo#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zagadnienie.java" />
+    <entry file="file://$PROJECT_DIR$/src/NaglowekGrama.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/swing/JTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="2922" column="60" lean-forward="true" selection-start-line="2922" selection-start-column="60" selection-end-line="2922" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/swing/LayoutComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WordFromBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+          <folding>
+            <element signature="method#WordFromBook#0;class#WordFromBook#0" expanded="false" />
+            <element signature="method#WordFromBook#1;class#WordFromBook#0" expanded="false" />
+            <element signature="method#WordFromBook#2;class#WordFromBook#0" expanded="false" />
+            <element signature="method#WordFromBook#3;class#WordFromBook#0" expanded="false" />
+            <element signature="method#linksBeginning#0;class#WordFromBook#0" expanded="false" />
+            <element signature="method#linksEnding#0;class#WordFromBook#0" expanded="false" />
+            <element signature="method#clone#0;class#WordFromBook#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PlikZTekstem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="87" column="20" lean-forward="false" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="method#PlikZTekstem#0;class#PlikZTekstem#0" expanded="false" />
+            <element signature="method#PlikZTekstem#1;class#PlikZTekstem#0" expanded="false" />
+            <element signature="method#getNazwaPlikuZTekstem#0;class#PlikZTekstem#0" expanded="false" />
+            <element signature="method#setTekst#0;class#PlikZTekstem#0" expanded="false" />
+            <element signature="method#getTekstFromFile#0;class#PlikZTekstem#0" expanded="false" />
+            <element signature="method#set_nazwa_pliku#0;class#PlikZTekstem#0" expanded="false" />
+            <element signature="e#2262#2263#0" expanded="false" />
+            <element signature="e#2295#2296#0" expanded="false" />
+            <element signature="e#3933#3934#0" expanded="false" />
+            <element signature="e#3966#3967#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ObsługaNazwowa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="113" column="4" lean-forward="false" selection-start-line="113" selection-start-column="4" selection-end-line="113" selection-end-column="4" />
+          <folding>
+            <element signature="method#oddzielNazeOdDaty#0;class#ObsługaNazwowa#0" expanded="false" />
+            <element signature="method#roznicaDni#0;class#ObsługaNazwowa#0" expanded="false" />
+            <element signature="method#zmienNaTeraz#0;class#ObsługaNazwowa#0" expanded="false" />
+            <element signature="method#getNumerSlowoArchiwum#0;class#ObsługaNazwowa#0" expanded="false" />
+            <element signature="method#getJezyk1#0;class#ObsługaNazwowa#0" expanded="false" />
+            <element signature="method#getJezyk2#0;class#ObsługaNazwowa#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SlowaNieregularne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wypelnianki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyCellRanderer.java">
+    <entry file="file://$PROJECT_DIR$/src/Grama.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6314">
-          <caret line="305" column="0" lean-forward="false" selection-start-line="305" selection-start-column="0" selection-end-line="305" selection-end-column="0" />
+        <state relative-caret-position="242">
+          <caret line="14" column="72" lean-forward="false" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UstawieniaSystemowe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Drzewo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1250">
+          <caret line="246" column="60" lean-forward="false" selection-start-line="246" selection-start-column="60" selection-end-line="246" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="6532" column="0" lean-forward="false" selection-start-line="6532" selection-start-column="0" selection-end-line="6532" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StatyPlik.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="53" column="1" lean-forward="false" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+          <folding>
+            <element signature="method#StatyPlik#0;class#StatyPlik#0" expanded="false" />
+            <element signature="method#StatyPlik#1;class#StatyPlik#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JPanelWithBackgrounds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HeadlineGrama.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="46" column="71" lean-forward="false" selection-start-line="46" selection-start-column="71" selection-end-line="46" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IssueTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="61" column="39" lean-forward="false" selection-start-line="61" selection-start-column="39" selection-end-line="61" selection-end-column="39" />
+          <folding>
+            <element signature="method#IssueTable#2;class#IssueTable#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PomocnikDrzewowy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2530">
+          <caret line="194" column="0" lean-forward="false" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
+          <folding>
+            <element signature="method#numer_po_sciezce#0;class#PomocnikDrzewowy#0" expanded="false" />
+            <element signature="method#zwrocPlikPoSciezce#0;class#PomocnikDrzewowy#0" expanded="false" />
+            <element signature="method#czy_moje_Dziecko#0;class#PomocnikDrzewowy#0" expanded="false" />
+            <element signature="method#numerPoNazwie#0;class#PomocnikDrzewowy#0" expanded="false" />
+            <element signature="method#nazwaPoNumerze#0;class#PomocnikDrzewowy#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Zbiornik.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="3168">
+          <caret line="251" column="22" lean-forward="false" selection-start-line="251" selection-start-column="22" selection-end-line="251" selection-end-column="22" />
           <folding>
             <element signature="method#masoweZmienianieNazwPlikow#0;class#Zbiornik#0" expanded="false" />
-            <element signature="method#zmienPobrane#0;class#Zbiornik#0" expanded="false" />
             <element signature="method#zakutualizujPobrane#0;class#Zbiornik#0" expanded="false" />
             <element signature="method#zakualizuj_zbiornik#0;class#Zbiornik#0" expanded="false" />
             <element signature="method#zaktualizujZmiany#0;class#Zbiornik#0" expanded="false" />
+            <element signature="method#zapelnij_Zbiornik#0;class#Zbiornik#0" expanded="false" />
             <element signature="method#dodaj_pakiet#0;class#Zbiornik#0" expanded="false" />
             <element signature="method#zamkniecie#0;class#Zbiornik#0" expanded="false" />
-            <element signature="method#wczytaj_pliki#0;class#Zbiornik#0" expanded="false" />
             <element signature="method#poszukiwanie_pakietu#0;class#Zbiornik#0" expanded="false" />
-            <element signature="method#rozkodowywanie_numeru#0;class#Zbiornik#0" expanded="false" />
             <element signature="method#wyswietl#0;class#Zbiornik#0" expanded="false" />
             <element signature="method#zwroc_nazwe#0;class#Zbiornik#0" expanded="false" />
             <element signature="method#przeszukaj_liste_pakietow#0;class#Zbiornik#0" expanded="false" />
@@ -1110,7 +1313,6 @@
             <element signature="method#zapisPlikow#0;class#Zbiornik#0" expanded="false" />
             <element signature="method#zwrocPlikPoNumerze#0;class#Zbiornik#0" expanded="false" />
             <element signature="method#zmienNazwePakietuPoNumerze#0;class#Zbiornik#0" expanded="false" />
-            <element signature="method#zwrocJezykGrupy#0;class#Zbiornik#0" expanded="false" />
             <element signature="method#zmienJezyk#0;class#Zbiornik#0" expanded="false" />
             <element signature="method#getNumerNowegoJezyka#0;class#Zbiornik#0" expanded="false" />
             <element signature="method#poZmianie#0;class#Zbiornik#0" expanded="false" />
@@ -1118,89 +1320,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Drzewo.java" />
-    <entry file="file://$PROJECT_DIR$/src/Zagadnienie.java">
+    <entry file="file://$PROJECT_DIR$/src/ZagadnienieGramatyczne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PlikZTekstem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="29" column="43" lean-forward="false" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        <state relative-caret-position="4070">
+          <caret line="271" column="11" lean-forward="false" selection-start-line="271" selection-start-column="11" selection-end-line="271" selection-end-column="11" />
           <folding>
-            <element signature="method#PlikZTekstem#0;class#PlikZTekstem#0" expanded="false" />
-            <element signature="method#PlikZTekstem#1;class#PlikZTekstem#0" expanded="false" />
-            <element signature="method#getNazwaPlikuZTekstem#0;class#PlikZTekstem#0" expanded="false" />
-            <element signature="method#setTekst#0;class#PlikZTekstem#0" expanded="false" />
-            <element signature="method#getTekstFromFile#0;class#PlikZTekstem#0" expanded="false" />
-            <element signature="method#set_nazwa_pliku#0;class#PlikZTekstem#0" expanded="false" />
+            <element signature="method#createShowingJPanel#0;class#ZagadnienieGramatyczne#0" expanded="false" />
+            <element signature="method#zczytywanie#0;class#ZagadnienieGramatyczne#0" expanded="false" />
+            <element signature="method#zapis_zmian#0;class#ZagadnienieGramatyczne#0" expanded="false" />
+            <element signature="method#wypisanie_listy#0;class#ZagadnienieGramatyczne#0" expanded="false" />
+            <element signature="method#rozkodowywanieZTabeli#0;class#ZagadnienieGramatyczne#0" expanded="false" />
+            <element signature="method#addKindCheckbox#0;class#ZagadnienieGramatyczne#0" expanded="false" />
+            <element signature="method#getLatestIssueTable#0;class#ZagadnienieGramatyczne#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyNewCellRanderer.java">
+    <entry file="file://$PROJECT_DIR$/src/MyCellRanderer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="616">
+          <caret line="46" column="190" lean-forward="false" selection-start-line="46" selection-start-column="190" selection-end-line="46" selection-end-column="190" />
           <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PomocnikDrzewowy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="177" column="31" lean-forward="false" selection-start-line="177" selection-start-column="31" selection-end-line="177" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#numer_po_sciezce#0;class#PomocnikDrzewowy#0" expanded="false" />
-            <element signature="method#numer_po_sciezce#1;class#PomocnikDrzewowy#0" expanded="false" />
-            <element signature="method#zwrocPlikPoSciezce#0;class#PomocnikDrzewowy#0" expanded="false" />
-            <element signature="method#czy_moje_Dziecko#0;class#PomocnikDrzewowy#0" expanded="false" />
-            <element signature="method#numerPoNazwie#0;class#PomocnikDrzewowy#0" expanded="false" />
-            <element signature="method#nazwaPoNumerze#0;class#PomocnikDrzewowy#0" expanded="false" />
+            <element signature="method#getTreeCellRendererComponent#0;class#MyCellRanderer#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Pomocnik_plikowy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="29" column="66" lean-forward="false" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pakiet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="154">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#zapisywanie_do_pliku#0;class#Pomocnik_plikowy#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AplicationSlowka2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="944" column="0" lean-forward="false" selection-start-line="944" selection-start-column="0" selection-end-line="944" selection-end-column="0" />
+        <state relative-caret-position="14124">
+          <caret line="3392" column="0" lean-forward="false" selection-start-line="3392" selection-start-column="0" selection-end-line="3392" selection-end-column="0" />
           <folding>
             <element signature="method#AplicationSlowka2#0;class#AplicationSlowka2#0" expanded="false" />
             <element signature="method#wczytaniePlikowSystemowych#0;class#AplicationSlowka2#0" expanded="false" />
+            <element signature="method#pierwszeZaladowanie#0;class#AplicationSlowka2#0" expanded="false" />
             <element signature="method#wepnijDrzewo#0;class#AplicationSlowka2#0" expanded="false" />
             <element signature="method#valueChanged#0;class#AplicationSlowka2#0" expanded="false" />
             <element signature="method#createMenu#0;class#AplicationSlowka2#0" expanded="false" />
@@ -1213,46 +1376,10 @@
             <element signature="method#numer_po_sciezce2#0;class#AplicationSlowka2#0" expanded="false" />
             <element signature="method#numer_po_sciezce2doUsuwaniaGrup#0;class#AplicationSlowka2#0" expanded="false" />
             <element signature="method#loadImage#0;class#AplicationSlowka2#0" expanded="false" />
-            <element signature="e#32794#34352#0" expanded="true" />
-            <element signature="e#34351#34352#0" expanded="true" />
-            <element signature="e#34411#35904#0" expanded="true" />
-            <element signature="e#35903#35904#0" expanded="true" />
-            <element signature="e#35971#37137#0" expanded="true" />
-            <element signature="e#37136#37137#0" expanded="true" />
-            <element signature="e#37201#38099#0" expanded="true" />
-            <element signature="e#38098#38099#0" expanded="true" />
-            <element signature="e#38157#38867#0" expanded="true" />
-            <element signature="e#38866#38867#0" expanded="true" />
-            <element signature="e#38931#51063#0" expanded="true" />
-            <element signature="e#40583#50988#0" expanded="true" />
-            <element signature="e#50987#50988#0" expanded="true" />
-            <element signature="e#51062#51063#0" expanded="true" />
-            <element signature="e#51126#57321#0" expanded="true" />
-            <element signature="e#53078#55532#0" expanded="true" />
-            <element signature="e#55531#55532#0" expanded="true" />
-            <element signature="e#55605#55963#0" expanded="true" />
-            <element signature="e#55962#55963#0" expanded="true" />
-            <element signature="e#57320#57321#0" expanded="true" />
-            <element signature="e#57635#65842#0" expanded="true" />
-            <element signature="e#60817#61274#0" expanded="true" />
-            <element signature="e#61273#61274#0" expanded="true" />
-            <element signature="e#61343#61841#0" expanded="true" />
-            <element signature="e#61840#61841#0" expanded="true" />
-            <element signature="e#61994#62829#0" expanded="true" />
-            <element signature="e#62828#62829#0" expanded="true" />
-            <element signature="e#62912#64622#0" expanded="true" />
-            <element signature="e#64621#64622#0" expanded="true" />
-            <element signature="e#65841#65842#0" expanded="true" />
-            <element signature="e#66242#66546#0" expanded="true" />
-            <element signature="e#66545#66546#0" expanded="true" />
-            <element signature="e#67941#68615#0" expanded="true" />
-            <element signature="e#68614#68615#0" expanded="true" />
+            <element signature="method#createDrzewo#0;class#AplicationSlowka2#0" expanded="false" />
             <element signature="method#createDodawanieSlowek1#0;class#AplicationSlowka2#0" expanded="false" />
             <element signature="method#createPanelListySlowek#0;class#AplicationSlowka2#0" expanded="false" />
-            <element signature="method#createTest1#0;class#AplicationSlowka2#0" expanded="false" />
-            <element signature="method#createStatystyki#0;class#AplicationSlowka2#0" expanded="false" />
             <element signature="method#createStatystykiOgolne#0;class#AplicationSlowka2#0" expanded="false" />
-            <element signature="method#createUstawieniaGrupy#0;class#AplicationSlowka2#0" expanded="false" />
             <element signature="method#createUstawieniaCalosciowe#0;class#AplicationSlowka2#0" expanded="false" />
             <element signature="method#loadArchiwumForFile#0;class#AplicationSlowka2#0" expanded="false" />
             <element signature="method#getArchiwumForFile#0;class#AplicationSlowka2#0" expanded="false" />
@@ -1264,20 +1391,38 @@
             <element signature="method#zczytywanieSlownikow#0;class#AplicationSlowka2#0" expanded="false" />
             <element signature="method#addNewLanguage#0;class#AplicationSlowka2#0" expanded="false" />
             <element signature="method#addDefaultEnglish#0;class#AplicationSlowka2#0" expanded="false" />
+            <element signature="method#copyFileUsingJava7Files#0;class#AplicationSlowka2#0" expanded="false" />
+            <element signature="method#deleteDirectory#0;class#AplicationSlowka2#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pakiet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2970">
+          <caret line="281" column="0" lean-forward="false" selection-start-line="281" selection-start-column="0" selection-end-line="281" selection-end-column="0" />
+          <folding>
+            <element signature="method#Pakiet#1;class#Pakiet#0" expanded="false" />
+            <element signature="method#laduj_pliki#0;class#Pakiet#0" expanded="false" />
+            <element signature="method#clone#0;class#Pakiet#0" expanded="false" />
+            <element signature="method#czy_moje_Dziecko#0;class#Pakiet#0" expanded="false" />
+            <element signature="method#zwrocPakietPoNumerze#0;class#Pakiet#0" expanded="false" />
+            <element signature="method#pliksSort#0;class#Pakiet#0" expanded="false" />
+            <element signature="method#zapisPlikow#0;class#Pakiet#0" expanded="false" />
+            <element signature="method#getPlik#0;class#Pakiet#0" expanded="false" />
+            <element signature="method#wGore#0;class#Pakiet#0" expanded="false" />
+            <element signature="method#wDol#0;class#Pakiet#0" expanded="false" />
+            <element signature="method#poZmianie#0;class#Pakiet#0" expanded="false" />
+            <element signature="method#getNumerPliku#0;class#Pakiet#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Plik.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39622">
-          <caret line="2613" column="21" lean-forward="false" selection-start-line="2613" selection-start-column="21" selection-end-line="2613" selection-end-column="21" />
+        <state relative-caret-position="88">
+          <caret line="1357" column="5" lean-forward="true" selection-start-line="1357" selection-start-column="5" selection-end-line="1357" selection-end-column="5" />
           <folding>
-            <element signature="method#Plik#1;class#Plik#0" expanded="false" />
-            <element signature="method#Plik#2;class#Plik#0" expanded="false" />
-            <element signature="method#zczytywanie#0;class#Plik#0" expanded="false" />
-            <element signature="method#wypisanie_listy#0;class#Plik#0" expanded="false" />
-            <element signature="method#set_nazwa_pliku#0;class#Plik#0" expanded="false" />
             <element signature="method#change_nazwa_pliku#0;class#Plik#0" expanded="false" />
             <element signature="method#test#0;class#Plik#0" expanded="false" />
             <element signature="method#powtorka#0;class#Plik#0" expanded="false" />
@@ -1285,16 +1430,42 @@
             <element signature="method#clone#0;class#Plik#0" expanded="false" />
             <element signature="method#rozkodowywanie_numeru#0;class#Plik#0" expanded="false" />
             <element signature="method#testGUI#0;class#Plik#0" expanded="false" />
-            <element signature="e#42086#42087#0" expanded="true" />
-            <element signature="e#42140#42141#0" expanded="true" />
-            <element signature="e#43259#43260#0" expanded="true" />
-            <element signature="e#43324#43325#0" expanded="true" />
-            <element signature="e#43989#43990#0" expanded="true" />
-            <element signature="e#44029#44030#0" expanded="true" />
-            <element signature="e#50711#50712#0" expanded="true" />
-            <element signature="e#50753#50754#0" expanded="true" />
-            <element signature="e#52440#52441#0" expanded="true" />
-            <element signature="e#52483#52484#0" expanded="true" />
+            <element signature="method#okreslZakres#0;class#Plik#0" expanded="false" />
+            <element signature="method#dolnyZakres#0;class#Plik#0" expanded="false" />
+            <element signature="method#gornyZakres#0;class#Plik#0" expanded="false" />
+            <element signature="method#dolnyZakresRE#0;class#Plik#0" expanded="false" />
+            <element signature="method#gornyZakresRE#0;class#Plik#0" expanded="false" />
+            <element signature="method#opanowaneSlowka#0;class#Plik#0" expanded="false" />
+            <element signature="method#getWhite#0;class#Plik#0" expanded="false" />
+            <element signature="method#getBlack#0;class#Plik#0" expanded="false" />
+            <element signature="method#procentOpanowanychSłówek#0;class#Plik#0" expanded="false" />
+            <element signature="method#iloscOdpowiedziDoZakonczeniaTematu#0;class#Plik#0" expanded="false" />
+            <element signature="method#najgorszeSlowko#0;class#Plik#0" expanded="false" />
+            <element signature="method#procentOdpowiedziDoUdzielenia#0;class#Plik#0" expanded="false" />
+            <element signature="method#aktualizujNazweSystemowa#0;class#Plik#0" expanded="false" />
+            <element signature="method#usunSlowoZListy#0;class#Plik#0" expanded="false" />
+            <element signature="method#getEnumeracje#0;class#Plik#0" expanded="false" />
+            <element signature="method#setEnumeracje#0;class#Plik#0" expanded="false" />
+            <element signature="method#rozbicieEnumeracyjne#0;class#Plik#0" expanded="false" />
+            <element signature="method#wszystkieZdane#0;class#Plik#0" expanded="false" />
+            <element signature="method#wszystkieZdaneRE#0;class#Plik#0" expanded="false" />
+            <element signature="method#getNazwaBezDany#0;class#Plik#0" expanded="false" />
+            <element signature="method#extractPodpowiedz#0;class#Plik#0" expanded="false" />
+            <element signature="method#manipulatorZapytan#0;class#Plik#0" expanded="false" />
+            <element signature="method#manipulatorOdpowiedzi#0;class#Plik#0" expanded="false" />
+            <element signature="method#wGore#0;class#Plik#0" expanded="false" />
+            <element signature="method#wDol#0;class#Plik#0" expanded="false" />
+            <element signature="method#wGore#1;class#Plik#0" expanded="false" />
+            <element signature="method#wDol#1;class#Plik#0" expanded="false" />
+            <element signature="method#zmienNumerPliku#0;class#Plik#0" expanded="false" />
+            <element signature="method#removeSlowko#0;class#Plik#0" expanded="false" />
+            <element signature="method#aktualizacjaArchiwumWGore#0;class#Plik#0" expanded="false" />
+            <element signature="method#aktualizacjaArchiwumWDol#0;class#Plik#0" expanded="false" />
+            <element signature="method#aktualizacjaArchiwumUsunięcie#0;class#Plik#0" expanded="false" />
+            <element signature="method#ifDoReArchiwum#0;class#Plik#0" expanded="false" />
+            <element signature="method#ifDoArchiwum#0;class#Plik#0" expanded="false" />
+            <element signature="method#setExpansionState#0;class#Plik#0" expanded="false" />
+            <element signature="method#getExpansionState#0;class#Plik#0" expanded="false" />
           </folding>
         </state>
       </provider>

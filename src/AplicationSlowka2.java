@@ -11,6 +11,7 @@ import javafx.scene.media.MediaPlayer;
 import javazoom.jl.decoder.JavaLayerException;
 import javazoom.jl.player.Player;
 import net.miginfocom.swing.MigLayout;
+import org.omg.CORBA.portable.*;
 import sun.awt.image.ImageWatched;
 import sun.plugin2.util.ColorUtil;
 import sun.reflect.generics.tree.Tree;
@@ -29,12 +30,10 @@ import java.awt.event.*;
 import java.awt.image.BufferedImage;
 import java.beans.PropertyChangeEvent;
 import java.beans.PropertyChangeListener;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
+import java.io.*;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.nio.file.Files;
 import java.nio.file.Path;
 import java.text.SimpleDateFormat;
 import java.util.*;
@@ -65,9 +64,69 @@ public class AplicationSlowka2 extends JFrame implements TreeSelectionListener{
     DefaultMutableTreeNode pocz;
     List<ListaSepcyficznychLiterek> zbiornikLiter;
     List<Slownik> slowniki;
-
+    Object lastSelectionPathListener;
 
     public AplicationSlowka2(String sciezkaDoUstawienSystemowych) throws IOException, InterruptedException {
+        this.addWindowListener(new WindowAdapter() {
+            public void windowClosing(WindowEvent e) {
+                if (ustawieniaSystemowe.sandbox.equals("Sandboxtrue")) {
+                    String paths[] = new String[0];
+                    File home;
+                    try {
+                        home = new File(".");
+                        paths = home.list(new FilenameFilter() {
+                                              @Override
+                                              public boolean accept(File dir, String filename) {
+                                                  return filename.endsWith(".txt");
+                                              }
+                                          }
+
+                        );
+
+                    } catch (Exception ex) {
+
+                    }
+                    System.out.println(paths.length);
+                    for (String s : paths) {
+                        //try {
+                        //Files.copy(new File("tmp/"+s).toPath(),new File(s).toPath());
+                        Pomocnik_plikowy.DeleteFile(s);
+                        //} catch (IOException e1) {
+                        //   e1.printStackTrace();
+                        //  }
+
+                    }
+
+
+                    paths = new String[0];
+
+                    try {
+                        home = new File("tmp");
+                        paths = home.list(new FilenameFilter() {
+                                              @Override
+                                              public boolean accept(File dir, String filename) {
+                                                  return filename.endsWith(".txt");
+                                              }
+                                          }
+
+                        );
+
+                    } catch (Exception ex) {
+
+                    }
+
+                    for (String s : paths) {
+                        try {
+                            Files.copy(new File("tmp/" + s).toPath(), new File(s).toPath());
+                        } catch (IOException e1) {
+                            e1.printStackTrace();
+                        }
+
+                    }
+                    deleteDirectory(new File("tmp"));
+                }
+            }
+        });
         //----------------Wstępne wczytanie plików systemowych + mechanizm pierwszego rozruchu-------------------------------//
         wczytaniePlikowSystemowych(sciezkaDoUstawienSystemowych);
 
@@ -108,7 +167,7 @@ public class AplicationSlowka2 extends JFrame implements TreeSelectionListener{
 
         double f=0;
 
-        for(int i=0;i<101;i++)
+        /*for(int i=0;i<101;i++)
         {
 //            fakeLabel.setText("Loading "+i+"%"+"...");
             gbutton.setText("Loading "+i+"%"+"...");
@@ -120,7 +179,7 @@ public class AplicationSlowka2 extends JFrame implements TreeSelectionListener{
             else sleep((long)(Math.sin(f)*100));
 
             f+=0.0314;
-        }
+        }*/
         getContentPane().removeAll();
         getContentPane().setBackground(Color.black);
         this.p=z.zbiornik;
@@ -173,7 +232,9 @@ public class AplicationSlowka2 extends JFrame implements TreeSelectionListener{
         getContentPane().add(panel,"w 25%!,h 600:700:"+height+",grow,align left");
         //getContentPane().setLayout(new MigLayout());
         //getContentPane().add(panelRodzajuPracy,"w 740:850:"+width+",h 600:700:"+height+",grow,align right");
+
         getContentPane().add(panelRodzajuPracy,"w 75%,h 600:700:"+height+",grow,align right");
+        //panelRodzajuPracy.add(new JCheckBox("Sandbox"),"align righ,top");
       //  JPanel panelTestowy= new JPanel();
         //panelTestowy.setBackground(Color.red);
         //getContentPane().add(panelTestowy,"w 740:8500:100000,h 600:7000:2000000,align center");
@@ -209,7 +270,8 @@ public class AplicationSlowka2 extends JFrame implements TreeSelectionListener{
 
     }
     private void wczytaniePlikowSystemowych(String systemowe)
-    {try {
+    {
+        try {
         this.slowniki = new LinkedList<>();
         List<UstawieniaSystemowe> list = new LinkedList<>();
         Pomocnik_plikowy.zczytywanie_z_pliku(systemowe, ',', list, UstawieniaSystemowe.class);
@@ -237,11 +299,97 @@ public class AplicationSlowka2 extends JFrame implements TreeSelectionListener{
     }
     catch(Exception e)
     {
+        e.printStackTrace();
+        final JFrame jFrame = new JFrame();
+        JPanel jPanel = new JPanel();
+        jPanel.setLayout(new MigLayout());
+        final JLabel jLabel = new JLabel("Czy to jest twoje pierwsze otwarcie programu?");
+        final JButton jButton = new JButton("Tak");
+        final JButton jButtonNie = new JButton("Nie");
+        final boolean[] flaga = {true};
+
+        jFrame.add(jPanel);
+
+        jPanel.add(jLabel);
+
+        jPanel.add(jButton, "cell 1 1 ");
+        jPanel.add(jButtonNie, "cell 1 2");
+        jFrame.pack();
+        jFrame.setVisible(true);
+        jFrame.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
+        jButtonNie.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+
+                jFrame.dispose();
+            }
+        });
+        jButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                pierwszeZaladowanie();
+                jFrame.dispose();
+            }
+        });
+
+
+        /*if(flaga[0]) {
+            e.printStackTrace();
+            Pomocnik_plikowy.CreateFile("Systemowe.txt");
+            List<UstawieniaSystemowe> l = new LinkedList<>();
+            l.add(new UstawieniaSystemowe("Jezyki.txt", "Słowniki.txt", "Podsumowanie.txt", "Zbiornik.txt", "Tutorial.txt", "Sandboxfalse"));
+            this.ustawieniaSystemowe = l.get(0);
+            Pomocnik_plikowy.zapisywanie_do_pliku("Systemowe.txt", ',', l, UstawieniaSystemowe.class);
+            Pomocnik_plikowy.CreateFile(ustawieniaSystemowe.plikZJezykami);
+
+
+            Pomocnik_plikowy.CreateFile(ustawieniaSystemowe.slowniki);
+
+
+            Pomocnik_plikowy.CreateFile(ustawieniaSystemowe.podsumowanie);
+            Podsumowanie podsumowanie1 = new Podsumowanie(0, 0, 0);
+            List<Podsumowanie> podsumowanieList = new LinkedList<>();
+            podsumowanieList.add(podsumowanie1);
+            Pomocnik_plikowy.zapisywanie_do_pliku(ustawieniaSystemowe.podsumowanie, ',', podsumowanieList, Podsumowanie.class);
+
+
+            Pomocnik_plikowy.CreateFile(ustawieniaSystemowe.zbiornik);
+            this.z = new Zbiornik(ustawieniaSystemowe.zbiornik);
+
+            //addNewLanguage("Angielski");
+            addDefaultEnglish();
+
+
+            this.slowniki = new LinkedList<>();
+
+
+            Pomocnik_plikowy.zczytywanie_z_pliku(this.ustawieniaSystemowe.plikZJezykami, ',', jezyki, Jezyk.class);
+            podsumowanie = new InterfacePodsumowania(this.ustawieniaSystemowe.podsumowanie);
+            zbiornikLiter = new LinkedList<>();
+            for (Jezyk j : jezyki) {
+
+                ListaSepcyficznychLiterek l2 = new ListaSepcyficznychLiterek();
+                l2.jezyk = j.nazwaJezyka;
+
+
+                Pomocnik_plikowy.zczytywanie_z_pliku(j.nazwaJezyka + ".txt", ',', l2.list, SpecyficznaLiterka.class);
+
+                zbiornikLiter.add(l2);
+            }
+            this.z = new Zbiornik(ustawieniaSystemowe.zbiornik);
+            z.pelne_zaladowanie_zbiornika();
+        }*/
+
+    }
+    }
+    public void pierwszeZaladowanie()
+    {
+       // e.printStackTrace();
         Pomocnik_plikowy.CreateFile("Systemowe.txt");
-        List<UstawieniaSystemowe> l= new LinkedList<>();
-        l.add(new UstawieniaSystemowe("Jezyki.txt","Słowniki.txt","Podsumowanie.txt","Zbiornik.txt","Tutorial.txt"));
-        this.ustawieniaSystemowe=l.get(0);
-        Pomocnik_plikowy.zapisywanie_do_pliku("Systemowe.txt",',',l,UstawieniaSystemowe.class);
+        List<UstawieniaSystemowe> l = new LinkedList<>();
+        l.add(new UstawieniaSystemowe("Jezyki.txt", "Słowniki.txt", "Podsumowanie.txt", "Zbiornik.txt", "Tutorial.txt", "Sandboxfalse"));
+        this.ustawieniaSystemowe = l.get(0);
+        Pomocnik_plikowy.zapisywanie_do_pliku("Systemowe.txt", ',', l, UstawieniaSystemowe.class);
         Pomocnik_plikowy.CreateFile(ustawieniaSystemowe.plikZJezykami);
 
 
@@ -249,16 +397,14 @@ public class AplicationSlowka2 extends JFrame implements TreeSelectionListener{
 
 
         Pomocnik_plikowy.CreateFile(ustawieniaSystemowe.podsumowanie);
-        Podsumowanie podsumowanie1= new Podsumowanie(0,0,0);
-        List<Podsumowanie> podsumowanieList= new LinkedList<>();
+        Podsumowanie podsumowanie1 = new Podsumowanie(0, 0, 0);
+        List<Podsumowanie> podsumowanieList = new LinkedList<>();
         podsumowanieList.add(podsumowanie1);
-        Pomocnik_plikowy.zapisywanie_do_pliku(ustawieniaSystemowe.podsumowanie,',',podsumowanieList,Podsumowanie.class);
-
-
+        Pomocnik_plikowy.zapisywanie_do_pliku(ustawieniaSystemowe.podsumowanie, ',', podsumowanieList, Podsumowanie.class);
 
 
         Pomocnik_plikowy.CreateFile(ustawieniaSystemowe.zbiornik);
-        this.z=new Zbiornik(ustawieniaSystemowe.zbiornik);
+        this.z = new Zbiornik(ustawieniaSystemowe.zbiornik);
 
         //addNewLanguage("Angielski");
         addDefaultEnglish();
@@ -282,10 +428,7 @@ public class AplicationSlowka2 extends JFrame implements TreeSelectionListener{
         }
         this.z = new Zbiornik(ustawieniaSystemowe.zbiornik);
         z.pelne_zaladowanie_zbiornika();
-
     }
-    }
-
     private JPanel wepnijDrzewo() throws IOException {
         JPanel panel= new JPanel();
         panel.add(createDrzewo());
@@ -930,7 +1073,7 @@ int flaga=0;
 
                 tree.setSelectionPath(path);
 
-                PomocnikDrzewowy pomocnikDrzewowy= new PomocnikDrzewowy();
+                final PomocnikDrzewowy pomocnikDrzewowy= new PomocnikDrzewowy();
                 //pomocnikDrzewowy.
                 final DefaultMutableTreeNode node =(DefaultMutableTreeNode) tree.getLastSelectedPathComponent();
                 if(SwingUtilities.isRightMouseButton(e))
@@ -938,7 +1081,7 @@ int flaga=0;
 
 
                     if (path != null && node.isLeaf()) {
-
+                        System.out.println(aktualny_plik.getClass());
 
                         // RozwijaneMenuPliku menu1 = new RozwijaneMenuPliku();
 
@@ -1024,7 +1167,13 @@ int flaga=0;
                                         panelRodzajuPracy.removeAll();
                                         try {
                                             // panelRodzajuPracy.add(wepnijPanelListySlowek(),"gapbefore 100,w 400:500:600, h 500:600:700");
-                                            wepnijPanelListySlowek1();
+                                            if(aktualny_plik.getClass().equals(ZagadnienieGramatyczne.class)) {
+                                                ((Grama)aktualny_plik).createShowingJPanel(panelRodzajuPracy);
+                                            }
+                                            else
+                                            {
+                                                wepnijPanelListySlowek1();
+                                            }
 
                                         } catch (IOException e1) {
                                             e1.printStackTrace();
@@ -1040,9 +1189,16 @@ int flaga=0;
                                     public void actionPerformed(ActionEvent e) {
                                         panelRodzajuPracy.removeAll();
                                         //panelRodzajuPracy.add(createDodawanieSlowek(),"c,w 1000:1050:1100,h 1000:1050:10100");
-                                        createDodawanieSlowek1();
+                                        if(aktualny_plik.getClass().equals(ZagadnienieGramatyczne.class))
+                                        {
+                                            ((Grama)aktualny_plik).createCreatingJPanel(panelRodzajuPracy);
+                                        }
+                                        else
+                                        {
+                                            createDodawanieSlowek1();
 
-                                        panelRodzajuPracy.revalidate();
+                                        }
+                                            panelRodzajuPracy.revalidate();
                                         panelRodzajuPracy.setFocusable(true);
                                         //add(createDodawanieSlowek(),"w 1000:1050:1100,h 1000:1050:10100");
                                         // panelRodzajuPracy.setVisible(true);
@@ -1052,9 +1208,10 @@ int flaga=0;
                                 test.addActionListener(new ActionListener() {
                                     @Override
                                     public void actionPerformed(ActionEvent e) {
-                                        panelRodzajuPracy.removeAll();
+                                         if(!aktualny_plik.getClass().equals(Grama.class))
+                                         {panelRodzajuPracy.removeAll();
                                         //panelRodzajuPracy.add(createTest(),"gaptop 150,gapbefore 120,w 400:500:600,h 300:400:500,dock south");
-                                        createTest1();
+                                        createTest1();}
                                         panelRodzajuPracy.revalidate();
                                         panelRodzajuPracy.setVisible(true);
                                         panelRodzajuPracy.repaint();
@@ -1073,8 +1230,8 @@ int flaga=0;
                                         final JFrame jFrame = new JFrame();
                                         JPanel jPanel = new JPanel();
                                         jPanel.setLayout(new MigLayout());
-                                        JLabel jLabel = new JLabel("Nazwa nowej grupy");
-                                        JButton jButton = new JButton("Ustaw");
+                                        final JLabel jLabel = new JLabel("Nazwa nowej grupy");
+                                        final JButton jButton = new JButton("Ustaw");
                                         final JTextField jTextField = new JTextField();
                                         jFrame.add(jPanel);
 
@@ -1140,6 +1297,62 @@ int flaga=0;
                                                     plikZTekstem = "Skrót" + plikZTekstem;
                                                     plikZTekstem += ".txt";
                                                     pomocnik_plikowy.DeleteFile(plikZTekstem);
+
+                                                }
+                                                else if (nowaNazwa[0].contains("!")) {
+                                                    final JFrame jFrame1= new JFrame();
+                                                    JLabel czy= new JLabel("Czy jesteś pewnien, że chcesz zminić rodzaj tematu? Utracisz dane z tego tematu");
+                                                    JButton tak= new JButton("tak");
+                                                    JButton nie= new JButton("nie");
+                                                   jFrame1.setLayout(new MigLayout());
+                                                    jFrame1.add(czy,"wrap");
+                                                    jFrame1.add(tak);
+                                                    jFrame1.add(nie);
+                                                    jFrame1.pack();
+                                                    jFrame1.setVisible(true);
+                                                    jFrame1.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
+                                                    tak.addActionListener(new ActionListener() {
+                                                        @Override
+                                                        public void actionPerformed(ActionEvent e) {
+                                                            /*Pomocnik_plikowy pomocnik_plikowy = new Pomocnik_plikowy();
+                                                            ObsługaNazwowa ob = new ObsługaNazwowa();
+                                                            String plikZTekstem = ob.oddzielNazeOdDaty(nowaNazwa[0]).nazwa;
+                                                            plikZTekstem = "Skrót" + plikZTekstem;
+                                                            plikZTekstem += ".txt";
+                                                            pomocnik_plikowy.DeleteFile(plikZTekstem);*/
+                                                            StatyPlik wsk= aktualny_plik.statyplik;
+                                                           HeadlineGrama headlineGrama= new HeadlineGrama(wsk.nasz+"|"+wsk.obcy+"|"+(wsk.iloscDobrychOdpowiedzi+wsk.iloscZlychOdpowiedzi)+"|");
+
+
+                                                          Vector vector=new Vector();
+                                                          for(Integer i: aktualny_plik.numer)
+                                                          {
+                                                              vector.add(i);
+                                                          }
+
+                                                          vector.remove(vector.size()-1);
+                                                           Pakiet pakiet= z.zwrocPakietPoNumerze(vector);
+                                                            int i=    pakiet.getNumerPliku(aktualny_plik);
+                                                            Vector<Integer> vector1=aktualny_plik.numer;
+                                                            aktualny_plik=new ZagadnienieGramatyczne(aktualny_plik);
+                                                            aktualny_plik.numer=vector1;
+
+                                                            ((ZagadnienieGramatyczne)aktualny_plik).statyplik=headlineGrama;
+                                                            ((ZagadnienieGramatyczne)aktualny_plik).zapis_zmian();
+                                                            pakiet.get_nazwy_plikow().remove(i);
+                                                            pakiet.get_nazwy_plikow().add(i,aktualny_plik);
+                                                            jFrame1.dispose();
+                                                        }
+                                                    });
+
+                                                    nie.addActionListener(new ActionListener() {
+                                                        @Override
+                                                        public void actionPerformed(ActionEvent e) {
+                                                         jFrame1.dispose();
+                                                        }
+                                                    });
+
+
 
                                                 }
 
@@ -2024,6 +2237,7 @@ int flaga=0;
 
 
         sp.setBackground(null);
+        System.out.println("Aktualny plik "+aktualny_plik.getClass());
         return sp;
     }
 
@@ -2593,6 +2807,7 @@ int flaga=0;
 
     public void createTest1() {
         final JPanel panel= panelRodzajuPracy;
+        lastSelectionPathListener=tree.getLastSelectedPathComponent();
        // panel.add(new Gbutton(1,2,"ol"));
         //DrawPanel drawPanel=new DrawPanel();
        // drawPanel.setSize(30,50);
@@ -2765,7 +2980,7 @@ int flaga=0;
         francuskieLiterki.setBorder(new LineBorder(Color.black,1));
         //francuskieLiterki.setBorder(standardBorder);
        // panel.add(sprawdz,"wrap,gapbefore 100,cell 1 2");
-        panel.add(odpowiedz,"cell 0 2 3 2,w 400:500:600,h 150:200:300,ali,gapbefore 120");
+        panel.add(odpowiedz,"cell 0 2 3 2,w 400:500:600,h 150:200:300,ali,gapbefore 120,wrap");
        // panel.add(odpowiedz,"cell 2 0 2 3,w 400:500:600,h 150:200:300,dock south,ali,gapbefore 120");
         panel.add(kierunek,"cell 3 0");
         final JTextField wielkoscGrupy= new JTextField();
@@ -2774,6 +2989,12 @@ int flaga=0;
         panel.add(wielkoscGrupy,"cell 3 1,height 30!,width 40!");
 
         panel.add(grupowanie,"cell 3 1");
+        final JLabel label= new JLabel(aktualny_plik.iloscOdpowiedziDoZakonczeniaTematu()+"");
+        label.setFont(new Font("Dialog", Font.BOLD,150));
+
+        label.setOpaque(false);
+        label.setForeground(Color.YELLOW);
+        panel.add(label,"cell 0 4 3 4,center");
         final CheckBoxList[] checkboxList = new CheckBoxList[1];
 
         if(aktualny_plik.getEnumeracje()!=0){
@@ -2895,13 +3116,20 @@ int flaga=0;
 
                         }
 
-                        panel.add(checkboxList[0], "cell 3 2");
+                        panel.add(checkboxList[0], "cell 3 2,wrap");
+
+
+
+
+
+
                         // panelRodzajuPracy.removeAll();
                         //createTest1();
                         // panelRodzajuPracy.removeAll();
                         //checkboxList[0].revalidate();                //  checkboxList[0].repaint();
                         panelRodzajuPracy.revalidate();
                         panelRodzajuPracy.repaint();
+
 
 
                         // panel.revalidate();
@@ -2936,15 +3164,18 @@ int flaga=0;
         Action wczytajSlowo= new AbstractAction() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                Object object=tree.getLastSelectedPathComponent();
+                //Object object=tree.getLastSelectedPathComponent();
+                //System.out.println("Czy jest? "+ object.toString());
+
+
                 try {
                     aktualny_plik.testGUI(pol, ang, odpowiedz,podsumowanie,getArchiwumForFile(aktualny_plik,z),tree);
-
+                    label.setText(aktualny_plik.iloscOdpowiedziDoZakonczeniaTematu()+"");
                 }
                 catch(GratulacjeException ge)
                 {
                   //  DefaultMutableTreeNode node =(DefaultMutableTreeNode) tree.getLastSelectedPathComponent();
-                    DefaultMutableTreeNode node =(DefaultMutableTreeNode) object;
+                    DefaultMutableTreeNode node =(DefaultMutableTreeNode) lastSelectionPathListener;//tu jest coś posrane kkk
 
                   //  String test=(String)node.getUserObject();
 
@@ -3145,6 +3376,29 @@ int flaga=0;
         jMenuBar.add(jMenu);
         this.panelRodzajuPracy.add(jLabel2);
         this.panelRodzajuPracy.add(jMenuBar);
+
+        Button generateFolder= new Button("Stwórz folder");
+        this.panelRodzajuPracy.add(generateFolder);
+
+        generateFolder.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                String pulpit=System.getProperty("user.home") + "\\Desktop";
+                String newPath=pulpit+ "\\"+grupa.nazwa_pakietu;
+                boolean success = (new File(newPath)).mkdirs();
+                if (success) {
+                    // Directory creation failed
+                    for(Pakiet p:z.poziom_nizej(grupa))
+                    {
+                        p.saveToFolderTree(newPath,z);
+                    }
+                    for(Plik p: grupa.get_nazwy_plikow())
+                    {
+                        p.saveToFolderTree(newPath);
+                    }
+                }
+            }
+        });
         //this.panelRodzajuPracy.add(jButton);
 
         this.panelRodzajuPracy.revalidate();
@@ -3154,11 +3408,63 @@ int flaga=0;
     {
         this.panelRodzajuPracy.removeAll();
         this.panelRodzajuPracy.setLayout(new MigLayout("fillx"));
+
         JLabel jlabel= new JLabel("Aplikacja");
         Font tytulowa=new Font("Dialog",Font.BOLD,35);
         jlabel.setFont(tytulowa);
-        this.panelRodzajuPracy.add(jlabel,"align center,wrap");
+        this.panelRodzajuPracy.add(jlabel,"align center");
+        JCheckBox jCheckBox=new JCheckBox("Sandbox");
+        jCheckBox.setBackground(null);
 
+        panelRodzajuPracy.add(jCheckBox,"align righ,top,wrap,cell 3 0");
+        jCheckBox.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                if(ustawieniaSystemowe.sandbox.equals("Sandboxfalse"))
+                {
+                    ustawieniaSystemowe.sandbox="Sandboxtrue";
+                    File dir = new File("tmp");
+                    dir.mkdir();
+                    String paths[] = new String[0];
+                    File home;
+                    try
+                    {
+                        home= new File(".");
+                        paths=home.list(new FilenameFilter()
+                        {
+                            @Override
+                            public boolean accept(File dir,String filename)
+                            {
+                                return filename.endsWith(".txt");
+                            }
+                        }
+
+                        );
+
+                    }
+                    catch(Exception ex)
+                    {
+
+                    }
+                    System.out.println(paths.length);
+                    for(String s:paths)
+                    {
+                        try {
+                            Files.copy(new File(s).toPath(),new File("tmp/"+s).toPath());
+                        } catch (IOException e1) {
+                            e1.printStackTrace();
+                        }
+
+                    }
+
+                }
+                else if(ustawieniaSystemowe.sandbox.equals("Sandboxtrue"))
+                {
+                    ustawieniaSystemowe.sandbox="Sandboxfalse";
+                    deleteDirectory(new File("tmp"));
+                }
+            }
+        });
         JLabel dodajJezyk= new JLabel("Dodaj nowy język");
         final JTextField nazwaNowegoJezyka= new JTextField();
         JButton dodajWpisanyJezyk= new JButton("Dodaj");
@@ -3848,18 +4154,24 @@ int flaga=0;
     }
     public void zczytywanieSlownikow(String sciezkaDoSlownikow)
     {
+        try {
 
-        List<Strin> listtmp= new LinkedList<>();
-       Pomocnik_plikowy.zczytywanie_z_pliku(sciezkaDoSlownikow,',',listtmp,Strin.class);
-       for(Strin str:listtmp)
-       {
-           Slownik slownik= new Slownik();
-           slownik.nazwaSlownika=str.string.toString();
-            slownik.jezyk1=ObsługaNazwowa.getJezyk1(str.string);
-            slownik.jezyk2=ObsługaNazwowa.getJezyk2(str.string);
-            Pomocnik_plikowy.zczytywanie_z_pliku(slownik.nazwaSlownika+".txt",'-',slownik.slowka,Word.class);
+            List<Strin> listtmp = new LinkedList<>();
+            Pomocnik_plikowy.zczytywanie_z_pliku(sciezkaDoSlownikow, ',', listtmp, Strin.class);
+            for (Strin str : listtmp) {
+                Slownik slownik = new Slownik();
+                slownik.nazwaSlownika = str.string.toString();
+                slownik.jezyk1 = ObsługaNazwowa.getJezyk1(str.string);
+                slownik.jezyk2 = ObsługaNazwowa.getJezyk2(str.string);
+                Pomocnik_plikowy.zczytywanie_z_pliku("Slowniki\\" + slownik.nazwaSlownika + ".txt", '-', slownik.slowka, Word.class);
                 this.slowniki.add(slownik);
-       }
+            }
+        }
+        catch(Exception e)
+        {
+            System.out.println(e);
+        }
+
     }
     public void addNewLanguage(String nazwaNowegoJezyka)
     {
@@ -4174,4 +4486,27 @@ int flaga=0;
             zbiornikLiter.add(l);
 
     }
+
+    private static void copyFileUsingJava7Files(Path source, Path dest) throws IOException {
+        Files.copy(source, dest);
+    }
+    public static boolean deleteDirectory(File directory) {
+        if(directory.exists()){
+            File[] files = directory.listFiles();
+            if(null!=files){
+                for(int i=0; i<files.length; i++) {
+                    if(files[i].isDirectory()) {
+                        deleteDirectory(files[i]);
+                    }
+                    else {
+                        files[i].delete();
+                    }
+                }
+            }
+        }
+        return(directory.delete());
+    }
+
+
+
 }

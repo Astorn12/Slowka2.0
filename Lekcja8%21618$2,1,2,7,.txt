@@ -1,35 +1,35 @@
-pol,francuski,0,,0,0,0,3,Angielski,n
-tydzień,la semaine,0,i,-1,3,0,3,Angielski,n
-spotkanie,le rendez-vous,0,i,0,3,0,3,Angielski,n
-dzień tygodnia,le jour de la semaine,0,i,-1,3,0,3,Angielski,n
-weekend,le week-end,0,i,0,3,0,3,Angielski,n
-ranek,le matin,0,i,-1,3,0,3,Angielski,n
-popołudnie,l'après-midi,0,i,-1,3,0,3,Angielski,n
-wieczór,le soir,0,i,0,3,0,3,Angielski,n
-poniedziałek,lundi,0,i,-1,3,0,3,Angielski,n
-wtorek,mardi,0,i,-1,3,0,3,Angielski,n
-środa,mercredi,0,i,0,3,0,3,Angielski,n
-czwartek,jeudi,0,angi,0,3,0,3,Angielski,n
-piątek,vendredi,0,i,0,3,0,3,Angielski,n
-sobota,samedi,0,i,0,3,0,3,Angielski,n
-niedziela,dimanche,0,i,0,3,0,3,Angielski,n
-noc,la nuit,0,i,-1,3,0,3,Angielski,n
-wczoraj,hier,0,i,0,3,0,3,Angielski,n
-przedwczoraj,avant-hier,0,i,0,3,0,3,Angielski,n
-jutro,demain,0,i,0,3,0,3,Angielski,n
-pojutrze,après-demain,0,i,-1,3,0,3,Angielski,n
-nigdy,jamais,0,i,0,3,0,3,Angielski,n
-czasami,de temps an temps,0,i,-1,3,0,3,Angielski,n
-często,souvent,0,i,0,3,0,3,Angielski,n
-zawsze,toujours,0,i,-1,3,0,3,Angielski,n
-przyszły piątek,vendredi prochain,0,i,0,3,0,3,Angielski,n
-zeszły piątek,vendredi dernier,0,i,0,3,0,3,Angielski,n
-Jaki dzisiaj jest dzień(tygodnia)?,Quel jour on est?,0,angi,-1,3,0,3,Angielski,n
-Który jest dzisiaj?,On est le combien?,0,angi,-1,3,0,3,Angielski,n
+polski,francuski,0,,6,0,0,3,Angielski,n
+tydzień,la semaine,1,i,-1,3,0,3,Angielski,n
+spotkanie,le rendez-vous,1,i,0,3,0,3,Angielski,n
+dzień tygodnia,le jour de la semaine,1,i,-1,3,0,3,Angielski,n
+weekend,le week-end,1,i,0,3,0,3,Angielski,n
+ranek,le matin,1,i,-1,3,0,3,Angielski,n
+popołudnie,l'après-midi,2,i,0,3,0,3,Angielski,n
+wieczór,le soir,1,i,0,3,0,3,Angielski,n
+poniedziałek,lundi,1,i,-1,3,0,3,Angielski,n
+wtorek,mardi,1,i,-1,3,0,3,Angielski,n
+środa,mercredi,1,i,0,3,0,3,Angielski,n
+czwartek,jeudi,1,angi,0,3,0,3,Angielski,n
+piątek,vendredi,1,i,0,3,0,3,Angielski,n
+sobota,samedi,1,i,0,3,0,3,Angielski,n
+niedziela,dimanche,1,i,0,3,0,3,Angielski,n
+noc,la nuit,1,i,-1,3,0,3,Angielski,n
+wczoraj,hier,1,i,0,3,0,3,Angielski,n
+przedwczoraj,avant-hier,1,i,0,3,0,3,Angielski,n
+jutro,demain,1,i,0,3,0,3,Angielski,n
+pojutrze,après-demain,2,i,0,3,0,3,Angielski,n
+nigdy,jamais,1,i,0,3,0,3,Angielski,n
+czasami,de temps an temps,1,i,-1,3,0,3,Angielski,n
+często,souvent,1,i,0,3,0,3,Angielski,n
+zawsze,toujours,1,i,-1,3,0,3,Angielski,n
+przyszły piątek,vendredi prochain,1,i,0,3,0,3,Angielski,n
+zeszły piątek,vendredi dernier,1,i,0,3,0,3,Angielski,n
+Jaki dzisiaj jest dzień(tygodnia)?,Quel jour on est?,1,angi,-1,3,0,3,Angielski,n
+Który jest dzisiaj?,On est le combien?,1,angi,-1,3,0,3,Angielski,n
 miesiące,les mois,3,ang,0,0,0,0,Angielski,n
 styczeń,janvier,3,ang,0,0,0,0,Angielski,n
 luty,février,3,ang,0,0,0,0,Angielski,n
-marzec,mars,3,ang,0,0,0,0,Angielski,n
+marzec,mars,4,ang,0,0,0,0,Angielski,n
 kwiecień,avril,3,ang,0,0,0,0,Angielski,n
 maj,mai,3,ang,0,0,0,0,Angielski,n
 czwerwiec,juin,3,ang,0,0,0,0,Angielski,n
@@ -42,9 +42,9 @@ grudzień,décember,3,ang,0,0,0,0,Angielski,n
 Boże Narodzenie,Noël,3,ang,0,0,0,0,Angielski,n
 Wielkonoc,Pâques,3,ang,0,0,0,0,Angielski,n
 święto narodowe,la fête nationale,3,ang,0,0,0,0,Angielski,n
-Święto Pracy,la journée du travail,3,ang,0,0,0,0,Angielski,n
+Święto Pracy,la journée du travail,4,ang,0,0,0,0,Angielski,n
 Nowy Rok,le Jour de l'an,3,ang,0,0,0,0,Angielski,n
-Zielone Świątki,la Pentecôte,3,ang,0,0,0,0,Angielski,n
+Zielone Świątki,la Pentecôte,4,ang,0,0,0,0,Angielski,n
 dzisiaj,aujourd'hui,3,ang,0,0,0,0,Angielski,n
 który jest dzisiaj(2),Nous sommes le combien?,3,ang,0,0,0,0,Angielski,n
-tutaj/tam,là,3,ang,0,0,0,0,Angielski,n
+tutaj/tam,là,4,ang,0,0,0,0,Angielski,n

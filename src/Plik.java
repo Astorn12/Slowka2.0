@@ -13,6 +13,7 @@ import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.lang.reflect.Field;
+import java.nio.file.Files;
 import java.nio.file.Path;
 import java.text.SimpleDateFormat;
 import java.util.*;
@@ -22,17 +23,17 @@ import java.util.List;
  * Created by osiza on 24.09.2017.
  */
 public class Plik {
-    public String nazwa_systemowa;
-    protected String nazwa_pliku;
+    public String nazwa_systemowa;//
+    protected String nazwa_pliku;//
     public List<Slowo> lista;
-    public Vector<Integer> numer;
+    public Vector<Integer> numer;//
     public int aktualnePytanie;
     protected int iloscUdzielonychOdpowiedzi;
     public boolean polang;
 
     public String date;
     public StatyPlik statyplik;
-    public boolean juzZmienione;
+    public boolean juzZmienione;//
     // public enum Rodzaj{piosenka,tekst, archiwum,technikaDziecka;}
 
     Plik() {
@@ -109,7 +110,7 @@ public class Plik {
 
     }
 
-    void zapis_zmian() {
+    public void zapis_zmian() {
         Pomocnik_plikowy p = new Pomocnik_plikowy();
 
 
@@ -1215,8 +1216,8 @@ public class Plik {
     private String manipulatorZapytan(String zapytanie) {
 
         if (zapytanie.contains(";") || zapytanie.contains("/")) {
-            String odpowiedz = "";
-            char[] tabchar = odpowiedz.toCharArray();
+           // String odpowiedz = "";
+            char[] tabchar = zapytanie.toCharArray();
             Vector<String> vector = new Vector<>();
             String tmp = "";
             for (char c : tabchar) {
@@ -1230,7 +1231,9 @@ public class Plik {
             }
             Random random = new Random();
             //int mtp=random.nextInt(vector.size()-1);
-            return vector.get(random.nextInt(vector.size()) - 1);
+            //int z=random.nextInt(vector.size())>1 ? random.nextInt(vector.size())-1:random.nextInt(vector.size());
+
+            return vector.get(random.nextInt(vector.size())-1);
             //return "jeden";
         } else {
             return zapytanie;
@@ -1546,7 +1549,19 @@ public class Plik {
         return sb.toString();
 
     }
-    
+
+
+    public void saveToFolderTree(String path)
+    {
+        try {
+
+            Files.copy(new File(this.nazwa_systemowa).toPath(),new File(path+"\\"+this.getNazwaBezDany()+".txt").toPath());
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+
     /* public void rightClickPopupMenu(JPopupMenu menu,final AplicationSlowka2 thi, final DefaultMutableTreeNode node)
     {
         JMenuItem listaSlowek = new JMenuItem("Lista słówek");
@@ -1963,337 +1978,6 @@ public class Plik {
                                         tekst+=thi.aktualny_plik.numer.get(i)+",";
                                     }*/
             /*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -1,40 +1,40 @@
-pol,francuski,0,,0,0,0,3,Angielski,n
+polski,francuski,0,,68,106,0,3,Angielski,n
 śniadanie,le petit-déjeuner,0,i,-1,3,0,3,Angielski,n
-myć się,se laver,0,i,-2,3,0,3,Angielski,n
+myć się,se laver,0,i,-3,3,0,3,Angielski,n
 ubierać się,s'habiller,0,i,-1,3,0,3,Angielski,n
 już czas,c'est l'heure,0,i,-1,3,0,3,Angielski,n
 golić się,se raser,0,i,-1,3,0,3,Angielski,n
-czesać się,se coiffer,0,i,-2,3,0,3,Angielski,n
+czesać się,se coiffer,0,i,-1,3,0,3,Angielski,n
 malować się,se maquiller,0,i,-1,3,0,3,Angielski,n
 szkoła,l'école,0,i,-1,3,0,3,Angielski,n
-wcześnie,tôt,0,i,-2,3,0,3,Angielski,n
-późno,tard,0,i,-3,3,0,3,Angielski,n
-my bierzemy,nous prenons,0,i,-2,3,0,3,Angielski,n
-brać,prendre,0,i,-2,3,0,3,Angielski,n
-ponieważ,car,0,i,-2,3,0,3,Angielski,n
-mieć lekcje,avoir des cours,0,i,-3,3,0,3,Angielski,n
-autobus,le bus,0,i,-2,3,0,3,Angielski,n
+wcześnie,tôt,0,i,-1,3,0,3,Angielski,n
+późno,tard,0,i,-1,3,0,3,Angielski,n
+my bierzemy,nous prenons,0,i,-3,3,0,3,Angielski,n
+brać,prendre,0,i,-3,3,0,3,Angielski,n
+ponieważ,car,0,i,-3,3,0,3,Angielski,n
+mieć lekcje,avoir des cours,0,i,-1,3,0,3,Angielski,n
+autobus,le bus,0,i,-3,3,0,3,Angielski,n
 wracać do domu,rentrer,0,i,-1,3,0,3,Angielski,n
 przekąska,le goûter,0,,-1,3,0,3,Angielski,n
 kolacja,le dîner,0,i,-1,3,0,3,Angielski,n
-kończyć,finir,0,i,-2,3,0,3,Angielski,n
+kończyć,finir,0,i,-3,3,0,3,Angielski,n
 zmywać naczynia,faire la vaisselle,0,,-1,3,0,3,Angielski,n
-isć spać,se coucher,0,i,-3,3,0,3,Angielski,n
-przed,avant,0,i,-2,3,0,3,Angielski,n
-po,après,0,i,-1,3,0,3,Angielski,n
+isć spać,se coucher,0,i,-1,3,0,3,Angielski,n
+przed,avant,0,i,-1,3,0,3,Angielski,n
+po,après,0,i,-2,3,0,3,Angielski,n
 w tym czasie,pendant ce temps,0,i,-1,3,0,3,Angielski,n
 prace domowe,les devoirs,0,,-1,3,0,3,Angielski,n
-spać,dormir,0,i,-2,3,0,3,Angielski,n
-długo,longtemps,0,i,-3,3,0,3,Angielski,n
-ręcznik,la serviette,0,i,-2,3,0,3,Angielski,n
-klucz,la clé,0,i,-2,3,0,3,Angielski,n
-lustro,le miroir,0,i,-3,3,0,3,Angielski,n
-parasol,le parapluie,0,i,-2,3,0,3,Angielski,n
+spać,dormir,0,i,-1,3,0,3,Angielski,n
+długo,longtemps,0,i,-1,3,0,3,Angielski,n
+ręcznik,la serviette,0,i,-1,3,0,3,Angielski,n
+klucz,la clé,0,i,-1,3,0,3,Angielski,n
+lustro,le miroir,0,i,-1,3,0,3,Angielski,n
+parasol,le parapluie,0,i,-3,3,0,3,Angielski,n
 wieszak,la porte-manteau,0,,-1,3,0,3,Angielski,n
 poduszka,le coussin,0,,-1,3,0,3,Angielski,n
 wstawać,se lever,0,ang,-1,0,0,0,Angielski,n
 potem,puis,0,ang,-1,0,0,0,Angielski,n
 zaczynać,commencer,0,ang,-1,0,0,0,Angielski,n
 zdołać zrobić,réussir à,0,ang,-1,0,0,0,Angielski,n
-zbierać/łączyć,rénuir,0,ang,-1,0,0,0,Angielski,n
+zbierać/łączyć,rénuir,1,ang,0,0,0,0,Angielski,n
 wybierać,choisir,0,ang,-1,0,0,0,Angielski,n

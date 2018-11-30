@@ -1,4 +1,5 @@
 import javax.swing.event.TreeSelectionEvent;
+import java.io.File;
 import java.util.*;
 
 /**
@@ -197,6 +198,17 @@ public class Pakiet {
             p.juzZmienione=false;
         }
     }
+    public int getNumerPliku(Plik plik)
+    {
+        for(int i=0;i<this.get_nazwy_plikow().size();i++)
+        {
+            if(plik.equals(get_nazwy_plikow().get(i)))
+            {
+                return i;
+            }
+        }
+        return 1000;
+    }
 
 
 
@@ -275,4 +287,22 @@ public class Pakiet {
     }
 
 
+
+    public void saveToFolderTree(String path,Zbiornik z)
+    {
+        String newPath=path+"\\"+this.nazwa_pakietu;
+
+        boolean success = new File(newPath).mkdirs();
+        if (success) {
+            for(Plik p: this.pliki)
+            {
+                p.saveToFolderTree(newPath);
+            }
+            for(Pakiet p: z.poziom_nizej(this))
+            {
+                p.saveToFolderTree(newPath,z);
+            }
+
+        }
+    }
 }

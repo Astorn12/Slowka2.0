@@ -261,8 +261,13 @@ public class Zbiornik /*extends Pakiet*/ {
                 {
                 plik= new PlikZTekstem();
                 }
+                else if(this.zbiornik.get(i).get_nazwa_pakietu().contains("!"))
+                {
+                    plik= new ZagadnienieGramatyczne();
+                }
                 else
-                {plik= new Plik();}
+                {
+                    plik= new Plik();}
 
                /* int dlugoscnazwy=0;
                 while(this.zbiornik.get(i).get_nazwa_pakietu().toCharArray()[dlugoscnazwy]!='%')
@@ -820,7 +825,10 @@ if(!pakiet.juzZmienione) {
 
         if(grupa.get_nazwy_plikow().size()>0)
         {
-            return grupa.get_nazwy_plikow().get(0).statyplik.obcy;
+           // System.out.println(grupa.get_nazwa_pakietu());
+           // if(grupa.get_nazwy_plikow().get(0).getClass().equals(ZagadnienieGramatyczne.class)) {
+                return grupa.get_nazwy_plikow().get(0).statyplik.obcy;
+            //}
         }
         else
         {
