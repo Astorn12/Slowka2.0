@@ -1,0 +1,14 @@
+polski,francuski,0,,19,47,0,0,angielski,n
+myśleć,penser,0,angi,-2,0,0,0,angielski,n
+przypuszczać,croire,0,angi,-1,0,0,0,angielski,n
+wątroba,le foie,0,angi,-2,0,0,0,angielski,n
+cukierek,le bonbon,0,angi,-1,0,0,0,angielski,n
+parzyć,brùler,0,angi,-2,0,0,0,angielski,n
+Jest bardzo źle.,Ça va très mal.,0,angi,-2,0,0,0,angielski,n
+leczenie,le traitement,0,ang,-1,0,0,0,angielski,n
+kumpel,le pote,0,ang,-1,0,0,0,angielski,n
+leczyć,soigner,0,angi,-1,0,0,0,angielski,n
+zbyt wcześnie,trop tôt,0,angi,-2,0,0,0,angielski,n
+tak!,ouais!,0,angi,-1,0,0,0,angielski,n
+prowadzić,conduire,0,ang,-1,0,0,0,angielski,n
+Bzdury.,N'importe quoi.,0,ang,-1,0,0,0,angielski,n

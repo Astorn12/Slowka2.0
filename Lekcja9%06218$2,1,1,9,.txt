@@ -1,4 +1,4 @@
-pol,francuski,0,,0,0,0,3,Angielski,n
+polski,francuski,0,,0,0,0,3,Angielski,n
 gwiazdy,les étoiles,4,angi,1,3,0,3,Angielski,n
 ogień,le feu,0,angi,1,3,0,3,Angielski,n
 morze,la mer,0,angi,1,3,0,3,Angielski,n

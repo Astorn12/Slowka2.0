@@ -1,0 +1,4 @@
+polski,angielski,0,,0,20,0,0,angielski,n
+psy,psy,0,ang,-6,0,0,0,angielski,n
+osk,osk,0,ang,-4,0,0,0,angielski,n
+kat,kat,0,ang,-4,0,0,0,angielski,n

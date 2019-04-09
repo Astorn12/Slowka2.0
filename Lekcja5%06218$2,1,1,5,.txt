@@ -1,4 +1,4 @@
-pol,francuski,0,,0,0,0,3,Angielski,n
+polski,francuski,0,,0,0,0,3,Angielski,n
 gotować,cuisiner,0,frai,1,3,0,3,Angielski,n
 zapomnieć,oublier,0,frai,1,3,0,3,Angielski,n
 obserwować,observer,1,frai,1,3,0,3,Angielski,n

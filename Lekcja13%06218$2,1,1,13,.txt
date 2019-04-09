@@ -1,4 +1,4 @@
-pol,francuski,0,,0,0,0,3,Angielski,n
+polski,francuski,0,,0,0,0,3,Angielski,n
 radzić,conseiller,3,ang,1,3,0,3,Angielski,n
 słuchać,écouter,3,ang,1,3,0,3,Angielski,n
 płyta,le disques,3,ang,1,3,0,3,Angielski,n

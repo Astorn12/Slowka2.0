@@ -1,0 +1,5 @@
+polski,francuski,0,,0,0,0,0,angielski,n,
+myśleć,penser,1,francuski,0,0,0,0,angielski,n,119-122
+przypuszczać,croire,1,francuski,0,0,0,0,angielski,n,9-17
+wątroba,le foie,1,francuski,0,0,0,0,angielski,n,175-178
+co,que,1,francuski,0,0,0,0,angielski,n,290-296

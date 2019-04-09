@@ -1,0 +1,26 @@
+polski,francuski,0,,79,129,0,3,Angielski,n
+oddzielny,séparé,0,i,-1,3,0,3,Angielski,n
+schody,l'escalier,0,i,-2,3,0,3,Angielski,n
+winda,l'ascenseur,0,i,-1,3,0,3,Angielski,n
+na końcu,à la fin,0,i,-1,3,0,3,Angielski,n
+cudowny,formidable,0,i,-1,3,0,3,Angielski,n
+z tyłu,au fond de,0,i,-1,3,0,3,Angielski,n
+używać,utiliser,0,i,-1,3,0,3,Angielski,n
+być przyjmowanym,se prendre,0,i,-1,3,0,3,Angielski,n
+bar,le bar,0,i,-3,3,0,3,Angielski,n
+cennik,les tarifs,0,i,-1,3,0,3,Angielski,n
+wywieszony,affiché,0,i,-1,3,0,3,Angielski,n
+zajmować się kimś/czymś,s'occuper de qn/qc,0,i,-1,3,0,3,Angielski,n
+bagaż,les bagages,0,i,-1,3,0,3,Angielski,n
+Miłego pobytu!,Bon séjour!,0,i,-1,3,0,3,Angielski,n
+łóżko,le lit,0,i,-3,3,0,3,Angielski,n
+pokój jednoosobowy,la chambre individuelle,0,i,-1,3,0,3,Angielski,n
+pokój dwuosobowy,la chambre double,0,i,-3,3,0,3,Angielski,n
+recepcja,la réception,0,i,-1,3,0,3,Angielski,n
+przyczepa kempingowa,la caravane,0,i,-1,3,0,3,Angielski,n
+namiot,la tente,0,i,-1,3,0,3,Angielski,n
+kamper,le camping-car,0,i,-1,3,0,3,Angielski,n
+wiewiórka,l'écureuil,0,,-1,3,0,3,Angielski,n
+makaraon,les nouilles,0,i,-2,3,0,3,Angielski,n
+pomiędzy,entre,0,i,-2,3,0,3,Angielski,n
+gotówka,le liquide,0,i,-1,3,0,3,Angielski,n

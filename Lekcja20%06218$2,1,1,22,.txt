@@ -1,4 +1,4 @@
-pol,francuski,0,,0,0,0,3,Angielski,n
+polski,francuski,0,,0,0,0,3,Angielski,n
 siekiera,la hache,3,ang,0,3,0,3,Angielski,n
 czekać,attendre,3,ang,0,3,0,3,Angielski,n
 chcieć,vouloir,3,ang,0,3,0,3,Angielski,n

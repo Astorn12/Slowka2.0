@@ -1,0 +1,4 @@
+polski,francuski,0,,12,17,0,3,angielski,n
+1,1,0,ang,-1,0,0,0,angielski,n
+2,2,5,ang,0,0,0,0,angielski,n
+3,3,1,ang,-1,0,0,0,angielski,n

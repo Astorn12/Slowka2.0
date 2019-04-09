@@ -1,0 +1,19 @@
+polski,francuski,0,,55,91,0,3,Angielski,n
+wypadek,l'accident,0,i,-1,3,0,3,Angielski,n
+popsuć się,tomber en panne,0,i,-1,3,0,3,Angielski,n
+pomoc drogowa,le service de dépannage,0,i,-1,3,0,3,Angielski,n
+ranny,le blessé,0,i,-1,3,0,3,Angielski,n
+karetka pogotowani,l'ambulance,0,i,-1,3,0,3,Angielski,n
+zranić się,se blesser,0,i,-1,3,0,3,Angielski,n
+Pożar!,Au feu!,0,i,-2,3,0,3,Angielski,n
+wybierać(numer),faire le...,0,i,-2,3,0,3,Angielski,n
+Pomocy!,Au secours!,0,i,-1,3,0,3,Angielski,n
+upadać,tomber,0,i,-2,3,0,3,Angielski,n
+chodnik,le trottoir,0,i,-2,3,0,3,Angielski,n
+zrobić sobie coś złego,se faire mal,0,i,-3,3,0,3,Angielski,n
+izba przyjęć,les urgences,0,i,-1,3,0,3,Angielski,n
+bandaże,le bandage,0,i,-1,3,0,3,Angielski,n
+kule,les béquilles,0,i,-1,3,0,3,Angielski,n
+urodzić dziecko,avoir un bébé,0,i,-1,3,0,3,Angielski,n
+w ciąży,enceinte,0,i,-1,3,0,3,Angielski,n
+wyjeżdżać,sortir,0,i,-2,3,0,3,Angielski,n

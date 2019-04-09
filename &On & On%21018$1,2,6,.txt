@@ -1,4 +1,4 @@
-pol,﻿angielski,0,,0,0,0,0,Angielski,n
+polski,angielski,0,,0,0,0,0,Angielski,n
 ledwie,barely,0,ang,-2,0,0,0,Angielski,n
 bez końca,on and on,0,ang,-2,0,0,0,Angielski,n
 pustkowie,wasteland,0,ang,-1,0,0,0,Angielski,n

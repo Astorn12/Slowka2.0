@@ -1,4 +1,4 @@
-pol,﻿angielski,0,,0,0,0,3,Angielski,n
+polski,angielski,0,,0,0,0,3,Angielski,n
 sumienny,conscientious,0,,-1,1,0,0,Angielski,n
 stanowczy/zdecydowany,decisive,0,,-1,1,0,0,Angielski,n
 twardo stąpający po ziemi,down-to-earth,0,,-1,1,0,0,Angielski,n

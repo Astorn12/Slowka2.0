@@ -1,4 +1,4 @@
-pol,﻿angielski,0,,0,0,0,3,Angielski,n
+polski,angielski,0,,0,0,0,3,Angielski,n
 bliźniak,twin,0,angi,-2,1,0,3,Angielski,n
 poślizgnąć się;wyślizgnąć się,slip,0,angi,-1,1,0,3,Angielski,n
 nieznaczny;drobny,slight,0,angi,-1,1,0,3,Angielski,n

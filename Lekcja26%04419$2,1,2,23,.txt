@@ -1,0 +1,45 @@
+polski,francuski,0,,113,201,0,3,Angielski,n
+dzień,la journée,0,i,-1,3,0,3,Angielski,n
+las,le bois,0,i,-1,3,0,3,Angielski,n
+bez,sans,0,i,-2,3,0,3,Angielski,n
+drzewo,l'arbre,0,i,-4,3,0,3,Angielski,n
+krajobraz,le paysage,0,i,-1,3,0,3,Angielski,n
+zwierzę,l'animal,0,i,-4,3,0,3,Angielski,n
+powietrze,l'air,0,i,-1,3,0,3,Angielski,n
+zanieczyszczony,pollué,0,i,-1,3,0,3,Angielski,n
+ptak,l'oiseau,0,i,-4,3,0,3,Angielski,n
+zmęczony,fatigué,0,i,-2,3,0,3,Angielski,n
+jezioro,le lac,0,i,-2,3,0,3,Angielski,n
+malowniczy,pittoresque,0,i,-2,3,0,3,Angielski,n
+las2,la forêt,0,i,-2,3,0,3,Angielski,n
+tam,là-bas,0,i,-2,3,0,3,Angielski,n
+pełny,plein,0,i,-2,3,0,3,Angielski,n
+jest piękna pogoda,il fait beau,0,i,-1,3,0,3,Angielski,n
+hałas,le bruit,0,,-1,3,0,3,Angielski,n
+wyrzucać,jeter,0,i,-1,3,0,3,Angielski,n
+kosz na śmieci,la poubelle,0,i,-1,3,0,3,Angielski,n
+zbierać,ramasser,0,,-1,3,0,3,Angielski,n
+śmieci,les ordures,0,,-2,3,0,3,Angielski,n
+rzeka,la rivière,0,i,-1,3,0,3,Angielski,n
+rzeka(wpadająca do morza),le fleuve,0,i,-1,3,0,3,Angielski,n
+góra,la montagne,0,i,-1,3,0,3,Angielski,n
+pole,le champ,0,,-2,3,0,3,Angielski,n
+wzgórze,la colline,0,,-1,3,0,3,Angielski,n
+wyspa,l'île,0,i,-1,3,0,3,Angielski,n
+natura,la nature,0,i,-2,3,0,3,Angielski,n
+środowisko,l'environnement,0,i,-2,3,0,3,Angielski,n
+chronić,protéger,0,i,-1,3,0,3,Angielski,n
+ptak,l'oiseau,0,i,-3,3,0,3,Angielski,n
+pies,le chien,0,i,-3,3,0,3,Angielski,n
+kot,le chat,0,i,-4,3,0,3,Angielski,n
+krowa,la vache,0,i,-2,3,0,3,Angielski,n
+świnia,le cochon,0,i,-2,3,0,3,Angielski,n
+kogut,le coq,0,i,-2,3,0,3,Angielski,n
+być głodny,avoir faim,0,i,-2,3,0,3,Angielski,n
+teraz,maintenant,0,i,-2,3,0,3,Angielski,n
+wracać,rentrer,0,i,-1,3,0,3,Angielski,n
+przychodzić,venir,0,,-1,3,0,3,Angielski,n
+dawać,donner,0,i,-2,3,0,3,Angielski,n
+ścieżka,le sentier,0,i,-1,3,0,3,Angielski,n
+opuszczać/porzucać,quitter,0,,-1,3,0,3,Angielski,n
+trawnik,la pelouse,0,ang,-1,3,0,3,Angielski,n

@@ -1,4 +1,4 @@
-pol,﻿angielski,0,,0,0,0,0,angielski,n
+polski,angielski,0,,0,0,0,0,angielski,n
 krawiec,tailor,3,ang,0,0,0,0,angielski,n
 hazardzista,gambling man,3,ang,0,0,0,0,angielski,n
 hazardzista,gambler,3,ang,0,0,0,0,angielski,n

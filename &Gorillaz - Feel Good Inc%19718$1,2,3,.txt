@@ -1,4 +1,4 @@
-pol,﻿angielski,0,,0,0,0,0,Angielski,n
+polski,angielski,0,,0,0,0,0,Angielski,n
 rozbić się na,break down on,0,angi,-1,0,0,0,Angielski,n
 grzmotnąć,whack,0,angi,-1,0,0,0,Angielski,n
 pociągający,appealing,0,angi,-1,0,0,0,Angielski,n

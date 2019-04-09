@@ -1,4 +1,4 @@
-pol,﻿angielski,0,,0,0,0,3,Angielski,n
+polski,angielski,0,,0,0,0,3,Angielski,n
 mruczeć,purr,0,ang,-1,1,0,0,Angielski,n
 drapać,scratch,0,ang,-1,1,0,0,Angielski,n
 grzech,sin,0,ang,-1,1,0,0,Angielski,n

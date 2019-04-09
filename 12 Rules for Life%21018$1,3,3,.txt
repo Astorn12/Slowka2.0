@@ -1,4 +1,4 @@
-pol,﻿angielski,0,,0,0,0,0,Angielski,n
+polski,angielski,0,,0,0,0,0,Angielski,n
 ukazywać się,emerge,0,angi,-1,0,0,0,Angielski,n
 przedmowa,foreword,0,angi,-1,0,0,0,Angielski,n
 wywrócić,overturn,0,angi,-1,0,0,0,Angielski,n

@@ -1270,6 +1270,7 @@ int flaga=0;
                                                     plikZTekstem = "Tekst()" + plikZTekstem;
                                                     plikZTekstem += ".txt";
                                                     pomocnik_plikowy.CreateFile(plikZTekstem);
+                                                  //  aktualny_plik=new PlikZTekstem(aktualny_plik);
                                                 } else if (node.getUserObject().toString().contains("@")) {
                                                     Pomocnik_plikowy pomocnik_plikowy = new Pomocnik_plikowy();
                                                     ObsługaNazwowa ob = new ObsługaNazwowa();
@@ -2403,7 +2404,15 @@ int flaga=0;
                         ang+=pob[i];
                     }
                     slowo.setText("");
-                    Slowo sl= new Slowo(pol,ang,jezyk,3);
+                    Slowo sl;
+                    if(aktualny_plik.get_nazwa_pliku().contains("@"))
+                    {
+                        sl= new WordFromBook(pol,ang,aktualny_plik.getJezyk(),1);
+
+                    }
+                    else {
+                        sl = new Slowo(pol, ang, jezyk, 3);
+                    }
                     aktualny_plik.lista.add(sl);
                     aktualny_plik.zapis_zmian();
 
@@ -3896,7 +3905,6 @@ int flaga=0;
              for(Slownik s:slowniki)
              {
 
-                 System.out.println(s.jezyk1.toLowerCase().equals(aktualny_plik.statyplik.nasz.toLowerCase())&&s.jezyk2.toLowerCase().equals(aktualny_plik.statyplik.obcy.toLowerCase()));
                  if(s.jezyk1.toLowerCase().equals(aktualny_plik.statyplik.nasz.toLowerCase())&&s.jezyk2.toLowerCase().equals(aktualny_plik.statyplik.obcy.toLowerCase()))
                  {
                      wsk=s;
@@ -3914,8 +3922,8 @@ int flaga=0;
                     final JPanel jPanel= new JPanel();
                     jPanel.setLayout(new MigLayout());
                     jFrame.add(jPanel);
-                    final JTextField slowo= new JTextField(wybraneSlowko);
-                    final JTextField tlumaczenie= new JTextField();
+                    final JTextField slowo= new JTextField();
+                    final JTextField tlumaczenie= new JTextField(wybraneSlowko);
                     jPanel.add(slowo,"w 100:150:200,h  20:30:40");
                     jPanel.add(tlumaczenie,"w 100:150:200,h  20:30:40");
 
@@ -4082,7 +4090,7 @@ int flaga=0;
 
 
 
-        //JPanel slownik= tlumaczenieSlownikowe(slowo);
+
 
 
 

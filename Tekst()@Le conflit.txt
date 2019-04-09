@@ -1,0 +1,20 @@
+Thomas: C’est à moi !
+Stéphane: Non, c’est à moi !
+Thomas: C’est à moi !
+Stéphane: Non, c’est à moi !
+Thomas: Tu rigoles ?
+Stéphane: Tu veux une gifle ?
+Maîtresse: Mais qu’est-ce qui se passe ici ?!
+Julie: Les garçons ne sont pas sages, Madame. Ils se battent.
+Thomas : Stéphane a pris mon cahier !
+Stéphane: Non, c’est mon cahier !
+Thomas: Il dit n’importe quoi !
+Stéphane: Sale menteur ! Tu mens !
+Thomas: Tais-toi…
+Maîtresse: Silence les enfants ! Un peu de silence ! Voyons. Tu t’appelles comment ?
+Thomas: Je m’appelle Thomas. Thomas Dupont.
+Maîtresse: Le cahier d’exercices de Julie Kowalska. Voilà. C’est à toi.
+Julie: Merci Madame.
+Thomas: Désolé. Je pensais que c’était le mien.
+Stéphane: Moi aussi.
+Julie: C’est pas grave.

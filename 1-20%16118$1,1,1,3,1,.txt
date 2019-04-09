@@ -1,4 +1,4 @@
-pol,﻿angielski,0,,0,0,0,3,Angielski,n
+polski,angielski,0,,0,0,0,3,Angielski,n
 strzelanina,shoot-out,0,ang,-1,0,1,0,Angielski,n
 ranny,wounded,0,ang,-1,0,1,0,Angielski,n
 przechwycić broń,seize arms,0,ang,-1,0,1,0,Angielski,n

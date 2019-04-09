@@ -1,4 +1,4 @@
-pol,﻿angielski,0,,0,0,0,3,Angielski,n
+polski,angielski,0,,0,0,0,3,Angielski,n
 skonfiskowany,impounded,0,angi,-1,1,1,3,Angielski,n
 pośród,amid,0,angi,-1,2,1,3,Angielski,n
 postępowanie upadłościowe,receivership,0,angi,-1,1,1,3,Angielski,n

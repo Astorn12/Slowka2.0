@@ -1,4 +1,4 @@
-pol,francuski,0,,0,0,0,0,Angielski,n
+polski,francuski,0,,0,0,0,0,Angielski,n
 przychodzić,venir,3,ang,0,0,0,0,Angielski,n
 zabierać kogoś na coś,emmener qn au qc,3,ang,0,0,0,0,Angielski,n
 tutaj,ici,3,ang,0,0,0,0,Angielski,n

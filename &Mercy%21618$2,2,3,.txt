@@ -1,4 +1,4 @@
-pol,francuski,0,,0,0,0,0,Angielski,n
+polski,francuski,0,,0,0,0,0,Angielski,n
 rano,le matin,0,i,-1,0,0,-1,Angielski,n
 urodzić się,être né,0,i,-2,0,0,-1,Angielski,n
 wśród,au milieu de,0,i,-1,0,0,-1,Angielski,n

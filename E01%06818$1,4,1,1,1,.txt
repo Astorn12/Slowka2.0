@@ -1,4 +1,4 @@
-pol,﻿angielski,0,,0,0,0,3,Angielski,n
+polski,angielski,0,,0,0,0,3,Angielski,n
 wystawać;sterczeć,protrude,3,ang,0,0,0,3,Angielski,n
 w połowie drogi,halfway,3,ang,0,0,0,3,Angielski,n
 cholera;psiakrew,damn,3,ang,0,0,0,3,Angielski,n

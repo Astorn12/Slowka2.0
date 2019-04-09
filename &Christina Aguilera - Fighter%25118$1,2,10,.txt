@@ -1,4 +1,4 @@
-pol,﻿angielski,0,,0,0,0,0,angielski,n
+polski,angielski,0,,0,0,0,0,angielski,n
 gardzić,despise,3,ang,0,0,0,0,angielski,n
 przez,through,3,ang,0,0,0,0,angielski,n
 pomimo,though,3,ang,0,0,0,0,angielski,n

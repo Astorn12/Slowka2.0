@@ -1,4 +1,4 @@
-pol,francuski,0,,0,0,0,3,Angielski,n
+polski,francuski,0,,0,0,0,3,Angielski,n
 kamizelka,le gilet,3,angi,1,3,0,3,Angielski,n
 płaszcz,le manteau,2,angi,1,3,0,3,Angielski,n
 sweter,le pull,1,angi,1,3,0,3,Angielski,n

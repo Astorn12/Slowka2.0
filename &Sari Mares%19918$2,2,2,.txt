@@ -1,4 +1,4 @@
-pol,francuski,0,,0,0,0,3,Angielski,n
+polski,francuski,0,,0,0,0,3,Angielski,n
 żyć,vivre,0,angi,-1,3,0,3,Angielski,n
 trwać,demeurer,0,angi,-1,3,0,3,Angielski,n
 miłość,l'amour,0,angi,-1,3,0,3,Angielski,n

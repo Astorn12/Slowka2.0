@@ -1,4 +1,4 @@
-﻿pol,﻿angielski
+pol,angielski
 konwalia,lily of the valley
 podgląd,preview
 paw,peacock

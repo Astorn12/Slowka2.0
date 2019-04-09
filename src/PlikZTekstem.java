@@ -23,11 +23,16 @@ public PlikZTekstem()
     public PlikZTekstem(String nazwaPliku)
     {
         this.nazwa_pliku=nazwaPliku;
-        Pomocnik_plikowy.CreateFile("Tekst@"+this.nazwa_pliku+".txt");
+        Pomocnik_plikowy.CreateFile("Tekst()@"+this.nazwa_pliku+".txt");
     }
     PlikZTekstem(String nazwa_pliku, Vector<Integer> numer, StatyPlik statyPlik)
     {
         super(nazwa_pliku,numer,statyPlik);
+
+    }
+    PlikZTekstem(Plik plik)
+    {
+        super(plik.nazwa_pliku,plik.numer,plik.statyplik);
 
     }
     private String tekst;
@@ -35,7 +40,7 @@ public PlikZTekstem()
     public String getNazwaPlikuZTekstem()
     {
         ObsługaNazwowa obsługaNazwowa= new ObsługaNazwowa();
-        return"Tekst"+obsługaNazwowa.oddzielNazeOdDaty(this.get_nazwa_pliku()).nazwa+".txt";
+        return"Tekst()"+obsługaNazwowa.oddzielNazeOdDaty(this.get_nazwa_pliku()).nazwa+".txt";
     }
     public void setTekst(String tekst)
     {
@@ -76,7 +81,7 @@ public PlikZTekstem()
 
 
             // setTekst(getTekstFromFile());
-            Pomocnik_plikowy.CreateFile("Tekst" + this.nazwa_pliku + ".txt");
+            Pomocnik_plikowy.CreateFile("Tekst()" + this.nazwa_pliku + ".txt");
         }
 
     }
@@ -151,5 +156,7 @@ public PlikZTekstem()
     {
         return this.lista;
     }
+
+
 
 }

@@ -1,4 +1,4 @@
-pol,﻿angielski,0,,0,0,0,0,Angielski,n
+polski,angielski,0,,0,0,0,0,Angielski,n
 rozbić/rozwalić,bust,3,ang,0,0,0,0,Angielski,n
 wypalać się,burn out,3,ang,0,0,0,0,Angielski,n
 nadawać,transmit,3,ang,0,0,0,0,Angielski,n

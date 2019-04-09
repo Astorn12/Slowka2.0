@@ -142,7 +142,7 @@ if(!(this.priority==Integer.parseInt(null))) this.priority=priority;
     }
 public String toString()
 {
-    return this.get_pol();
+    return this.get_pol()+" "+this.get_fore();
 }
 
 public Slowo clone()

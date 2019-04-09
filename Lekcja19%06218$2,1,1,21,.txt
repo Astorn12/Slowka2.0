@@ -1,4 +1,4 @@
-pol,francuski,0,,0,0,0,3,Angielski,n
+polski,francuski,0,,0,0,0,3,Angielski,n
 poduszka,l'oreille,3,ang,0,3,0,3,Angielski,n
 kanapa,le canapé,3,ang,0,3,0,3,Angielski,n
 obraz,le tableau,3,ang,0,3,0,3,Angielski,n

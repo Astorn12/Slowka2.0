@@ -1,0 +1,24 @@
+polski,francuski,0,,119,233,0,3,Angielski,n
+droga,chère,0,angiii,-1,3,0,3,Angielski,n
+być na urlopie,être en vacances,0,angiii,-1,3,0,3,Angielski,n
+mieszkanie,l'appartement,0,angiii,-1,3,0,3,Angielski,n
+centrum miasta,le centre-ville,0,angiii,-1,3,0,3,Angielski,n
+spokojny,calm,0,angiii,-7,3,0,3,Angielski,n
+widok,la vue,0,angiii,-1,3,0,3,Angielski,n
+morze,la mer,0,angiii,-2,3,0,3,Angielski,n
+mieć nadzieję,espérer,0,angii,-1,3,0,3,Angielski,n
+że,que,0,angiii,-7,3,0,3,Angielski,n
+dobrze mi się wiedzie,je vais très bien,0,angiii,-1,3,0,3,Angielski,n
+zadzwonić do kogoś,appeler qn,0,angiii,-1,3,0,3,Angielski,n
+powrót,le retour,0,angii,-2,3,0,3,Angielski,n
+pozdrowienia,amitiés,0,angiii,-1,3,0,3,Angielski,n
+do zobaczenia,à bientôt,0,angi,-3,3,0,3,Angielski,n
+pocztówka,la carte postale,0,angiii,-1,3,0,3,Angielski,n
+pisać,écrire,0,angiii,-3,3,0,3,Angielski,n
+tak,oui,0,angiii,-7,3,0,3,Angielski,n
+nie,non,0,angiii,-5,3,0,3,Angielski,n
+list,la lettre,0,angiii,-5,3,0,3,Angielski,n
+znaczek,le timbre,0,angiii,-2,3,0,3,Angielski,n
+skrzynka na listy,la boîte aux lettres,0,angii,-1,3,0,3,Angielski,n
+Pozdrawiam serdecznie,Grosses bises,0,angiii,-1,3,0,3,Angielski,n
+serdeczności,cordialement,0,angii,-7,3,0,3,Angielski,n

@@ -1,0 +1,40 @@
+polski,francuski,0,,34,78,0,3,angielski,n
+tańczyć,danser,0,i,-2,1,0,0,angielski,n
+walk,marcher,0,i,-2,1,0,0,angielski,n
+śpiewać,chanter,0,i,-2,1,0,0,angielski,n
+together,ensamble,0,i,-1,1,0,0,angielski,n
+draw,dessiner,0,i,-1,1,0,0,angielski,n
+often,souvent,0,i,-2,1,0,0,angielski,n
+scuba diving,plongée,0,i,-1,1,0,0,angielski,n
+password,le mot de passe,0,i,-1,1,0,0,angielski,n
+included,compris,0,angi,-2,1,0,0,angielski,n
+forbidden,interdit,0,i,-1,1,0,0,angielski,n
+usually,d'habitude,0,angi,-1,0,0,0,angielski,n
+brush,brosser,0,angi,-1,0,0,0,angielski,n
+as,aussi,0,angi,-1,0,0,0,angielski,n
+być spragnionym,avoir soif,0,angi,-1,0,0,0,angielski,n
+być głodnym,avoir faim,0,angi,-1,0,0,0,angielski,n
+enought,assez,0,angi,-1,0,0,0,angielski,n
+być śpiącym,avoir sommeil,0,angi,-1,0,0,0,angielski,n
+feel,sentir,0,angi,-1,0,0,0,angielski,n
+near,près,0,angi,-1,0,0,0,angielski,n
+food,la nourriture,0,angi,-1,0,0,0,angielski,n
+cookie,le biscuit,0,angi,-1,0,0,0,angielski,n
+about,environ,0,angi,-1,0,0,0,angielski,n
+need,besoin,0,ang,-1,0,0,0,angielski,n
+too many,trop de,0,angi,-1,0,0,0,angielski,n
+then,puis,0,angi,-1,0,0,0,angielski,n
+stop/station,le arrêt,0,angi,-1,0,0,0,angielski,n
+forbidden,interdit,0,angi,-1,0,0,0,angielski,n
+now,maintenant,0,angi,-1,0,0,0,angielski,n
+over there,là-bas,0,angi,-1,0,0,0,angielski,n
+close to,près,0,angi,-1,0,0,0,angielski,n
+right/correct,bon,0,angi,-1,0,0,0,angielski,n
+tower,la tour,0,angi,-1,0,0,0,angielski,n
+everyone,tout le monde,0,angi,-1,0,0,0,angielski,n
+funny,amusante,0,angi,-1,0,0,0,angielski,n
+grass,la pelouse,3,ang,0,0,0,0,angielski,n
+rabit,le lapin,3,ang,0,0,0,0,angielski,n
+elephant,l'éléphant,3,ang,0,0,0,0,angielski,n
+hałas,le bruit,3,ang,0,0,0,0,angielski,n
+hear,entendre,3,ang,0,0,0,0,angielski,n

@@ -1,5 +1,6 @@
 import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
 import net.miginfocom.swing.MigLayout;
+import org.omg.CORBA.ARG_OUT;
 
 import javax.swing.*;
 import javax.swing.tree.DefaultMutableTreeNode;
@@ -101,7 +102,7 @@ public class Plik {
         this.lista.add(slowo);*/
         lista.clear();
         p.zczytywanie_z_pliku(this.nazwa_systemowa, ',', this.lista, Slowo.class);
-        System.out.println(this.nazwa_systemowa);
+
         this.statyplik = new StatyPlik(lista.get(0));
         lista.remove(0);
 
@@ -213,6 +214,7 @@ public class Plik {
         } catch (EndException e) {
             this.zapis_zmian();
         } catch (GratulacjeException e) {
+
             System.out.println("Gratulacje umiesz już wszystkie słówka");
             this.zapis_zmian();
         }
@@ -301,7 +303,7 @@ public class Plik {
                     } else if (wszystkieZdane()) throw new GratulacjeExceptionNull();
                     Plik plik = new Plik();
                     plik.lista = test;
-                    // plik.wypisanie_listy();
+
 
                     Random random = new Random();
                     aktualnePytanie = random.nextInt(test.size());
@@ -393,27 +395,18 @@ public class Plik {
                     Plik plik = new Plik();
                     plik.lista = test;
 
-
-                    //plik.wypisanie_listy();
-                    if (!pol.getText().equals(test.get(aktualnePytanie).pol) && !pol.getText().equals(test.get(aktualnePytanie).pol + extractPodpowiedz(pol.getText()))) {
-//tutaj wyzej trzeba jeszcze dodac ktoras z podpowiedzi/\
-                        //                              ||
-                        System.out.println("To może być przyczyną błędu");
-                        //  System.out.println(pol.getText());
-                        //    System.out.println("Wyekstraktowana podpowiedz"+extractPodpowiedz(pol.getText()));
-                        //   System.out.println(test.get(aktualnePytanie).pol);
-                        aktualnePytanie++;
-                    }
-                    //Random random = new Random();
-                    // int a = random.nextInt(test.size());
                     if (fore.getText().equals("123")) {
                         pol.setText("");
                         fore.setText("");
                         throw new EndException();
 
                     }
-                    //if (!((test.get(aktualnePytanie).fore).equals(fore.getText().toString()))) {
 
+
+                    for(Slowo s:test)
+                    {
+                        System.out.println(s.toString());
+                    }
                     if (!manipulatorOdpowiedzi(fore.getText().toString(), test.get(aktualnePytanie).fore)) {
                         odpowiedz.setText("Źle: \n" + "Twoja odpowiedź:\n " + fore.getText() + "\nPoprawna odpowiedź:\n " + test.get(aktualnePytanie).pol + "- " + test.get(aktualnePytanie).fore);
 
@@ -426,8 +419,7 @@ public class Plik {
                             podsumowania.zapis();
                             test.add(test.get(aktualnePytanie));
                         }
-                        // test.add(test.get(aktualnePytanie));
-                        //test.add(new Slowo());
+
                     } else {
                         odpowiedz.setText("Dobrze");
                         test.get(aktualnePytanie).priority--;
@@ -435,10 +427,10 @@ public class Plik {
                         if (test.get(aktualnePytanie).priority == 0) {
 
                             TreePath p=jtree.getSelectionPath();
-                            //setExpansionState(p,jtree);
+
                            String s= getExpansionState(jtree);
                             ((DefaultTreeModel)jtree.getModel()).reload();
-                           // jtree.expandPath(p);
+
                             setExpansionState(s,jtree);
                             test.get(aktualnePytanie).archiwumLicznik--;
                         }
@@ -477,16 +469,31 @@ public class Plik {
                                     test.add(this.lista.get(i));
                                 }
                             }
-                            //aktualnePytanie = random.nextInt(test.size());
+
                         }
                     }
 
                     fore.setText("");
-
-                    if (test.size() > 1) aktualnePytanie = new Random().nextInt(test.size() - 1);
+                    test= new LinkedList<>();
+                    if (getEnumeracje() == 0) {
+                        for (int i = 0; i < lista.size(); i++) {
+                            for (int j = 0; j < this.lista.get(i).get_priority(); j++) {
+                                test.add(this.lista.get(i));
+                            }
+                        }
+                    } else {
+                        for (int i = dolnyZakres(); i < gornyZakres(); i++) {
+                            for (int j = 0; j < this.lista.get(i).get_priority(); j++) {
+                                test.add(this.lista.get(i));
+                            }
+                        }
+                    }
+                    if (test.size() > 1) aktualnePytanie = new Random().nextInt(test.size());
                     else aktualnePytanie = 0;
 
                     Slowo wybraneSlowko = test.get(aktualnePytanie);
+
+
                     Vector<String> tesameslowka = new Vector<>();
                     for (Slowo s : this.lista) {
                         if (s.pol.equals(wybraneSlowko.pol) && !s.fore.equals(test.get(aktualnePytanie).fore)) {
@@ -538,6 +545,7 @@ public class Plik {
                         }
                         podpowiedz += "}";
                     }
+
 
                     pol.setText(manipulatorZapytan(test.get(aktualnePytanie).pol) + podpowiedz);
 
@@ -678,10 +686,10 @@ public class Plik {
                     plik.lista = test;
                     //plik.wypisanie_listy();
 
-                    if (!pol.getText().equals(test.get(aktualnePytanie).fore) && !(pol.getText()).equals(test.get(aktualnePytanie).fore + extractPodpowiedz(pol.getText()))) {
+                   /* if (!pol.getText().equals(test.get(aktualnePytanie).fore) && !(pol.getText()).equals(test.get(aktualnePytanie).fore + extractPodpowiedz(pol.getText()))) {
                         System.out.println("To może być przyczyną błędu");
                         aktualnePytanie++;
-                    }
+                    }*/
                     //Random random = new Random();
                     // int a = random.nextInt(test.size());
                     if (fore.getText().equals("123")) {
@@ -747,8 +755,21 @@ public class Plik {
                     }
 
                     fore.setText("");
-
-                    if (test.size() > 1) aktualnePytanie = new Random().nextInt(test.size() - 1);
+                    test= new LinkedList<>();
+                    if (getEnumeracje() == 0) {
+                        for (int i = 0; i < lista.size(); i++) {
+                            for (int j = 0; j < this.lista.get(i).get_priority(); j++) {
+                                test.add(this.lista.get(i));
+                            }
+                        }
+                    } else {
+                        for (int i = dolnyZakres(); i < gornyZakres(); i++) {
+                            for (int j = 0; j < this.lista.get(i).get_priority(); j++) {
+                                test.add(this.lista.get(i));
+                            }
+                        }
+                    }
+                    if (test.size() > 1) aktualnePytanie = new Random().nextInt(test.size());
                     else aktualnePytanie = 0;
 
                     ////////////////////////////////
@@ -1232,8 +1253,8 @@ public class Plik {
             Random random = new Random();
             //int mtp=random.nextInt(vector.size()-1);
             //int z=random.nextInt(vector.size())>1 ? random.nextInt(vector.size())-1:random.nextInt(vector.size());
-
-            return vector.get(random.nextInt(vector.size())-1);
+            if(vector.size()==1)return vector.get(0);
+            else return vector.get(random.nextInt(vector.size()-1));
             //return "jeden";
         } else {
             return zapytanie;

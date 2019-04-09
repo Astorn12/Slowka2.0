@@ -1,4 +1,4 @@
-pol,francuski,0,,0,0,0,0,angielski,n
+polski,francuski,0,,0,0,0,0,angielski,n
 ojczyzna,la patrie,3,ang,0,0,0,0,angielski,n
 sztandar,le étendard,3,ang,0,0,0,0,angielski,n
 krwawiący,sanglant,3,ang,0,0,0,0,angielski,n
