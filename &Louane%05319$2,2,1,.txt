@@ -1,63 +1,63 @@
-polski,francuski,0,,131,228,0,3,Angielski,n
-na kimś,sur,0,i,-1,0,1,-1,Angielski,n
-chodnik,le trottoir,0,i,-2,0,1,-1,Angielski,n
-ty,toi,0,i,-3,0,1,-1,Angielski,n
-bulwar,le boulevard,0,i,-2,0,1,2,Angielski,n
-w,dans,0,i,-3,0,1,2,Angielski,n
-noc,la nuit,0,i,-1,0,1,2,Angielski,n
-czarny,noir,0,i,-3,0,1,2,Angielski,n
-podobny,même,0,i,-3,0,1,2,Angielski,n
-późno,tard,0,i,-3,0,1,-1,Angielski,n
-pod,sous,0,i,-1,0,1,-1,Angielski,n
-latarnia uliczna,le réverbère,0,i,-1,0,1,-1,Angielski,n
-światło,la lumière,0,i,-1,0,1,2,Angielski,n
-całkowicie,tout,0,i,-3,0,1,-1,Angielski,n
-półkula,le hémisphère,0,i,-1,0,1,-1,Angielski,n
-kurz,la poussière,0,i,-1,0,1,-1,Angielski,n
-piękno,le beau,0,i,-3,0,1,2,Angielski,n
-jednakże,pourtant,0,i,-1,0,1,-1,Angielski,n
-przyśpieszać,accélérait,0,i,-1,0,1,2,Angielski,n
-bez,sans,0,i,-3,0,1,-1,Angielski,n
-hamulec,le frein,0,i,-1,0,2,-1,Angielski,n
-zadowolony z czegoś,satisfait de qn,0,i,-1,0,2,-1,Angielski,n
-zbyt,trop,0,i,-3,0,2,-1,Angielski,n
-dla,pour,0,i,-3,0,2,2,Angielski,n
-kochać,aimer,0,i,-3,0,2,2,Angielski,n
-często,souvent,0,i,-3,0,2,-1,Angielski,n
-kiedy,quand,0,i,-1,0,2,-1,Angielski,n
-uśmiech,le sourire,0,i,-1,0,2,-1,Angielski,n
-żaden,rien,0,i,-3,0,2,-1,Angielski,n
-bardzo,bien,0,i,-2,0,2,-1,Angielski,n
-mi,me,0,i,-3,0,2,-1,Angielski,n
-ty,toi,0,i,-3,0,2,2,Angielski,n
-jeszcze,encore,0,i,-3,0,2,-1,Angielski,n
-sen,le sommeil,0,i,-2,0,2,-1,Angielski,n
-słońce,le soleil,0,i,-2,0,2,-1,Angielski,n
-bardziej,plus,0,i,-3,0,2,2,Angielski,n
-podobny,pareil,0,i,-1,0,2,-1,Angielski,n
-linoskoczek,le funambule,0,i,-1,0,2,-1,Angielski,n
-popychać,bousculer,0,i,-1,0,2,-1,Angielski,n
-cofać się,reculer,0,i,-3,0,2,-1,Angielski,n
-śmieszny,ridicule,0,i,-1,0,3,2,Angielski,n
-zrozpaczony,désolé,0,i,-1,0,3,-1,Angielski,n
-prawie,presque,0,i,-1,0,3,-1,Angielski,n
-dręczyć kogoś,obséder qn,0,angi,-1,0,3,-1,Angielski,n
-posiadać,posséder,0,i,-1,0,3,-1,Angielski,n
-zamęczać kogoś,fatigue,0,i,-1,0,3,-1,Angielski,n
-całkowicie,tout,0,i,-2,0,3,2,Angielski,n
-na kimś/czymś,sur qn/qc,0,i,-2,0,3,-1,Angielski,n
-droga,la route,0,i,-1,0,3,-1,Angielski,n
-cień,la ombre,0,i,-1,0,3,-1,Angielski,n
-wątpliwość,le doute,0,i,-1,0,3,-1,Angielski,n
-zdegustowany,dégoûté,0,i,-1,0,3,-1,Angielski,n
-stłumiony,étouffé,0,ang,-1,0,3,-1,Angielski,n
-przegrywać,perdre,0,i,-1,0,3,-1,Angielski,n
-dmuchnięcie,le souffle,0,,-1,0,3,-1,Angielski,n
-mój,mon,0,i,-2,0,3,2,Angielski,n
-krawędź,le bord,0,i,-1,0,3,-1,Angielski,n
-przepaść,le gouffre,0,i,-1,0,3,-1,Angielski,n
-jeszcze,encore,0,i,-2,0,3,2,Angielski,n
-karaluch,le cafard,0,ang,-1,0,3,2,Angielski,n
-mgła,le brouillard,0,angi,-1,0,4,-1,Angielski,n
-wierzyć,croire,0,i,-2,0,4,2,Angielski,n
-hamulec,le frein,0,angi,-2,0,4,2,Angielski,n
+polski,francuski,0,,131,228,0,3,Angielski,n,pronunciation
+na kimś,sur,0,i,-1,0,1,-1,Angielski,n,pronunciation
+chodnik,le trottoir,0,i,-2,0,1,-1,Angielski,n,pronunciation
+ty,toi,0,i,-3,0,1,-1,Angielski,n,pronunciation
+bulwar,le boulevard,0,i,-2,0,1,2,Angielski,n,pronunciation
+w,dans,0,i,-3,0,1,2,Angielski,n,pronunciation
+noc,la nuit,0,i,-1,0,1,2,Angielski,n,pronunciation
+czarny,noir,0,i,-3,0,1,2,Angielski,n,pronunciation
+podobny,même,0,i,-3,0,1,2,Angielski,n,pronunciation
+późno,tard,0,i,-3,0,1,-1,Angielski,n,pronunciation
+pod,sous,0,i,-1,0,1,-1,Angielski,n,pronunciation
+latarnia uliczna,le réverbère,0,i,-1,0,1,-1,Angielski,n,pronunciation
+światło,la lumière,0,i,-1,0,1,2,Angielski,n,pronunciation
+całkowicie,tout,0,i,-3,0,1,-1,Angielski,n,pronunciation
+półkula,le hémisphère,0,i,-1,0,1,-1,Angielski,n,pronunciation
+kurz,la poussière,0,i,-1,0,1,-1,Angielski,n,pronunciation
+piękno,le beau,0,i,-3,0,1,2,Angielski,n,pronunciation
+jednakże,pourtant,0,i,-1,0,1,-1,Angielski,n,pronunciation
+przyśpieszać,accélérait,0,i,-1,0,1,2,Angielski,n,pronunciation
+bez,sans,0,i,-3,0,1,-1,Angielski,n,pronunciation
+hamulec,le frein,0,i,-1,0,2,-1,Angielski,n,pronunciation
+zadowolony z czegoś,satisfait de qn,0,i,-1,0,2,-1,Angielski,n,pronunciation
+zbyt,trop,0,i,-3,0,2,-1,Angielski,n,pronunciation
+dla,pour,0,i,-3,0,2,2,Angielski,n,pronunciation
+kochać,aimer,0,i,-3,0,2,2,Angielski,n,pronunciation
+często,souvent,0,i,-3,0,2,-1,Angielski,n,pronunciation
+kiedy,quand,0,i,-1,0,2,-1,Angielski,n,pronunciation
+uśmiech,le sourire,0,i,-1,0,2,-1,Angielski,n,pronunciation
+żaden,rien,0,i,-3,0,2,-1,Angielski,n,pronunciation
+bardzo,bien,0,i,-2,0,2,-1,Angielski,n,pronunciation
+mi,me,0,i,-3,0,2,-1,Angielski,n,pronunciation
+ty,toi,0,i,-3,0,2,2,Angielski,n,pronunciation
+jeszcze,encore,0,i,-3,0,2,-1,Angielski,n,pronunciation
+sen,le sommeil,0,i,-2,0,2,-1,Angielski,n,pronunciation
+słońce,le soleil,0,i,-2,0,2,-1,Angielski,n,pronunciation
+bardziej,plus,0,i,-3,0,2,2,Angielski,n,pronunciation
+podobny,pareil,0,i,-1,0,2,-1,Angielski,n,pronunciation
+linoskoczek,le funambule,0,i,-1,0,2,-1,Angielski,n,pronunciation
+popychać,bousculer,0,i,-1,0,2,-1,Angielski,n,pronunciation
+cofać się,reculer,0,i,-3,0,2,-1,Angielski,n,pronunciation
+śmieszny,ridicule,0,i,-1,0,3,2,Angielski,n,pronunciation
+zrozpaczony,désolé,0,i,-1,0,3,-1,Angielski,n,pronunciation
+prawie,presque,0,i,-1,0,3,-1,Angielski,n,pronunciation
+dręczyć kogoś,obséder qn,0,angi,-1,0,3,-1,Angielski,n,pronunciation
+posiadać,posséder,0,i,-1,0,3,-1,Angielski,n,pronunciation
+zamęczać kogoś,fatigue,0,i,-1,0,3,-1,Angielski,n,pronunciation
+całkowicie,tout,0,i,-2,0,3,2,Angielski,n,pronunciation
+na kimś/czymś,sur qn/qc,0,i,-2,0,3,-1,Angielski,n,pronunciation
+droga,la route,0,i,-1,0,3,-1,Angielski,n,pronunciation
+cień,la ombre,0,i,-1,0,3,-1,Angielski,n,pronunciation
+wątpliwość,le doute,0,i,-1,0,3,-1,Angielski,n,pronunciation
+zdegustowany,dégoûté,0,i,-1,0,3,-1,Angielski,n,pronunciation
+stłumiony,étouffé,0,ang,-1,0,3,-1,Angielski,n,pronunciation
+przegrywać,perdre,0,i,-1,0,3,-1,Angielski,n,pronunciation
+dmuchnięcie,le souffle,0,,-1,0,3,-1,Angielski,n,pronunciation
+mój,mon,0,i,-2,0,3,2,Angielski,n,pronunciation
+krawędź,le bord,0,i,-1,0,3,-1,Angielski,n,pronunciation
+przepaść,le gouffre,0,i,-1,0,3,-1,Angielski,n,pronunciation
+jeszcze,encore,0,i,-2,0,3,2,Angielski,n,pronunciation
+karaluch,le cafard,0,ang,-1,0,3,2,Angielski,n,pronunciation
+mgła,le brouillard,0,angi,-1,0,4,-1,Angielski,n,pronunciation
+wierzyć,croire,0,i,-2,0,4,2,Angielski,n,pronunciation
+hamulec,le frein,0,angi,-2,0,4,2,Angielski,n,pronunciation

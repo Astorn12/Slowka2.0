@@ -1,28 +1,28 @@
-polski,francuski,0,,0,0,0,3,Angielski,n
-żyć,vivre,0,angi,-1,3,0,3,Angielski,n
-trwać,demeurer,0,angi,-1,3,0,3,Angielski,n
-miłość,l'amour,0,angi,-1,3,0,3,Angielski,n
-życie,la vie,0,angi,-1,3,0,3,Angielski,n
-wiatr,le vent,0,angi,-1,3,0,3,Angielski,n
-móc,pouvoir,0,angi,-1,3,0,3,Angielski,n
-poryw,le élan,0,angi,-1,3,0,3,Angielski,n
-przerywać,arrêter,0,angi,-1,3,0,3,Angielski,n
-widzieć ponownie,revoir,0,angi,-1,3,0,3,Angielski,n
-staro,vieux,0,angi,-1,3,0,3,Angielski,n
-ściernisko,le chaume,0,angi,-1,3,0,3,Angielski,n
-farma,la ferme,0,angi,-1,3,0,3,Angielski,n
-miód,le miel,0,angi,-1,3,0,3,Angielski,n
-iglaste(drzewo),conifère,0,ang,-1,3,0,3,Angielski,n
-kryształ,le cristal,0,angi,-1,3,0,3,Angielski,n
-wyraźnie,clair,0,ang,-1,3,0,3,Angielski,n
-gdy,comme,0,angi,-1,3,0,3,Angielski,n
-wierzyć,croire,0,angi,-1,3,0,3,Angielski,n
-znany,connu,0,ang,-1,3,0,3,Angielski,n
-szczęście,le bonheur,0,angi,-1,3,0,3,Angielski,n
-demon,le démon,0,angi,-1,3,0,3,Angielski,n
-przychodzić,venir,0,angi,-1,3,0,3,Angielski,n
-wspinać się,gravir,0,angi,-1,3,0,3,Angielski,n
-wojna,la guerre,0,angi,-1,3,0,3,Angielski,n
-okopywać się,terrer,0,angi,-1,3,0,3,Angielski,n
-zabierać kogoś,emmener qn,0,angi,-1,3,0,3,Angielski,n
-gdy(2),lorsque,0,angi,-1,3,0,3,Angielski,n
+polski,francuski,0,,0,0,0,3,Angielski,n,pronunciation
+żyć,vivre,0,angi,-1,3,0,3,Angielski,n,pronunciation
+trwać,demeurer,0,angi,-1,3,0,3,Angielski,n,pronunciation
+miłość,l'amour,0,angi,-1,3,0,3,Angielski,n,pronunciation
+życie,la vie,0,angi,-1,3,0,3,Angielski,n,pronunciation
+wiatr,le vent,0,angi,-1,3,0,3,Angielski,n,pronunciation
+móc,pouvoir,0,angi,-1,3,0,3,Angielski,n,pronunciation
+poryw,le élan,0,angi,-1,3,0,3,Angielski,n,pronunciation
+przerywać,arrêter,0,angi,-1,3,0,3,Angielski,n,pronunciation
+widzieć ponownie,revoir,0,angi,-1,3,0,3,Angielski,n,pronunciation
+staro,vieux,0,angi,-1,3,0,3,Angielski,n,pronunciation
+ściernisko,le chaume,0,angi,-1,3,0,3,Angielski,n,pronunciation
+farma,la ferme,0,angi,-1,3,0,3,Angielski,n,pronunciation
+miód,le miel,0,angi,-1,3,0,3,Angielski,n,pronunciation
+iglaste(drzewo),conifère,0,ang,-1,3,0,3,Angielski,n,pronunciation
+kryształ,le cristal,0,angi,-1,3,0,3,Angielski,n,pronunciation
+wyraźnie,clair,0,ang,-1,3,0,3,Angielski,n,pronunciation
+gdy,comme,0,angi,-1,3,0,3,Angielski,n,pronunciation
+wierzyć,croire,0,angi,-1,3,0,3,Angielski,n,pronunciation
+znany,connu,0,ang,-1,3,0,3,Angielski,n,pronunciation
+szczęście,le bonheur,0,angi,-1,3,0,3,Angielski,n,pronunciation
+demon,le démon,0,angi,-1,3,0,3,Angielski,n,pronunciation
+przychodzić,venir,0,angi,-1,3,0,3,Angielski,n,pronunciation
+wspinać się,gravir,0,angi,-1,3,0,3,Angielski,n,pronunciation
+wojna,la guerre,0,angi,-1,3,0,3,Angielski,n,pronunciation
+okopywać się,terrer,0,angi,-1,3,0,3,Angielski,n,pronunciation
+zabierać kogoś,emmener qn,0,angi,-1,3,0,3,Angielski,n,pronunciation
+gdy(2),lorsque,0,angi,-1,3,0,3,Angielski,n,pronunciation

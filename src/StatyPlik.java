@@ -14,6 +14,7 @@ public class StatyPlik {
     public int dodatkowy;
     public String extranull;
     public String powrotArchiwum;
+    public String extraPronunciation;
 
     StatyPlik(Slowo slowo) {
         if (slowo.pol.equals("pol")) {
@@ -28,6 +29,7 @@ public class StatyPlik {
         this.dodatkowy = slowo.reArchiwum;
         this.extranull = slowo.jezyk;
         this.powrotArchiwum = slowo.powrotArchiwum;
+        this.extraPronunciation=slowo.pronunciation;
 
     }
 
@@ -42,6 +44,7 @@ public class StatyPlik {
         this.dodatkowy = dodatkowy;
         this.extranull = extranull;
         this.powrotArchiwum = " ";
+        this.extraPronunciation="";
     }
 
     StatyPlik(String linia) {

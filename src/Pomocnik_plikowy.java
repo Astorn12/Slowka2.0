@@ -57,13 +57,7 @@ public class Pomocnik_plikowy {
 
              // if(clazz.equals(WordFromBook.class))
             //  {
-
-
-
               //fields = clazz.getDeclaredFields();
-
-
-
                 do {
                     linia = intest.nextLine();
                     line = linia.toCharArray();
@@ -74,10 +68,7 @@ public class Pomocnik_plikowy {
                     if ((licznik_fieldow + 1) != fields.length) error = -1;
                     licznik_fieldow = 0;
                 } while (intest.hasNextLine());
-
                 test.close();
-
-
                 //////////////////////////////////////
 
 
@@ -176,24 +167,11 @@ public class Pomocnik_plikowy {
                         fileWriter.write(String.valueOf((Double) fields[j].get(lista.get(i))));
                     }
                     if (j < fields.length - 1) fileWriter.write(",");
-
-
                 }
-               // System.out.println("Zapisywanie działa");
-               // fileWriter.write("no,");
-               /* if(i==0)
-                {
-                    fileWriter.write(",");
-                }
-                else
-                {
-                    fileWriter.write(",angielskie");
-                }*/
-
             }
             fileWriter.close();
         } catch (Exception e) {
-            System.out.println("Błąd przy zapisie");
+            System.out.println("Błąd przy zapisie do pliku: "+ plik);
             System.out.println(e);
         }
 

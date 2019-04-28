@@ -1,56 +1,56 @@
-polski,francuski,0,,0,0,0,3,Angielski,n
-radzić,conseiller,3,ang,1,3,0,3,Angielski,n
-słuchać,écouter,3,ang,1,3,0,3,Angielski,n
-płyta,le disques,3,ang,1,3,0,3,Angielski,n
-bank,la banque,3,ang,1,3,0,3,Angielski,n
-pożyczać komuś coś,prêter qc à qn,3,ang,1,3,0,3,Angielski,n
-pieniądze,le argent,3,ang,1,3,0,3,Angielski,n
-budowniczy,le constructeur,3,ang,1,3,0,3,Angielski,n
-prosić,demander,3,ang,1,3,0,3,Angielski,n
-prowadzić,conduire,3,ang,1,3,0,3,Angielski,n
-kierowca,le chauffeur,3,ang,1,3,0,3,Angielski,n
-prawo jazdy,le permis de conduire,3,ang,1,3,0,3,Angielski,n
-pisak,le feutre,3,ang,1,3,0,3,Angielski,n
-kłaść,mettre,3,ang,1,3,0,3,Angielski,n
-stary,vieux,3,ang,1,3,0,3,Angielski,n
-myć,laver,3,ang,1,3,0,3,Angielski,n
-każdy,chaque,3,ang,1,3,0,3,Angielski,n
-tydzień,la semain,3,ang,1,3,0,3,Angielski,n
-pomagać,aider,3,ang,1,3,0,3,Angielski,n
-z przyjemnością,avec plaisir,3,ang,1,3,0,3,Angielski,n
-wręcz przeciwnie,par contre,3,ang,1,3,0,3,Angielski,n
-mało,peu,3,ang,1,3,0,3,Angielski,n
-odpowiadać,répondre,3,ang,1,3,0,3,Angielski,n
-zachować,garder,3,ang,1,3,0,3,Angielski,n
-mężczyzna,le homme,3,ang,1,3,0,3,Angielski,n
-wysiadać,descendre,3,ang,1,3,0,3,Angielski,n
-palić,fume,3,ang,1,3,0,3,Angielski,n
-patrzeć,regarder,3,ang,1,3,0,3,Angielski,n
-dziewczyna,la fille,3,ang,1,3,0,3,Angielski,n
-but,chaussure,3,ang,1,3,0,3,Angielski,n
-powoli,lentement,3,ang,1,3,0,3,Angielski,n
-onieśmielający,intimidé,3,ang,1,3,0,3,Angielski,n
-uśmiechać się,sourire,3,ang,1,3,0,3,Angielski,n
-śmiać się,rire,3,ang,1,3,0,3,Angielski,n
-na początku,tout d'abord,3,ang,1,3,0,3,Angielski,n
-podarować,offrir,3,ang,1,3,0,3,Angielski,n
-oferować,offrir,3,ang,1,3,0,3,Angielski,n
-żaden,rien,3,ang,1,3,0,3,Angielski,n
-zostawić kogoś w spokoju,laisser qn tranquille,3,ang,1,3,0,3,Angielski,n
-mniej,moins,3,ang,1,3,0,3,Angielski,n
-strach,la peur,3,ang,1,3,0,3,Angielski,n
-wtedy,alors,3,ang,1,3,0,3,Angielski,n
-wierzyć,croire,3,ang,1,3,0,3,Angielski,n
-marzyć o,rêver de,3,ang,1,3,0,3,Angielski,n
-zastanawiać się,réfléchir,3,ang,1,3,0,3,Angielski,n
-potem,puis,3,ang,1,3,0,3,Angielski,n
-zrozumiany,entendu,3,ang,1,3,0,3,Angielski,n
-zbiornic,le bac,3,ang,1,3,0,3,Angielski,n
-matura,le bac,3,ang,1,3,0,3,Angielski,n
-kapelusz,le chapeau,3,ang,1,3,0,3,Angielski,n
-ubierać,habiller,3,ang,1,3,0,3,Angielski,n
-jest konieczne żeby...,il faut...,3,ang,1,3,0,3,Angielski,n
-karmić,nourrir,3,ang,1,3,0,3,Angielski,n
-podwozić,conduire,3,ang,1,3,0,3,Angielski,n
-potrzebować,on doit,3,ang,1,3,0,3,Angielski,n
-mówić,dire,3,ang,1,3,0,3,Angielski,n
+polski,francuski,0,,0,0,0,3,Angielski,n,pronunciation
+radzić,conseiller,3,ang,1,3,0,3,Angielski,n,pronunciation
+słuchać,écouter,3,ang,1,3,0,3,Angielski,n,pronunciation
+płyta,le disques,3,ang,1,3,0,3,Angielski,n,pronunciation
+bank,la banque,3,ang,1,3,0,3,Angielski,n,pronunciation
+pożyczać komuś coś,prêter qc à qn,3,ang,1,3,0,3,Angielski,n,pronunciation
+pieniądze,le argent,3,ang,1,3,0,3,Angielski,n,pronunciation
+budowniczy,le constructeur,3,ang,1,3,0,3,Angielski,n,pronunciation
+prosić,demander,3,ang,1,3,0,3,Angielski,n,pronunciation
+prowadzić,conduire,3,ang,1,3,0,3,Angielski,n,pronunciation
+kierowca,le chauffeur,3,ang,1,3,0,3,Angielski,n,pronunciation
+prawo jazdy,le permis de conduire,3,ang,1,3,0,3,Angielski,n,pronunciation
+pisak,le feutre,3,ang,1,3,0,3,Angielski,n,pronunciation
+kłaść,mettre,3,ang,1,3,0,3,Angielski,n,pronunciation
+stary,vieux,3,ang,1,3,0,3,Angielski,n,pronunciation
+myć,laver,3,ang,1,3,0,3,Angielski,n,pronunciation
+każdy,chaque,3,ang,1,3,0,3,Angielski,n,pronunciation
+tydzień,la semain,3,ang,1,3,0,3,Angielski,n,pronunciation
+pomagać,aider,3,ang,1,3,0,3,Angielski,n,pronunciation
+z przyjemnością,avec plaisir,3,ang,1,3,0,3,Angielski,n,pronunciation
+wręcz przeciwnie,par contre,3,ang,1,3,0,3,Angielski,n,pronunciation
+mało,peu,3,ang,1,3,0,3,Angielski,n,pronunciation
+odpowiadać,répondre,3,ang,1,3,0,3,Angielski,n,pronunciation
+zachować,garder,3,ang,1,3,0,3,Angielski,n,pronunciation
+mężczyzna,le homme,3,ang,1,3,0,3,Angielski,n,pronunciation
+wysiadać,descendre,3,ang,1,3,0,3,Angielski,n,pronunciation
+palić,fume,3,ang,1,3,0,3,Angielski,n,pronunciation
+patrzeć,regarder,3,ang,1,3,0,3,Angielski,n,pronunciation
+dziewczyna,la fille,3,ang,1,3,0,3,Angielski,n,pronunciation
+but,chaussure,3,ang,1,3,0,3,Angielski,n,pronunciation
+powoli,lentement,3,ang,1,3,0,3,Angielski,n,pronunciation
+onieśmielający,intimidé,3,ang,1,3,0,3,Angielski,n,pronunciation
+uśmiechać się,sourire,3,ang,1,3,0,3,Angielski,n,pronunciation
+śmiać się,rire,3,ang,1,3,0,3,Angielski,n,pronunciation
+na początku,tout d'abord,3,ang,1,3,0,3,Angielski,n,pronunciation
+podarować,offrir,3,ang,1,3,0,3,Angielski,n,pronunciation
+oferować,offrir,3,ang,1,3,0,3,Angielski,n,pronunciation
+żaden,rien,3,ang,1,3,0,3,Angielski,n,pronunciation
+zostawić kogoś w spokoju,laisser qn tranquille,3,ang,1,3,0,3,Angielski,n,pronunciation
+mniej,moins,3,ang,1,3,0,3,Angielski,n,pronunciation
+strach,la peur,3,ang,1,3,0,3,Angielski,n,pronunciation
+wtedy,alors,3,ang,1,3,0,3,Angielski,n,pronunciation
+wierzyć,croire,3,ang,1,3,0,3,Angielski,n,pronunciation
+marzyć o,rêver de,3,ang,1,3,0,3,Angielski,n,pronunciation
+zastanawiać się,réfléchir,3,ang,1,3,0,3,Angielski,n,pronunciation
+potem,puis,3,ang,1,3,0,3,Angielski,n,pronunciation
+zrozumiany,entendu,3,ang,1,3,0,3,Angielski,n,pronunciation
+zbiornic,le bac,3,ang,1,3,0,3,Angielski,n,pronunciation
+matura,le bac,3,ang,1,3,0,3,Angielski,n,pronunciation
+kapelusz,le chapeau,3,ang,1,3,0,3,Angielski,n,pronunciation
+ubierać,habiller,3,ang,1,3,0,3,Angielski,n,pronunciation
+jest konieczne żeby...,il faut...,3,ang,1,3,0,3,Angielski,n,pronunciation
+karmić,nourrir,3,ang,1,3,0,3,Angielski,n,pronunciation
+podwozić,conduire,3,ang,1,3,0,3,Angielski,n,pronunciation
+potrzebować,on doit,3,ang,1,3,0,3,Angielski,n,pronunciation
+mówić,dire,3,ang,1,3,0,3,Angielski,n,pronunciation

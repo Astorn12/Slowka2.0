@@ -1,33 +1,33 @@
-polski,francuski,0,,76,140,0,3,Angielski,n
-informatyk,l'informatique,0,i,-3,3,0,3,Angielski,n
-znajomość,le connaissance,0,i,-3,3,0,3,Angielski,n
-ogłoszenie,l'annonce,0,i,-4,3,0,3,Angielski,n
-wysłać coś komuś,envoyer qc à qn,0,i,-1,3,0,3,Angielski,n
-życiorys,le CV,0,i,-4,3,0,3,Angielski,n
-w załączeniu,ci-joint,0,i,-1,3,0,3,Angielski,n
-poszukiwanie,la recherche,0,i,-1,3,0,3,Angielski,n
-opublikowany,paru,0,i,-2,3,0,3,Angielski,n
-przedsiębiorstwo,l'entreprise,0,i,-1,3,0,3,Angielski,n
-list motywacyjny,la lettre de motivation,0,i,-1,3,0,3,Angielski,n
-ubiegać się,poser sa candidature,0,i,-1,3,0,3,Angielski,n
-miejsce pracy,le poste,0,i,-1,3,0,3,Angielski,n
-stanowisko,l'emploi,0,i,-1,3,0,3,Angielski,n
-pełen etat,à plein temps,0,i,-1,3,0,3,Angielski,n
-pół etatu,à mi-temps,0,i,-1,3,0,3,Angielski,n
-dwujęzyczny,bilingue,0,i,-1,3,0,3,Angielski,n
-odnośnie do,suite à,0,i,-1,3,0,3,Angielski,n
-świadectwo,le certificat,0,i,-2,3,0,3,Angielski,n
-studia,les études,0,i,-4,3,0,3,Angielski,n
-matura,le baccalauréat,0,i,-1,3,0,3,Angielski,n
-uniwersytet,l'université,0,i,-1,3,0,3,Angielski,n
-studiować,faire des études,0,,-1,3,0,3,Angielski,n
-kształcić się,faire un apprentissage,0,i,-1,3,0,3,Angielski,n
-odbywać praktykę,faire un stage,0,i,-2,3,0,3,Angielski,n
-komputer,l'ordinateur,0,i,-1,3,0,3,Angielski,n
-mysz,la souris,0,i,-1,3,0,3,Angielski,n
-drukarka,l'imprimante,0,i,-1,3,0,3,Angielski,n
-telefon komórkowy,le portable,0,i,-1,3,0,3,Angielski,n
-wysyłać e-mail,envoyer un mail,0,i,-2,3,0,3,Angielski,n
-aby,pour,0,i,-5,3,0,3,Angielski,n
-trzeba,il faut,0,i,-2,3,0,3,Angielski,n
-przechodzić,passer,0,i,-4,3,0,3,Angielski,n
+polski,francuski,0,,76,140,0,3,Angielski,n,pronunciation
+informatyk,l'informatique,0,i,-3,3,0,3,Angielski,n,pronunciation
+znajomość,le connaissance,0,i,-3,3,0,3,Angielski,n,pronunciation
+ogłoszenie,l'annonce,0,i,-4,3,0,3,Angielski,n,pronunciation
+wysłać coś komuś,envoyer qc à qn,0,i,-1,3,0,3,Angielski,n,pronunciation
+życiorys,le CV,0,i,-4,3,0,3,Angielski,n,pronunciation
+w załączeniu,ci-joint,0,i,-1,3,0,3,Angielski,n,pronunciation
+poszukiwanie,la recherche,0,i,-1,3,0,3,Angielski,n,pronunciation
+opublikowany,paru,0,i,-2,3,0,3,Angielski,n,pronunciation
+przedsiębiorstwo,l'entreprise,0,i,-1,3,0,3,Angielski,n,pronunciation
+list motywacyjny,la lettre de motivation,0,i,-1,3,0,3,Angielski,n,pronunciation
+ubiegać się,poser sa candidature,0,i,-1,3,0,3,Angielski,n,pronunciation
+miejsce pracy,le poste,0,i,-1,3,0,3,Angielski,n,pronunciation
+stanowisko,l'emploi,0,i,-1,3,0,3,Angielski,n,pronunciation
+pełen etat,à plein temps,0,i,-1,3,0,3,Angielski,n,pronunciation
+pół etatu,à mi-temps,0,i,-1,3,0,3,Angielski,n,pronunciation
+dwujęzyczny,bilingue,0,i,-1,3,0,3,Angielski,n,pronunciation
+odnośnie do,suite à,0,i,-1,3,0,3,Angielski,n,pronunciation
+świadectwo,le certificat,0,i,-2,3,0,3,Angielski,n,pronunciation
+studia,les études,0,i,-4,3,0,3,Angielski,n,pronunciation
+matura,le baccalauréat,0,i,-1,3,0,3,Angielski,n,pronunciation
+uniwersytet,l'université,0,i,-1,3,0,3,Angielski,n,pronunciation
+studiować,faire des études,0,,-1,3,0,3,Angielski,n,pronunciation
+kształcić się,faire un apprentissage,0,i,-1,3,0,3,Angielski,n,pronunciation
+odbywać praktykę,faire un stage,0,i,-2,3,0,3,Angielski,n,pronunciation
+komputer,l'ordinateur,0,i,-1,3,0,3,Angielski,n,pronunciation
+mysz,la souris,0,i,-1,3,0,3,Angielski,n,pronunciation
+drukarka,l'imprimante,0,i,-1,3,0,3,Angielski,n,pronunciation
+telefon komórkowy,le portable,0,i,-1,3,0,3,Angielski,n,pronunciation
+wysyłać e-mail,envoyer un mail,0,i,-2,3,0,3,Angielski,n,pronunciation
+aby,pour,0,i,-5,3,0,3,Angielski,n,pronunciation
+trzeba,il faut,0,i,-2,3,0,3,Angielski,n,pronunciation
+przechodzić,passer,0,i,-4,3,0,3,Angielski,n,pronunciation

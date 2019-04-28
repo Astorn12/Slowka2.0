@@ -1,69 +1,69 @@
-polski,francuski,0,,0,0,0,3,Angielski,n
-gotować,cuisiner,0,frai,1,3,0,3,Angielski,n
-zapomnieć,oublier,0,frai,1,3,0,3,Angielski,n
-obserwować,observer,1,frai,1,3,0,3,Angielski,n
-myśleć,penser,1,frai,1,3,0,3,Angielski,n
-gadać,bavarder,1,frai,1,3,0,3,Angielski,n
-śpiewać,chanter,1,frai,1,3,0,3,Angielski,n
-opowiadać,raconter,0,fra,1,3,0,3,Angielski,n
-wchodzić,rentrer,1,frai,1,3,0,3,Angielski,n
-kochać,aimer,1,frai,1,3,0,3,Angielski,n
-studiować,étudier,0,frai,1,3,0,3,Angielski,n
-patrzeć,regarder,0,frai,1,3,0,3,Angielski,n
-przyjeżdżać,arriver,1,frai,1,3,0,3,Angielski,n
-myć,laver,2,frai,1,3,0,3,Angielski,n
-dzwonić,telephoner,0,frai,1,3,0,3,Angielski,n
-kopiować,recopier,0,frai,1,3,0,3,Angielski,n
-wygrywać,gagner,2,frai,1,3,0,3,Angielski,n
-odnaleźć,trouver,0,frai,1,3,0,3,Angielski,n
-płakać,pleurer,4,fra,1,3,0,3,Angielski,n
-łąka,la prairie,0,fra,1,3,0,3,Angielski,n
-toczyć się,rouler,0,fra,1,3,0,3,Angielski,n
-jeść,manger,0,frai,1,3,0,3,Angielski,n
-grzyb,le champignon,2,frai,1,3,0,3,Angielski,n
-w,dans,0,frai,1,3,0,3,Angielski,n
-czerwony,rouge,1,frai,1,3,0,3,Angielski,n
-jutro,demain,1,frai,1,3,0,3,Angielski,n
-wiertło,le foret,4,frai,1,3,0,3,Angielski,n
-ta,cette,1,frai,1,3,0,3,Angielski,n
-piosenka,la chanson,1,frai,1,3,0,3,Angielski,n
-za,derrière,5,frai,1,3,0,3,Angielski,n
-okno,la fenêtre,0,frai,1,3,0,3,Angielski,n
-upadać,tomber,0,fra,1,3,0,3,Angielski,n
-liść,la feuille,3,frai,1,3,0,3,Angielski,n
-martwy,mort,2,frai,1,3,0,3,Angielski,n
-tańczyć,danser,0,frai,1,3,0,3,Angielski,n
-z,avec,0,frai,1,3,0,3,Angielski,n
-przyjaciel,le ami,0,frai,1,3,0,3,Angielski,n
-książka,le livre,0,frai,1,3,0,3,Angielski,n
-pozostać,rester,2,fra,1,3,0,3,Angielski,n
-zbyt dużo,trop,0,frai,1,3,0,3,Angielski,n
-mocno,fort,0,frai,1,3,0,3,Angielski,n
-grać,jouer,1,frai,1,3,0,3,Angielski,n
-szybko,vite,1,frai,1,3,0,3,Angielski,n
-jeść obiad,déjenuer,2,fra,1,3,0,3,Angielski,n
-sznur,la file,1,fra,1,3,0,3,Angielski,n
-muzyka,la musique,0,fra,1,3,0,3,Angielski,n
-przed,avant,0,fra,1,3,0,3,Angielski,n
-liceum,le lycée,2,fra,1,3,0,3,Angielski,n
-zawsze,toujours,0,fra,1,3,0,3,Angielski,n
-włączać,allumer,2,fra,1,3,0,3,Angielski,n
-podobny,même,0,frai,1,3,0,3,Angielski,n
-nawet,même,0,frai,1,3,0,3,Angielski,n
-wrzeszczeć,hurler,1,fra,1,3,0,3,Angielski,n
-powierzchnia,la aire,1,frai,1,3,0,3,Angielski,n
-pod,sous,4,frai,1,3,0,3,Angielski,n
-prysznic,la douche,3,frai,1,3,0,3,Angielski,n
-w skrócie,en bref,0,frai,1,3,0,3,Angielski,n
-popsuć,casser,0,fra,1,3,0,3,Angielski,n
-trudność,gêne,1,fra,1,3,0,3,Angielski,n
-nagle,tout,0,frai,1,3,0,3,Angielski,n
-całkowicie,tout,2,frai,1,3,0,3,Angielski,n
-świat,la monde,2,fra,1,3,0,3,Angielski,n
-kiedy,quand,0,fra,1,3,0,3,Angielski,n
-jak,comment,2,frai,1,3,0,3,Angielski,n
-ile,combien,1,frai,1,3,0,3,Angielski,n
-gdzie,où,4,frai,1,3,0,3,Angielski,n
-kto,qui,1,frai,1,3,0,3,Angielski,n
-co,que,0,frai,1,3,0,3,Angielski,n
-Ile masz lat?,Quel âge tu do?,2,frai,1,3,0,3,Angielski,n
+polski,francuski,0,,0,0,0,3,Angielski,n,pronunciation
+gotować,cuisiner,0,frai,1,3,0,3,Angielski,n,pronunciation
+zapomnieć,oublier,0,frai,1,3,0,3,Angielski,n,pronunciation
+obserwować,observer,1,frai,1,3,0,3,Angielski,n,pronunciation
+myśleć,penser,1,frai,1,3,0,3,Angielski,n,pronunciation
+gadać,bavarder,1,frai,1,3,0,3,Angielski,n,pronunciation
+śpiewać,chanter,1,frai,1,3,0,3,Angielski,n,pronunciation
+opowiadać,raconter,0,fra,1,3,0,3,Angielski,n,pronunciation
+wchodzić,rentrer,1,frai,1,3,0,3,Angielski,n,pronunciation
+kochać,aimer,1,frai,1,3,0,3,Angielski,n,pronunciation
+studiować,étudier,0,frai,1,3,0,3,Angielski,n,pronunciation
+patrzeć,regarder,0,frai,1,3,0,3,Angielski,n,pronunciation
+przyjeżdżać,arriver,1,frai,1,3,0,3,Angielski,n,pronunciation
+myć,laver,2,frai,1,3,0,3,Angielski,n,pronunciation
+dzwonić,telephoner,0,frai,1,3,0,3,Angielski,n,pronunciation
+kopiować,recopier,0,frai,1,3,0,3,Angielski,n,pronunciation
+wygrywać,gagner,2,frai,1,3,0,3,Angielski,n,pronunciation
+odnaleźć,trouver,0,frai,1,3,0,3,Angielski,n,pronunciation
+płakać,pleurer,4,fra,1,3,0,3,Angielski,n,pronunciation
+łąka,la prairie,0,fra,1,3,0,3,Angielski,n,pronunciation
+toczyć się,rouler,0,fra,1,3,0,3,Angielski,n,pronunciation
+jeść,manger,0,frai,1,3,0,3,Angielski,n,pronunciation
+grzyb,le champignon,2,frai,1,3,0,3,Angielski,n,pronunciation
+w,dans,0,frai,1,3,0,3,Angielski,n,pronunciation
+czerwony,rouge,1,frai,1,3,0,3,Angielski,n,pronunciation
+jutro,demain,1,frai,1,3,0,3,Angielski,n,pronunciation
+wiertło,le foret,4,frai,1,3,0,3,Angielski,n,pronunciation
+ta,cette,1,frai,1,3,0,3,Angielski,n,pronunciation
+piosenka,la chanson,1,frai,1,3,0,3,Angielski,n,pronunciation
+za,derrière,5,frai,1,3,0,3,Angielski,n,pronunciation
+okno,la fenêtre,0,frai,1,3,0,3,Angielski,n,pronunciation
+upadać,tomber,0,fra,1,3,0,3,Angielski,n,pronunciation
+liść,la feuille,3,frai,1,3,0,3,Angielski,n,pronunciation
+martwy,mort,2,frai,1,3,0,3,Angielski,n,pronunciation
+tańczyć,danser,0,frai,1,3,0,3,Angielski,n,pronunciation
+z,avec,0,frai,1,3,0,3,Angielski,n,pronunciation
+przyjaciel,le ami,0,frai,1,3,0,3,Angielski,n,pronunciation
+książka,le livre,0,frai,1,3,0,3,Angielski,n,pronunciation
+pozostać,rester,2,fra,1,3,0,3,Angielski,n,pronunciation
+zbyt dużo,trop,0,frai,1,3,0,3,Angielski,n,pronunciation
+mocno,fort,0,frai,1,3,0,3,Angielski,n,pronunciation
+grać,jouer,1,frai,1,3,0,3,Angielski,n,pronunciation
+szybko,vite,1,frai,1,3,0,3,Angielski,n,pronunciation
+jeść obiad,déjenuer,2,fra,1,3,0,3,Angielski,n,pronunciation
+sznur,la file,1,fra,1,3,0,3,Angielski,n,pronunciation
+muzyka,la musique,0,fra,1,3,0,3,Angielski,n,pronunciation
+przed,avant,0,fra,1,3,0,3,Angielski,n,pronunciation
+liceum,le lycée,2,fra,1,3,0,3,Angielski,n,pronunciation
+zawsze,toujours,0,fra,1,3,0,3,Angielski,n,pronunciation
+włączać,allumer,2,fra,1,3,0,3,Angielski,n,pronunciation
+podobny,même,0,frai,1,3,0,3,Angielski,n,pronunciation
+nawet,même,0,frai,1,3,0,3,Angielski,n,pronunciation
+wrzeszczeć,hurler,1,fra,1,3,0,3,Angielski,n,pronunciation
+powierzchnia,la aire,1,frai,1,3,0,3,Angielski,n,pronunciation
+pod,sous,4,frai,1,3,0,3,Angielski,n,pronunciation
+prysznic,la douche,3,frai,1,3,0,3,Angielski,n,pronunciation
+w skrócie,en bref,0,frai,1,3,0,3,Angielski,n,pronunciation
+popsuć,casser,0,fra,1,3,0,3,Angielski,n,pronunciation
+trudność,gêne,1,fra,1,3,0,3,Angielski,n,pronunciation
+nagle,tout,0,frai,1,3,0,3,Angielski,n,pronunciation
+całkowicie,tout,2,frai,1,3,0,3,Angielski,n,pronunciation
+świat,la monde,2,fra,1,3,0,3,Angielski,n,pronunciation
+kiedy,quand,0,fra,1,3,0,3,Angielski,n,pronunciation
+jak,comment,2,frai,1,3,0,3,Angielski,n,pronunciation
+ile,combien,1,frai,1,3,0,3,Angielski,n,pronunciation
+gdzie,où,4,frai,1,3,0,3,Angielski,n,pronunciation
+kto,qui,1,frai,1,3,0,3,Angielski,n,pronunciation
+co,que,0,frai,1,3,0,3,Angielski,n,pronunciation
+Ile masz lat?,Quel âge tu do?,2,frai,1,3,0,3,Angielski,n,pronunciation

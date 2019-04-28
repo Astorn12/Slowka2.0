@@ -1,191 +1,191 @@
-polski,angielski,0,,0,0,0,3,angielski,n
-consist,składać się,3,ang,0,0,0,0,angielski,n
-regard,brać pod uwagę,3,ang,0,0,0,0,angielski,n
-careless,niostrożny/niestaranny,3,ang,0,0,0,0,angielski,n
-nest,gniazdo/legowisko,3,ang,0,0,0,0,angielski,n
-laundry,pranie,3,ang,0,0,0,0,angielski,n
-greet,witać,3,ang,0,0,0,0,angielski,n
-cart,furmanka/wózek ręczny,3,ang,0,0,0,0,angielski,n
-intend,zamierzać,3,ang,0,0,0,0,angielski,n
-slightly,nieco,3,ang,0,0,0,0,angielski,n
-instance,przykład/wniosek,3,ang,0,0,0,0,angielski,n
-relevant,istotny/dotyczący,3,ang,0,0,0,0,angielski,n
-counter,okienko/kontuar/przeciwdziałać,3,ang,0,0,0,0,angielski,n
-bet,zakładać się/zakład,3,ang,0,0,0,0,angielski,n
-enjoyable,przyjemny,3,ang,0,0,0,0,angielski,n
-sparkling,gazowany/lśniący,3,ang,0,0,0,0,angielski,n
-association,stowarzyszenie,3,ang,0,0,0,0,angielski,n
-rumor,plotka,3,ang,0,0,0,0,angielski,n
-afterwards,potem/następnie,3,ang,0,0,0,0,angielski,n
-burden,ciężar,3,ang,0,0,0,0,angielski,n
-attempt,próba/usiłowanie/próbować,3,ang,0,0,0,0,angielski,n
-broadcast,transmisja/transmitować,3,ang,0,0,0,0,angielski,n
-cellar,piwnica,3,ang,0,0,0,0,angielski,n
-acting,pełniący obowiązki/działanie,3,ang,0,0,0,0,angielski,n
-tremble,trząść się/drżeć,3,ang,0,0,0,0,angielski,n
-straightaway,od razu/natychmiast,3,ang,0,0,0,0,angielski,n
-tune,nastroić/melodia,3,ang,0,0,0,0,angielski,n
-bloke,facet,3,ang,0,0,0,0,angielski,n
-praise,wychwalać/pochwała,3,ang,0,0,0,0,angielski,n
-excessive,wygórowany/nadmierny,3,ang,0,0,0,0,angielski,n
-whether,czy,3,ang,0,0,0,0,angielski,n
-sincerely,szczerze/z poważaniem,3,ang,0,0,0,0,angielski,n
-stir,wywoływać/mieszać/pobudzać,3,ang,0,0,0,0,angielski,n
-hatch,właz,3,ang,0,0,0,0,angielski,n
-vocational,zawodowy,3,ang,0,0,0,0,angielski,n
-consonant,spółgłoska,3,ang,0,0,0,0,angielski,n
-found,występujący/spotykany/znaleziony,3,ang,0,0,0,0,angielski,n
-means,środki/sposoby,3,ang,0,0,0,0,angielski,n
-dung,gnój/odchody zwierzęce,3,ang,0,0,0,0,angielski,n
-broad,szeroki/obszerny,3,ang,0,0,0,0,angielski,n
-commit,popełniać/angażować się,3,ang,0,0,0,0,angielski,n
-carpenter,stolarz,3,ang,0,0,0,0,angielski,n
-outer,wierzchni/zewnętrzny,3,ang,0,0,0,0,angielski,n
-farewell,pożegnanie,3,ang,0,0,0,0,angielski,n
-bulb,żarówka/główka,3,ang,0,0,0,0,angielski,n
-spoil,zepsuć/rozpieszczać,3,ang,0,0,0,0,angielski,n
-diligent,pilny/pracowity,3,ang,0,0,0,0,angielski,n
-physical,fizyczny/materialny,3,ang,0,0,0,0,angielski,n
-hips,biodra,3,ang,0,0,0,0,angielski,n
-whisper,szeptać,3,ang,0,0,0,0,angielski,n
-suffix,przyrostek,3,ang,0,0,0,0,angielski,n
-eastern,wschodni,3,ang,0,0,0,0,angielski,n
-annual,roczny/coroczny,3,ang,0,0,0,0,angielski,n
-descendant,potomek,3,ang,0,0,0,0,angielski,n
-pretend,udawać,3,ang,0,0,0,0,angielski,n
-brake,hamować/hamulec,3,ang,0,0,0,0,angielski,n
-filthy,okropnie brudny/paskudny,3,ang,0,0,0,0,angielski,n
-insist,nalegać/uparcie twierdzić,3,ang,0,0,0,0,angielski,n
-straw,słomka/słoma,3,ang,0,0,0,0,angielski,n
-filing,oficjalny dokument/segregowanie/uzupełnianie,3,ang,0,0,0,0,angielski,n
-pond,staw/oczko wodne,3,ang,0,0,0,0,angielski,n
-heel,obcas/pięta,3,ang,0,0,0,0,angielski,n
-bym,pupa/tyłek,3,ang,0,0,0,0,angielski,n
-marital,cywilny,3,ang,0,0,0,0,angielski,n
-highlight,główna atrakcja/podkreślać,3,ang,0,0,0,0,angielski,n
-haggle,targować,3,ang,0,0,0,0,angielski,n
-knickers,majtki damskie,3,ang,0,0,0,0,angielski,n
-parcel,paczka,3,ang,0,0,0,0,angielski,n
-lighting,oświetlenie,3,ang,0,0,0,0,angielski,n
-mosque,meczet,3,ang,0,0,0,0,angielski,n
-desire,pragnienie/chęć,3,ang,0,0,0,0,angielski,n
-sore,bolący,3,ang,0,0,0,0,angielski,n
-paste,pasta/nakleić,3,ang,0,0,0,0,angielski,n
-bean,ziarna,3,ang,0,0,0,0,angielski,n
-beggar,żebrak/doprowadzić kogoś do nędzy,3,ang,0,0,0,0,angielski,n
-labor,siła robocza,3,ang,0,0,0,0,angielski,n
-cushion,poduszka,3,ang,0,0,0,0,angielski,n
-fable,bajka,3,ang,0,0,0,0,angielski,n
-Hebrew,język hebrajski,3,ang,0,0,0,0,angielski,n
-admission,wstęp/przyznanie się,3,ang,0,0,0,0,angielski,n
-brick,cegła,3,ang,0,0,0,0,angielski,n
-pavement,chodnik,3,ang,0,0,0,0,angielski,n
-sunscreen,krem z filtrem,3,ang,0,0,0,0,angielski,n
-gradual,stopniowy,3,ang,0,0,0,0,angielski,n
-swerve,gwałtownie skręcić,3,ang,0,0,0,0,angielski,n
-demand,popyt/zapotrzebowanie/żądanie,3,ang,0,0,0,0,angielski,n
-float,platforma/spławik/dryfować/unosić się(na wodzie),3,ang,0,0,0,0,angielski,n
-lean,chudy,3,ang,0,0,0,0,angielski,n
-establish,założyć/wyrobić sobie renomę,3,ang,0,0,0,0,angielski,n
-abbreviation,skrót,3,ang,0,0,0,0,angielski,n
-excess,nadmiar,3,ang,0,0,0,0,angielski,n
-rinse,płukać,3,ang,0,0,0,0,angielski,n
-puncture,guma(w samochodzie)/nagłucie/przekłuć,3,ang,0,0,0,0,angielski,n
-pointer,spiczasty,3,ang,0,0,0,0,angielski,n
-germ,zarodek/drobnoustrój,3,ang,0,0,0,0,angielski,n
-dozen,tuzin,3,ang,0,0,0,0,angielski,n
-peer,rówieśnik/przyglądać się badawczo,3,ang,0,0,0,0,angielski,n
-onit,pominąć,3,ang,0,0,0,0,angielski,n
-greenhouse,cieplarniany/szklarnia,3,ang,0,0,0,0,angielski,n
-scold,nakrzyczeć/besztać,3,ang,0,0,0,0,angielski,n
-handout,jałmużna/ulotka,3,ang,0,0,0,0,angielski,n
-duvet,kołdra,3,ang,0,0,0,0,angielski,n
-humid,wilgotny,3,ang,0,0,0,0,angielski,n
-fold,składać/zginać/zagięcie,3,ang,0,0,0,0,angielski,n
-chew,żuć,3,ang,0,0,0,0,angielski,n
-stripe,prążek,3,ang,0,0,0,0,angielski,n
-weed,chwast/pielić,3,ang,0,0,0,0,angielski,n
-attendance,frekwencja/obecność,3,ang,0,0,0,0,angielski,n
-fixed,ustalony/stały/niezmienny,3,ang,0,0,0,0,angielski,n
-trunk,pień,3,ang,0,0,0,0,angielski,n
-nearly,niemal/prawie,3,ang,0,0,0,0,angielski,n
-drought,susza,3,ang,0,0,0,0,angielski,n
-wavy,falisty,3,ang,0,0,0,0,angielski,n
-lungs,płuca,3,ang,0,0,0,0,angielski,n
-cellist,wiolonczelista,3,ang,0,0,0,0,angielski,n
-convenience,wygodny/udogodnienie,3,ang,0,0,0,0,angielski,n
-gorgeous,wspaniały,3,ang,0,0,0,0,angielski,n
-caring,dbający/troszczący się,3,ang,0,0,0,0,angielski,n
-proceed,zabierać się/kontynuować,3,ang,0,0,0,0,angielski,n
-prefix,przedrostek,3,ang,0,0,0,0,angielski,n
-harvest,żniwa/plony,3,ang,0,0,0,0,angielski,n
-shepherd,pasterz,3,ang,0,0,0,0,angielski,n
-postgraduate,podyplomowy,3,ang,0,0,0,0,angielski,n
-fairly,całkiem/dość,3,ang,0,0,0,0,angielski,n
-combine,łączyć/mieszać,3,ang,0,0,0,0,angielski,n
-suntan,opalenizna,3,ang,0,0,0,0,angielski,n
-tend,mieć tendencje,3,ang,0,0,0,0,angielski,n
-blossom,kwitnąć,3,ang,0,0,0,0,angielski,n
-vacant,wolne,3,ang,0,0,0,0,angielski,n
-revise,zrewidować/korygować,3,ang,0,0,0,0,angielski,n
-junction,skrzyżowanie,3,ang,0,0,0,0,angielski,n
-roughly,z grubsza,3,ang,0,0,0,0,angielski,n
-litter,śmieci,3,ang,0,0,0,0,angielski,n
-customary,zwyczajowy,3,ang,0,0,0,0,angielski,n
-punctuation,interpunkcja,3,ang,0,0,0,0,angielski,n
-deceive,oszukiwać/zwodzić,3,ang,0,0,0,0,angielski,n
-quarrel,kłócić się,3,ang,0,0,0,0,angielski,n
-merchant,handlowiec/kupiec,3,ang,0,0,0,0,angielski,n
-drag,przeciągnąć/ciągnąć/wlec,3,ang,0,0,0,0,angielski,n
-proverb,przysłowie,3,ang,0,0,0,0,angielski,n
-principle,zasada/reguła,3,ang,0,0,0,0,angielski,n
-gesture,gest/znak,3,ang,0,0,0,0,angielski,n
-steady,zrównoważony/jednostajny,3,ang,0,0,0,0,angielski,n
-steep,stromy/gwałtowny,3,ang,0,0,0,0,angielski,n
-neat,schludny/czysty/zgrabny,3,ang,0,0,0,0,angielski,n
-minor,drobny/nieletni,3,ang,0,0,0,0,angielski,n
-mild,łagodny/umiarkowany,3,ang,0,0,0,0,angielski,n
-aptitude,zdolność,3,ang,0,0,0,0,angielski,n
-rink,lodowisko,3,ang,0,0,0,0,angielski,n
-highlighter,zakreślacz,3,ang,0,0,0,0,angielski,n
-merit,zasługa,3,ang,0,0,0,0,angielski,n
-sweep,zamiatanie/zamiatać,3,ang,0,0,0,0,angielski,n
-greeting,powitanie,3,ang,0,0,0,0,angielski,n
-particular,konkretny/specyficzny/osobliwy/szczególny,3,ang,0,0,0,0,angielski,n
-dump,śmietnisko/sterta,3,ang,0,0,0,0,angielski,n
-tiles,dachówka/kafelki,3,ang,0,0,0,0,angielski,n
-tiring,męczący,3,ang,0,0,0,0,angielski,n
-harm,krzywdzić/szkoda/krzywda,3,ang,0,0,0,0,angielski,n
-whereas,podczas gdy/natomiast,3,ang,0,0,0,0,angielski,n
-peel,skórka/obierać/łuszczyć się,3,ang,0,0,0,0,angielski,n
-silk,jedwab,3,ang,0,0,0,0,angielski,n
-refrigerator,lodówka,3,ang,0,0,0,0,angielski,n
-washbasin,umywalka,3,ang,0,0,0,0,angielski,n
-significant,istotny/znaczący/ważny,3,ang,0,0,0,0,angielski,n
-pole,tyczka/kijek/słup,3,ang,0,0,0,0,angielski,n
-rid,pozbywać się/pozbawiać,3,ang,0,0,0,0,angielski,n
-collar,kołnierz/obroża,3,ang,0,0,0,0,angielski,n
-slip,poślizgnać się/wślizgnąć się,3,ang,0,0,0,0,angielski,n
-arts,nauki humanistyczne,3,ang,0,0,0,0,angielski,n
-telly,telewizja,3,ang,0,0,0,0,angielski,n
-packed,zatłoczony/tłoczny,3,ang,0,0,0,0,angielski,n
-bucket,wiadro/kubeł,3,ang,0,0,0,0,angielski,n
-sigh,westchnąć,3,ang,0,0,0,0,angielski,n
-likely,prawdopodobnie/przypuszczalnie,3,ang,0,0,0,0,angielski,n
-faint,słaby/osłabiony/zemdleć,3,ang,0,0,0,0,angielski,n
-yell,krzyczeć/wrzasnąć,3,ang,0,0,0,0,angielski,n
-shore,brzeg/brzegowy,3,ang,0,0,0,0,angielski,n
-plain,zwykły/prosty/zwyczajny,3,ang,0,0,0,0,angielski,n
-dictation,dyktando,3,ang,0,0,0,0,angielski,n
-stroll,przechadzka/przechadzać się,3,ang,0,0,0,0,angielski,n
-terrific,fantastycznty/wspaniały,3,ang,0,0,0,0,angielski,n
-vowel,samogłoska,3,ang,0,0,0,0,angielski,n
-fossil,skamieniałość,3,ang,0,0,0,0,angielski,n
-contribute,wnieść/przyczynić się,3,ang,0,0,0,0,angielski,n
-wire,drut/przewód/drutować,3,ang,0,0,0,0,angielski,n
-delight,wielka przyjemność/rozkosz/zachwyt,3,ang,0,0,0,0,angielski,n
-giveaway,rozdanie,3,ang,0,0,0,0,angielski,n
-sooner,wcześniej,3,ang,0,0,0,0,angielski,n
-dally,ociągać się/flirtować,3,ang,0,0,0,0,angielski,n
-indicate,wskazywać/oznaczać/sygnalizować,3,ang,0,0,0,0,angielski,n
-unreliable,niepewny/nierzetelny/niesłowny,3,ang,0,0,0,0,angielski,n
+polski,angielski,0,,0,0,0,3,angielski,n,pronunciation
+consist,składać się,3,ang,0,0,0,0,angielski,n,pronunciation
+regard,brać pod uwagę,3,ang,0,0,0,0,angielski,n,pronunciation
+careless,niostrożny/niestaranny,3,ang,0,0,0,0,angielski,n,pronunciation
+nest,gniazdo/legowisko,3,ang,0,0,0,0,angielski,n,pronunciation
+laundry,pranie,3,ang,0,0,0,0,angielski,n,pronunciation
+greet,witać,3,ang,0,0,0,0,angielski,n,pronunciation
+cart,furmanka/wózek ręczny,3,ang,0,0,0,0,angielski,n,pronunciation
+intend,zamierzać,3,ang,0,0,0,0,angielski,n,pronunciation
+slightly,nieco,3,ang,0,0,0,0,angielski,n,pronunciation
+instance,przykład/wniosek,3,ang,0,0,0,0,angielski,n,pronunciation
+relevant,istotny/dotyczący,3,ang,0,0,0,0,angielski,n,pronunciation
+counter,okienko/kontuar/przeciwdziałać,3,ang,0,0,0,0,angielski,n,pronunciation
+bet,zakładać się/zakład,3,ang,0,0,0,0,angielski,n,pronunciation
+enjoyable,przyjemny,3,ang,0,0,0,0,angielski,n,pronunciation
+sparkling,gazowany/lśniący,3,ang,0,0,0,0,angielski,n,pronunciation
+association,stowarzyszenie,3,ang,0,0,0,0,angielski,n,pronunciation
+rumor,plotka,3,ang,0,0,0,0,angielski,n,pronunciation
+afterwards,potem/następnie,3,ang,0,0,0,0,angielski,n,pronunciation
+burden,ciężar,3,ang,0,0,0,0,angielski,n,pronunciation
+attempt,próba/usiłowanie/próbować,3,ang,0,0,0,0,angielski,n,pronunciation
+broadcast,transmisja/transmitować,3,ang,0,0,0,0,angielski,n,pronunciation
+cellar,piwnica,3,ang,0,0,0,0,angielski,n,pronunciation
+acting,pełniący obowiązki/działanie,3,ang,0,0,0,0,angielski,n,pronunciation
+tremble,trząść się/drżeć,3,ang,0,0,0,0,angielski,n,pronunciation
+straightaway,od razu/natychmiast,3,ang,0,0,0,0,angielski,n,pronunciation
+tune,nastroić/melodia,3,ang,0,0,0,0,angielski,n,pronunciation
+bloke,facet,3,ang,0,0,0,0,angielski,n,pronunciation
+praise,wychwalać/pochwała,3,ang,0,0,0,0,angielski,n,pronunciation
+excessive,wygórowany/nadmierny,3,ang,0,0,0,0,angielski,n,pronunciation
+whether,czy,3,ang,0,0,0,0,angielski,n,pronunciation
+sincerely,szczerze/z poważaniem,3,ang,0,0,0,0,angielski,n,pronunciation
+stir,wywoływać/mieszać/pobudzać,3,ang,0,0,0,0,angielski,n,pronunciation
+hatch,właz,3,ang,0,0,0,0,angielski,n,pronunciation
+vocational,zawodowy,3,ang,0,0,0,0,angielski,n,pronunciation
+consonant,spółgłoska,3,ang,0,0,0,0,angielski,n,pronunciation
+found,występujący/spotykany/znaleziony,3,ang,0,0,0,0,angielski,n,pronunciation
+means,środki/sposoby,3,ang,0,0,0,0,angielski,n,pronunciation
+dung,gnój/odchody zwierzęce,3,ang,0,0,0,0,angielski,n,pronunciation
+broad,szeroki/obszerny,3,ang,0,0,0,0,angielski,n,pronunciation
+commit,popełniać/angażować się,3,ang,0,0,0,0,angielski,n,pronunciation
+carpenter,stolarz,3,ang,0,0,0,0,angielski,n,pronunciation
+outer,wierzchni/zewnętrzny,3,ang,0,0,0,0,angielski,n,pronunciation
+farewell,pożegnanie,3,ang,0,0,0,0,angielski,n,pronunciation
+bulb,żarówka/główka,3,ang,0,0,0,0,angielski,n,pronunciation
+spoil,zepsuć/rozpieszczać,3,ang,0,0,0,0,angielski,n,pronunciation
+diligent,pilny/pracowity,3,ang,0,0,0,0,angielski,n,pronunciation
+physical,fizyczny/materialny,3,ang,0,0,0,0,angielski,n,pronunciation
+hips,biodra,3,ang,0,0,0,0,angielski,n,pronunciation
+whisper,szeptać,3,ang,0,0,0,0,angielski,n,pronunciation
+suffix,przyrostek,3,ang,0,0,0,0,angielski,n,pronunciation
+eastern,wschodni,3,ang,0,0,0,0,angielski,n,pronunciation
+annual,roczny/coroczny,3,ang,0,0,0,0,angielski,n,pronunciation
+descendant,potomek,3,ang,0,0,0,0,angielski,n,pronunciation
+pretend,udawać,3,ang,0,0,0,0,angielski,n,pronunciation
+brake,hamować/hamulec,3,ang,0,0,0,0,angielski,n,pronunciation
+filthy,okropnie brudny/paskudny,3,ang,0,0,0,0,angielski,n,pronunciation
+insist,nalegać/uparcie twierdzić,3,ang,0,0,0,0,angielski,n,pronunciation
+straw,słomka/słoma,3,ang,0,0,0,0,angielski,n,pronunciation
+filing,oficjalny dokument/segregowanie/uzupełnianie,3,ang,0,0,0,0,angielski,n,pronunciation
+pond,staw/oczko wodne,3,ang,0,0,0,0,angielski,n,pronunciation
+heel,obcas/pięta,3,ang,0,0,0,0,angielski,n,pronunciation
+bym,pupa/tyłek,3,ang,0,0,0,0,angielski,n,pronunciation
+marital,cywilny,3,ang,0,0,0,0,angielski,n,pronunciation
+highlight,główna atrakcja/podkreślać,3,ang,0,0,0,0,angielski,n,pronunciation
+haggle,targować,3,ang,0,0,0,0,angielski,n,pronunciation
+knickers,majtki damskie,3,ang,0,0,0,0,angielski,n,pronunciation
+parcel,paczka,3,ang,0,0,0,0,angielski,n,pronunciation
+lighting,oświetlenie,3,ang,0,0,0,0,angielski,n,pronunciation
+mosque,meczet,3,ang,0,0,0,0,angielski,n,pronunciation
+desire,pragnienie/chęć,3,ang,0,0,0,0,angielski,n,pronunciation
+sore,bolący,3,ang,0,0,0,0,angielski,n,pronunciation
+paste,pasta/nakleić,3,ang,0,0,0,0,angielski,n,pronunciation
+bean,ziarna,3,ang,0,0,0,0,angielski,n,pronunciation
+beggar,żebrak/doprowadzić kogoś do nędzy,3,ang,0,0,0,0,angielski,n,pronunciation
+labor,siła robocza,3,ang,0,0,0,0,angielski,n,pronunciation
+cushion,poduszka,3,ang,0,0,0,0,angielski,n,pronunciation
+fable,bajka,3,ang,0,0,0,0,angielski,n,pronunciation
+Hebrew,język hebrajski,3,ang,0,0,0,0,angielski,n,pronunciation
+admission,wstęp/przyznanie się,3,ang,0,0,0,0,angielski,n,pronunciation
+brick,cegła,3,ang,0,0,0,0,angielski,n,pronunciation
+pavement,chodnik,3,ang,0,0,0,0,angielski,n,pronunciation
+sunscreen,krem z filtrem,3,ang,0,0,0,0,angielski,n,pronunciation
+gradual,stopniowy,3,ang,0,0,0,0,angielski,n,pronunciation
+swerve,gwałtownie skręcić,3,ang,0,0,0,0,angielski,n,pronunciation
+demand,popyt/zapotrzebowanie/żądanie,3,ang,0,0,0,0,angielski,n,pronunciation
+float,platforma/spławik/dryfować/unosić się(na wodzie),3,ang,0,0,0,0,angielski,n,pronunciation
+lean,chudy,3,ang,0,0,0,0,angielski,n,pronunciation
+establish,założyć/wyrobić sobie renomę,3,ang,0,0,0,0,angielski,n,pronunciation
+abbreviation,skrót,3,ang,0,0,0,0,angielski,n,pronunciation
+excess,nadmiar,3,ang,0,0,0,0,angielski,n,pronunciation
+rinse,płukać,3,ang,0,0,0,0,angielski,n,pronunciation
+puncture,guma(w samochodzie)/nagłucie/przekłuć,3,ang,0,0,0,0,angielski,n,pronunciation
+pointer,spiczasty,3,ang,0,0,0,0,angielski,n,pronunciation
+germ,zarodek/drobnoustrój,3,ang,0,0,0,0,angielski,n,pronunciation
+dozen,tuzin,3,ang,0,0,0,0,angielski,n,pronunciation
+peer,rówieśnik/przyglądać się badawczo,3,ang,0,0,0,0,angielski,n,pronunciation
+onit,pominąć,3,ang,0,0,0,0,angielski,n,pronunciation
+greenhouse,cieplarniany/szklarnia,3,ang,0,0,0,0,angielski,n,pronunciation
+scold,nakrzyczeć/besztać,3,ang,0,0,0,0,angielski,n,pronunciation
+handout,jałmużna/ulotka,3,ang,0,0,0,0,angielski,n,pronunciation
+duvet,kołdra,3,ang,0,0,0,0,angielski,n,pronunciation
+humid,wilgotny,3,ang,0,0,0,0,angielski,n,pronunciation
+fold,składać/zginać/zagięcie,3,ang,0,0,0,0,angielski,n,pronunciation
+chew,żuć,3,ang,0,0,0,0,angielski,n,pronunciation
+stripe,prążek,3,ang,0,0,0,0,angielski,n,pronunciation
+weed,chwast/pielić,3,ang,0,0,0,0,angielski,n,pronunciation
+attendance,frekwencja/obecność,3,ang,0,0,0,0,angielski,n,pronunciation
+fixed,ustalony/stały/niezmienny,3,ang,0,0,0,0,angielski,n,pronunciation
+trunk,pień,3,ang,0,0,0,0,angielski,n,pronunciation
+nearly,niemal/prawie,3,ang,0,0,0,0,angielski,n,pronunciation
+drought,susza,3,ang,0,0,0,0,angielski,n,pronunciation
+wavy,falisty,3,ang,0,0,0,0,angielski,n,pronunciation
+lungs,płuca,3,ang,0,0,0,0,angielski,n,pronunciation
+cellist,wiolonczelista,3,ang,0,0,0,0,angielski,n,pronunciation
+convenience,wygodny/udogodnienie,3,ang,0,0,0,0,angielski,n,pronunciation
+gorgeous,wspaniały,3,ang,0,0,0,0,angielski,n,pronunciation
+caring,dbający/troszczący się,3,ang,0,0,0,0,angielski,n,pronunciation
+proceed,zabierać się/kontynuować,3,ang,0,0,0,0,angielski,n,pronunciation
+prefix,przedrostek,3,ang,0,0,0,0,angielski,n,pronunciation
+harvest,żniwa/plony,3,ang,0,0,0,0,angielski,n,pronunciation
+shepherd,pasterz,3,ang,0,0,0,0,angielski,n,pronunciation
+postgraduate,podyplomowy,3,ang,0,0,0,0,angielski,n,pronunciation
+fairly,całkiem/dość,3,ang,0,0,0,0,angielski,n,pronunciation
+combine,łączyć/mieszać,3,ang,0,0,0,0,angielski,n,pronunciation
+suntan,opalenizna,3,ang,0,0,0,0,angielski,n,pronunciation
+tend,mieć tendencje,3,ang,0,0,0,0,angielski,n,pronunciation
+blossom,kwitnąć,3,ang,0,0,0,0,angielski,n,pronunciation
+vacant,wolne,3,ang,0,0,0,0,angielski,n,pronunciation
+revise,zrewidować/korygować,3,ang,0,0,0,0,angielski,n,pronunciation
+junction,skrzyżowanie,3,ang,0,0,0,0,angielski,n,pronunciation
+roughly,z grubsza,3,ang,0,0,0,0,angielski,n,pronunciation
+litter,śmieci,3,ang,0,0,0,0,angielski,n,pronunciation
+customary,zwyczajowy,3,ang,0,0,0,0,angielski,n,pronunciation
+punctuation,interpunkcja,3,ang,0,0,0,0,angielski,n,pronunciation
+deceive,oszukiwać/zwodzić,3,ang,0,0,0,0,angielski,n,pronunciation
+quarrel,kłócić się,3,ang,0,0,0,0,angielski,n,pronunciation
+merchant,handlowiec/kupiec,3,ang,0,0,0,0,angielski,n,pronunciation
+drag,przeciągnąć/ciągnąć/wlec,3,ang,0,0,0,0,angielski,n,pronunciation
+proverb,przysłowie,3,ang,0,0,0,0,angielski,n,pronunciation
+principle,zasada/reguła,3,ang,0,0,0,0,angielski,n,pronunciation
+gesture,gest/znak,3,ang,0,0,0,0,angielski,n,pronunciation
+steady,zrównoważony/jednostajny,3,ang,0,0,0,0,angielski,n,pronunciation
+steep,stromy/gwałtowny,3,ang,0,0,0,0,angielski,n,pronunciation
+neat,schludny/czysty/zgrabny,3,ang,0,0,0,0,angielski,n,pronunciation
+minor,drobny/nieletni,3,ang,0,0,0,0,angielski,n,pronunciation
+mild,łagodny/umiarkowany,3,ang,0,0,0,0,angielski,n,pronunciation
+aptitude,zdolność,3,ang,0,0,0,0,angielski,n,pronunciation
+rink,lodowisko,3,ang,0,0,0,0,angielski,n,pronunciation
+highlighter,zakreślacz,3,ang,0,0,0,0,angielski,n,pronunciation
+merit,zasługa,3,ang,0,0,0,0,angielski,n,pronunciation
+sweep,zamiatanie/zamiatać,3,ang,0,0,0,0,angielski,n,pronunciation
+greeting,powitanie,3,ang,0,0,0,0,angielski,n,pronunciation
+particular,konkretny/specyficzny/osobliwy/szczególny,3,ang,0,0,0,0,angielski,n,pronunciation
+dump,śmietnisko/sterta,3,ang,0,0,0,0,angielski,n,pronunciation
+tiles,dachówka/kafelki,3,ang,0,0,0,0,angielski,n,pronunciation
+tiring,męczący,3,ang,0,0,0,0,angielski,n,pronunciation
+harm,krzywdzić/szkoda/krzywda,3,ang,0,0,0,0,angielski,n,pronunciation
+whereas,podczas gdy/natomiast,3,ang,0,0,0,0,angielski,n,pronunciation
+peel,skórka/obierać/łuszczyć się,3,ang,0,0,0,0,angielski,n,pronunciation
+silk,jedwab,3,ang,0,0,0,0,angielski,n,pronunciation
+refrigerator,lodówka,3,ang,0,0,0,0,angielski,n,pronunciation
+washbasin,umywalka,3,ang,0,0,0,0,angielski,n,pronunciation
+significant,istotny/znaczący/ważny,3,ang,0,0,0,0,angielski,n,pronunciation
+pole,tyczka/kijek/słup,3,ang,0,0,0,0,angielski,n,pronunciation
+rid,pozbywać się/pozbawiać,3,ang,0,0,0,0,angielski,n,pronunciation
+collar,kołnierz/obroża,3,ang,0,0,0,0,angielski,n,pronunciation
+slip,poślizgnać się/wślizgnąć się,3,ang,0,0,0,0,angielski,n,pronunciation
+arts,nauki humanistyczne,3,ang,0,0,0,0,angielski,n,pronunciation
+telly,telewizja,3,ang,0,0,0,0,angielski,n,pronunciation
+packed,zatłoczony/tłoczny,3,ang,0,0,0,0,angielski,n,pronunciation
+bucket,wiadro/kubeł,3,ang,0,0,0,0,angielski,n,pronunciation
+sigh,westchnąć,3,ang,0,0,0,0,angielski,n,pronunciation
+likely,prawdopodobnie/przypuszczalnie,3,ang,0,0,0,0,angielski,n,pronunciation
+faint,słaby/osłabiony/zemdleć,3,ang,0,0,0,0,angielski,n,pronunciation
+yell,krzyczeć/wrzasnąć,3,ang,0,0,0,0,angielski,n,pronunciation
+shore,brzeg/brzegowy,3,ang,0,0,0,0,angielski,n,pronunciation
+plain,zwykły/prosty/zwyczajny,3,ang,0,0,0,0,angielski,n,pronunciation
+dictation,dyktando,3,ang,0,0,0,0,angielski,n,pronunciation
+stroll,przechadzka/przechadzać się,3,ang,0,0,0,0,angielski,n,pronunciation
+terrific,fantastycznty/wspaniały,3,ang,0,0,0,0,angielski,n,pronunciation
+vowel,samogłoska,3,ang,0,0,0,0,angielski,n,pronunciation
+fossil,skamieniałość,3,ang,0,0,0,0,angielski,n,pronunciation
+contribute,wnieść/przyczynić się,3,ang,0,0,0,0,angielski,n,pronunciation
+wire,drut/przewód/drutować,3,ang,0,0,0,0,angielski,n,pronunciation
+delight,wielka przyjemność/rozkosz/zachwyt,3,ang,0,0,0,0,angielski,n,pronunciation
+giveaway,rozdanie,3,ang,0,0,0,0,angielski,n,pronunciation
+sooner,wcześniej,3,ang,0,0,0,0,angielski,n,pronunciation
+dally,ociągać się/flirtować,3,ang,0,0,0,0,angielski,n,pronunciation
+indicate,wskazywać/oznaczać/sygnalizować,3,ang,0,0,0,0,angielski,n,pronunciation
+unreliable,niepewny/nierzetelny/niesłowny,3,ang,0,0,0,0,angielski,n,pronunciation

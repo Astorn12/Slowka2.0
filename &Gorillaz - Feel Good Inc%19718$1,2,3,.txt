@@ -1,12 +1,12 @@
-polski,angielski,0,,0,0,0,0,Angielski,n
-rozbić się na,break down on,0,angi,-1,0,0,0,Angielski,n
-grzmotnąć,whack,0,angi,-1,0,0,0,Angielski,n
-pociągający,appealing,0,angi,-1,0,0,0,Angielski,n
-ulotny/przelotny,ephemeral,0,angi,-1,0,0,0,Angielski,n
-piszczeć/trąbić/sygnał przerywany,beep,0,angi,-1,0,0,0,Angielski,n
-niedobór,undercount,0,angi,-1,0,0,0,Angielski,n
-młyn,windmill,0,angi,-1,0,0,0,Angielski,n
-krok/postęp,stride,0,angi,-1,0,0,0,Angielski,n
-gaz rozweselający,laughing gas,0,angi,-1,0,0,0,Angielski,n
-materiały niebezpieczne,hazmat,0,angi,-1,0,0,0,Angielski,n
-forsa(slang),cheddar,0,angi,-1,0,0,0,Angielski,n
+polski,angielski,0,,0,0,0,0,Angielski,n,pronunciation
+rozbić się na,break down on,0,angi,-1,0,0,0,Angielski,n,pronunciation
+grzmotnąć,whack,0,angi,-1,0,0,0,Angielski,n,pronunciation
+pociągający,appealing,0,angi,-1,0,0,0,Angielski,n,pronunciation
+ulotny/przelotny,ephemeral,0,angi,-1,0,0,0,Angielski,n,pronunciation
+piszczeć/trąbić/sygnał przerywany,beep,0,angi,-1,0,0,0,Angielski,n,pronunciation
+niedobór,undercount,0,angi,-1,0,0,0,Angielski,n,pronunciation
+młyn,windmill,0,angi,-1,0,0,0,Angielski,n,pronunciation
+krok/postęp,stride,0,angi,-1,0,0,0,Angielski,n,pronunciation
+gaz rozweselający,laughing gas,0,angi,-1,0,0,0,Angielski,n,pronunciation
+materiały niebezpieczne,hazmat,0,angi,-1,0,0,0,Angielski,n,pronunciation
+forsa(slang),cheddar,0,angi,-1,0,0,0,Angielski,n,pronunciation

@@ -1,30 +1,30 @@
-polski,francuski,0,,44,102,0,3,Angielski,n
-informacja turystyczna,l'office du turisme,0,i,-1,0,0,3,Angielski,n
-znajdować się,se trouver,0,i,-2,0,0,3,Angielski,n
-znak drogowy,le panneau,0,i,-1,0,0,3,Angielski,n
-nic,ne... rien,0,i,-2,0,0,3,Angielski,n
-rondo,le rond-point,0,i,-2,0,0,3,Angielski,n
-jechać za kimś,suivre qn,0,i,-1,0,0,3,Angielski,n
-skręcać,tourner,0,i,-1,0,0,3,Angielski,n
-przechodzić przez,traverser,0,i,-1,0,0,3,Angielski,n
-nieco,un peu,0,i,-2,0,0,3,Angielski,n
-sygnalizacja świetlna,le feu,0,i,-1,0,0,3,Angielski,n
-plac,la place,0,i,-6,0,0,3,Angielski,n
-skrzyżowanie,le carrefour,0,i,-2,0,0,3,Angielski,n
-jechać dalej,continuer,0,i,-4,0,0,3,Angielski,n
-prosto,tout droit,0,i,-1,0,0,3,Angielski,n
-w lewo,à gauche,0,i,-6,0,0,3,Angielski,n
-w prawo,à droite,0,i,-1,0,0,3,Angielski,n
-aż do,jusqu'à/au,0,i,-1,0,0,3,Angielski,n
-naprzeciwko,en face,0,i,-2,0,0,3,Angielski,n
-centrum miasta,le centre-ville,0,i,-1,0,0,3,Angielski,n
-znać,connaître,0,i,-2,0,0,3,Angielski,n
-widzieć,voir,0,i,-1,0,0,3,Angielski,n
-przed,devant,0,i,-1,0,0,3,Angielski,n
-za,derrière,0,i,-1,0,0,3,Angielski,n
-obok,à côté de,0,i,-2,0,0,3,Angielski,n
-Przepraszam bardzo...,Excusez-moi...,0,i,-1,0,0,3,Angielski,n
-W porządku.,D'accord.,0,i,-7,0,0,3,Angielski,n
-daleko,loin,0,i,-7,0,0,3,Angielski,n
-na zewnątrz,dehors,0,i,-7,0,0,3,Angielski,n
-potem,puis,0,i,-5,0,0,3,Angielski,n
+polski,francuski,0,,44,102,0,3,Angielski,n,pronunciation
+informacja turystyczna,l'office du turisme,0,i,-1,0,0,3,Angielski,n,pronunciation
+znajdować się,se trouver,0,i,-2,0,0,3,Angielski,n,pronunciation
+znak drogowy,le panneau,0,i,-1,0,0,3,Angielski,n,pronunciation
+nic,ne... rien,0,i,-2,0,0,3,Angielski,n,pronunciation
+rondo,le rond-point,0,i,-2,0,0,3,Angielski,n,pronunciation
+jechać za kimś,suivre qn,0,i,-1,0,0,3,Angielski,n,pronunciation
+skręcać,tourner,0,i,-1,0,0,3,Angielski,n,pronunciation
+przechodzić przez,traverser,0,i,-1,0,0,3,Angielski,n,pronunciation
+nieco,un peu,0,i,-2,0,0,3,Angielski,n,pronunciation
+sygnalizacja świetlna,le feu,0,i,-1,0,0,3,Angielski,n,pronunciation
+plac,la place,0,i,-6,0,0,3,Angielski,n,pronunciation
+skrzyżowanie,le carrefour,0,i,-2,0,0,3,Angielski,n,pronunciation
+jechać dalej,continuer,0,i,-4,0,0,3,Angielski,n,pronunciation
+prosto,tout droit,0,i,-1,0,0,3,Angielski,n,pronunciation
+w lewo,à gauche,0,i,-6,0,0,3,Angielski,n,pronunciation
+w prawo,à droite,0,i,-1,0,0,3,Angielski,n,pronunciation
+aż do,jusqu'à/au,0,i,-1,0,0,3,Angielski,n,pronunciation
+naprzeciwko,en face,0,i,-2,0,0,3,Angielski,n,pronunciation
+centrum miasta,le centre-ville,0,i,-1,0,0,3,Angielski,n,pronunciation
+znać,connaître,0,i,-2,0,0,3,Angielski,n,pronunciation
+widzieć,voir,0,i,-1,0,0,3,Angielski,n,pronunciation
+przed,devant,0,i,-1,0,0,3,Angielski,n,pronunciation
+za,derrière,0,i,-1,0,0,3,Angielski,n,pronunciation
+obok,à côté de,0,i,-2,0,0,3,Angielski,n,pronunciation
+Przepraszam bardzo...,Excusez-moi...,0,i,-1,0,0,3,Angielski,n,pronunciation
+W porządku.,D'accord.,0,i,-7,0,0,3,Angielski,n,pronunciation
+daleko,loin,0,i,-7,0,0,3,Angielski,n,pronunciation
+na zewnątrz,dehors,0,i,-7,0,0,3,Angielski,n,pronunciation
+potem,puis,0,i,-5,0,0,3,Angielski,n,pronunciation

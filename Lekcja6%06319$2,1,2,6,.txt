@@ -1,22 +1,22 @@
-polski,francuski,0,,55,139,0,3,Angielski,n
-sen,le rêve,0,angi,-2,0,0,3,Angielski,n
-wypoczywać,se reposer,0,angi,-1,0,0,3,Angielski,n
-pracować,travailler,0,angii,-3,0,0,3,Angielski,n
-oglądać telewizję,regarder la télé,0,angi,-1,0,0,3,Angielski,n
-posiłek,le repas,0,angii,-3,0,0,3,Angielski,n
-nie,ne... pas,0,angi,-1,0,0,3,Angielski,n
-przygotowywać,préparer,0,angi,-1,0,0,3,Angielski,n
-fotel,le fauteuil,0,angi,-2,0,0,3,Angielski,n
-stół,la table,0,angii,-3,0,0,3,Angielski,n
-krzesło,la chaise,0,angi,-2,0,0,3,Angielski,n
-co najmniej,minimum,0,angii,-2,0,0,3,Angielski,n
-miejsce,la place,0,angii,-7,0,0,3,Angielski,n
-ale,mais,0,angii,-2,0,0,3,Angielski,n
-aby,pour,0,angii,-5,0,0,3,Angielski,n
-dla,pour,0,angii,-7,0,0,3,Angielski,n
-piętro,l'étage,0,angi,-1,0,0,3,Angielski,n
-dom,la maison,0,angii,-4,0,0,3,Angielski,n
-wynajmować,louer,0,angi,-1,0,0,3,Angielski,n
-widzieć,voir,0,angii,-7,0,0,3,Angielski,n
-mieszkać,habiter,0,angii,-1,0,0,3,Angielski,n
-zwiedzać,visiter,0,angii,-6,0,0,3,Angielski,n
+polski,francuski,0,,55,139,0,3,Angielski,n,pronunciation
+sen,le rêve,0,angi,-2,0,0,3,Angielski,n,pronunciation
+wypoczywać,se reposer,0,angi,-1,0,0,3,Angielski,n,pronunciation
+pracować,travailler,0,angii,-3,0,0,3,Angielski,n,pronunciation
+oglądać telewizję,regarder la télé,0,angi,-1,0,0,3,Angielski,n,pronunciation
+posiłek,le repas,0,angii,-3,0,0,3,Angielski,n,pronunciation
+nie,ne... pas,0,angi,-1,0,0,3,Angielski,n,pronunciation
+przygotowywać,préparer,0,angi,-1,0,0,3,Angielski,n,pronunciation
+fotel,le fauteuil,0,angi,-2,0,0,3,Angielski,n,pronunciation
+stół,la table,0,angii,-3,0,0,3,Angielski,n,pronunciation
+krzesło,la chaise,0,angi,-2,0,0,3,Angielski,n,pronunciation
+co najmniej,minimum,0,angii,-2,0,0,3,Angielski,n,pronunciation
+miejsce,la place,0,angii,-7,0,0,3,Angielski,n,pronunciation
+ale,mais,0,angii,-2,0,0,3,Angielski,n,pronunciation
+aby,pour,0,angii,-5,0,0,3,Angielski,n,pronunciation
+dla,pour,0,angii,-7,0,0,3,Angielski,n,pronunciation
+piętro,l'étage,0,angi,-1,0,0,3,Angielski,n,pronunciation
+dom,la maison,0,angii,-4,0,0,3,Angielski,n,pronunciation
+wynajmować,louer,0,angi,-1,0,0,3,Angielski,n,pronunciation
+widzieć,voir,0,angii,-7,0,0,3,Angielski,n,pronunciation
+mieszkać,habiter,0,angii,-1,0,0,3,Angielski,n,pronunciation
+zwiedzać,visiter,0,angii,-6,0,0,3,Angielski,n,pronunciation

@@ -1,12 +1,12 @@
-polski,francuski,0,,0,0,0,0,angielski,n,
-żartować,rigoler,1,francuski,0,0,0,0,angielski,n,116-124
-spoliczkować,grifler,1,francuski,0,0,0,0,angielski,n,145-149
-mieć miejsce,se passer,1,francuski,0,0,0,0,angielski,n,188-191
-grzeczny,sage,1,francuski,0,0,0,0,angielski,n,232-236
-bić się,battre,1,francuski,0,0,0,0,angielski,n,255-258
-zeszyt,le cahier,1,francuski,0,0,0,0,angielski,n,288-293
-cokolwiek,n'importe quoi,1,francuski,0,0,0,0,angielski,n,353-357
-podły,sale,1,francuski,0,0,0,0,angielski,n,375-384
-kłamać,mentir,1,francuski,0,0,0,0,angielski,n,390-398
-milczeć,se taire,1,francuski,0,0,0,0,angielski,n,410-411
-Nie szkodzi.,C’est pas grave.,1,francuski,0,0,0,0,angielski,n,719-725
+polski,francuski,0,,0,0,0,0,angielski,n,,
+żartować,rigoler,1,francuski,0,0,0,0,angielski,n,116-124,pronunciation
+spoliczkować,grifler,1,francuski,0,0,0,0,angielski,n,145-149,pronunciation
+mieć miejsce,se passer,1,francuski,0,0,0,0,angielski,n,188-191,pronunciation
+grzeczny,sage,1,francuski,0,0,0,0,angielski,n,232-236,pronunciation
+bić się,battre,1,francuski,0,0,0,0,angielski,n,255-258,pronunciation
+zeszyt,le cahier,1,francuski,0,0,0,0,angielski,n,288-293,pronunciation
+cokolwiek,n'importe quoi,1,francuski,0,0,0,0,angielski,n,353-357,pronunciation
+podły,sale,1,francuski,0,0,0,0,angielski,n,375-384,pronunciation
+kłamać,mentir,1,francuski,0,0,0,0,angielski,n,390-398,pronunciation
+milczeć,se taire,1,francuski,0,0,0,0,angielski,n,410-411,pronunciation
+Nie szkodzi.,C’est pas grave.,1,francuski,0,0,0,0,angielski,n,719-725,pronunciation

@@ -408,7 +408,11 @@ public class Plik {
                         System.out.println(s.toString());
                     }
                     if (!manipulatorOdpowiedzi(fore.getText().toString(), test.get(aktualnePytanie).fore)) {
-                        odpowiedz.setText("Źle: \n" + "Twoja odpowiedź:\n " + fore.getText() + "\nPoprawna odpowiedź:\n " + test.get(aktualnePytanie).pol + "- " + test.get(aktualnePytanie).fore);
+                        String answer="Źle: \n" + "Twoja odpowiedź:\n " + fore.getText() + "\nPoprawna odpowiedź:\n " + test.get(aktualnePytanie).pol + "- " + test.get(aktualnePytanie).fore;
+                        if(!(test.get(aktualnePytanie).pronunciation.equals("")|| test.get(aktualnePytanie).pronunciation.equals("pronunciation"))){
+                            answer+=" <"+test.get(aktualnePytanie).pronunciation+">";
+                        }
+                        odpowiedz.setText(answer);
 
                         if (test.get(aktualnePytanie).priority < 5) {
                             test.get(aktualnePytanie).priority++;
@@ -421,7 +425,11 @@ public class Plik {
                         }
 
                     } else {
-                        odpowiedz.setText("Dobrze");
+                        String answer="Dobrze: " + test.get(aktualnePytanie).pol + "- " + test.get(aktualnePytanie).fore;
+                        if(!(test.get(aktualnePytanie).pronunciation.equals("")|| test.get(aktualnePytanie).pronunciation.equals("pronunciation"))){
+                            answer+=" <"+test.get(aktualnePytanie).pronunciation+">";
+                        }
+                        odpowiedz.setText(answer);
                         test.get(aktualnePytanie).priority--;
                         this.statyplik.iloscDobrychOdpowiedzi++;
                         if (test.get(aktualnePytanie).priority == 0) {
@@ -701,7 +709,12 @@ public class Plik {
                     // if (!((test.get(aktualnePytanie).pol).equals(fore.getText().toString()))) {
                     if (!manipulatorOdpowiedzi(fore.getText().toString(), test.get(aktualnePytanie).pol)) {
 
-                        odpowiedz.setText("Źle: \n" + "Twoja odpowiedź:\n " + fore.getText() + "\nPoprawna odpowiedź:\n " + test.get(aktualnePytanie).fore + "- " + test.get(aktualnePytanie).pol);
+                        String answer="Źle: \n" + "Twoja odpowiedź:\n " + fore.getText() + "\nPoprawna odpowiedź:\n " + test.get(aktualnePytanie).fore + "- " + test.get(aktualnePytanie).pol;
+                      /*  if(!(test.get(aktualnePytanie).pronunciation.equals("")|| test.get(aktualnePytanie).pronunciation.equals("pronunciation"))){
+                            answer+=" <"+test.get(aktualnePytanie).pronunciation+">";
+                        }*/
+
+                        odpowiedz.setText(answer);
 
                         if (test.get(aktualnePytanie).repriority < 5) {
                             test.get(aktualnePytanie).repriority++;

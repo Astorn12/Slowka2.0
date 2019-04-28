@@ -262,9 +262,9 @@ public class AplicationSlowka2 extends JFrame implements TreeSelectionListener{
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
 
-       // z.zakutualizujPobrane();
-      //  z.zapisPlikow();//złuży do dodania nowego atrybutu w słówkach
-      // z.zaktualizujZmiany();
+        //z.zakutualizujPobrane();
+        z.zapisPlikow();//złuży do dodania nowego atrybutu w słówkach
+        //z.zaktualizujZmiany();
        // z.masoweZmienianieNazwPlikow();
 
 
@@ -2320,10 +2320,7 @@ int flaga=0;
 
         if(l!=null){
 
-            //final char[] francuskieLitery={'à','â','ç','é','è','ê','ë','î','ï','ô','û','ù','ü','ÿ'};
-           // final char[] capsLock={'À','Â', 'Ç', 'É', 'È','Ê','Ë' , 'Î','Ï', 'Ô', 'Û' ,'Ù', 'Ü', 'Ÿ'};
-      //  if(aktualny_plik.statyplik.obcy.toLowerCase().equals("francuski")){
-        //for(int i=0;i<francuskieLitery.length;i++)
+
         for(int i=0;i<l.list.size();i++)
         {
             final JButton jButton= new JButton(l.list.get(i).mala);
@@ -2399,10 +2396,29 @@ int flaga=0;
                         ch=pob[i];
                         i++;
                     }
-                    for(i=i;i<pob.length;i++)
+                    ch=pob[i];
+                    i++;
+                    while(ch!=',' &&i<pob.length) {
+
+                        ang+=ch;
+                        ch=pob[i];
+                        i++;
+                    }
+                    String pronunciation="";
+                    if(ch==',')
+                    {
+                       // i++;
+                        while(i<pob.length)
+                        {
+
+                            pronunciation+=pob[i];
+                            i++;
+                        }
+                    }
+                    /*for(i=i;i<pob.length;i++)
                     {
                         ang+=pob[i];
-                    }
+                    }*/
                     slowo.setText("");
                     Slowo sl;
                     if(aktualny_plik.get_nazwa_pliku().contains("@"))
@@ -2411,7 +2427,7 @@ int flaga=0;
 
                     }
                     else {
-                        sl = new Slowo(pol, ang, jezyk, 3);
+                        sl = new Slowo(pol, ang, jezyk, 3,pronunciation);
                     }
                     aktualny_plik.lista.add(sl);
                     aktualny_plik.zapis_zmian();
@@ -2427,55 +2443,7 @@ int flaga=0;
         panel.getInputMap(JComponent.WHEN_IN_FOCUSED_WINDOW).put(KeyStroke.getKeyStroke("ENTER"),"wczytaj Slowo");
         panel.getActionMap().put("wczytaj Slowo",wczytajSlowo);
 
-        /*addKeyListener(new KeyListener() {
-            @Override
-            public void keyTyped(KeyEvent e) {
 
-
-            }
-
-            @Override
-            public void keyPressed(KeyEvent e) {
-
-
-                if(e.getKeyChar()==KeyEvent.VK_ENTER)
-                {
-
-                if(!slowo.getText().equals(null)&&slowo.getText().contains("-"))
-                {
-                    String pobrane= slowo.getText();
-                    String pol="";
-                    String ang="";
-                    char[] pob=pobrane.toCharArray();
-                    char ch=pob[0];
-                    int i=0;
-                    while(ch!='-')
-                    {
-                        pol+=ch;
-                        ch=pob[i];
-                        i++;
-                    }
-                    for(i=i+1;i<pob.length;i++)
-                    {
-                      ang+=pob[i];
-                    }
-                    slowo.setText("");
-                    Slowo sl= new Slowo();
-                    sl.set_fore(jezyk);
-                    sl.set_priority(3);
-                    sl.fore=ang;
-                    sl.pol=pol;
-                    aktualny_plik.lista.add(sl);
-
-                }
-                }
-            }
-
-            @Override
-            public void keyReleased(KeyEvent e) {
-
-            }
-        });*/
 
         panel.setFocusable(true);
         panel.requestFocusInWindow();
@@ -2500,18 +2468,8 @@ int flaga=0;
             }
 
         }
-        /*for(int i=0;i<this.aktualny_plik.get_lista().size();i++)
-        {
-            defaultLista.add(i,this.aktualny_plik.lista.get(i).pol);
-
-        }*/
-      /*  if(aktualny_plik.lista.get(0).getClass().equals(WordFromBook.class))
-        {
-            final JList<WordFromBook> jList= new JList<>(defaultLista);
-        }*/
-       // else {
             final JList<Slowo> jList = new JList<>(defaultLista);
-      //  }
+
         jList.setCellRenderer(new DefaultListCellRenderer()
         {
             @Override
@@ -2569,7 +2527,7 @@ int flaga=0;
                         else {
                             Slowo slowo = defaultLista.getElementAt(jList.locationToIndex(e.getPoint()));
                         if (!slowo.pol.contains("-")) {
-                            defaultLista.setElementAt(new Slowo(slowo.pol + "-" + slowo.fore, slowo.fore, slowo.language, slowo.priority), jList.locationToIndex(e.getPoint()));
+                            defaultLista.setElementAt(new Slowo(slowo.pol + "-" + slowo.fore+" <"+slowo.pronunciation+">", slowo.fore, slowo.language, slowo.priority,slowo.pronunciation), jList.locationToIndex(e.getPoint()));
                         } else {
                             int n = slowo.pol.indexOf("-");
                             slowo.pol = slowo.pol.substring(0, n);
@@ -2608,36 +2566,24 @@ int flaga=0;
                             jFrame.setLayout(new MigLayout());
                             final JTextField jTextField1= new JTextField();
                             final JTextField jTextField2= new JTextField();
+                            final JTextField jTextFieldPronunciation= new JTextField();
                             jFrame.add(jTextField1,"w 100:150:200");
                             jFrame.add(jTextField2,"w 100:150:200");
+                            jFrame.add(jTextFieldPronunciation,"w 100:150:200");
                             jTextField1.setFont(new Font("Dialog", Font.BOLD,18));
                             jTextField2.setFont(new Font("Dialog", Font.BOLD,18));
+                            jTextFieldPronunciation.setFont(new Font("Dialog", Font.BOLD,18));
                             jTextField1.setText(orginal.pol);
                             jTextField2.setText(orginal.fore);
+                            jTextFieldPronunciation.setText(orginal.pronunciation);
 
                             final char[] francuskieLitery={'à','â','ç','é','è','ê','ë','î','ï','ô','û','ù','ü','ÿ'};
                             final char[] capsLock={'À','Â', 'Ç', 'É', 'È','Ê','Ë' , 'Î','Ï', 'Ô', 'Û' ,'Ù', 'Ü', 'Ÿ'};
                             JButton francuskieLiterki= new JButton("Literki");
                             jFrame.add(francuskieLiterki);
-                            //JButton capsLk= new JButton("CapsLk");
-                           // jFrame.add(capsLk);
-                            //final int[] flagaCapsLka = {0};
-                            final boolean[] flagaCapsLka = {Toolkit.getDefaultToolkit().getLockingKeyState(KeyEvent.VK_CAPS_LOCK)};
-                            //boolean state= Toolkit.getDefaultToolkit().getLockingKeyState(KeyEvent.VK_CAPS_LOCK);
 
-                            /*capsLk.addActionListener(new ActionListener() {
-                                @Override
-                                public void actionPerformed(ActionEvent e) {
-                                    if(flagaCapsLka[0] ==0) {
-                                        flagaCapsLka[0] = 1;
-                                        capsLk.setBackground(Color.GREEN);
-                                    }
-                                    else {
-                                        flagaCapsLka[0] = 0;
-                                        capsLk.setBackground(Color.cyan);
-                                    }
-                                }
-                            });*/
+                            final boolean[] flagaCapsLka = {Toolkit.getDefaultToolkit().getLockingKeyState(KeyEvent.VK_CAPS_LOCK)};
+
 
                             francuskieLiterki.addMouseListener(new MouseListener() {
                                 @Override
@@ -2707,8 +2653,10 @@ int flaga=0;
                                 public void actionPerformed(ActionEvent e) {
                                     slowo.fore=jTextField2.getText();
                                     slowo.pol=jTextField1.getText();
+                                    slowo.pronunciation=jTextFieldPronunciation.getText();
                                     orginal.pol=slowo.pol;
                                     orginal.fore=slowo.fore;
+                                    orginal.pronunciation=slowo.pronunciation;
                                     aktualny_plik.zapis_zmian();
                                     //z.zaktualizujZmiany();
                                     jFrame.dispose();

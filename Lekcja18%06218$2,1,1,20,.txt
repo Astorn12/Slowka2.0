@@ -1,62 +1,62 @@
-polski,francuski,0,,0,0,0,3,Angielski,n
-pobyt,le séjour,3,ang,1,3,0,3,Angielski,n
-ostatni,dernier,3,ang,1,3,0,3,Angielski,n
-językoznawczy,linguistique,3,ang,1,3,0,3,Angielski,n
-pole,le champ,3,ang,1,3,0,3,Angielski,n
-święto,la fête,3,ang,1,3,0,3,Angielski,n
-kościół,la église,3,ang,1,3,0,3,Angielski,n
-zaczynać,commencer,3,ang,1,3,0,3,Angielski,n
-ofiara,la victime,3,ang,1,3,0,3,Angielski,n
-chory,malade,3,ang,1,3,0,3,Angielski,n
-mleko,du lait,3,ang,1,3,0,3,Angielski,n
-ser,de fromage,3,ang,1,3,0,3,Angielski,n
-masło,du beurre,3,ang,1,3,0,3,Angielski,n
-śmietana,de la crème,3,ang,1,3,0,3,Angielski,n
-ryba,du poisson,3,ang,1,3,0,3,Angielski,n
-mięso,de la viande,3,ang,1,3,0,3,Angielski,n
-jajka,des oeufs,3,ang,1,3,0,3,Angielski,n
-musztarda,de la moutarde,3,ang,1,3,0,3,Angielski,n
-confitura,de la confiture,3,ang,1,3,0,3,Angielski,n
-jogurt,des yaourts,3,ang,1,3,0,3,Angielski,n
-owoce,des fruits,3,ang,1,3,0,3,Angielski,n
-warzywa,des légumes,3,ang,1,3,0,3,Angielski,n
-woda,de l'eau,3,ang,1,3,0,3,Angielski,n
-sok owocowy,du jus de fruits,3,ang,1,3,0,3,Angielski,n
-lody,de la glace,3,ang,1,3,0,3,Angielski,n
-kawa,de café,3,ang,1,3,0,3,Angielski,n
-herbata,de thé,3,ang,1,3,0,3,Angielski,n
-pieprz, du poivre,3,ang,1,3,0,3,Angielski,n
-sól,du sel,3,ang,1,3,0,3,Angielski,n
-miód,du miel,3,ang,1,3,0,3,Angielski,n
-czekolada,du chocolat,3,ang,1,3,0,3,Angielski,n
-konserwy,des conserves,3,ang,1,3,0,3,Angielski,n
-ryż,du riz,3,ang,1,3,0,3,Angielski,n
-makaron,des pâtes,3,ang,1,3,0,3,Angielski,n
-płatki,des céréales,3,ang,1,3,0,3,Angielski,n
-chleb,de pain,3,ang,1,3,0,3,Angielski,n
-słodycze,des bonbons,3,ang,1,3,0,3,Angielski,n
-mąka,de la farine,3,ang,1,3,0,3,Angielski,n
-kruche ciasto,des biscuits,3,ang,1,3,0,3,Angielski,n
-ciastko z rodzynkami,un pain aux raisins,3,ang,1,3,0,3,Angielski,n
-kruasant,un croissant,3,ang,1,3,0,3,Angielski,n
-ciastko z czekoladą,un pain au chocolat,3,ang,1,3,0,3,Angielski,n
-w cukierni,à la pâtisserie,3,ang,1,3,0,3,Angielski,n
-tarta jabłkowa,une tarte aux pommes,3,ang,1,3,0,3,Angielski,n
-kruche ciasto z jabłkiem,un chausson aux pommes ,3,ang,1,3,0,3,Angielski,n
-bułeczka,une brioche,3,ang,1,3,0,3,Angielski,n
-ekler,une rellgieuse,3,ang,1,3,0,3,Angielski,n
-zakonnica,la religieuse,3,ang,1,3,0,3,Angielski,n
-piorun,la éclair,3,ang,1,3,0,3,Angielski,n
-eklerek z czekoladą,un éclair au chocolat,3,ang,1,3,0,3,Angielski,n
-pantofle,les chaussons,3,ang,1,3,0,3,Angielski,n
-baletki,les chaussons de danse,3,ang,1,3,0,3,Angielski,n
-papryka,le poivron,3,ang,1,3,0,3,Angielski,n
-marchewka,la carotte,3,ang,1,3,0,3,Angielski,n
-cebula,le oignon,3,ang,1,3,0,3,Angielski,n
-cukinia,la courgette,3,ang,1,3,0,3,Angielski,n
-por,le poireau,3,ang,1,3,0,3,Angielski,n
-pomidor,la tomate,3,ang,1,3,0,3,Angielski,n
-rzodkiewka,le radis,3,ang,1,3,0,3,Angielski,n
-ziemniak,la pomme de terre,3,ang,1,3,0,3,Angielski,n
-fasolka,le naricot,3,ang,1,3,0,3,Angielski,n
-sałata,la laitue,3,ang,1,3,0,3,Angielski,n
+polski,francuski,0,,0,0,0,3,Angielski,n,pronunciation
+pobyt,le séjour,3,ang,1,3,0,3,Angielski,n,pronunciation
+ostatni,dernier,3,ang,1,3,0,3,Angielski,n,pronunciation
+językoznawczy,linguistique,3,ang,1,3,0,3,Angielski,n,pronunciation
+pole,le champ,3,ang,1,3,0,3,Angielski,n,pronunciation
+święto,la fête,3,ang,1,3,0,3,Angielski,n,pronunciation
+kościół,la église,3,ang,1,3,0,3,Angielski,n,pronunciation
+zaczynać,commencer,3,ang,1,3,0,3,Angielski,n,pronunciation
+ofiara,la victime,3,ang,1,3,0,3,Angielski,n,pronunciation
+chory,malade,3,ang,1,3,0,3,Angielski,n,pronunciation
+mleko,du lait,3,ang,1,3,0,3,Angielski,n,pronunciation
+ser,de fromage,3,ang,1,3,0,3,Angielski,n,pronunciation
+masło,du beurre,3,ang,1,3,0,3,Angielski,n,pronunciation
+śmietana,de la crème,3,ang,1,3,0,3,Angielski,n,pronunciation
+ryba,du poisson,3,ang,1,3,0,3,Angielski,n,pronunciation
+mięso,de la viande,3,ang,1,3,0,3,Angielski,n,pronunciation
+jajka,des oeufs,3,ang,1,3,0,3,Angielski,n,pronunciation
+musztarda,de la moutarde,3,ang,1,3,0,3,Angielski,n,pronunciation
+confitura,de la confiture,3,ang,1,3,0,3,Angielski,n,pronunciation
+jogurt,des yaourts,3,ang,1,3,0,3,Angielski,n,pronunciation
+owoce,des fruits,3,ang,1,3,0,3,Angielski,n,pronunciation
+warzywa,des légumes,3,ang,1,3,0,3,Angielski,n,pronunciation
+woda,de l'eau,3,ang,1,3,0,3,Angielski,n,pronunciation
+sok owocowy,du jus de fruits,3,ang,1,3,0,3,Angielski,n,pronunciation
+lody,de la glace,3,ang,1,3,0,3,Angielski,n,pronunciation
+kawa,de café,3,ang,1,3,0,3,Angielski,n,pronunciation
+herbata,de thé,3,ang,1,3,0,3,Angielski,n,pronunciation
+pieprz, du poivre,3,ang,1,3,0,3,Angielski,n,pronunciation
+sól,du sel,3,ang,1,3,0,3,Angielski,n,pronunciation
+miód,du miel,3,ang,1,3,0,3,Angielski,n,pronunciation
+czekolada,du chocolat,3,ang,1,3,0,3,Angielski,n,pronunciation
+konserwy,des conserves,3,ang,1,3,0,3,Angielski,n,pronunciation
+ryż,du riz,3,ang,1,3,0,3,Angielski,n,pronunciation
+makaron,des pâtes,3,ang,1,3,0,3,Angielski,n,pronunciation
+płatki,des céréales,3,ang,1,3,0,3,Angielski,n,pronunciation
+chleb,de pain,3,ang,1,3,0,3,Angielski,n,pronunciation
+słodycze,des bonbons,3,ang,1,3,0,3,Angielski,n,pronunciation
+mąka,de la farine,3,ang,1,3,0,3,Angielski,n,pronunciation
+kruche ciasto,des biscuits,3,ang,1,3,0,3,Angielski,n,pronunciation
+ciastko z rodzynkami,un pain aux raisins,3,ang,1,3,0,3,Angielski,n,pronunciation
+kruasant,un croissant,3,ang,1,3,0,3,Angielski,n,pronunciation
+ciastko z czekoladą,un pain au chocolat,3,ang,1,3,0,3,Angielski,n,pronunciation
+w cukierni,à la pâtisserie,3,ang,1,3,0,3,Angielski,n,pronunciation
+tarta jabłkowa,une tarte aux pommes,3,ang,1,3,0,3,Angielski,n,pronunciation
+kruche ciasto z jabłkiem,un chausson aux pommes ,3,ang,1,3,0,3,Angielski,n,pronunciation
+bułeczka,une brioche,3,ang,1,3,0,3,Angielski,n,pronunciation
+ekler,une rellgieuse,3,ang,1,3,0,3,Angielski,n,pronunciation
+zakonnica,la religieuse,3,ang,1,3,0,3,Angielski,n,pronunciation
+piorun,la éclair,3,ang,1,3,0,3,Angielski,n,pronunciation
+eklerek z czekoladą,un éclair au chocolat,3,ang,1,3,0,3,Angielski,n,pronunciation
+pantofle,les chaussons,3,ang,1,3,0,3,Angielski,n,pronunciation
+baletki,les chaussons de danse,3,ang,1,3,0,3,Angielski,n,pronunciation
+papryka,le poivron,3,ang,1,3,0,3,Angielski,n,pronunciation
+marchewka,la carotte,3,ang,1,3,0,3,Angielski,n,pronunciation
+cebula,le oignon,3,ang,1,3,0,3,Angielski,n,pronunciation
+cukinia,la courgette,3,ang,1,3,0,3,Angielski,n,pronunciation
+por,le poireau,3,ang,1,3,0,3,Angielski,n,pronunciation
+pomidor,la tomate,3,ang,1,3,0,3,Angielski,n,pronunciation
+rzodkiewka,le radis,3,ang,1,3,0,3,Angielski,n,pronunciation
+ziemniak,la pomme de terre,3,ang,1,3,0,3,Angielski,n,pronunciation
+fasolka,le naricot,3,ang,1,3,0,3,Angielski,n,pronunciation
+sałata,la laitue,3,ang,1,3,0,3,Angielski,n,pronunciation

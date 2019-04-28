@@ -1,4 +1,4 @@
-polski,francuski,0,,1,10,0,0,angielski,n
-patryk,patryk,0,ang,-1,0,0,0,angielski,n
-oskar,kamil,0,ang,-1,0,0,0,angielski,n
-kamil,szymon,0,ang,-1,0,0,0,angielski,n
+polski,francuski,0,,1,10,0,0,angielski,n,pronunciation
+patryk,patryk,0,ang,-1,0,0,0,angielski,n,pronunciation
+oskar,kamil,0,ang,-1,0,0,0,angielski,n,pronunciation
+kamil,szymon,0,ang,-1,0,0,0,angielski,n,pronunciation

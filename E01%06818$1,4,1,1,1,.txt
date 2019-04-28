@@ -1,24 +1,24 @@
-polski,angielski,0,,0,0,0,3,Angielski,n
-wystawać;sterczeć,protrude,3,ang,0,0,0,3,Angielski,n
-w połowie drogi,halfway,3,ang,0,0,0,3,Angielski,n
-cholera;psiakrew,damn,3,ang,0,0,0,3,Angielski,n
-chrzanić coś,damn sth,4,ang,0,0,0,3,Angielski,n
-gówniany;do dupy,crap,1,ang,0,0,0,3,Angielski,n
-właściwy,appropriate,3,ang,0,0,0,3,Angielski,n
-przeklinać,swear,3,ang,0,0,0,3,Angielski,n
-sutek,nipple,3,ang,0,0,0,3,Angielski,n
-o matko,jeez,2,ang,0,0,0,3,Angielski,n
-przynieść;aportować,fetch sth,3,ang,0,0,0,3,Angielski,n
-kanalia;sperma,scum,3,ang,0,0,0,3,Angielski,n
-nadziany;bogaty,loaded,2,ang,0,0,0,3,Angielski,n
-zasmucać,sadden,3,ang,0,0,0,3,Angielski,n
-zły urok,whammy,3,ang,0,0,0,3,Angielski,n
-dotknięty;porażony,sticken,3,ang,0,0,0,3,Angielski,n
-rozpacz,grief,3,ang,0,0,0,3,Angielski,n
-być wkurzającym,be a rub,3,ang,0,0,0,3,Angielski,n
-masować kogoś,rub sb down,3,ang,0,0,0,3,Angielski,n
-intymny,intimate,2,ang,0,0,0,3,Angielski,n
-nieciekawy;monotonoczny,dull,2,ang,0,0,0,3,Angielski,n
-pokój wypoczynkowy;komfortowy bar,lounge,3,ang,0,0,0,3,Angielski,n
-pieluszka,diaper,4,ang,0,0,0,3,Angielski,n
-w rzeczy samej,indeed,3,ang,0,0,0,3,Angielski,n
+polski,angielski,0,,0,0,0,3,Angielski,n,pronunciation
+wystawać;sterczeć,protrude,3,ang,0,0,0,3,Angielski,n,pronunciation
+w połowie drogi,halfway,3,ang,0,0,0,3,Angielski,n,pronunciation
+cholera;psiakrew,damn,3,ang,0,0,0,3,Angielski,n,pronunciation
+chrzanić coś,damn sth,4,ang,0,0,0,3,Angielski,n,pronunciation
+gówniany;do dupy,crap,1,ang,0,0,0,3,Angielski,n,pronunciation
+właściwy,appropriate,3,ang,0,0,0,3,Angielski,n,pronunciation
+przeklinać,swear,3,ang,0,0,0,3,Angielski,n,pronunciation
+sutek,nipple,3,ang,0,0,0,3,Angielski,n,pronunciation
+o matko,jeez,2,ang,0,0,0,3,Angielski,n,pronunciation
+przynieść;aportować,fetch sth,3,ang,0,0,0,3,Angielski,n,pronunciation
+kanalia;sperma,scum,3,ang,0,0,0,3,Angielski,n,pronunciation
+nadziany;bogaty,loaded,2,ang,0,0,0,3,Angielski,n,pronunciation
+zasmucać,sadden,3,ang,0,0,0,3,Angielski,n,pronunciation
+zły urok,whammy,3,ang,0,0,0,3,Angielski,n,pronunciation
+dotknięty;porażony,sticken,3,ang,0,0,0,3,Angielski,n,pronunciation
+rozpacz,grief,3,ang,0,0,0,3,Angielski,n,pronunciation
+być wkurzającym,be a rub,3,ang,0,0,0,3,Angielski,n,pronunciation
+masować kogoś,rub sb down,3,ang,0,0,0,3,Angielski,n,pronunciation
+intymny,intimate,2,ang,0,0,0,3,Angielski,n,pronunciation
+nieciekawy;monotonoczny,dull,2,ang,0,0,0,3,Angielski,n,pronunciation
+pokój wypoczynkowy;komfortowy bar,lounge,3,ang,0,0,0,3,Angielski,n,pronunciation
+pieluszka,diaper,4,ang,0,0,0,3,Angielski,n,pronunciation
+w rzeczy samej,indeed,3,ang,0,0,0,3,Angielski,n,pronunciation

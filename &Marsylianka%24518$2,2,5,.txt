@@ -1,17 +1,17 @@
-polski,francuski,0,,0,0,0,0,angielski,n
-ojczyzna,la patrie,3,ang,0,0,0,0,angielski,n
-sztandar,le étendard,3,ang,0,0,0,0,angielski,n
-krwawiący,sanglant,3,ang,0,0,0,0,angielski,n
-podnosić,lever,3,ang,0,0,0,0,angielski,n
-słyszeć,entendre,3,ang,0,0,0,0,angielski,n
-ryczeć/buczeć/huczeć,mugir,3,ang,0,0,0,0,angielski,n
-okrutny,féroce,3,ang,0,0,0,0,angielski,n
-żołnierz,le soldat,3,ang,0,0,0,0,angielski,n
-przybywać,venir,3,ang,0,0,0,0,angielski,n
-zarzynać,égorger,3,ang,0,0,0,0,angielski,n
-obywatel,le citoyen,3,ang,0,0,0,0,angielski,n
-formować,former,3,ang,0,0,0,0,angielski,n
-krew,le sang,3,ang,0,0,0,0,angielski,n
-brydny/nieczyst,impur,3,ang,0,0,0,0,angielski,n
-napoić,abreuver,3,ang,0,0,0,0,angielski,n
-ślad,le sillon,3,ang,0,0,0,0,angielski,n
+polski,francuski,0,,0,0,0,0,angielski,n,pronunciation
+ojczyzna,la patrie,3,ang,0,0,0,0,angielski,n,pronunciation
+sztandar,le étendard,3,ang,0,0,0,0,angielski,n,pronunciation
+krwawiący,sanglant,3,ang,0,0,0,0,angielski,n,pronunciation
+podnosić,lever,3,ang,0,0,0,0,angielski,n,pronunciation
+słyszeć,entendre,3,ang,0,0,0,0,angielski,n,pronunciation
+ryczeć/buczeć/huczeć,mugir,3,ang,0,0,0,0,angielski,n,pronunciation
+okrutny,féroce,3,ang,0,0,0,0,angielski,n,pronunciation
+żołnierz,le soldat,3,ang,0,0,0,0,angielski,n,pronunciation
+przybywać,venir,3,ang,0,0,0,0,angielski,n,pronunciation
+zarzynać,égorger,3,ang,0,0,0,0,angielski,n,pronunciation
+obywatel,le citoyen,3,ang,0,0,0,0,angielski,n,pronunciation
+formować,former,3,ang,0,0,0,0,angielski,n,pronunciation
+krew,le sang,3,ang,0,0,0,0,angielski,n,pronunciation
+brydny/nieczyst,impur,3,ang,0,0,0,0,angielski,n,pronunciation
+napoić,abreuver,3,ang,0,0,0,0,angielski,n,pronunciation
+ślad,le sillon,3,ang,0,0,0,0,angielski,n,pronunciation

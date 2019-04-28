@@ -1,61 +1,61 @@
-polski,francuski,0,,0,0,0,3,Angielski,n
-współcześnie,aujord'hui,2,angi,1,3,0,3,Angielski,n
-uczyć się,étudier,1,angi,1,3,0,3,Angielski,n
-podczas gdy,tandis que,1,angi,1,3,0,3,Angielski,n
-zakładać,mettre,1,angi,1,3,0,3,Angielski,n
-przyjmować,accueillir,2,angi,1,3,0,3,Angielski,n
-ptak,le oiseau,0,angi,1,3,0,3,Angielski,n
-mierzyć,essayer,0,angi,1,3,0,3,Angielski,n
-zapraszać,inviter,0,angi,1,3,0,3,Angielski,n
-zeszyt,le cahier,0,angi,1,3,0,3,Angielski,n
-bawić się,jouer,0,angi,1,3,0,3,Angielski,n
-korespondent,le envoyé,1,angi,1,3,0,3,Angielski,n
-powszechnie uznawany,reconnu,1,angi,1,3,0,3,Angielski,n
-liczyć,compter,0,angi,1,3,0,3,Angielski,n
-długi,long,0,angi,1,3,0,3,Angielski,n
-zwany,dit,2,angi,1,3,0,3,Angielski,n
-prawda,la vérité,0,angi,1,3,0,3,Angielski,n
-także,aussi,0,angi,1,3,0,3,Angielski,n
-u kogoś,chez qn,0,angi,1,3,0,3,Angielski,n
-z,avec,0,angi,1,3,0,3,Angielski,n
-dzień,la journée,0,ang,1,3,0,3,Angielski,n
-tylko,seulement,3,angi,1,3,0,3,Angielski,n
-stolica,la capitale,1,angi,1,3,0,3,Angielski,n
-wiele,nombreux,0,angi,1,3,0,3,Angielski,n
-akwarium,la aquarium,0,angi,1,3,0,3,Angielski,n
-świętować,célébrer,0,angi,1,3,0,3,Angielski,n
-chodzić na spacer,promener,1,angi,1,3,0,3,Angielski,n
-wiek,le siècle,4,ang,1,3,0,3,Angielski,n
-fasada,la façade,0,angi,1,3,0,3,Angielski,n
-podziwiać,admirer,0,angi,1,3,0,3,Angielski,n
-dom,le maison,3,angi,1,3,0,3,Angielski,n
-wokół,autour,1,angi,1,3,0,3,Angielski,n
-chłopiec,le garçon,0,angi,1,3,0,3,Angielski,n
-spotykać,rencontrer,2,angi,1,3,0,3,Angielski,n
-stawać się,devenir,1,angi,1,3,0,3,Angielski,n
-zakupy,le achat,1,angi,1,3,0,3,Angielski,n
-możliwość,la possibilité,2,angi,1,3,0,3,Angielski,n
-z pewnością,certainement,4,angi,1,3,0,3,Angielski,n
-królewski,royal,0,angi,1,3,0,3,Angielski,n
-odkrywać,découvrir,0,angi,1,3,0,3,Angielski,n
-jeść,manger,0,angi,1,3,0,3,Angielski,n
-pasek,la bande,1,angi,1,3,0,3,Angielski,n
-komiks,la bande dessinée,0,angi,1,3,0,3,Angielski,n
-oni,eux,0,angi,1,3,0,3,Angielski,n
-zwiedzać,visiter,2,angi,1,3,0,3,Angielski,n
-europejski,européen,0,angi,1,3,0,3,Angielski,n
-odkrywać,découvrir,0,angi,1,3,0,3,Angielski,n
-budynek,le bâtiment,5,angi,1,3,0,3,Angielski,n
-amator,le amateur,0,angi,1,3,0,3,Angielski,n
-kierować,diriger,2,angi,1,3,0,3,Angielski,n
-potem,ensuite,5,angi,1,3,0,3,Angielski,n
-w kierunku,vers,0,angi,1,3,0,3,Angielski,n
-sąsiedni,voisin,0,angi,1,3,0,3,Angielski,n
-wieczór,la soirée,0,angi,1,3,0,3,Angielski,n
-zadziwiający,étonnant,3,angi,1,3,0,3,Angielski,n
-budować,construire,1,angi,1,3,0,3,Angielski,n
-cząsteczka,la molécule,1,angi,1,3,0,3,Angielski,n
-met,le métal,0,angi,1,3,0,3,Angielski,n
-zdrowie,la santé,0,angi,1,3,0,3,Angielski,n
-naukowy,scientifique,0,angi,1,3,0,3,Angielski,n
-radzić,conseiller,3,ang,1,3,0,3,Angielski,n
+polski,francuski,0,,0,0,0,3,Angielski,n,pronunciation
+współcześnie,aujord'hui,2,angi,1,3,0,3,Angielski,n,pronunciation
+uczyć się,étudier,1,angi,1,3,0,3,Angielski,n,pronunciation
+podczas gdy,tandis que,1,angi,1,3,0,3,Angielski,n,pronunciation
+zakładać,mettre,1,angi,1,3,0,3,Angielski,n,pronunciation
+przyjmować,accueillir,2,angi,1,3,0,3,Angielski,n,pronunciation
+ptak,le oiseau,0,angi,1,3,0,3,Angielski,n,pronunciation
+mierzyć,essayer,0,angi,1,3,0,3,Angielski,n,pronunciation
+zapraszać,inviter,0,angi,1,3,0,3,Angielski,n,pronunciation
+zeszyt,le cahier,0,angi,1,3,0,3,Angielski,n,pronunciation
+bawić się,jouer,0,angi,1,3,0,3,Angielski,n,pronunciation
+korespondent,le envoyé,1,angi,1,3,0,3,Angielski,n,pronunciation
+powszechnie uznawany,reconnu,1,angi,1,3,0,3,Angielski,n,pronunciation
+liczyć,compter,0,angi,1,3,0,3,Angielski,n,pronunciation
+długi,long,0,angi,1,3,0,3,Angielski,n,pronunciation
+zwany,dit,2,angi,1,3,0,3,Angielski,n,pronunciation
+prawda,la vérité,0,angi,1,3,0,3,Angielski,n,pronunciation
+także,aussi,0,angi,1,3,0,3,Angielski,n,pronunciation
+u kogoś,chez qn,0,angi,1,3,0,3,Angielski,n,pronunciation
+z,avec,0,angi,1,3,0,3,Angielski,n,pronunciation
+dzień,la journée,0,ang,1,3,0,3,Angielski,n,pronunciation
+tylko,seulement,3,angi,1,3,0,3,Angielski,n,pronunciation
+stolica,la capitale,1,angi,1,3,0,3,Angielski,n,pronunciation
+wiele,nombreux,0,angi,1,3,0,3,Angielski,n,pronunciation
+akwarium,la aquarium,0,angi,1,3,0,3,Angielski,n,pronunciation
+świętować,célébrer,0,angi,1,3,0,3,Angielski,n,pronunciation
+chodzić na spacer,promener,1,angi,1,3,0,3,Angielski,n,pronunciation
+wiek,le siècle,4,ang,1,3,0,3,Angielski,n,pronunciation
+fasada,la façade,0,angi,1,3,0,3,Angielski,n,pronunciation
+podziwiać,admirer,0,angi,1,3,0,3,Angielski,n,pronunciation
+dom,le maison,3,angi,1,3,0,3,Angielski,n,pronunciation
+wokół,autour,1,angi,1,3,0,3,Angielski,n,pronunciation
+chłopiec,le garçon,0,angi,1,3,0,3,Angielski,n,pronunciation
+spotykać,rencontrer,2,angi,1,3,0,3,Angielski,n,pronunciation
+stawać się,devenir,1,angi,1,3,0,3,Angielski,n,pronunciation
+zakupy,le achat,1,angi,1,3,0,3,Angielski,n,pronunciation
+możliwość,la possibilité,2,angi,1,3,0,3,Angielski,n,pronunciation
+z pewnością,certainement,4,angi,1,3,0,3,Angielski,n,pronunciation
+królewski,royal,0,angi,1,3,0,3,Angielski,n,pronunciation
+odkrywać,découvrir,0,angi,1,3,0,3,Angielski,n,pronunciation
+jeść,manger,0,angi,1,3,0,3,Angielski,n,pronunciation
+pasek,la bande,1,angi,1,3,0,3,Angielski,n,pronunciation
+komiks,la bande dessinée,0,angi,1,3,0,3,Angielski,n,pronunciation
+oni,eux,0,angi,1,3,0,3,Angielski,n,pronunciation
+zwiedzać,visiter,2,angi,1,3,0,3,Angielski,n,pronunciation
+europejski,européen,0,angi,1,3,0,3,Angielski,n,pronunciation
+odkrywać,découvrir,0,angi,1,3,0,3,Angielski,n,pronunciation
+budynek,le bâtiment,5,angi,1,3,0,3,Angielski,n,pronunciation
+amator,le amateur,0,angi,1,3,0,3,Angielski,n,pronunciation
+kierować,diriger,2,angi,1,3,0,3,Angielski,n,pronunciation
+potem,ensuite,5,angi,1,3,0,3,Angielski,n,pronunciation
+w kierunku,vers,0,angi,1,3,0,3,Angielski,n,pronunciation
+sąsiedni,voisin,0,angi,1,3,0,3,Angielski,n,pronunciation
+wieczór,la soirée,0,angi,1,3,0,3,Angielski,n,pronunciation
+zadziwiający,étonnant,3,angi,1,3,0,3,Angielski,n,pronunciation
+budować,construire,1,angi,1,3,0,3,Angielski,n,pronunciation
+cząsteczka,la molécule,1,angi,1,3,0,3,Angielski,n,pronunciation
+met,le métal,0,angi,1,3,0,3,Angielski,n,pronunciation
+zdrowie,la santé,0,angi,1,3,0,3,Angielski,n,pronunciation
+naukowy,scientifique,0,angi,1,3,0,3,Angielski,n,pronunciation
+radzić,conseiller,3,ang,1,3,0,3,Angielski,n,pronunciation

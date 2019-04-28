@@ -1,13 +1,13 @@
-polski,angielski,0,,0,0,0,0,Angielski,n
-ukazywać się,emerge,0,angi,-1,0,0,0,Angielski,n
-przedmowa,foreword,0,angi,-1,0,0,0,Angielski,n
-wywrócić,overturn,0,angi,-1,0,0,0,Angielski,n
-wziąć coś pod uwagę,take sth into account,0,angi,-1,0,0,0,Angielski,n
-podnosić krzyk,clamour,0,angi,-1,0,0,0,Angielski,n
-dźwigać,bear,0,angi,-1,0,0,0,Angielski,n
-głośna zabawa,revelry,0,angi,-1,0,0,0,Angielski,n
-oczyszczać,purify,0,angi,-1,0,0,0,Angielski,n
-cielesny,corporeal,0,ang,-1,0,0,0,Angielski,n
-nieokiełznany,unbridled,0,ang,-1,0,0,0,Angielski,n
-prawodawca,lawgiver,0,angi,-1,0,0,0,Angielski,n
-cudzołóstwo,adultery,0,angi,-1,0,0,0,Angielski,n
+polski,angielski,0,,0,0,0,0,Angielski,n,pronunciation
+ukazywać się,emerge,0,angi,-1,0,0,0,Angielski,n,pronunciation
+przedmowa,foreword,0,angi,-1,0,0,0,Angielski,n,pronunciation
+wywrócić,overturn,0,angi,-1,0,0,0,Angielski,n,pronunciation
+wziąć coś pod uwagę,take sth into account,0,angi,-1,0,0,0,Angielski,n,pronunciation
+podnosić krzyk,clamour,0,angi,-1,0,0,0,Angielski,n,pronunciation
+dźwigać,bear,0,angi,-1,0,0,0,Angielski,n,pronunciation
+głośna zabawa,revelry,0,angi,-1,0,0,0,Angielski,n,pronunciation
+oczyszczać,purify,0,angi,-1,0,0,0,Angielski,n,pronunciation
+cielesny,corporeal,0,ang,-1,0,0,0,Angielski,n,pronunciation
+nieokiełznany,unbridled,0,ang,-1,0,0,0,Angielski,n,pronunciation
+prawodawca,lawgiver,0,angi,-1,0,0,0,Angielski,n,pronunciation
+cudzołóstwo,adultery,0,angi,-1,0,0,0,Angielski,n,pronunciation

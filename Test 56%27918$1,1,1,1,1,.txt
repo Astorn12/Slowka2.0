@@ -1,76 +1,76 @@
-polski,angielski,0,,0,0,0,0,angielski,n
-pismo urzędowe,writ,3,ang,0,0,0,0,angielski,n
-wtargnięcie,inroad,3,ang,0,0,0,0,angielski,n
-znaczny/niemały,considerable,3,ang,0,0,0,0,angielski,n
-opóźnienie,delay,3,ang,0,0,0,0,angielski,n
-zauważalny/rzeczywisty,tagible,3,ang,0,0,0,0,angielski,n
-wgląd,insight,3,ang,0,0,0,0,angielski,n
-zlecenie wykonania usług innej firmie,oursourcing,3,ang,0,0,0,0,angielski,n
-ogólnokrajiwy,nationalwide,3,ang,0,0,0,0,angielski,n
-gęsty,dense,3,ang,0,0,0,0,angielski,n
-skrawek/skupisko,patch,3,ang,0,0,0,0,angielski,n
-najem/dzierżawa,lease,3,ang,0,0,0,0,angielski,n
-malina,raspberry,3,ang,0,0,0,0,angielski,n
-kopać/wydobywać,mine,3,ang,0,0,0,0,angielski,n
-ograniczać,cracked down,3,ang,0,0,0,0,angielski,n
-sianie paniki,scaremongering,3,ang,0,0,0,0,angielski,n
-pobudzać,incite,3,ang,0,0,0,0,angielski,n
-założyciel,founder,3,ang,0,0,0,0,angielski,n
-zarzuty,allegations,3,ang,0,0,0,0,angielski,n
-zbierać się/jednoczyś się,rally,3,ang,0,0,0,0,angielski,n
-więzienna izolatka,solitary confinement,3,ang,0,0,0,0,angielski,n
-krzyczeć/zwymyślać/kantować,ream,3,ang,0,0,0,0,angielski,n
-są wojenny,court martial,3,ang,0,0,0,0,angielski,n
-zarzucać (coś komuś),allege,3,ang,0,0,0,0,angielski,n
-ubiegać się/dążyć do/szukać,seek,3,ang,0,0,0,0,angielski,n
-zamierzać,intend,3,ang,0,0,0,0,angielski,n
-przeznaczać,earnmark,3,ang,0,0,0,0,angielski,n
-kawał/kloc,chunk,3,ang,0,0,0,0,angielski,n
-oferowana cena/oferta/próba(zdobycia czegoś),bid,3,ang,0,0,0,0,angielski,n
-namieszać w czymś,snarl up,3,ang,0,0,0,0,angielski,n
-nabytek/zakup,purchase,3,ang,0,0,0,0,angielski,n
-cieszący się złą sławą,notorious,3,ang,0,0,0,0,angielski,n
-powstrzymywać,hinder,3,ang,0,0,0,0,angielski,n
-usunięcie/wyrzucenie,expulsion,3,ang,0,0,0,0,angielski,n
-nowatorski,cutting-edge,3,ang,0,0,0,0,angielski,n
-naczynie/pojemnik,vessel,3,ang,0,0,0,0,angielski,n
-przechwycić/przechwytywać,intercept,3,ang,0,0,0,0,angielski,n
-okazywać/używać(np. siły wpływów)/wywierać(nacisp wpływ),exert,3,ang,0,0,0,0,angielski,n
-zasługiwać,deserve,3,ang,0,0,0,0,angielski,n
-ustępstwo,concession,3,ang,0,0,0,0,angielski,n
-powstanie,insurgency,3,ang,0,0,0,0,angielski,n
-zasady/polityka,policy,3,ang,0,0,0,0,angielski,n
-rozwiązanie siłowe,forceful solution,3,ang,0,0,0,0,angielski,n
-napotkać przeszkodę,hit a snag,3,ang,0,0,0,0,angielski,n
-uchylić,override,3,ang,0,0,0,0,angielski,n
-cytować /przytaczać,cite,3,ang,0,0,0,0,angielski,n
-abolition,zniesienie,3,ang,0,0,0,0,angielski,n
-utrzymywać/podtrzymywać,maintain,3,ang,0,0,0,0,angielski,n
-popierać wniosek,back a proposal,3,ang,0,0,0,0,angielski,n
-wysiedleni,evicted,3,ang,0,0,0,0,angielski,n
-materiał filmowy,footage,3,ang,0,0,0,0,angielski,n
-pielgrzym,pilgrim,3,ang,0,0,0,0,angielski,n
-rozpadający się/w opłakanym stanie,ramshackle,3,ang,0,0,0,0,angielski,n
-obóz/obozowisko,encampment,3,ang,0,0,0,0,angielski,n
-świstek/framgent/szmelc/bójka,scrap,3,ang,0,0,0,0,angielski,n
-schronienie,shelter,3,ang,0,0,0,0,angielski,n
-rozrzucać,scatter,3,ang,0,0,0,0,angielski,n
-windykacja(odzyskanie w drodze sądowej)/eksmisja,eviction,3,ang,0,0,0,0,angielski,n
-owczarek niemiecki,German shepherd,3,ang,0,0,0,0,angielski,n
-burzenie/rozbiórka,demolition,3,ang,0,0,0,0,angielski,n
-dziki lokator,squatter,3,ang,0,0,0,0,angielski,n
-tymczasem,meanwhile,3,ang,0,0,0,0,angielski,n
-fanatyzm,bigotry,3,ang,0,0,0,0,angielski,n
-tłum,mob,3,ang,0,0,0,0,angielski,n
-wydalać/wyganiać/wypędzać,expel,3,ang,0,0,0,0,angielski,n
-przerywać/kończyć,halt,3,ang,0,0,0,0,angielski,n
-fanić/skarcić,reprimand,3,ang,0,0,0,0,angielski,n
-zgarnąć stertę na coś,heap on,3,ang,0,0,0,0,angielski,n
-wyrównywać/niwelować,level,3,ang,0,0,0,0,angielski,n
-wybierać kogoś,single sb out,3,ang,0,0,0,0,angielski,n
-nalegać/domagaś się,insist,3,ang,0,0,0,0,angielski,n
-bandyta/zbir,thug,3,ang,0,0,0,0,angielski,n
-eksmitować,evict,3,ang,0,0,0,0,angielski,n
-nie dowierzać,mistrust,3,ang,0,0,0,0,angielski,n
-rozproszony,dispersed,3,ang,0,0,0,0,angielski,n
-oburzenie/zamieszanie,uproar,3,ang,0,0,0,0,angielski,n
+polski,angielski,0,,0,0,0,0,angielski,n,pronunciation
+pismo urzędowe,writ,3,ang,0,0,0,0,angielski,n,pronunciation
+wtargnięcie,inroad,3,ang,0,0,0,0,angielski,n,pronunciation
+znaczny/niemały,considerable,3,ang,0,0,0,0,angielski,n,pronunciation
+opóźnienie,delay,3,ang,0,0,0,0,angielski,n,pronunciation
+zauważalny/rzeczywisty,tagible,3,ang,0,0,0,0,angielski,n,pronunciation
+wgląd,insight,3,ang,0,0,0,0,angielski,n,pronunciation
+zlecenie wykonania usług innej firmie,oursourcing,3,ang,0,0,0,0,angielski,n,pronunciation
+ogólnokrajiwy,nationalwide,3,ang,0,0,0,0,angielski,n,pronunciation
+gęsty,dense,3,ang,0,0,0,0,angielski,n,pronunciation
+skrawek/skupisko,patch,3,ang,0,0,0,0,angielski,n,pronunciation
+najem/dzierżawa,lease,3,ang,0,0,0,0,angielski,n,pronunciation
+malina,raspberry,3,ang,0,0,0,0,angielski,n,pronunciation
+kopać/wydobywać,mine,3,ang,0,0,0,0,angielski,n,pronunciation
+ograniczać,cracked down,3,ang,0,0,0,0,angielski,n,pronunciation
+sianie paniki,scaremongering,3,ang,0,0,0,0,angielski,n,pronunciation
+pobudzać,incite,3,ang,0,0,0,0,angielski,n,pronunciation
+założyciel,founder,3,ang,0,0,0,0,angielski,n,pronunciation
+zarzuty,allegations,3,ang,0,0,0,0,angielski,n,pronunciation
+zbierać się/jednoczyś się,rally,3,ang,0,0,0,0,angielski,n,pronunciation
+więzienna izolatka,solitary confinement,3,ang,0,0,0,0,angielski,n,pronunciation
+krzyczeć/zwymyślać/kantować,ream,3,ang,0,0,0,0,angielski,n,pronunciation
+są wojenny,court martial,3,ang,0,0,0,0,angielski,n,pronunciation
+zarzucać (coś komuś),allege,3,ang,0,0,0,0,angielski,n,pronunciation
+ubiegać się/dążyć do/szukać,seek,3,ang,0,0,0,0,angielski,n,pronunciation
+zamierzać,intend,3,ang,0,0,0,0,angielski,n,pronunciation
+przeznaczać,earnmark,3,ang,0,0,0,0,angielski,n,pronunciation
+kawał/kloc,chunk,3,ang,0,0,0,0,angielski,n,pronunciation
+oferowana cena/oferta/próba(zdobycia czegoś),bid,3,ang,0,0,0,0,angielski,n,pronunciation
+namieszać w czymś,snarl up,3,ang,0,0,0,0,angielski,n,pronunciation
+nabytek/zakup,purchase,3,ang,0,0,0,0,angielski,n,pronunciation
+cieszący się złą sławą,notorious,3,ang,0,0,0,0,angielski,n,pronunciation
+powstrzymywać,hinder,3,ang,0,0,0,0,angielski,n,pronunciation
+usunięcie/wyrzucenie,expulsion,3,ang,0,0,0,0,angielski,n,pronunciation
+nowatorski,cutting-edge,3,ang,0,0,0,0,angielski,n,pronunciation
+naczynie/pojemnik,vessel,3,ang,0,0,0,0,angielski,n,pronunciation
+przechwycić/przechwytywać,intercept,3,ang,0,0,0,0,angielski,n,pronunciation
+okazywać/używać(np. siły wpływów)/wywierać(nacisp wpływ),exert,3,ang,0,0,0,0,angielski,n,pronunciation
+zasługiwać,deserve,3,ang,0,0,0,0,angielski,n,pronunciation
+ustępstwo,concession,3,ang,0,0,0,0,angielski,n,pronunciation
+powstanie,insurgency,3,ang,0,0,0,0,angielski,n,pronunciation
+zasady/polityka,policy,3,ang,0,0,0,0,angielski,n,pronunciation
+rozwiązanie siłowe,forceful solution,3,ang,0,0,0,0,angielski,n,pronunciation
+napotkać przeszkodę,hit a snag,3,ang,0,0,0,0,angielski,n,pronunciation
+uchylić,override,3,ang,0,0,0,0,angielski,n,pronunciation
+cytować /przytaczać,cite,3,ang,0,0,0,0,angielski,n,pronunciation
+abolition,zniesienie,3,ang,0,0,0,0,angielski,n,pronunciation
+utrzymywać/podtrzymywać,maintain,3,ang,0,0,0,0,angielski,n,pronunciation
+popierać wniosek,back a proposal,3,ang,0,0,0,0,angielski,n,pronunciation
+wysiedleni,evicted,3,ang,0,0,0,0,angielski,n,pronunciation
+materiał filmowy,footage,3,ang,0,0,0,0,angielski,n,pronunciation
+pielgrzym,pilgrim,3,ang,0,0,0,0,angielski,n,pronunciation
+rozpadający się/w opłakanym stanie,ramshackle,3,ang,0,0,0,0,angielski,n,pronunciation
+obóz/obozowisko,encampment,3,ang,0,0,0,0,angielski,n,pronunciation
+świstek/framgent/szmelc/bójka,scrap,3,ang,0,0,0,0,angielski,n,pronunciation
+schronienie,shelter,3,ang,0,0,0,0,angielski,n,pronunciation
+rozrzucać,scatter,3,ang,0,0,0,0,angielski,n,pronunciation
+windykacja(odzyskanie w drodze sądowej)/eksmisja,eviction,3,ang,0,0,0,0,angielski,n,pronunciation
+owczarek niemiecki,German shepherd,3,ang,0,0,0,0,angielski,n,pronunciation
+burzenie/rozbiórka,demolition,3,ang,0,0,0,0,angielski,n,pronunciation
+dziki lokator,squatter,3,ang,0,0,0,0,angielski,n,pronunciation
+tymczasem,meanwhile,3,ang,0,0,0,0,angielski,n,pronunciation
+fanatyzm,bigotry,3,ang,0,0,0,0,angielski,n,pronunciation
+tłum,mob,3,ang,0,0,0,0,angielski,n,pronunciation
+wydalać/wyganiać/wypędzać,expel,3,ang,0,0,0,0,angielski,n,pronunciation
+przerywać/kończyć,halt,3,ang,0,0,0,0,angielski,n,pronunciation
+fanić/skarcić,reprimand,3,ang,0,0,0,0,angielski,n,pronunciation
+zgarnąć stertę na coś,heap on,3,ang,0,0,0,0,angielski,n,pronunciation
+wyrównywać/niwelować,level,3,ang,0,0,0,0,angielski,n,pronunciation
+wybierać kogoś,single sb out,3,ang,0,0,0,0,angielski,n,pronunciation
+nalegać/domagaś się,insist,3,ang,0,0,0,0,angielski,n,pronunciation
+bandyta/zbir,thug,3,ang,0,0,0,0,angielski,n,pronunciation
+eksmitować,evict,3,ang,0,0,0,0,angielski,n,pronunciation
+nie dowierzać,mistrust,3,ang,0,0,0,0,angielski,n,pronunciation
+rozproszony,dispersed,3,ang,0,0,0,0,angielski,n,pronunciation
+oburzenie/zamieszanie,uproar,3,ang,0,0,0,0,angielski,n,pronunciation

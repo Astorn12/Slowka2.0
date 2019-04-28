@@ -1,2 +1,2 @@
-polski,angielski,0,,0,0,0,0,Angielski,n
-jestem na dobrej drodze,I'm on my way,0,ang,-1,0,0,0,Angielski,n
+polski,angielski,0,,0,0,0,0,Angielski,n,pronunciation
+jestem na dobrej drodze,I'm on my way,0,ang,-1,0,0,0,Angielski,n,pronunciation

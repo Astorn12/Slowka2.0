@@ -1,34 +1,34 @@
-polski,francuski,0,,0,0,0,3,Angielski,n
-Która jest godzina?,Quelle heure est-il?,0,frai,1,3,0,3,Angielski,n
-przed południem,le matin,0,frai,1,3,0,3,Angielski,n
-po południu,l'apres-midi,0,frai,1,3,0,3,Angielski,n
-Jest...(godzina),Il est...,0,frai,1,3,0,3,Angielski,n
-na czas,à l'heure,0,frai,1,3,0,3,Angielski,n
-przed czasem,en avance,0,frai,1,3,0,3,Angielski,n
-spóźniony,en retard,0,frai,1,3,0,3,Angielski,n
-normalnnie,principe,0,frai,1,3,0,3,Angielski,n
-kończyć,terminer,0,frai,1,3,0,3,Angielski,n
-spotkanie,la rèunion,0,frai,1,3,0,3,Angielski,n
-rozpoczynać coś,commencer,0,frai,1,3,0,3,Angielski,n
-dobiegać końca,finir,0,frai,1,3,0,3,Angielski,n
-mniej,moins,0,frai,1,3,0,3,Angielski,n
-kwadrans,quart,0,frai,1,3,0,3,Angielski,n
-trzydzieści,trente,0,frai,1,3,0,3,Angielski,n
-już,déjà,0,frai,1,3,0,3,Angielski,n
-jeść,manger,0,frai,1,3,0,3,Angielski,n
-głód,la faim,0,frai,1,3,0,3,Angielski,n
-ciepło,le chaud,0,frai,1,3,0,3,Angielski,n
-zimno,la froid,0,frai,1,3,0,3,Angielski,n
-ponieważ,parce que,0,frai,1,3,0,3,Angielski,n
-lato,l'été,0,frai,1,3,0,3,Angielski,n
-rok,la année,0,frai,1,3,0,3,Angielski,n
-sen,le sommeil,0,frai,1,3,0,3,Angielski,n
-więc,alors,0,frai,1,3,0,3,Angielski,n
-lepiej,mieux,0,frai,1,3,0,3,Angielski,n
-jeden raz,fois,0,frai,1,3,0,3,Angielski,n
-potrzebować,avoir besoin de qc,0,frai,1,3,0,3,Angielski,n
-źle,mal,0,frai,1,3,0,3,Angielski,n
-wszędzie,partout,0,frai,1,3,0,3,Angielski,n
-powód,la raison,0,frai,1,3,0,3,Angielski,n
-niesłuszność,la tort,0,frai,1,3,0,3,Angielski,n
-żaden,rien,0,frai,1,3,0,3,Angielski,n
+polski,francuski,0,,0,0,0,3,Angielski,n,pronunciation
+Która jest godzina?,Quelle heure est-il?,0,frai,1,3,0,3,Angielski,n,pronunciation
+przed południem,le matin,0,frai,1,3,0,3,Angielski,n,pronunciation
+po południu,l'apres-midi,0,frai,1,3,0,3,Angielski,n,pronunciation
+Jest...(godzina),Il est...,0,frai,1,3,0,3,Angielski,n,pronunciation
+na czas,à l'heure,0,frai,1,3,0,3,Angielski,n,pronunciation
+przed czasem,en avance,0,frai,1,3,0,3,Angielski,n,pronunciation
+spóźniony,en retard,0,frai,1,3,0,3,Angielski,n,pronunciation
+normalnnie,principe,0,frai,1,3,0,3,Angielski,n,pronunciation
+kończyć,terminer,0,frai,1,3,0,3,Angielski,n,pronunciation
+spotkanie,la rèunion,0,frai,1,3,0,3,Angielski,n,pronunciation
+rozpoczynać coś,commencer,0,frai,1,3,0,3,Angielski,n,pronunciation
+dobiegać końca,finir,0,frai,1,3,0,3,Angielski,n,pronunciation
+mniej,moins,0,frai,1,3,0,3,Angielski,n,pronunciation
+kwadrans,quart,0,frai,1,3,0,3,Angielski,n,pronunciation
+trzydzieści,trente,0,frai,1,3,0,3,Angielski,n,pronunciation
+już,déjà,0,frai,1,3,0,3,Angielski,n,pronunciation
+jeść,manger,0,frai,1,3,0,3,Angielski,n,pronunciation
+głód,la faim,0,frai,1,3,0,3,Angielski,n,pronunciation
+ciepło,le chaud,0,frai,1,3,0,3,Angielski,n,pronunciation
+zimno,la froid,0,frai,1,3,0,3,Angielski,n,pronunciation
+ponieważ,parce que,0,frai,1,3,0,3,Angielski,n,pronunciation
+lato,l'été,0,frai,1,3,0,3,Angielski,n,pronunciation
+rok,la année,0,frai,1,3,0,3,Angielski,n,pronunciation
+sen,le sommeil,0,frai,1,3,0,3,Angielski,n,pronunciation
+więc,alors,0,frai,1,3,0,3,Angielski,n,pronunciation
+lepiej,mieux,0,frai,1,3,0,3,Angielski,n,pronunciation
+jeden raz,fois,0,frai,1,3,0,3,Angielski,n,pronunciation
+potrzebować,avoir besoin de qc,0,frai,1,3,0,3,Angielski,n,pronunciation
+źle,mal,0,frai,1,3,0,3,Angielski,n,pronunciation
+wszędzie,partout,0,frai,1,3,0,3,Angielski,n,pronunciation
+powód,la raison,0,frai,1,3,0,3,Angielski,n,pronunciation
+niesłuszność,la tort,0,frai,1,3,0,3,Angielski,n,pronunciation
+żaden,rien,0,frai,1,3,0,3,Angielski,n,pronunciation

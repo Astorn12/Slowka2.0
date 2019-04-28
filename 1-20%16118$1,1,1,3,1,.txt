@@ -1,104 +1,104 @@
-polski,angielski,0,,0,0,0,3,Angielski,n
-strzelanina,shoot-out,0,ang,-1,0,1,0,Angielski,n
-ranny,wounded,0,ang,-1,0,1,0,Angielski,n
-przechwycić broń,seize arms,0,ang,-1,0,1,0,Angielski,n
-rozbroić bombę,defuse a bomb,0,ang,-1,0,1,0,Angielski,n
-tropić,track,0,ang,-1,0,1,0,Angielski,n
-podłożyć bombę,plant a bomb,0,ang,-1,0,1,0,Angielski,n
-bomba pułapka,booby-trap,0,ang,-1,0,1,0,Angielski,n
-pocisk,bullet,0,ang,-1,0,1,0,Angielski,n
-rana,wound,0,ang,-1,0,1,0,Angielski,n
-przyznać się,claim responsibility,0,ang,-1,0,1,0,Angielski,n
-zatrzymany,detained,0,ang,-1,0,1,0,Angielski,n
-śledzić,trail,0,ang,-1,0,1,0,Angielski,n
-żałobnik,mourner,0,ang,-1,0,1,0,Angielski,n
-dokonać masakry,massacre,0,ang,-1,0,1,0,Angielski,n
-okrucieństwa,atrocities,0,ang,-1,0,1,0,Angielski,n
-przedstawiciel,representative,0,ang,-1,0,1,0,Angielski,n
-potwierdzenie,confirmation,0,ang,-1,0,1,0,Angielski,n
-wydarzyć się,occur,0,ang,-1,0,1,0,Angielski,n
-alarm,alert,0,ang,-1,0,1,0,Angielski,n
-wypatrywać,look out,0,angi,-1,0,1,0,Angielski,n
-samotny,lone,0,angi,-1,0,2,0,Angielski,n
-zeglować,sail,0,angi,-1,0,2,0,Angielski,n
-części zamienne,spare part,0,angi,-1,0,2,0,Angielski,n
-przemyt,smuggling,0,angi,-1,0,2,0,Angielski,n
-porwać,hijack,0,angi,-1,0,2,0,Angielski,n
-zniknąć,vanish,0,angi,-1,0,2,0,Angielski,n
-ślad,trace,0,angi,-1,0,2,0,Angielski,n
-samotnik,solitary,0,angi,-1,0,2,0,Angielski,n
-opiekować się,attend to,0,angi,-1,0,2,0,Angielski,n
-ONZ,the United Nations,0,angi,-1,0,2,0,Angielski,n
-zbuntowany,rebel,0,angi,-1,0,2,0,Angielski,n
-wyzwolenie,liberation,0,angi,-1,0,2,0,Angielski,n
-przerwać ogień,cease-fire,0,angi,-1,0,2,0,Angielski,n
-rozpaść się,split,0,angi,-1,0,2,0,Angielski,n
-wojna domowa,civil war,0,angi,-1,0,2,0,Angielski,n
-bombardowanie,bombing,0,angi,-1,0,2,0,Angielski,n
-wymuszać,impose,0,angi,-1,0,2,0,Angielski,n
-zawieszenie broni,truce,0,angi,-1,0,2,0,Angielski,n
-rozejm,truce,0,angi,-1,0,2,0,Angielski,n
-gwałtowana bitwa,fierce battle,0,angi,-1,0,2,0,Angielski,n
-grozić,threaten,0,angi,-1,0,3,0,Angielski,n
-stocznia,shipyard,0,angi,-1,0,3,0,Angielski,n
-równoczesny,simultaneous,0,angi,-1,0,3,0,Angielski,n
-próba,attempt,0,angi,-1,0,3,0,Angielski,n
-zaniechać,abandon,0,angi,-1,0,3,0,Angielski,n
-oddać strzał,fire a shot,0,angi,-1,0,3,0,Angielski,n
-płonący,blazing,0,angi,-1,0,3,0,Angielski,n
-przygodny świadek,bystander,0,angi,-1,0,3,0,Angielski,n
-wrak,wreckage,0,angi,-1,0,3,0,Angielski,n
-potępić,condemn,0,angi,-1,0,3,0,Angielski,n
-miłosierny,merciful,0,angi,-1,0,3,0,Angielski,n
-zabójstwo,homicide,0,angi,-1,0,3,0,Angielski,n
-podobny,alike,0,angi,-1,0,3,0,Angielski,n
-świadek wydarzenia,onlooker,0,angi,-1,0,3,0,Angielski,n
-akcja odwetowa,reprisal raid,0,angi,-1,0,3,0,Angielski,n
-bandyta,brigand,0,angi,-1,0,3,0,Angielski,n
-sztab generalny,general staff,0,angi,-1,0,3,0,Angielski,n
-zwolnić,slow down,0,angi,-1,0,3,0,Angielski,n
-wedrzeć się,penetrate,0,angi,-1,0,3,0,Angielski,n
-poszukiwacz złota,gold-seeker,0,angi,-1,0,3,0,Angielski,n
-lądowisko,airstrip,0,angi,-1,0,4,0,Angielski,n
-posiłki,reinforcements,0,angi,-1,0,4,0,Angielski,n
-wyjęty spod prawa,outlaw,0,angi,-1,0,4,0,Angielski,n
-na pierwszy rzut oka,seemingly,0,angi,-1,0,4,0,Angielski,n
-zdemontować,dismantle,0,angi,-1,0,4,0,Angielski,n
-nacisk,pressure,0,angi,-1,0,4,0,Angielski,n
-bezkompromisowość,intransigence,0,ang,-1,0,4,0,Angielski,n
-poszłuszny,obedient,0,angi,-1,0,4,0,Angielski,n
-los,fate,0,angi,-1,0,4,0,Angielski,n
-elektrownia,power plant,0,angi,-1,0,4,0,Angielski,n
-podkreślać,underscore,0,angi,-1,0,4,0,Angielski,n
-stocznia,dockyard,0,angi,-1,0,4,0,Angielski,n
-ujwanić,reveal,0,angi,-1,0,4,0,Angielski,n
-rdzeń,core,0,angi,-1,0,4,0,Angielski,n
-marynarka wojenna,navy,0,angi,-1,0,4,0,Angielski,n
-cytować,quote,0,angi,-1,0,4,0,Angielski,n
-licznik,meter,0,angi,-1,0,4,0,Angielski,n
-wytrzymać,stand up,0,angi,-1,0,4,0,Angielski,n
-zanurzyć się,submerge,0,angi,-1,0,4,0,Angielski,n
-eskadra,squadron,0,angi,-1,0,4,0,Angielski,n
-zapalić się,catch fire,0,angi,-1,0,5,0,Angielski,n
-podpalić,set fire,0,angi,-1,0,5,0,Angielski,n
-izolacja,insulation,0,angi,-1,0,5,0,Angielski,n
-prowizoryczny,temporary,0,angi,-1,0,5,0,Angielski,n
-limitowanie/niedoskonałość,limitation,0,angi,-1,0,5,0,Angielski,n
-ofiary,death toll,0,angi,-1,0,5,0,Angielski,n
-bezsporny,unassailable,0,ang,-1,0,5,0,Angielski,n
-przewrót,subversion,0,ang,-1,0,5,0,Angielski,n
-kara śmierci,death penalty,0,angi,-1,0,5,0,Angielski,n
-wyrok,sentence,0,angi,-1,0,5,0,Angielski,n
-wylany,sacked,0,angi,-1,0,5,0,Angielski,n
-niesprawiedliwy,unjust,0,angi,-1,0,5,0,Angielski,n
-rozlew krwi,bloodshed,0,angi,-1,0,5,0,Angielski,n
-posunąć się naprzód,advance,0,angi,-1,0,5,0,Angielski,n
-rozejm,truce,0,angi,-1,0,5,0,Angielski,n
-wejść w życie,come into force,0,angi,-1,0,5,0,Angielski,n
-zawieszenie broni,armistice,0,angi,-1,0,5,0,Angielski,n
-gwałtowny przyrost/fala,upsurge,0,angi,-1,0,5,0,Angielski,n
-pocisk,shell,0,angi,-1,0,5,0,Angielski,n
-starcie,clash,0,angi,-1,0,5,0,Angielski,n
-wydalanie,expulsion,0,angi,-1,0,6,0,Angielski,n
-strzelec wyborowy,sharpshooter,0,angi,-1,0,6,0,Angielski,n
-zbędny/niepotrzebny,redundant,0,angi,-1,0,6,0,Angielski,n
+polski,angielski,0,,0,0,0,3,Angielski,n,pronunciation
+strzelanina,shoot-out,0,ang,-1,0,1,0,Angielski,n,pronunciation
+ranny,wounded,0,ang,-1,0,1,0,Angielski,n,pronunciation
+przechwycić broń,seize arms,0,ang,-1,0,1,0,Angielski,n,pronunciation
+rozbroić bombę,defuse a bomb,0,ang,-1,0,1,0,Angielski,n,pronunciation
+tropić,track,0,ang,-1,0,1,0,Angielski,n,pronunciation
+podłożyć bombę,plant a bomb,0,ang,-1,0,1,0,Angielski,n,pronunciation
+bomba pułapka,booby-trap,0,ang,-1,0,1,0,Angielski,n,pronunciation
+pocisk,bullet,0,ang,-1,0,1,0,Angielski,n,pronunciation
+rana,wound,0,ang,-1,0,1,0,Angielski,n,pronunciation
+przyznać się,claim responsibility,0,ang,-1,0,1,0,Angielski,n,pronunciation
+zatrzymany,detained,0,ang,-1,0,1,0,Angielski,n,pronunciation
+śledzić,trail,0,ang,-1,0,1,0,Angielski,n,pronunciation
+żałobnik,mourner,0,ang,-1,0,1,0,Angielski,n,pronunciation
+dokonać masakry,massacre,0,ang,-1,0,1,0,Angielski,n,pronunciation
+okrucieństwa,atrocities,0,ang,-1,0,1,0,Angielski,n,pronunciation
+przedstawiciel,representative,0,ang,-1,0,1,0,Angielski,n,pronunciation
+potwierdzenie,confirmation,0,ang,-1,0,1,0,Angielski,n,pronunciation
+wydarzyć się,occur,0,ang,-1,0,1,0,Angielski,n,pronunciation
+alarm,alert,0,ang,-1,0,1,0,Angielski,n,pronunciation
+wypatrywać,look out,0,angi,-1,0,1,0,Angielski,n,pronunciation
+samotny,lone,0,angi,-1,0,2,0,Angielski,n,pronunciation
+zeglować,sail,0,angi,-1,0,2,0,Angielski,n,pronunciation
+części zamienne,spare part,0,angi,-1,0,2,0,Angielski,n,pronunciation
+przemyt,smuggling,0,angi,-1,0,2,0,Angielski,n,pronunciation
+porwać,hijack,0,angi,-1,0,2,0,Angielski,n,pronunciation
+zniknąć,vanish,0,angi,-1,0,2,0,Angielski,n,pronunciation
+ślad,trace,0,angi,-1,0,2,0,Angielski,n,pronunciation
+samotnik,solitary,0,angi,-1,0,2,0,Angielski,n,pronunciation
+opiekować się,attend to,0,angi,-1,0,2,0,Angielski,n,pronunciation
+ONZ,the United Nations,0,angi,-1,0,2,0,Angielski,n,pronunciation
+zbuntowany,rebel,0,angi,-1,0,2,0,Angielski,n,pronunciation
+wyzwolenie,liberation,0,angi,-1,0,2,0,Angielski,n,pronunciation
+przerwać ogień,cease-fire,0,angi,-1,0,2,0,Angielski,n,pronunciation
+rozpaść się,split,0,angi,-1,0,2,0,Angielski,n,pronunciation
+wojna domowa,civil war,0,angi,-1,0,2,0,Angielski,n,pronunciation
+bombardowanie,bombing,0,angi,-1,0,2,0,Angielski,n,pronunciation
+wymuszać,impose,0,angi,-1,0,2,0,Angielski,n,pronunciation
+zawieszenie broni,truce,0,angi,-1,0,2,0,Angielski,n,pronunciation
+rozejm,truce,0,angi,-1,0,2,0,Angielski,n,pronunciation
+gwałtowana bitwa,fierce battle,0,angi,-1,0,2,0,Angielski,n,pronunciation
+grozić,threaten,0,angi,-1,0,3,0,Angielski,n,pronunciation
+stocznia,shipyard,0,angi,-1,0,3,0,Angielski,n,pronunciation
+równoczesny,simultaneous,0,angi,-1,0,3,0,Angielski,n,pronunciation
+próba,attempt,0,angi,-1,0,3,0,Angielski,n,pronunciation
+zaniechać,abandon,0,angi,-1,0,3,0,Angielski,n,pronunciation
+oddać strzał,fire a shot,0,angi,-1,0,3,0,Angielski,n,pronunciation
+płonący,blazing,0,angi,-1,0,3,0,Angielski,n,pronunciation
+przygodny świadek,bystander,0,angi,-1,0,3,0,Angielski,n,pronunciation
+wrak,wreckage,0,angi,-1,0,3,0,Angielski,n,pronunciation
+potępić,condemn,0,angi,-1,0,3,0,Angielski,n,pronunciation
+miłosierny,merciful,0,angi,-1,0,3,0,Angielski,n,pronunciation
+zabójstwo,homicide,0,angi,-1,0,3,0,Angielski,n,pronunciation
+podobny,alike,0,angi,-1,0,3,0,Angielski,n,pronunciation
+świadek wydarzenia,onlooker,0,angi,-1,0,3,0,Angielski,n,pronunciation
+akcja odwetowa,reprisal raid,0,angi,-1,0,3,0,Angielski,n,pronunciation
+bandyta,brigand,0,angi,-1,0,3,0,Angielski,n,pronunciation
+sztab generalny,general staff,0,angi,-1,0,3,0,Angielski,n,pronunciation
+zwolnić,slow down,0,angi,-1,0,3,0,Angielski,n,pronunciation
+wedrzeć się,penetrate,0,angi,-1,0,3,0,Angielski,n,pronunciation
+poszukiwacz złota,gold-seeker,0,angi,-1,0,3,0,Angielski,n,pronunciation
+lądowisko,airstrip,0,angi,-1,0,4,0,Angielski,n,pronunciation
+posiłki,reinforcements,0,angi,-1,0,4,0,Angielski,n,pronunciation
+wyjęty spod prawa,outlaw,0,angi,-1,0,4,0,Angielski,n,pronunciation
+na pierwszy rzut oka,seemingly,0,angi,-1,0,4,0,Angielski,n,pronunciation
+zdemontować,dismantle,0,angi,-1,0,4,0,Angielski,n,pronunciation
+nacisk,pressure,0,angi,-1,0,4,0,Angielski,n,pronunciation
+bezkompromisowość,intransigence,0,ang,-1,0,4,0,Angielski,n,pronunciation
+poszłuszny,obedient,0,angi,-1,0,4,0,Angielski,n,pronunciation
+los,fate,0,angi,-1,0,4,0,Angielski,n,pronunciation
+elektrownia,power plant,0,angi,-1,0,4,0,Angielski,n,pronunciation
+podkreślać,underscore,0,angi,-1,0,4,0,Angielski,n,pronunciation
+stocznia,dockyard,0,angi,-1,0,4,0,Angielski,n,pronunciation
+ujwanić,reveal,0,angi,-1,0,4,0,Angielski,n,pronunciation
+rdzeń,core,0,angi,-1,0,4,0,Angielski,n,pronunciation
+marynarka wojenna,navy,0,angi,-1,0,4,0,Angielski,n,pronunciation
+cytować,quote,0,angi,-1,0,4,0,Angielski,n,pronunciation
+licznik,meter,0,angi,-1,0,4,0,Angielski,n,pronunciation
+wytrzymać,stand up,0,angi,-1,0,4,0,Angielski,n,pronunciation
+zanurzyć się,submerge,0,angi,-1,0,4,0,Angielski,n,pronunciation
+eskadra,squadron,0,angi,-1,0,4,0,Angielski,n,pronunciation
+zapalić się,catch fire,0,angi,-1,0,5,0,Angielski,n,pronunciation
+podpalić,set fire,0,angi,-1,0,5,0,Angielski,n,pronunciation
+izolacja,insulation,0,angi,-1,0,5,0,Angielski,n,pronunciation
+prowizoryczny,temporary,0,angi,-1,0,5,0,Angielski,n,pronunciation
+limitowanie/niedoskonałość,limitation,0,angi,-1,0,5,0,Angielski,n,pronunciation
+ofiary,death toll,0,angi,-1,0,5,0,Angielski,n,pronunciation
+bezsporny,unassailable,0,ang,-1,0,5,0,Angielski,n,pronunciation
+przewrót,subversion,0,ang,-1,0,5,0,Angielski,n,pronunciation
+kara śmierci,death penalty,0,angi,-1,0,5,0,Angielski,n,pronunciation
+wyrok,sentence,0,angi,-1,0,5,0,Angielski,n,pronunciation
+wylany,sacked,0,angi,-1,0,5,0,Angielski,n,pronunciation
+niesprawiedliwy,unjust,0,angi,-1,0,5,0,Angielski,n,pronunciation
+rozlew krwi,bloodshed,0,angi,-1,0,5,0,Angielski,n,pronunciation
+posunąć się naprzód,advance,0,angi,-1,0,5,0,Angielski,n,pronunciation
+rozejm,truce,0,angi,-1,0,5,0,Angielski,n,pronunciation
+wejść w życie,come into force,0,angi,-1,0,5,0,Angielski,n,pronunciation
+zawieszenie broni,armistice,0,angi,-1,0,5,0,Angielski,n,pronunciation
+gwałtowny przyrost/fala,upsurge,0,angi,-1,0,5,0,Angielski,n,pronunciation
+pocisk,shell,0,angi,-1,0,5,0,Angielski,n,pronunciation
+starcie,clash,0,angi,-1,0,5,0,Angielski,n,pronunciation
+wydalanie,expulsion,0,angi,-1,0,6,0,Angielski,n,pronunciation
+strzelec wyborowy,sharpshooter,0,angi,-1,0,6,0,Angielski,n,pronunciation
+zbędny/niepotrzebny,redundant,0,angi,-1,0,6,0,Angielski,n,pronunciation

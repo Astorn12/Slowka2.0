@@ -1,43 +1,43 @@
-polski,francuski,0,,91,306,0,3,Angielski,n
-mąż,le mari,0,fraiii,-1,1,0,-1,Angielski,n
-żona,la femme,0,fraiii,-3,1,0,2,Angielski,n
-kuzyn,le cousin,0,fraiii,-4,1,0,2,Angielski,n
-kuzynka,la cousine,0,fraiiii,-5,1,0,2,Angielski,n
-bratanek,le neuveu,0,fraiii,-1,1,0,-1,Angielski,n
-bratanica,la nièce,0,fraiii,-1,1,0,2,Angielski,n
-teść,le beau-père,0,fraiii,-7,1,0,2,Angielski,n
-teściowa,la belle-mère,0,fraiii,-1,1,0,0,Angielski,n
-brat,le frère,0,fraiii,-3,1,0,2,Angielski,n
-siostra,la soeur,0,fraiii,-2,1,0,2,Angielski,n
-dziadek,le grand-père,0,fraiii,-1,1,0,-1,Angielski,n
-babcia,la grand-mère,0,fraiii,-2,1,0,2,Angielski,n
-wujek,l'oncle,0,fraiii,-6,1,0,0,Angielski,n
-ciotka,la tante,0,fraiii,-1,1,0,0,Angielski,n
-dziecko,l'enfant,0,fraiii,-2,1,0,-1,Angielski,n
-wakacje,les vacances,0,fraiii,-3,1,0,2,Angielski,n
-ale,mais,0,fraiiii,-7,1,0,2,Angielski,n
-w,dans,0,fraiii,-7,1,0,2,Angielski,n
-u,chez,0,fraiii,-5,1,0,-1,Angielski,n
-móc,pouvoir,0,fraiii,-4,1,0,2,Angielski,n
-iść,aller,0,fraiii,-7,1,0,3,Angielski,n
-jechać,aller,0,fraiii,-7,1,0,3,Angielski,n
-dziś wieczór,ce soir,0,fraiiii,-8,1,0,-1,Angielski,n
-grać z kimś,jouer avec qn,0,fraiii,-2,1,0,2,Angielski,n
-brać ze sobą kogoś,emmener qn,0,frai,-2,1,0,0,Angielski,n
-pić aperitif,prendre l'apéritif,0,fraii,-2,1,0,3,Angielski,n
-chcieć,vouloir,0,fraiii,-8,1,0,0,Angielski,n
-gdzie,où,0,fraiii,-7,1,0,2,Angielski,n
-dokąd,où,0,fraiii,-5,1,0,0,Angielski,n
-przyjaciel,l'ami,0,fraiii,-1,1,0,2,Angielski,n
-chłopak,le petit-ami,0,fraiii,-8,1,0,2,Angielski,n
-para,le couple,0,fraiii,-1,1,0,3,Angielski,n
-wziąć ślub,se marie,0,fraiii,-4,1,0,0,Angielski,n
-przyjaciółka,l'ami,0,fraiii,-2,1,0,0,Angielski,n
-dziewczyna,la petite-ami,0,fraiii,-2,1,0,-1,Angielski,n
-zaręczyć się,se fiancer,0,fraii,-1,1,0,2,Angielski,n
-miesiąc miodowy,la lune de miel,0,fraii,-1,1,0,3,Angielski,n
-robić,faire,0,fraiii,-8,1,0,2,Angielski,n
-syn,le fils,0,ang,-2,1,0,-1,Angielski,n
-oto,voici,0,ang,-2,1,0,-1,Angielski,n
-córka,la fille,0,ang,-6,1,0,-1,Angielski,n
-przychodzić,venir,0,ang,-1,1,0,0,Angielski,n
+polski,francuski,0,,91,306,0,3,Angielski,n,pronunciation
+mąż,le mari,0,fraiii,-1,1,0,-1,Angielski,n,pronunciation
+żona,la femme,0,fraiii,-3,1,0,2,Angielski,n,pronunciation
+kuzyn,le cousin,0,fraiii,-4,1,0,2,Angielski,n,pronunciation
+kuzynka,la cousine,0,fraiiii,-5,1,0,2,Angielski,n,pronunciation
+bratanek,le neuveu,0,fraiii,-1,1,0,-1,Angielski,n,pronunciation
+bratanica,la nièce,0,fraiii,-1,1,0,2,Angielski,n,pronunciation
+teść,le beau-père,0,fraiii,-7,1,0,2,Angielski,n,pronunciation
+teściowa,la belle-mère,0,fraiii,-1,1,0,0,Angielski,n,pronunciation
+brat,le frère,0,fraiii,-3,1,0,2,Angielski,n,pronunciation
+siostra,la soeur,0,fraiii,-2,1,0,2,Angielski,n,pronunciation
+dziadek,le grand-père,0,fraiii,-1,1,0,-1,Angielski,n,pronunciation
+babcia,la grand-mère,0,fraiii,-2,1,0,2,Angielski,n,pronunciation
+wujek,l'oncle,0,fraiii,-6,1,0,0,Angielski,n,pronunciation
+ciotka,la tante,0,fraiii,-1,1,0,0,Angielski,n,pronunciation
+dziecko,l'enfant,0,fraiii,-2,1,0,-1,Angielski,n,pronunciation
+wakacje,les vacances,0,fraiii,-3,1,0,2,Angielski,n,pronunciation
+ale,mais,0,fraiiii,-7,1,0,2,Angielski,n,pronunciation
+w,dans,0,fraiii,-7,1,0,2,Angielski,n,pronunciation
+u,chez,0,fraiii,-5,1,0,-1,Angielski,n,pronunciation
+móc,pouvoir,0,fraiii,-4,1,0,2,Angielski,n,pronunciation
+iść,aller,0,fraiii,-7,1,0,3,Angielski,n,pronunciation
+jechać,aller,0,fraiii,-7,1,0,3,Angielski,n,pronunciation
+dziś wieczór,ce soir,0,fraiiii,-8,1,0,-1,Angielski,n,pronunciation
+grać z kimś,jouer avec qn,0,fraiii,-2,1,0,2,Angielski,n,pronunciation
+brać ze sobą kogoś,emmener qn,0,frai,-2,1,0,0,Angielski,n,pronunciation
+pić aperitif,prendre l'apéritif,0,fraii,-2,1,0,3,Angielski,n,pronunciation
+chcieć,vouloir,0,fraiii,-8,1,0,0,Angielski,n,pronunciation
+gdzie,où,0,fraiii,-7,1,0,2,Angielski,n,pronunciation
+dokąd,où,0,fraiii,-5,1,0,0,Angielski,n,pronunciation
+przyjaciel,l'ami,0,fraiii,-1,1,0,2,Angielski,n,pronunciation
+chłopak,le petit-ami,0,fraiii,-8,1,0,2,Angielski,n,pronunciation
+para,le couple,0,fraiii,-1,1,0,3,Angielski,n,pronunciation
+wziąć ślub,se marie,0,fraiii,-4,1,0,0,Angielski,n,pronunciation
+przyjaciółka,l'ami,0,fraiii,-2,1,0,0,Angielski,n,pronunciation
+dziewczyna,la petite-ami,0,fraiii,-2,1,0,-1,Angielski,n,pronunciation
+zaręczyć się,se fiancer,0,fraii,-1,1,0,2,Angielski,n,pronunciation
+miesiąc miodowy,la lune de miel,0,fraii,-1,1,0,3,Angielski,n,pronunciation
+robić,faire,0,fraiii,-8,1,0,2,Angielski,n,pronunciation
+syn,le fils,0,ang,-2,1,0,-1,Angielski,n,pronunciation
+oto,voici,0,ang,-2,1,0,-1,Angielski,n,pronunciation
+córka,la fille,0,ang,-6,1,0,-1,Angielski,n,pronunciation
+przychodzić,venir,0,ang,-1,1,0,0,Angielski,n,pronunciation

@@ -1,7 +1,7 @@
-polski,angielski,0,,0,0,0,0,Angielski,n
-ledwie,barely,0,ang,-2,0,0,0,Angielski,n
-bez końca,on and on,0,ang,-2,0,0,0,Angielski,n
-pustkowie,wasteland,0,ang,-1,0,0,0,Angielski,n
-autostrada,highway,0,ang,-2,0,0,0,Angielski,n
-rytm,beat,0,ang,-2,0,0,0,Angielski,n
-napędzany przez,fueld by,0,ang,-1,0,0,0,Angielski,n
+polski,angielski,0,,0,0,0,0,Angielski,n,pronunciation
+ledwie,barely,0,ang,-2,0,0,0,Angielski,n,pronunciation
+bez końca,on and on,0,ang,-2,0,0,0,Angielski,n,pronunciation
+pustkowie,wasteland,0,ang,-1,0,0,0,Angielski,n,pronunciation
+autostrada,highway,0,ang,-2,0,0,0,Angielski,n,pronunciation
+rytm,beat,0,ang,-2,0,0,0,Angielski,n,pronunciation
+napędzany przez,fueld by,0,ang,-1,0,0,0,Angielski,n,pronunciation

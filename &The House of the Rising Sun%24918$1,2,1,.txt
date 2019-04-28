@@ -1,7 +1,0 @@
-polski,angielski,0,,0,0,0,0,angielski,n
-krawiec,tailor,3,ang,0,0,0,0,angielski,n
-hazardzista,gambling man,3,ang,0,0,0,0,angielski,n
-hazardzista,gambler,3,ang,0,0,0,0,angielski,n
-kufer/skrzynia,trunk,3,ang,0,0,0,0,angielski,n
-grzech,sin,3,ang,0,0,0,0,angielski,n
-bieda/nędza,misery,3,ang,0,0,0,0,angielski,n

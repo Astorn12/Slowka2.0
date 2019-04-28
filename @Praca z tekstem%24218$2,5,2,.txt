@@ -1,22 +1,22 @@
-polski,francuski,0,,0,0,0,0,Angielski,n,
-c,c,0,ang,-1,0,0,0,angielski,n,oo
-g,g,0,ang,-1,0,0,0,angielski,n,oo
-f,f,1,angi,0,0,0,0,angielski,n,oo
-r,r,1,ang,0,0,0,0,angielski,n,oo
-kotek,cat/pussycat,3,ang,0,0,0,0,angielski,n,oo
-film,film/movie,5,ang,0,0,0,0,angielski,n,oo
-light,lampa;świato,1,ang,0,0,0,0,angielski,n,oo
-coś,takie/i takie,4,ang,0,0,0,0,angielski,n,oo
-coś,takie;albo takie,4,ang,0,0,0,0,angielski,n,oo
-oskar3,oskar,3,angi,0,0,0,0,angielski,n,oo
-piosenka,song,1,francuski,0,0,0,0,angielski,n,oo
-piosenka,lalala,1,francusk,0,0,0,0,angielski,n,oo
-piosenka,piosenka,1,francuski,0,0,0,0,angielski,n,oo
-malgoska,piosenka,1,francuski,0,0,0,0,angielski,n,oo
-song,piosenka,1,francuski,0,0,0,0,angielski,n,oo
-lalala,piosenka,1,francusk,0,0,0,0,angielski,n,[I@103cdf5-[I@3830747d
-malgoska,piosenka,1,,0,0,0,0,angielski,n,344-353
-lalala,piosenka,1,francuski,0,0,0,0,angielski,n,344-353
-piosenka,,1,francuski,0,0,0,0,angielski,n,344-353
-string,łańcuch,1,francuski,0,0,0,0,angielski,n,372-379
-append,dodać,1,francuski,0,0,0,0,angielski,n,353-360
+polski,francuski,0,,0,0,0,0,Angielski,n,,
+c,c,0,ang,-1,0,0,0,angielski,n,oo,pronunciation
+g,g,0,ang,-1,0,0,0,angielski,n,oo,pronunciation
+f,f,1,angi,0,0,0,0,angielski,n,oo,pronunciation
+r,r,1,ang,0,0,0,0,angielski,n,oo,pronunciation
+kotek,cat/pussycat,3,ang,0,0,0,0,angielski,n,oo,pronunciation
+film,film/movie,5,ang,0,0,0,0,angielski,n,oo,pronunciation
+light,lampa;świato,1,ang,0,0,0,0,angielski,n,oo,pronunciation
+coś,takie/i takie,4,ang,0,0,0,0,angielski,n,oo,pronunciation
+coś,takie;albo takie,4,ang,0,0,0,0,angielski,n,oo,pronunciation
+oskar3,oskar,3,angi,0,0,0,0,angielski,n,oo,pronunciation
+piosenka,song,1,francuski,0,0,0,0,angielski,n,oo,pronunciation
+piosenka,lalala,1,francusk,0,0,0,0,angielski,n,oo,pronunciation
+piosenka,piosenka,1,francuski,0,0,0,0,angielski,n,oo,pronunciation
+malgoska,piosenka,1,francuski,0,0,0,0,angielski,n,oo,pronunciation
+song,piosenka,1,francuski,0,0,0,0,angielski,n,oo,pronunciation
+lalala,piosenka,1,francusk,0,0,0,0,angielski,n,[I@103cdf5-[I@3830747d,pronunciation
+malgoska,piosenka,1,,0,0,0,0,angielski,n,344-353,pronunciation
+lalala,piosenka,1,francuski,0,0,0,0,angielski,n,344-353,pronunciation
+piosenka,,1,francuski,0,0,0,0,angielski,n,344-353,pronunciation
+string,łańcuch,1,francuski,0,0,0,0,angielski,n,372-379,pronunciation
+append,dodać,1,francuski,0,0,0,0,angielski,n,353-360,pronunciation

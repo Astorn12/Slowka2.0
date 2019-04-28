@@ -1,65 +1,65 @@
-polski,angielski,0,,0,0,0,3,Angielski,n
-konwalia,lily of the valley,0,angi,-2,1,0,0,Angielski,n
-podgląd,preview,0,angi,-1,1,0,0,Angielski,n
-paw,peacock,0,angi,-4,1,0,0,Angielski,n
-naśladować,spoof,0,angi,-1,1,0,0,Angielski,n
-pełnomocnik,proxy,0,angi,-1,1,0,0,Angielski,n
-stajnia,stable,0,angi,-3,1,0,0,Angielski,n
-ładunek,payload,0,angi,-4,1,0,0,Angielski,n
-przedstawiać,depict,0,angi,-1,1,0,0,Angielski,n
-utrzymywać/konserwować,maintain,0,angi,-1,1,0,0,Angielski,n
-sterowany przerwaniam,event-driven,0,angi,-1,1,0,0,Angielski,n
-filia,branch,0,angi,-2,1,0,0,Angielski,n
-łysy,bald,0,angi,-2,1,0,0,Angielski,n
-niemowa,mute,0,angi,-1,1,0,0,Angielski,n
-nieróbstwo,idleness,0,angi,-1,1,0,0,Angielski,n
-pan młody,groom,0,angi,-2,1,0,0,Angielski,n
-nakaz sądowy,warrant,0,angi,-1,1,0,0,Angielski,n
-skazywać,condemn,0,angi,-1,1,0,0,Angielski,n
-pojawiać się(o problemie),arise,0,angi,-1,1,0,0,Angielski,n
-wspólny,mutual,0,angi,-2,1,0,0,Angielski,n
-ginąć,perish,0,angi,-1,1,0,0,Angielski,n
-być winnym/być dłużnym,owe,0,angi,-1,1,0,0,Angielski,n
-siłą zwerbować na statek,shanghai,0,angi,-2,1,0,0,Angielski,n
-szubienica,gallows,0,angi,-1,1,0,0,Angielski,n
-dokuczać,vex,0,angi,-1,1,0,0,Angielski,n
-żal,sorrow,0,angi,-1,1,0,0,Angielski,n
-wałęsać się,roam,0,angi,-1,1,0,0,Angielski,n
-prokurator,prosecutor,0,angi,-1,1,0,0,Angielski,n
-niepewny,iffy,0,angi,-1,1,0,0,Angielski,n
-rozgłaszający,divulgatory,0,angi,-1,1,0,0,Angielski,n
-podnieść/wciągać,hoist,0,angi,-1,1,0,0,Angielski,n
-przestarzały,obsolete,5,ang,0,0,0,0,Angielski,n
-faktura,invoice,5,ang,0,0,0,0,Angielski,n
-gatunek,genre,5,ang,0,0,0,0,Angielski,n
-sierota,orphan,3,ang,0,0,0,0,angielski,n
-odwyk,rehab,3,ang,0,0,0,0,angielski,n
-pol,angielski,1,,0,0,0,0,,n
-iskra,spark,1,,0,0,0,0,,n
-szkic,sketch,1,,0,0,0,0,,n
-podejrzliwy,suspicious,1,,0,0,0,0,,n
-jasny/wyraźny,explicit,1,,0,0,0,0,,n
-kolor morski(niebieski z odcieniem zielonkawego),teal,1,,0,0,0,0,,n
-fałszerstwo,forgery,1,,0,0,0,0,,n
-łośliwy,malicious,1,,0,0,0,0,,n
-popełniać/dopuszczać się,commit,1,,0,0,0,0,,n
-co najmniej,at least,1,,0,0,0,0,,n
-używanie/eksploatowanie,utilising,1,,0,0,0,0,,n
-flaw,wada,1,,0,0,0,0,,n
-przeprowadzać obławę,raid,1,,0,0,0,0,,n
-ugoda obrończa,plea agreement,1,,0,0,0,0,,n
-aple/wołanie/błaganie/usprawiedliwienie/pretekst/wytłumaczenie/zarzut/skarga/powództwo,plea,1,,0,0,0,0,,n
-poważne przestępstwo/zbrodnia,felony,1,,0,0,0,0,,n
-zarzut zbrodni,felony charge,1,,0,0,0,0,,n
-wyrok w zawieszeniu,probation,1,,0,0,0,0,,n
-prace społeczne,community service,1,,0,0,0,0,,n
-rekompensata,restitution,1,,0,0,0,0,,n
-kompromitować,compromise,1,,0,0,0,0,,n
-prawdopodobieństwo,likelihood,1,,0,0,0,0,,n
-roździelczość,resolution,1,,0,0,0,0,,n
-próbka materiału,swatch,1,,0,0,0,0,,n
-wisielec,hanged man,1,,0,0,0,0,,n
-szczotka/pędzel,brush,1,,0,0,0,0,,n
-powierzać,entrust,1,,0,0,0,0,,n
-ruda,ore,1,,0,0,0,0,,n
-pokutować/zadośćuczynić,atone,1,,0,0,0,0,,n
+polski,angielski,0,,0,0,0,3,Angielski,n,pronunciation
+konwalia,lily of the valley,0,angi,-2,1,0,0,Angielski,n,pronunciation
+podgląd,preview,0,angi,-1,1,0,0,Angielski,n,pronunciation
+paw,peacock,0,angi,-4,1,0,0,Angielski,n,pronunciation
+naśladować,spoof,0,angi,-1,1,0,0,Angielski,n,pronunciation
+pełnomocnik,proxy,0,angi,-1,1,0,0,Angielski,n,pronunciation
+stajnia,stable,0,angi,-3,1,0,0,Angielski,n,pronunciation
+ładunek,payload,0,angi,-4,1,0,0,Angielski,n,pronunciation
+przedstawiać,depict,0,angi,-1,1,0,0,Angielski,n,pronunciation
+utrzymywać/konserwować,maintain,0,angi,-1,1,0,0,Angielski,n,pronunciation
+sterowany przerwaniam,event-driven,0,angi,-1,1,0,0,Angielski,n,pronunciation
+filia,branch,0,angi,-2,1,0,0,Angielski,n,pronunciation
+łysy,bald,0,angi,-2,1,0,0,Angielski,n,pronunciation
+niemowa,mute,0,angi,-1,1,0,0,Angielski,n,pronunciation
+nieróbstwo,idleness,0,angi,-1,1,0,0,Angielski,n,pronunciation
+pan młody,groom,0,angi,-2,1,0,0,Angielski,n,pronunciation
+nakaz sądowy,warrant,0,angi,-1,1,0,0,Angielski,n,pronunciation
+skazywać,condemn,0,angi,-1,1,0,0,Angielski,n,pronunciation
+pojawiać się(o problemie),arise,0,angi,-1,1,0,0,Angielski,n,pronunciation
+wspólny,mutual,0,angi,-2,1,0,0,Angielski,n,pronunciation
+ginąć,perish,0,angi,-1,1,0,0,Angielski,n,pronunciation
+być winnym/być dłużnym,owe,0,angi,-1,1,0,0,Angielski,n,pronunciation
+siłą zwerbować na statek,shanghai,0,angi,-2,1,0,0,Angielski,n,pronunciation
+szubienica,gallows,0,angi,-1,1,0,0,Angielski,n,pronunciation
+dokuczać,vex,0,angi,-1,1,0,0,Angielski,n,pronunciation
+żal,sorrow,0,angi,-1,1,0,0,Angielski,n,pronunciation
+wałęsać się,roam,0,angi,-1,1,0,0,Angielski,n,pronunciation
+prokurator,prosecutor,0,angi,-1,1,0,0,Angielski,n,pronunciation
+niepewny,iffy,0,angi,-1,1,0,0,Angielski,n,pronunciation
+rozgłaszający,divulgatory,0,angi,-1,1,0,0,Angielski,n,pronunciation
+podnieść/wciągać,hoist,0,angi,-1,1,0,0,Angielski,n,pronunciation
+przestarzały,obsolete,5,ang,0,0,0,0,Angielski,n,pronunciation
+faktura,invoice,5,ang,0,0,0,0,Angielski,n,pronunciation
+gatunek,genre,5,ang,0,0,0,0,Angielski,n,pronunciation
+sierota,orphan,3,ang,0,0,0,0,angielski,n,pronunciation
+odwyk,rehab,3,ang,0,0,0,0,angielski,n,pronunciation
+pol,angielski,1,,0,0,0,0,,n,pronunciation
+iskra,spark,1,,0,0,0,0,,n,pronunciation
+szkic,sketch,1,,0,0,0,0,,n,pronunciation
+podejrzliwy,suspicious,1,,0,0,0,0,,n,pronunciation
+jasny/wyraźny,explicit,1,,0,0,0,0,,n,pronunciation
+kolor morski(niebieski z odcieniem zielonkawego),teal,1,,0,0,0,0,,n,pronunciation
+fałszerstwo,forgery,1,,0,0,0,0,,n,pronunciation
+łośliwy,malicious,1,,0,0,0,0,,n,pronunciation
+popełniać/dopuszczać się,commit,1,,0,0,0,0,,n,pronunciation
+co najmniej,at least,1,,0,0,0,0,,n,pronunciation
+używanie/eksploatowanie,utilising,1,,0,0,0,0,,n,pronunciation
+flaw,wada,1,,0,0,0,0,,n,pronunciation
+przeprowadzać obławę,raid,1,,0,0,0,0,,n,pronunciation
+ugoda obrończa,plea agreement,1,,0,0,0,0,,n,pronunciation
+aple/wołanie/błaganie/usprawiedliwienie/pretekst/wytłumaczenie/zarzut/skarga/powództwo,plea,1,,0,0,0,0,,n,pronunciation
+poważne przestępstwo/zbrodnia,felony,1,,0,0,0,0,,n,pronunciation
+zarzut zbrodni,felony charge,1,,0,0,0,0,,n,pronunciation
+wyrok w zawieszeniu,probation,1,,0,0,0,0,,n,pronunciation
+prace społeczne,community service,1,,0,0,0,0,,n,pronunciation
+rekompensata,restitution,1,,0,0,0,0,,n,pronunciation
+kompromitować,compromise,1,,0,0,0,0,,n,pronunciation
+prawdopodobieństwo,likelihood,1,,0,0,0,0,,n,pronunciation
+roździelczość,resolution,1,,0,0,0,0,,n,pronunciation
+próbka materiału,swatch,1,,0,0,0,0,,n,pronunciation
+wisielec,hanged man,1,,0,0,0,0,,n,pronunciation
+szczotka/pędzel,brush,1,,0,0,0,0,,n,pronunciation
+powierzać,entrust,1,,0,0,0,0,,n,pronunciation
+ruda,ore,1,,0,0,0,0,,n,pronunciation
+pokutować/zadośćuczynić,atone,1,,0,0,0,0,,n,pronunciation

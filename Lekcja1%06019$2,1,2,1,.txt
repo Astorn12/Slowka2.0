@@ -1,57 +1,57 @@
-polski,francuski,0,,115,339,0,3,Angielski,n
-imię,le prénom,0,fraii,-1,0,0,-1,Angielski,n
-kod pocztowy,le code postal,0,fraii,-1,0,0,1,Angielski,n
-kraj,le pays,0,fraii,-2,0,0,1,Angielski,n
-miejsce urodzenia,le lieu de naissance,0,fraii,-1,0,0,1,Angielski,n
-żonaty,marié,0,frai,-3,0,0,-1,Angielski,n
-rozwiedziony,divorcé,0,frai,-2,0,0,-2,Angielski,n
-być urodzonym,être né,0,frai,-4,0,0,-1,Angielski,n
-nazwisko,le nom,0,frai,-1,0,0,1,Angielski,n
-ulica,la rue,0,frai,-6,0,0,-1,Angielski,n
-miasto,la ville,0,frai,-1,0,0,-1,Angielski,n
-data urodzenia,la date de naissance,0,frai,-1,0,0,-2,Angielski,n
-stan cywilny,la situatione de famille,0,frai,-1,0,0,-2,Angielski,n
-mieszkać,habiter,0,frai,-4,0,0,-1,Angielski,n
-mieć,avoir,0,frai,-10,0,0,1,Angielski,n
-jeden,un,0,frai,-4,0,0,1,Angielski,n
-dwa,deux,0,frai,-4,0,0,-2,Angielski,n
-trzy,trois,0,frai,-4,0,0,-1,Angielski,n
-cztery,quatre,0,frai,-3,0,0,-1,Angielski,n
-pięć,cinq,0,frai,-1,0,0,1,Angielski,n
-szejść,six,0,frai,-3,0,0,1,Angielski,n
-siedem,sept,0,frai,-10,0,0,1,Angielski,n
-osiem,huit,0,frai,-10,0,0,1,Angielski,n
-dziewięć,neuf,0,frai,-1,0,0,1,Angielski,n
-dziesięć,dix,0,frai,-1,0,0,1,Angielski,n
-jedenaście,onze,0,frai,-10,0,0,1,Angielski,n
-dwanaście,douze,0,frai,-2,0,0,2,Angielski,n
-trzynaście,treize,0,frai,-1,0,0,-1,Angielski,n
-czternaście,quatorze,0,frai,-1,0,0,2,Angielski,n
-piętnaście,quinze,0,frai,-3,0,0,-1,Angielski,n
-szesnaście,seize,0,frai,-2,0,0,2,Angielski,n
-siedemnaście,dix-sept,0,frai,-10,0,0,2,Angielski,n
-osiemnaście,dix-huit,0,frai,-5,0,0,2,Angielski,n
-dziewiętnaście,dix-neuf,0,frai,-1,0,0,-1,Angielski,n
-dwadzieścia,vingt,0,frai,-1,0,0,1,Angielski,n
-Ile masz lat?,Quel âge as-tu?,0,fra,-1,0,0,2,Angielski,n
-broda,la barbe,0,frai,-3,0,0,2,Angielski,n
-wąsy,la mustache,0,frai,-2,0,0,2,Angielski,n
-okulary,les lunettes,0,frai,-2,0,0,1,Angielski,n
-włosy,les cheveux,0,frai,-2,0,0,1,Angielski,n
-być,être,0,frai,-2,0,0,1,Angielski,n
-duży,grande,0,fraii,-2,0,0,2,Angielski,n
-gruby,gros,0,fraii,-3,0,0,2,Angielski,n
-gruba,grosse,0,fraii,-1,0,0,2,Angielski,n
-inteligentny,intelligent,0,fraii,-2,0,0,-1,Angielski,n
-miły,gentil,0,frai,-8,0,0,1,Angielski,n
-miła,gentille,0,frai,-1,0,0,2,Angielski,n
-nieśmiały,timide,0,fraii,-5,0,0,-1,Angielski,n
-smutny,triste,0,fraii,-4,0,0,-1,Angielski,n
-mały,petit,0,fraii,-2,0,0,-1,Angielski,n
-chudy,maigre,0,frai,-2,0,0,2,Angielski,n
-głupi,bête,0,fraii,-2,0,0,-1,Angielski,n
-zły,mêchant,0,frai,-1,0,0,2,Angielski,n
-otwarty,ouvert,0,fraii,-6,0,0,1,Angielski,n
-szczęśliwy,heureux,0,fraii,-2,0,0,-1,Angielski,n
-szczęśliwa,heureuse,0,frai,-1,0,0,-1,Angielski,n
-Oni mają blond włosy.,Ils ont les cheveux blonds.,0,frai,-1,0,0,-1,Angielski,n
+polski,francuski,0,,115,339,0,3,Angielski,n,pronunciation
+imię,le prénom,0,fraii,-1,0,0,-1,Angielski,n,pronunciation
+kod pocztowy,le code postal,0,fraii,-1,0,0,1,Angielski,n,pronunciation
+kraj,le pays,0,fraii,-2,0,0,1,Angielski,n,pronunciation
+miejsce urodzenia,le lieu de naissance,0,fraii,-1,0,0,1,Angielski,n,pronunciation
+żonaty,marié,0,frai,-3,0,0,-1,Angielski,n,pronunciation
+rozwiedziony,divorcé,0,frai,-2,0,0,-2,Angielski,n,pronunciation
+być urodzonym,être né,0,frai,-4,0,0,-1,Angielski,n,pronunciation
+nazwisko,le nom,0,frai,-1,0,0,1,Angielski,n,pronunciation
+ulica,la rue,0,frai,-6,0,0,-1,Angielski,n,pronunciation
+miasto,la ville,0,frai,-1,0,0,-1,Angielski,n,pronunciation
+data urodzenia,la date de naissance,0,frai,-1,0,0,-2,Angielski,n,pronunciation
+stan cywilny,la situatione de famille,0,frai,-1,0,0,-2,Angielski,n,pronunciation
+mieszkać,habiter,0,frai,-4,0,0,-1,Angielski,n,pronunciation
+mieć,avoir,0,frai,-10,0,0,1,Angielski,n,pronunciation
+jeden,un,0,frai,-4,0,0,1,Angielski,n,pronunciation
+dwa,deux,0,frai,-4,0,0,-2,Angielski,n,pronunciation
+trzy,trois,0,frai,-4,0,0,-1,Angielski,n,pronunciation
+cztery,quatre,0,frai,-3,0,0,-1,Angielski,n,pronunciation
+pięć,cinq,0,frai,-1,0,0,1,Angielski,n,pronunciation
+szejść,six,0,frai,-3,0,0,1,Angielski,n,pronunciation
+siedem,sept,0,frai,-10,0,0,1,Angielski,n,pronunciation
+osiem,huit,0,frai,-10,0,0,1,Angielski,n,pronunciation
+dziewięć,neuf,0,frai,-1,0,0,1,Angielski,n,pronunciation
+dziesięć,dix,0,frai,-1,0,0,1,Angielski,n,pronunciation
+jedenaście,onze,0,frai,-10,0,0,1,Angielski,n,pronunciation
+dwanaście,douze,0,frai,-2,0,0,2,Angielski,n,pronunciation
+trzynaście,treize,0,frai,-1,0,0,-1,Angielski,n,pronunciation
+czternaście,quatorze,0,frai,-1,0,0,2,Angielski,n,pronunciation
+piętnaście,quinze,0,frai,-3,0,0,-1,Angielski,n,pronunciation
+szesnaście,seize,0,frai,-2,0,0,2,Angielski,n,pronunciation
+siedemnaście,dix-sept,0,frai,-10,0,0,2,Angielski,n,pronunciation
+osiemnaście,dix-huit,0,frai,-5,0,0,2,Angielski,n,pronunciation
+dziewiętnaście,dix-neuf,0,frai,-1,0,0,-1,Angielski,n,pronunciation
+dwadzieścia,vingt,0,frai,-1,0,0,1,Angielski,n,pronunciation
+Ile masz lat?,Quel âge as-tu?,0,fra,-1,0,0,2,Angielski,n,pronunciation
+broda,la barbe,0,frai,-3,0,0,2,Angielski,n,pronunciation
+wąsy,la mustache,0,frai,-2,0,0,2,Angielski,n,pronunciation
+okulary,les lunettes,0,frai,-2,0,0,1,Angielski,n,pronunciation
+włosy,les cheveux,0,frai,-2,0,0,1,Angielski,n,pronunciation
+być,être,0,frai,-2,0,0,1,Angielski,n,pronunciation
+duży,grande,0,fraii,-2,0,0,2,Angielski,n,pronunciation
+gruby,gros,0,fraii,-3,0,0,2,Angielski,n,pronunciation
+gruba,grosse,0,fraii,-1,0,0,2,Angielski,n,pronunciation
+inteligentny,intelligent,0,fraii,-2,0,0,-1,Angielski,n,pronunciation
+miły,gentil,0,frai,-8,0,0,1,Angielski,n,pronunciation
+miła,gentille,0,frai,-1,0,0,2,Angielski,n,pronunciation
+nieśmiały,timide,0,fraii,-5,0,0,-1,Angielski,n,pronunciation
+smutny,triste,0,fraii,-4,0,0,-1,Angielski,n,pronunciation
+mały,petit,0,fraii,-2,0,0,-1,Angielski,n,pronunciation
+chudy,maigre,0,frai,-2,0,0,2,Angielski,n,pronunciation
+głupi,bête,0,fraii,-2,0,0,-1,Angielski,n,pronunciation
+zły,mêchant,0,frai,-1,0,0,2,Angielski,n,pronunciation
+otwarty,ouvert,0,fraii,-6,0,0,1,Angielski,n,pronunciation
+szczęśliwy,heureux,0,fraii,-2,0,0,-1,Angielski,n,pronunciation
+szczęśliwa,heureuse,0,frai,-1,0,0,-1,Angielski,n,pronunciation
+Oni mają blond włosy.,Ils ont les cheveux blonds.,0,frai,-1,0,0,-1,Angielski,n,pronunciation

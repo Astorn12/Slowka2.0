@@ -1,36 +1,36 @@
-polski,angielski,0,,0,0,0,3,Angielski,n
-bliźniak,twin,0,angi,-2,1,0,3,Angielski,n
-poślizgnąć się;wyślizgnąć się,slip,0,angi,-1,1,0,3,Angielski,n
-nieznaczny;drobny,slight,0,angi,-1,1,0,3,Angielski,n
-cholerny,wretched,0,angi,-1,1,0,3,Angielski,n
-stłumić,suppress,0,angi,-1,1,0,3,Angielski,n
-triumfalna twarz,gloating face,0,angi,-1,1,0,3,Angielski,n
-przyśpieszać,quicken,0,angi,-1,1,0,3,Angielski,n
-skandaliczny,outrageous,0,angi,-1,1,0,3,Angielski,n
-pękać;łamać,snap,0,angi,-1,1,0,3,Angielski,n
-brak kogoś,lack of sb,0,angi,-1,1,0,3,Angielski,n
-wstrętny;paskudny,nasty,0,angi,-1,1,0,3,Angielski,n
-przewidywać,foresee,0,angi,-2,1,0,3,Angielski,n
-osobliwie,peculiarly,0,angi,-1,1,0,3,Angielski,n
-uciskać(np. kraj),grip,0,angi,-1,1,0,3,Angielski,n
-szczerzyć zęby,grin,0,angi,-1,1,0,3,Angielski,n
-ponury,grim,0,angi,-1,1,0,3,Angielski,n
-zimny,chilly,0,angi,-1,1,0,3,Angielski,n
-żałobnie,mournfully,0,angi,-1,1,0,3,Angielski,n
-marmur,marble,0,angi,-2,1,0,3,Angielski,n
-ukrywanie,concealing,0,angi,-1,1,0,3,Angielski,n
-posępny,dismal,0,angi,-1,1,0,3,Angielski,n
-okno przesuwne,sash window,0,angi,-2,1,0,3,Angielski,n
-drzeć,shiver,0,angi,-1,1,0,3,Angielski,n
-odbicie,reflection,0,angi,-2,1,0,3,Angielski,n
-kruchy,crisp,0,angi,-1,1,0,3,Angielski,n
-stanowczy,decisive,0,ang,-1,1,0,3,Angielski,n
-przedstawiać;opisywać,depict,0,ang,-1,1,0,3,Angielski,n
-peruka,wig,0,ang,-1,1,0,3,Angielski,n
-pilny,urgent,0,angi,-2,1,0,3,Angielski,n
-dociekliwie,enquiringly,0,ang,-1,1,0,3,Angielski,n
-ledwie,barely,0,ang,-1,1,0,3,Angielski,n
-trzeć na tarce,grate,0,ang,-1,1,0,3,Angielski,n
-pod;poniżej,beneath,0,angi,-2,1,0,3,Angielski,n
-rygorystyczny,stringent,3,ang,0,0,0,0,angielski,n
-przymulony/półprzytomny,groggy,3,ang,0,0,0,0,angielski,n
+polski,angielski,0,,0,0,0,3,Angielski,n,pronunciation
+bliźniak,twin,0,angi,-2,1,0,3,Angielski,n,pronunciation
+poślizgnąć się;wyślizgnąć się,slip,0,angi,-1,1,0,3,Angielski,n,pronunciation
+nieznaczny;drobny,slight,0,angi,-1,1,0,3,Angielski,n,pronunciation
+cholerny,wretched,0,angi,-1,1,0,3,Angielski,n,pronunciation
+stłumić,suppress,0,angi,-1,1,0,3,Angielski,n,pronunciation
+triumfalna twarz,gloating face,0,angi,-1,1,0,3,Angielski,n,pronunciation
+przyśpieszać,quicken,0,angi,-1,1,0,3,Angielski,n,pronunciation
+skandaliczny,outrageous,0,angi,-1,1,0,3,Angielski,n,pronunciation
+pękać;łamać,snap,0,angi,-1,1,0,3,Angielski,n,pronunciation
+brak kogoś,lack of sb,0,angi,-1,1,0,3,Angielski,n,pronunciation
+wstrętny;paskudny,nasty,0,angi,-1,1,0,3,Angielski,n,pronunciation
+przewidywać,foresee,0,angi,-2,1,0,3,Angielski,n,pronunciation
+osobliwie,peculiarly,0,angi,-1,1,0,3,Angielski,n,pronunciation
+uciskać(np. kraj),grip,0,angi,-1,1,0,3,Angielski,n,pronunciation
+szczerzyć zęby,grin,0,angi,-1,1,0,3,Angielski,n,pronunciation
+ponury,grim,0,angi,-1,1,0,3,Angielski,n,pronunciation
+zimny,chilly,0,angi,-1,1,0,3,Angielski,n,pronunciation
+żałobnie,mournfully,0,angi,-1,1,0,3,Angielski,n,pronunciation
+marmur,marble,0,angi,-2,1,0,3,Angielski,n,pronunciation
+ukrywanie,concealing,0,angi,-1,1,0,3,Angielski,n,pronunciation
+posępny,dismal,0,angi,-1,1,0,3,Angielski,n,pronunciation
+okno przesuwne,sash window,0,angi,-2,1,0,3,Angielski,n,pronunciation
+drzeć,shiver,0,angi,-1,1,0,3,Angielski,n,pronunciation
+odbicie,reflection,0,angi,-2,1,0,3,Angielski,n,pronunciation
+kruchy,crisp,0,angi,-1,1,0,3,Angielski,n,pronunciation
+stanowczy,decisive,0,ang,-1,1,0,3,Angielski,n,pronunciation
+przedstawiać;opisywać,depict,0,ang,-1,1,0,3,Angielski,n,pronunciation
+peruka,wig,0,ang,-1,1,0,3,Angielski,n,pronunciation
+pilny,urgent,0,angi,-2,1,0,3,Angielski,n,pronunciation
+dociekliwie,enquiringly,0,ang,-1,1,0,3,Angielski,n,pronunciation
+ledwie,barely,0,ang,-1,1,0,3,Angielski,n,pronunciation
+trzeć na tarce,grate,0,ang,-1,1,0,3,Angielski,n,pronunciation
+pod;poniżej,beneath,0,angi,-2,1,0,3,Angielski,n,pronunciation
+rygorystyczny,stringent,3,ang,0,0,0,0,angielski,n,pronunciation
+przymulony/półprzytomny,groggy,3,ang,0,0,0,0,angielski,n,pronunciation

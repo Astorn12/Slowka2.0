@@ -1,90 +1,90 @@
-polski,angielski,0,,0,0,0,3,Angielski,n
-skonfiskowany,impounded,0,angi,-1,1,1,3,Angielski,n
-pośród,amid,0,angi,-1,2,1,3,Angielski,n
-postępowanie upadłościowe,receivership,0,angi,-1,1,1,3,Angielski,n
-załamanie,downturn,0,angi,-1,1,1,3,Angielski,n
-tymczasowy,interim,0,angi,-1,1,1,3,Angielski,n
-orzeczenie,ruling,0,ang,-1,1,1,3,Angielski,n
-ława,bench,0,angi,-3,1,1,3,Angielski,n
-sąd najwyższy,The Supreme Court,0,angi,-1,1,1,3,Angielski,n
-cofać,reverse,0,ang,-1,1,1,3,Angielski,n
-były,former,0,angi,-4,1,1,3,Angielski,n
-ustępujący,outgoing,0,angi,-1,1,1,3,Angielski,n
-dosłownie,virtually,0,angi,-1,1,1,3,Angielski,n
-zgromadzienie narodowe,state assembly,0,angi,-1,1,1,3,Angielski,n
-wezwać,call on,0,angi,-1,1,1,3,Angielski,n
-nagana,reprehensible,0,angi,-1,2,1,3,Angielski,n
-wydaś oświadczenie,issue a statement,0,angi,-1,1,1,3,Angielski,n
-kosmetyczne zmiany,cosmetic steps,0,angi,-3,1,1,3,Angielski,n
-miejsce,venue,0,angi,-1,1,1,3,Angielski,n
-wyrzucać na śmietnik,scrap,0,angi,-1,1,1,3,Angielski,n
-wlewać,pour in,0,angi,-3,1,1,3,Angielski,n
-mieć wątpliwości,be in doubt,0,ang,-2,1,2,3,Angielski,n
-ciskać,toss,0,ang,-1,2,2,3,Angielski,n
-napędzany na 4 koła,four-wheel-drive,0,angi,-1,1,2,3,Angielski,n
-wiec,rally,0,ang,-1,1,2,3,Angielski,n
-cenna odzież,precious garment,0,angi,-1,1,2,3,Angielski,n
-sondaż,poll,0,angi,-3,1,2,3,Angielski,n
-szyberdach,sunroom,0,angi,-1,0,2,3,Angielski,n
-mnóstwo,welter of,0,angi,-1,1,2,3,Angielski,n
-następnie,subsequently,0,angi,-1,1,2,3,Angielski,n
-w pewnym sensie,up to a point,0,angi,-1,1,2,3,Angielski,n
-bezkrwany,bloodless,0,angi,-3,1,2,3,Angielski,n
-przewrót,coup,0,angi,-3,1,2,3,Angielski,n
-zastraszyć,intimidate,0,angi,-1,1,2,3,Angielski,n
-w przebraniu;pod przykrywką,in disguise,0,angi,-1,1,2,3,Angielski,n
-zgromadzieni,gathered,0,angi,-1,1,2,3,Angielski,n
-w imieniu,on behalf,0,angi,-3,1,2,3,Angielski,n
-odprawa,briefing,0,angi,-3,1,2,3,Angielski,n
-bez wątpliwości,no doubt,0,angi,-1,1,2,3,Angielski,n
-połączeni,paired,0,angi,-1,1,2,3,Angielski,n
-podczas gdy,whereas,0,angi,-1,1,2,3,Angielski,n
-wrogi,hostile,0,ang,-1,1,3,3,Angielski,n
-zamieszki,riots,0,ang,-1,1,3,3,Angielski,n
-zapewnienie,reassurance,0,ang,-1,1,3,3,Angielski,n
-wielkim nakładem,at great expense,0,ang,-1,2,3,3,Angielski,n
-przerwa,recess,0,ang,-1,1,3,3,Angielski,n
-być odpowiedzialnym za coś,be in charge of sth,0,ang,-1,1,3,3,Angielski,n
-płytki,facile,0,ang,-3,1,3,3,Angielski,n
-tymczasowy,interim,0,ang,-1,2,3,3,Angielski,n
-prowizoryczny,provisional,0,ang,-1,1,3,3,Angielski,n
-winny,culpable,0,ang,-1,1,3,3,Angielski,n
-przyzwoity,creditable,0,ang,-1,1,3,3,Angielski,n
-haniebny,disgraceful,0,ang,-1,1,3,3,Angielski,n
-niechętnie,unwillingly,0,ang,-3,1,3,3,Angielski,n
-chętny,eager,0,ang,-1,1,3,3,Angielski,n
-niechętny;przeciwny,averse,0,ang,-1,1,3,3,Angielski,n
-niechętny,reluctant,0,ang,-1,1,3,3,Angielski,n
-nieprzyjaciel,foe,0,ang,-3,1,3,3,Angielski,n
-wspólnik,associate,0,ang,-1,1,3,3,Angielski,n
-miniony,bygone,0,ang,-1,1,3,3,Angielski,n
-zamieszać;uwikłać,implicate,0,ang,-1,1,3,3,Angielski,n
-uniewinniać,exculpate,0,ang,-1,1,4,3,Angielski,n
-obwiniać,incriminate,0,ang,-1,1,4,3,Angielski,n
-konfiskować,impound,0,ang,-3,2,4,3,Angielski,n
-wypuścić,release,0,ang,-1,1,4,3,Angielski,n
-pochwycić,seize,0,ang,-1,1,4,3,Angielski,n
-ścierpieć,bear,0,ang,-3,1,4,3,Angielski,n
-uspokajać,soothe,0,ang,-1,1,4,3,Angielski,n
-wytrzymać,endure,0,angi,-1,1,4,3,Angielski,n
-pilne rozmowy,urgent talks,0,angi,-1,0,4,3,Angielski,n
-zabezpieczyć(przygotować) gotówkę,secure cash,0,angi,-1,0,4,3,Angielski,n
-powodować,cause,0,angi,-3,0,4,3,Angielski,n
-ostry;poważny,severe,0,angi,-1,0,4,3,Angielski,n
-zmieniać,reverse,0,angi,-1,0,4,3,Angielski,n
-ponieść druzgocącą porażkę,suffer a crushing defeat,0,angi,-1,0,4,3,Angielski,n
-zmieść z powierzchni ziemi,wipe out,0,angi,-2,0,4,3,Angielski,n
-forteca,stronghold,0,angi,-2,0,4,3,Angielski,n
-wskazywać na kogoś,implicate,0,angi,-1,0,4,3,Angielski,n
-szczególnie,particularly,0,angi,-1,0,4,3,Angielski,n
-pierwotne oszacowania,original estimate,0,angi,-1,0,4,3,Angielski,n
-jak się mówi;domniemanie,reportedly,0,angi,-1,0,4,3,Angielski,n
-rzucić monetą,toss a coin,0,angi,-3,0,5,3,Angielski,n
-wiec przedwyborczy,election rally,0,angi,-1,0,5,3,Angielski,n
-partia rządząca,ruling party,0,angi,-1,0,5,3,Angielski,n
-środki bezpieczeństwa,security measures,0,angi,-1,0,5,3,Angielski,n
-wskazówki;wytyczne,guidance,0,angi,-1,0,5,3,Angielski,n
-biegły,proficient,0,angi,-1,0,5,3,Angielski,n
-świadomość,awareness,0,angi,-1,0,5,3,Angielski,n
-bomba-pułapka,booby trap,0,angi,-1,0,5,3,Angielski,n
-scenariusz,scenario,0,angi,-1,0,5,3,Angielski,n
+polski,angielski,0,,0,0,0,3,Angielski,n,pronunciation
+skonfiskowany,impounded,0,angi,-1,1,1,3,Angielski,n,pronunciation
+pośród,amid,0,angi,-1,2,1,3,Angielski,n,pronunciation
+postępowanie upadłościowe,receivership,0,angi,-1,1,1,3,Angielski,n,pronunciation
+załamanie,downturn,0,angi,-1,1,1,3,Angielski,n,pronunciation
+tymczasowy,interim,0,angi,-1,1,1,3,Angielski,n,pronunciation
+orzeczenie,ruling,0,ang,-1,1,1,3,Angielski,n,pronunciation
+ława,bench,0,angi,-3,1,1,3,Angielski,n,pronunciation
+sąd najwyższy,The Supreme Court,0,angi,-1,1,1,3,Angielski,n,pronunciation
+cofać,reverse,0,ang,-1,1,1,3,Angielski,n,pronunciation
+były,former,0,angi,-4,1,1,3,Angielski,n,pronunciation
+ustępujący,outgoing,0,angi,-1,1,1,3,Angielski,n,pronunciation
+dosłownie,virtually,0,angi,-1,1,1,3,Angielski,n,pronunciation
+zgromadzienie narodowe,state assembly,0,angi,-1,1,1,3,Angielski,n,pronunciation
+wezwać,call on,0,angi,-1,1,1,3,Angielski,n,pronunciation
+nagana,reprehensible,0,angi,-1,2,1,3,Angielski,n,pronunciation
+wydaś oświadczenie,issue a statement,0,angi,-1,1,1,3,Angielski,n,pronunciation
+kosmetyczne zmiany,cosmetic steps,0,angi,-3,1,1,3,Angielski,n,pronunciation
+miejsce,venue,0,angi,-1,1,1,3,Angielski,n,pronunciation
+wyrzucać na śmietnik,scrap,0,angi,-1,1,1,3,Angielski,n,pronunciation
+wlewać,pour in,0,angi,-3,1,1,3,Angielski,n,pronunciation
+mieć wątpliwości,be in doubt,0,ang,-2,1,2,3,Angielski,n,pronunciation
+ciskać,toss,0,ang,-1,2,2,3,Angielski,n,pronunciation
+napędzany na 4 koła,four-wheel-drive,0,angi,-1,1,2,3,Angielski,n,pronunciation
+wiec,rally,0,ang,-1,1,2,3,Angielski,n,pronunciation
+cenna odzież,precious garment,0,angi,-1,1,2,3,Angielski,n,pronunciation
+sondaż,poll,0,angi,-3,1,2,3,Angielski,n,pronunciation
+szyberdach,sunroom,0,angi,-1,0,2,3,Angielski,n,pronunciation
+mnóstwo,welter of,0,angi,-1,1,2,3,Angielski,n,pronunciation
+następnie,subsequently,0,angi,-1,1,2,3,Angielski,n,pronunciation
+w pewnym sensie,up to a point,0,angi,-1,1,2,3,Angielski,n,pronunciation
+bezkrwany,bloodless,0,angi,-3,1,2,3,Angielski,n,pronunciation
+przewrót,coup,0,angi,-3,1,2,3,Angielski,n,pronunciation
+zastraszyć,intimidate,0,angi,-1,1,2,3,Angielski,n,pronunciation
+w przebraniu;pod przykrywką,in disguise,0,angi,-1,1,2,3,Angielski,n,pronunciation
+zgromadzieni,gathered,0,angi,-1,1,2,3,Angielski,n,pronunciation
+w imieniu,on behalf,0,angi,-3,1,2,3,Angielski,n,pronunciation
+odprawa,briefing,0,angi,-3,1,2,3,Angielski,n,pronunciation
+bez wątpliwości,no doubt,0,angi,-1,1,2,3,Angielski,n,pronunciation
+połączeni,paired,0,angi,-1,1,2,3,Angielski,n,pronunciation
+podczas gdy,whereas,0,angi,-1,1,2,3,Angielski,n,pronunciation
+wrogi,hostile,0,ang,-1,1,3,3,Angielski,n,pronunciation
+zamieszki,riots,0,ang,-1,1,3,3,Angielski,n,pronunciation
+zapewnienie,reassurance,0,ang,-1,1,3,3,Angielski,n,pronunciation
+wielkim nakładem,at great expense,0,ang,-1,2,3,3,Angielski,n,pronunciation
+przerwa,recess,0,ang,-1,1,3,3,Angielski,n,pronunciation
+być odpowiedzialnym za coś,be in charge of sth,0,ang,-1,1,3,3,Angielski,n,pronunciation
+płytki,facile,0,ang,-3,1,3,3,Angielski,n,pronunciation
+tymczasowy,interim,0,ang,-1,2,3,3,Angielski,n,pronunciation
+prowizoryczny,provisional,0,ang,-1,1,3,3,Angielski,n,pronunciation
+winny,culpable,0,ang,-1,1,3,3,Angielski,n,pronunciation
+przyzwoity,creditable,0,ang,-1,1,3,3,Angielski,n,pronunciation
+haniebny,disgraceful,0,ang,-1,1,3,3,Angielski,n,pronunciation
+niechętnie,unwillingly,0,ang,-3,1,3,3,Angielski,n,pronunciation
+chętny,eager,0,ang,-1,1,3,3,Angielski,n,pronunciation
+niechętny;przeciwny,averse,0,ang,-1,1,3,3,Angielski,n,pronunciation
+niechętny,reluctant,0,ang,-1,1,3,3,Angielski,n,pronunciation
+nieprzyjaciel,foe,0,ang,-3,1,3,3,Angielski,n,pronunciation
+wspólnik,associate,0,ang,-1,1,3,3,Angielski,n,pronunciation
+miniony,bygone,0,ang,-1,1,3,3,Angielski,n,pronunciation
+zamieszać;uwikłać,implicate,0,ang,-1,1,3,3,Angielski,n,pronunciation
+uniewinniać,exculpate,0,ang,-1,1,4,3,Angielski,n,pronunciation
+obwiniać,incriminate,0,ang,-1,1,4,3,Angielski,n,pronunciation
+konfiskować,impound,0,ang,-3,2,4,3,Angielski,n,pronunciation
+wypuścić,release,0,ang,-1,1,4,3,Angielski,n,pronunciation
+pochwycić,seize,0,ang,-1,1,4,3,Angielski,n,pronunciation
+ścierpieć,bear,0,ang,-3,1,4,3,Angielski,n,pronunciation
+uspokajać,soothe,0,ang,-1,1,4,3,Angielski,n,pronunciation
+wytrzymać,endure,0,angi,-1,1,4,3,Angielski,n,pronunciation
+pilne rozmowy,urgent talks,0,angi,-1,0,4,3,Angielski,n,pronunciation
+zabezpieczyć(przygotować) gotówkę,secure cash,0,angi,-1,0,4,3,Angielski,n,pronunciation
+powodować,cause,0,angi,-3,0,4,3,Angielski,n,pronunciation
+ostry;poważny,severe,0,angi,-1,0,4,3,Angielski,n,pronunciation
+zmieniać,reverse,0,angi,-1,0,4,3,Angielski,n,pronunciation
+ponieść druzgocącą porażkę,suffer a crushing defeat,0,angi,-1,0,4,3,Angielski,n,pronunciation
+zmieść z powierzchni ziemi,wipe out,0,angi,-2,0,4,3,Angielski,n,pronunciation
+forteca,stronghold,0,angi,-2,0,4,3,Angielski,n,pronunciation
+wskazywać na kogoś,implicate,0,angi,-1,0,4,3,Angielski,n,pronunciation
+szczególnie,particularly,0,angi,-1,0,4,3,Angielski,n,pronunciation
+pierwotne oszacowania,original estimate,0,angi,-1,0,4,3,Angielski,n,pronunciation
+jak się mówi;domniemanie,reportedly,0,angi,-1,0,4,3,Angielski,n,pronunciation
+rzucić monetą,toss a coin,0,angi,-3,0,5,3,Angielski,n,pronunciation
+wiec przedwyborczy,election rally,0,angi,-1,0,5,3,Angielski,n,pronunciation
+partia rządząca,ruling party,0,angi,-1,0,5,3,Angielski,n,pronunciation
+środki bezpieczeństwa,security measures,0,angi,-1,0,5,3,Angielski,n,pronunciation
+wskazówki;wytyczne,guidance,0,angi,-1,0,5,3,Angielski,n,pronunciation
+biegły,proficient,0,angi,-1,0,5,3,Angielski,n,pronunciation
+świadomość,awareness,0,angi,-1,0,5,3,Angielski,n,pronunciation
+bomba-pułapka,booby trap,0,angi,-1,0,5,3,Angielski,n,pronunciation
+scenariusz,scenario,0,angi,-1,0,5,3,Angielski,n,pronunciation

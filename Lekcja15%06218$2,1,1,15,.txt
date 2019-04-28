@@ -1,45 +1,45 @@
-polski,francuski,0,,0,0,0,3,Angielski,n
-przesłuchiwać,interroger,3,ang,1,3,0,3,Angielski,n
-odkrywać,dévoiler,3,ang,1,3,0,3,Angielski,n
-zatrzymywać,arrêter,3,ang,1,3,0,3,Angielski,n
-odszukiwać,retrouver,3,ang,1,3,0,3,Angielski,n
-tańczyć,danser,3,ang,1,3,0,3,Angielski,n
-jeść podwieczorek,goûter,3,ang,1,3,0,3,Angielski,n
-pozostawać,rester,3,ang,1,3,0,3,Angielski,n
-kąpać,baigner,3,ang,1,3,0,3,Angielski,n
-raz,fois,3,ang,1,3,0,3,Angielski,n
-kilku,plusieurs,3,ang,1,3,0,3,Angielski,n
-wiele razy,plusieurs fois,3,ang,1,3,0,3,Angielski,n
-puis,potem,3,ang,1,3,0,3,Angielski,n
-wracać,rentrer,3,ang,1,3,0,3,Angielski,n
-wspinać się,monter,3,ang,1,3,0,3,Angielski,n
-pałac,le palais,3,ang,1,3,0,3,Angielski,n
-siadać,s'asseoir,3,ang,1,3,0,3,Angielski,n
-teraz,maintenant,3,ang,1,3,0,3,Angielski,n
-skakać,sauter,3,ang,1,3,0,3,Angielski,n
-pieścić,caresser,3,ang,1,3,0,3,Angielski,n
-twarz,le visage,3,ang,1,3,0,3,Angielski,n
-wieżowiec,le gratte-ciel,3,ang,1,3,0,3,Angielski,n
-las,la forêt,3,ang,1,3,0,3,Angielski,n
-wznościć się,s'élever,3,ang,1,3,0,3,Angielski,n
-chować,cacher,3,ang,1,3,0,3,Angielski,n
-dawać,donner,3,ang,1,3,0,3,Angielski,n
-przyglądać się,contempler,3,ang,1,3,0,3,Angielski,n
-budynek,l'édifice,3,ang,1,3,0,3,Angielski,n
-krok,enjambée,3,ang,1,3,0,3,Angielski,n
-każdy,chaque,3,ang,1,3,0,3,Angielski,n
-astrzegać,avertir,3,ang,1,3,0,3,Angielski,n
-początek,le début,3,ang,1,3,0,3,Angielski,n
-śnieg,la neige,3,ang,1,3,0,3,Angielski,n
-wstydzić się,rougir,3,ang,1,3,0,3,Angielski,n
-łatwo,facilement,3,ang,1,3,0,3,Angielski,n
-lądować na księżycu,alunir,3,ang,1,3,0,3,Angielski,n
-pogłębiać,approfondir,3,ang,1,3,0,3,Angielski,n
-wyszczuplać,aminicir,3,ang,1,3,0,3,Angielski,n
-chudnąć,s'aminicir,3,ang,1,3,0,3,Angielski,n
-zwalniać,ralentir,3,ang,1,3,0,3,Angielski,n
-ryzykować,risquer,3,ang,1,3,0,3,Angielski,n
-dojrzewać,mûrir,3,ang,1,3,0,3,Angielski,n
-blednąć,pâlir,3,ang,1,3,0,3,Angielski,n
-czarowanica,la sorcière,3,ang,1,3,0,3,Angielski,n
-być nieposłusznym,désobéir,3,ang,1,3,0,3,Angielski,n
+polski,francuski,0,,0,0,0,3,Angielski,n,pronunciation
+przesłuchiwać,interroger,3,ang,1,3,0,3,Angielski,n,pronunciation
+odkrywać,dévoiler,3,ang,1,3,0,3,Angielski,n,pronunciation
+zatrzymywać,arrêter,3,ang,1,3,0,3,Angielski,n,pronunciation
+odszukiwać,retrouver,3,ang,1,3,0,3,Angielski,n,pronunciation
+tańczyć,danser,3,ang,1,3,0,3,Angielski,n,pronunciation
+jeść podwieczorek,goûter,3,ang,1,3,0,3,Angielski,n,pronunciation
+pozostawać,rester,3,ang,1,3,0,3,Angielski,n,pronunciation
+kąpać,baigner,3,ang,1,3,0,3,Angielski,n,pronunciation
+raz,fois,3,ang,1,3,0,3,Angielski,n,pronunciation
+kilku,plusieurs,3,ang,1,3,0,3,Angielski,n,pronunciation
+wiele razy,plusieurs fois,3,ang,1,3,0,3,Angielski,n,pronunciation
+puis,potem,3,ang,1,3,0,3,Angielski,n,pronunciation
+wracać,rentrer,3,ang,1,3,0,3,Angielski,n,pronunciation
+wspinać się,monter,3,ang,1,3,0,3,Angielski,n,pronunciation
+pałac,le palais,3,ang,1,3,0,3,Angielski,n,pronunciation
+siadać,s'asseoir,3,ang,1,3,0,3,Angielski,n,pronunciation
+teraz,maintenant,3,ang,1,3,0,3,Angielski,n,pronunciation
+skakać,sauter,3,ang,1,3,0,3,Angielski,n,pronunciation
+pieścić,caresser,3,ang,1,3,0,3,Angielski,n,pronunciation
+twarz,le visage,3,ang,1,3,0,3,Angielski,n,pronunciation
+wieżowiec,le gratte-ciel,3,ang,1,3,0,3,Angielski,n,pronunciation
+las,la forêt,3,ang,1,3,0,3,Angielski,n,pronunciation
+wznościć się,s'élever,3,ang,1,3,0,3,Angielski,n,pronunciation
+chować,cacher,3,ang,1,3,0,3,Angielski,n,pronunciation
+dawać,donner,3,ang,1,3,0,3,Angielski,n,pronunciation
+przyglądać się,contempler,3,ang,1,3,0,3,Angielski,n,pronunciation
+budynek,l'édifice,3,ang,1,3,0,3,Angielski,n,pronunciation
+krok,enjambée,3,ang,1,3,0,3,Angielski,n,pronunciation
+każdy,chaque,3,ang,1,3,0,3,Angielski,n,pronunciation
+astrzegać,avertir,3,ang,1,3,0,3,Angielski,n,pronunciation
+początek,le début,3,ang,1,3,0,3,Angielski,n,pronunciation
+śnieg,la neige,3,ang,1,3,0,3,Angielski,n,pronunciation
+wstydzić się,rougir,3,ang,1,3,0,3,Angielski,n,pronunciation
+łatwo,facilement,3,ang,1,3,0,3,Angielski,n,pronunciation
+lądować na księżycu,alunir,3,ang,1,3,0,3,Angielski,n,pronunciation
+pogłębiać,approfondir,3,ang,1,3,0,3,Angielski,n,pronunciation
+wyszczuplać,aminicir,3,ang,1,3,0,3,Angielski,n,pronunciation
+chudnąć,s'aminicir,3,ang,1,3,0,3,Angielski,n,pronunciation
+zwalniać,ralentir,3,ang,1,3,0,3,Angielski,n,pronunciation
+ryzykować,risquer,3,ang,1,3,0,3,Angielski,n,pronunciation
+dojrzewać,mûrir,3,ang,1,3,0,3,Angielski,n,pronunciation
+blednąć,pâlir,3,ang,1,3,0,3,Angielski,n,pronunciation
+czarowanica,la sorcière,3,ang,1,3,0,3,Angielski,n,pronunciation
+być nieposłusznym,désobéir,3,ang,1,3,0,3,Angielski,n,pronunciation

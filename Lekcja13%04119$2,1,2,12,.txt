@@ -1,40 +1,39 @@
-polski,francuski,0,,98,176,0,3,Angielski,n
-długi,long,0,i,-1,3,0,3,Angielski,n
-długi2,longue,0,i,-1,3,0,3,Angielski,n
-krótki,court,0,i,-1,3,0,3,Angielski,n
-rozmiar,la taille,0,i,-1,3,0,3,Angielski,n
-kształt,la forme,0,i,-1,3,0,3,Angielski,n
-podobać się komuś,plaire à qn,0,i,-1,3,0,3,Angielski,n
-inny,autre,0,i,-2,3,0,3,Angielski,n
-piękny,beau,0,i,-1,3,0,3,Angielski,n
-model,le modèle,0,i,-1,3,0,3,Angielski,n
-dość,assez,0,i,-2,3,0,3,Angielski,n
-zbyt ciasny,trop serré,0,i,-1,3,0,3,Angielski,n
-przykro mi,désolé,0,i,-1,3,0,3,Angielski,n
-dział,le rayon,0,i,-1,3,0,3,Angielski,n
-iść za kimś,suivre qn,0,i,-1,3,0,3,Angielski,n
-rozmiar buta,la pointure,0,i,-1,3,0,3,Angielski,n
-na przykład,par example,0,i,-5,3,0,3,Angielski,n
-piekarnia,la boulangerie,0,i,-1,3,0,3,Angielski,n
-sklep z wyrobami tytoniowymi,le bureau de tabac,0,i,-1,3,0,3,Angielski,n
-księgarnia,la librairie,0,i,-1,3,0,3,Angielski,n
-sklep mięsny,la boucherie,0,i,-1,3,0,3,Angielski,n
-sklep odzieżowy,le magasin de vêtements,0,i,-1,3,0,3,Angielski,n
-mały,petit,0,i,-5,3,0,3,Angielski,n
-duży,grand,0,i,-2,3,0,3,Angielski,n
-stary,vieux,0,i,-4,3,0,3,Angielski,n
-stary2,vieil,0,i,-1,3,0,3,Angielski,n
-stary3,vieille,0,i,-1,3,0,3,Angielski,n
-nowy,nouveau,0,i,-2,3,0,3,Angielski,n
-nowy2,nouvel,0,i,-1,3,0,3,Angielski,n
-nowy3,nouvelle,0,i,-2,3,0,3,Angielski,n
-nowy(fabrycznie),neuf,0,i,-2,3,0,3,Angielski,n
-nowy(fabrycznie)2,neuve,0,i,-1,3,0,3,Angielski,n
-zły,mauvais,0,angi,-2,3,0,3,Angielski,n
-gruby,gros,0,i,-5,3,0,3,Angielski,n
-mięso,la viande,0,i,-1,3,0,3,Angielski,n
-pomagać,aider,0,ang,-2,0,0,0,Angielski,n
-proszę,voilà,0,ang,-1,0,0,0,Angielski,n
-móc,pouvoir,0,ang,-1,0,0,0,Angielski,n
-kurtka z kapturem,le anorak,0,ang,-1,0,0,0,Angielski,n
-na końcu,at enfin,0,ang,-1,0,0,0,Angielski,n
+polski,francuski,0,,125,195,0,3,Angielski,n,pronunciation
+długi,long,2,i,0,3,0,3,Angielski,n,pronunciation
+krótki,court,2,i,0,3,0,3,Angielski,n,pronunciation
+rozmiar,la taille,3,i,0,3,0,3,Angielski,n,pronunciation
+kształt,la forme,1,i,0,3,0,3,Angielski,n,pronunciation
+podobać się komuś,plaire à qn,1,i,-1,3,0,3,Angielski,n,pronunciation
+inny,autre,1,i,-2,3,0,3,Angielski,n,pronunciation
+piękny,beau,0,i,-2,3,0,3,Angielski,n,pronunciation
+model,le modèle,1,i,-1,3,0,3,Angielski,n,pronunciation
+dość,assez,2,i,0,3,0,3,Angielski,n,pronunciation
+zbyt ciasny,trop serré,1,i,-1,3,0,3,Angielski,n,pronunciation
+przykro mi,désolé,2,i,0,3,0,3,Angielski,n,pronunciation
+dział,le rayon,0,i,-2,3,0,3,Angielski,n,pronunciation
+iść za kimś,suivre qn,0,i,-2,3,0,3,Angielski,n,pronunciation
+rozmiar buta,la pointure,1,i,-1,3,0,3,Angielski,n,pronunciation
+na przykład,par example,1,i,0,3,0,3,Angielski,n,pronunciation
+piekarnia,la boulangerie,0,i,-2,3,0,3,Angielski,n,pronunciation
+sklep z wyrobami tytoniowymi,le bureau de tabac,0,i,-2,3,0,3,Angielski,n,pronunciation
+księgarnia,la librairie,2,i,0,3,0,3,Angielski,n,pronunciation
+sklep mięsny,la boucherie,2,i,0,3,0,3,Angielski,n,pronunciation
+sklep odzieżowy,le magasin de vêtements,3,i,0,3,0,3,Angielski,n,pronunciation
+mały,petit,1,i,-5,3,0,3,Angielski,n,pronunciation
+duży,grand,2,i,0,3,0,3,Angielski,n,pronunciation
+stary,vieux,0,i,-5,3,0,3,Angielski,n,pronunciation
+stary2,vieil,2,i,0,3,0,3,Angielski,n,pronunciation
+stary3,vieille,1,i,0,3,0,3,Angielski,n,pronunciation
+nowy,nouveau,1,i,0,3,0,3,Angielski,n,pronunciation
+nowy2,nouvel,3,i,0,3,0,3,Angielski,n,pronunciation
+nowy3,nouvelle,1,i,0,3,0,3,Angielski,n,pronunciation
+nowy(fabrycznie),neuf,1,i,-2,3,0,3,Angielski,n,pronunciation
+nowy(fabrycznie)2,neuve,1,i,-1,3,0,3,Angielski,n,pronunciation
+zły,mauvais,1,angi,-2,3,0,3,Angielski,n,pronunciation
+gruby,gros,1,i,0,3,0,3,Angielski,n,pronunciation
+mięso,la viande,1,i,-1,3,0,3,Angielski,n,pronunciation
+pomagać,aider,0,ang,-3,0,0,0,Angielski,n,pronunciation
+proszę,voilà,3,ang,0,0,0,0,Angielski,n,pronunciation
+móc,pouvoir,0,ang,-2,0,0,0,Angielski,n,pronunciation
+kurtka z kapturem,le anorak,1,ang,-1,0,0,0,Angielski,n,pronunciation
+na końcu,at enfin,2,ang,0,0,0,0,Angielski,n,pronunciation
