@@ -26,7 +26,7 @@ public class RozwijaneMenuPliku extends JPopupMenu {
 
                                          @Override
                                          public void mousePressed(MouseEvent e) {
-                                             System.out.println("jestem tutaj");
+
                                          }
 
                                          @Override

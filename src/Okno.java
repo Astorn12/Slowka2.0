@@ -34,7 +34,7 @@ public class Okno extends JFrame{
        // Vector<Pakiet> aktualne= new Vector<>();
         //JList<Pakiet> przyciski= new JList<>(aktualne);
         int a=0;
-        System.out.println(zbiornik.zbiornik.size());
+
         for(int i=0;i<zbiornik.zbiornik.size();i++)
         {
             if(zbiornik.zbiornik.get(i).numer.size()==1)
@@ -56,7 +56,7 @@ public class Okno extends JFrame{
         b.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                System.out.println(b.getName());
+
                 JButton b1=new JButton("zostaw");panel.add(b1);
                 panel.removeAll();
                 panel.repaint();

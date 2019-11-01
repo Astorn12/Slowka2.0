@@ -1,47 +1,47 @@
-polski,francuski,0,,98,190,0,3,Angielski,n,pronunciation
-czuć się źle,se sentir mal,0,i,-1,3,0,3,Angielski,n,pronunciation
-chory,malade,0,i,-1,3,0,3,Angielski,n,pronunciation
-odczuwać ból...,avoir mal à...,0,i,-1,3,0,3,Angielski,n,pronunciation
-gardło,la gorge,0,i,-4,3,0,3,Angielski,n,pronunciation
-kasłać,tousser,0,i,-2,3,0,3,Angielski,n,pronunciation
-usta,la bouche,0,i,-1,3,0,3,Angielski,n,pronunciation
-mieć temperaturę,avoir de la fièvre,0,i,-1,3,0,3,Angielski,n,pronunciation
-otwierać,ouvrir,0,i,-3,3,0,3,Angielski,n,pronunciation
-boleć,faire mal,0,i,-1,3,0,3,Angielski,n,pronunciation
-angina,l'angine,0,i,-3,3,0,3,Angielski,n,pronunciation
-recepta,l'ordonnance,0,i,-1,3,0,3,Angielski,n,pronunciation
-antybiotyk,l'antibiotique,0,i,-3,3,0,3,Angielski,n,pronunciation
-lekarstwo,le médicament,0,i,-1,3,0,3,Angielski,n,pronunciation
-tabletka,le comprimé,0,i,-1,3,0,3,Angielski,n,pronunciation
-syrop na kaszel,le sirop contre la toux,0,i,-1,3,0,3,Angielski,n,pronunciation
-przeziębienie,le rhume,0,i,-1,3,0,3,Angielski,n,pronunciation
-przeziębiony,enrhumé,0,i,-1,3,0,3,Angielski,n,pronunciation
-pewny,sûr,0,i,-1,3,0,3,Angielski,n,pronunciation
-przyjść ponownie,revenir,0,i,-3,3,0,3,Angielski,n,pronunciation
-plecy,le dos,0,i,-1,3,0,3,Angielski,n,pronunciation
-serce,le coeur,0,i,-1,3,0,3,Angielski,n,pronunciation
-brzuch,le ventre,0,i,-1,3,0,3,Angielski,n,pronunciation
-stopa,le pied,0,i,-2,3,0,3,Angielski,n,pronunciation
-noga,la jambe,0,i,-1,3,0,3,Angielski,n,pronunciation
-dłoń,la main,0,i,-1,3,0,3,Angielski,n,pronunciation
-ręka,le bras,0,i,-1,3,0,3,Angielski,n,pronunciation
-nos,le nez,0,i,-1,3,0,3,Angielski,n,pronunciation
-oko,l'oeil,0,i,-1,3,0,3,Angielski,n,pronunciation
-głowa,la tête,0,i,-2,3,0,3,Angielski,n,pronunciation
-dolegliwości,les symptômes,0,i,-1,3,0,3,Angielski,n,pronunciation
-zapalenie żołądka,la gastrite,0,,-2,3,0,3,Angielski,n,pronunciation
-ucho,l'oreille,0,i,-1,3,0,3,Angielski,n,pronunciation
-palec,le doigt,0,i,-1,3,0,3,Angielski,n,pronunciation
-skóra,la peau,0,i,-2,3,0,3,Angielski,n,pronunciation
-ząb,la dent,0,i,-1,3,0,3,Angielski,n,pronunciation
-mówić,dire,0,i,-2,3,0,3,Angielski,n,pronunciation
-sądzić,croire,0,i,-1,3,0,3,Angielski,n,pronunciation
-Czekaj!,Attends!,0,i,-1,3,0,3,Angielski,n,pronunciation
-Chodźcie!,Venez!,0,i,-1,3,0,3,Angielski,n,pronunciation
-myśleć,penser,0,i,-2,3,0,3,Angielski,n,pronunciation
-pozostawać,rester,0,i,-1,3,0,3,Angielski,n,pronunciation
-łóżko,le lit,0,i,-3,3,0,3,Angielski,n,pronunciation
-wierzyć,croire,0,i,-3,3,0,3,Angielski,n,pronunciation
-wkrótce,bientôt,0,i,-1,3,0,3,Angielski,n,pronunciation
-że,que,0,i,-1,3,0,3,Angielski,n,pronunciation
-również,aussi,0,i,-3,3,0,3,Angielski,n,pronunciation
+polski,francuski,0,,98,190,0,3,Angielski,n
+czuć się źle,se sentir mal,0,i,-1,3,0,3,Angielski,n
+chory,malade,0,i,-1,3,0,3,Angielski,n
+odczuwać ból...,avoir mal à...,0,i,-1,3,0,3,Angielski,n
+gardło,la gorge,0,i,-4,3,0,3,Angielski,n
+kasłać,tousser,0,i,-2,3,0,3,Angielski,n
+usta,la bouche,0,i,-1,3,0,3,Angielski,n
+mieć temperaturę,avoir de la fièvre,0,i,-1,3,0,3,Angielski,n
+otwierać,ouvrir,0,i,-3,3,0,3,Angielski,n
+boleć,faire mal,0,i,-1,3,0,3,Angielski,n
+angina,l'angine,0,i,-3,3,0,3,Angielski,n
+recepta,l'ordonnance,0,i,-1,3,0,3,Angielski,n
+antybiotyk,l'antibiotique,0,i,-3,3,0,3,Angielski,n
+lekarstwo,le médicament,0,i,-1,3,0,3,Angielski,n
+tabletka,le comprimé,0,i,-1,3,0,3,Angielski,n
+syrop na kaszel,le sirop contre la toux,0,i,-1,3,0,3,Angielski,n
+przeziębienie,le rhume,0,i,-1,3,0,3,Angielski,n
+przeziębiony,enrhumé,0,i,-1,3,0,3,Angielski,n
+pewny,sûr,0,i,-1,3,0,3,Angielski,n
+przyjść ponownie,revenir,0,i,-3,3,0,3,Angielski,n
+plecy,le dos,0,i,-1,3,0,3,Angielski,n
+serce,le coeur,0,i,-1,3,0,3,Angielski,n
+brzuch,le ventre,0,i,-1,3,0,3,Angielski,n
+stopa,le pied,0,i,-2,3,0,3,Angielski,n
+noga,la jambe,0,i,-1,3,0,3,Angielski,n
+dłoń,la main,0,i,-1,3,0,3,Angielski,n
+ręka,le bras,0,i,-1,3,0,3,Angielski,n
+nos,le nez,0,i,-1,3,0,3,Angielski,n
+oko,l'oeil,0,i,-1,3,0,3,Angielski,n
+głowa,la tête,0,i,-2,3,0,3,Angielski,n
+dolegliwości,les symptômes,0,i,-1,3,0,3,Angielski,n
+zapalenie żołądka,la gastrite,0,,-2,3,0,3,Angielski,n
+ucho,l'oreille,0,i,-1,3,0,3,Angielski,n
+palec,le doigt,0,i,-1,3,0,3,Angielski,n
+skóra,la peau,0,i,-2,3,0,3,Angielski,n
+ząb,la dent,0,i,-1,3,0,3,Angielski,n
+mówić,dire,0,i,-2,3,0,3,Angielski,n
+sądzić,croire,0,i,-1,3,0,3,Angielski,n
+Czekaj!,Attends!,0,i,-1,3,0,3,Angielski,n
+Chodźcie!,Venez!,0,i,-1,3,0,3,Angielski,n
+myśleć,penser,0,i,-2,3,0,3,Angielski,n
+pozostawać,rester,0,i,-1,3,0,3,Angielski,n
+łóżko,le lit,0,i,-3,3,0,3,Angielski,n
+wierzyć,croire,0,i,-3,3,0,3,Angielski,n
+wkrótce,bientôt,0,i,-1,3,0,3,Angielski,n
+że,que,0,i,-1,3,0,3,Angielski,n
+również,aussi,0,i,-3,3,0,3,Angielski,n

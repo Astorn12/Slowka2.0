@@ -1,1 +1,1 @@
-polski,angielski,0,,0,0,0,0,Angielski,n,pronunciation
+polski,angielski,0,,0,0,0,0,Angielski,n

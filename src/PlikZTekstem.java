@@ -127,7 +127,7 @@ public PlikZTekstem()
         p.zapisywanie_do_pliku(this.nazwa_systemowa, ',', wl, WordFromBook.class);
         //  p.zapisywanie_do_pliku("^Metoda ciekawiaka%25018$2,5,1,.txt",',',this.lista,Slowo.class);
         lista.remove(0);
-        System.out.println("Zapis zmian");
+
     }
 
     @Override

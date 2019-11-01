@@ -1,2 +1,2 @@
-polski,francuski,0,,0,0,0,0,Angielski,n,pronunciation
-przychodzić/przybywać/pochodzić,venir,3,ang,0,0,0,0,angielski,n,pronunciation
+polski,francuski,0,,0,0,0,0,Angielski,n
+przychodzić/przybywać/pochodzić,venir,3,ang,0,0,0,0,angielski,n

@@ -1,78 +1,78 @@
-polski,angielski,0,,0,0,0,3,Angielski,n,pronunciation
-z wizytą państwową,on a state visit,0,i,-3,0,1,3,Angielski,n,pronunciation
-na czyjeś zaproszenie,at the invitation of sb,0,i,-1,0,1,3,Angielski,n,pronunciation
-wzmocnić dwustronne stosunki,strengthen bilateral relations,0,i,-1,0,1,3,Angielski,n,pronunciation
-rozszerzać wspólpracę między,expand cooperation between,0,i,-1,0,1,3,Angielski,n,pronunciation
-zaraz po przybyciu,on arrival,0,i,-1,0,1,3,Angielski,n,pronunciation
-dokonać przeglądu kompanii honorowej,review a military guard of honour,0,i,-1,0,1,3,Angielski,n,pronunciation
-poruszyć (problem),touch on sth,0,i,-1,0,1,3,Angielski,n,pronunciation
-Bliski Wschód,The Middle East,0,i,-1,0,1,3,Angielski,n,pronunciation
-rzecznik,spokesman,0,i,-3,0,1,3,Angielski,n,pronunciation
-zaznaczyć;podkreślić,point out,0,i,-2,0,1,3,Angielski,n,pronunciation
-ważny problem,major issue,0,i,-2,0,1,3,Angielski,n,pronunciation
-sprawa wzbudzająca zaniepokojenie,concern,0,i,-3,0,1,3,Angielski,n,pronunciation
-problem światowy,world affair,0,i,-1,0,1,3,Angielski,n,pronunciation
-jest prawdopodobne że,be likely to,0,i,-2,0,1,3,Angielski,n,pronunciation
-główny temat,chef topic,0,i,-3,0,1,3,Angielski,n,pronunciation
-w towarzystwie,accompanied by,0,i,-1,0,1,3,Angielski,n,pronunciation
-mieć coś do zrobienia zgodnie z planem,be scheduled to do sth,0,i,-3,0,1,3,Angielski,n,pronunciation
-oficjalna podróż,office trip,0,i,-2,0,1,3,Angielski,n,pronunciation
-plan podróży;marszruta,itinerary,0,i,-2,0,1,3,Angielski,n,pronunciation
-koncentrować się na,focus on sth,0,i,-1,0,1,3,Angielski,n,pronunciation
-przeprowadzać rozmowy z kimś,hold talks with sb,0,i,-1,0,2,3,Angielski,n,pronunciation
-dowództwo,leadership,0,i,-2,0,2,3,Angielski,n,pronunciation
-dwudniowa wizyta,two-day visit,0,i,-3,0,2,3,Angielski,n,pronunciation
-złożyć wizytę,pay a visit,0,i,-1,0,2,3,Angielski,n,pronunciation
-otrzymać zaproszenie od kogoś,receive an invitation from sb,0,i,-1,0,2,3,Angielski,n,pronunciation
-ustalić datę,set a date for,0,i,-1,0,2,3,Angielski,n,pronunciation
-być wybranym na,be elected,0,i,-3,0,2,3,Angielski,n,pronunciation
-głowa państwa,head of state,0,i,-1,0,2,3,Angielski,n,pronunciation
-przybyć z wizytą do,arrive on a visit to,0,i,-1,0,2,3,Angielski,n,pronunciation
-z czterodniową wizytą,on a four-day visit,0,i,-3,0,2,3,Angielski,n,pronunciation
-coś ma być zrobione w określonym terminie,be due to,0,i,-3,0,2,3,Angielski,n,pronunciation
-publiczne oświadczenie,public statement,0,i,-2,0,2,3,Angielski,n,pronunciation
-wydać oświadczenie dla prasy,issue a press release,0,i,-2,0,2,3,Angielski,n,pronunciation
-zgodzić się na zrobienie czegoś,agree to do sth,0,i,-1,0,2,3,Angielski,n,pronunciation
-bliskie więzi,close ties,0,i,-2,0,2,3,Angielski,n,pronunciation
-wydarzenie międzynarodowe,international event,0,i,-3,0,2,3,Angielski,n,pronunciation
-źródło informacji,source,0,i,-3,0,2,3,Angielski,n,pronunciation
-cytować źródło,quote a source,0,i,-1,0,2,3,Angielski,n,pronunciation
-sprawy bezpieczeństwa,security issues,0,i,-1,0,2,3,Angielski,n,pronunciation
-Unia Europejska,the European Union,0,i,-2,0,2,3,Angielski,n,pronunciation
-prośba,request,0,i,-2,0,3,3,Angielski,n,pronunciation
-wraz z,along with,0,i,-1,0,3,3,Angielski,n,pronunciation
-przyłączyć się do UE,join the EU,0,i,-1,0,3,3,Angielski,n,pronunciation
-nadzieja na coś,expectation for sth,2,i,0,0,3,3,Angielski,n,pronunciation
-wzajemne stosunki,mutual relations,0,i,-2,0,3,3,Angielski,n,pronunciation
-prasa szeroko komentuje,press gives a wide coverage to,1,i,0,0,3,3,Angielski,n,pronunciation
-rozmowy na szczycie,summit talks,0,i,-2,0,3,3,Angielski,n,pronunciation
-oznaczają początek czegoś,mark the beginning of sth,3,i,0,0,3,3,Angielski,n,pronunciation
-poprawić swój wizerunek,improve the image of,2,i,0,0,3,3,Angielski,n,pronunciation
-zobowiązać się do czegoś,pledge sth,0,i,-1,0,3,3,Angielski,n,pronunciation
-odnośnie do czegoś,with regard to sth,0,i,-1,0,3,3,Angielski,n,pronunciation
-zaawansowana technologia,high-tech,2,i,0,0,3,3,Angielski,n,pronunciation
-wspólne przedsięwzięcie,joint project,0,i,-2,0,3,3,Angielski,n,pronunciation
-wystosować ostzeżenie,issue warning,2,i,0,0,3,3,Angielski,n,pronunciation
-zastosować się do czegoś,comply with sth,0,i,-1,0,3,3,Angielski,n,pronunciation
-inspekcja terenu,site inspection,0,i,-1,0,3,3,Angielski,n,pronunciation
-na bankiecie wydanym na jego czejść,at banquet given in his honour,4,i,0,0,3,3,Angielski,n,pronunciation
-przekazać coś,hand sth over,2,,0,0,3,3,Angielski,n,pronunciation
-zrobił to jako pierwszy,sb is the first to do sth,0,,-1,0,3,3,Angielski,n,pronunciation
-wyjechać do,leave for,1,i,0,0,3,3,Angielski,n,pronunciation
-wydać przyjęcie,host a reception,1,i,0,0,4,3,Angielski,n,pronunciation
-być zaszczyconym,be honoured,1,i,0,0,4,3,Angielski,n,pronunciation
-przełomowe wydarzenie,landmark development,1,i,0,0,4,3,Angielski,n,pronunciation
-przynieść komuś korzyść,benefit sb,1,i,0,0,4,3,Angielski,n,pronunciation
-dziedzictwo narodowe,national heritage,1,i,0,0,4,3,Angielski,n,pronunciation
-wysoko sobie cenić,appreciate sth,1,i,0,0,4,3,Angielski,n,pronunciation
-pomyślność,well being,1,i,0,0,4,3,Angielski,n,pronunciation
-poprosić,request,1,i,0,0,4,3,Angielski,n,pronunciation
-w czyimś imieniu,on behalf of,1,i,0,0,4,3,Angielski,n,pronunciation
-skierować,address,1,i,0,0,4,3,Angielski,n,pronunciation
-przyjąć kogoś gościnnie,give a hospitable reception to sb,1,i,0,0,4,3,Angielski,n,pronunciation
-dowód,evidence,1,i,0,0,4,3,Angielski,n,pronunciation
-gościnny,hospitable,1,i,0,0,4,3,Angielski,n,pronunciation
-wystawny,sumptuous,1,i,0,0,4,3,Angielski,n,pronunciation
-przyjacielski,amicable,1,i,0,0,4,3,Angielski,n,pronunciation
-podzielać czyjś pogląd,share sb's view,1,i,0,0,4,3,Angielski,n,pronunciation
-wysiłek,endeavour,1,i,0,0,4,3,Angielski,n,pronunciation
+polski,angielski,0,,0,0,0,3,Angielski,n
+z wizytą państwową,on a state visit,0,i,-3,0,1,3,Angielski,n
+na czyjeś zaproszenie,at the invitation of sb,0,i,-1,0,1,3,Angielski,n
+wzmocnić dwustronne stosunki,strengthen bilateral relations,0,i,-1,0,1,3,Angielski,n
+rozszerzać wspólpracę między,expand cooperation between,0,i,-1,0,1,3,Angielski,n
+zaraz po przybyciu,on arrival,0,i,-1,0,1,3,Angielski,n
+dokonać przeglądu kompanii honorowej,review a military guard of honour,0,i,-1,0,1,3,Angielski,n
+poruszyć (problem),touch on sth,0,i,-1,0,1,3,Angielski,n
+Bliski Wschód,The Middle East,0,i,-1,0,1,3,Angielski,n
+rzecznik,spokesman,0,i,-3,0,1,3,Angielski,n
+zaznaczyć;podkreślić,point out,0,i,-2,0,1,3,Angielski,n
+ważny problem,major issue,0,i,-2,0,1,3,Angielski,n
+sprawa wzbudzająca zaniepokojenie,concern,0,i,-3,0,1,3,Angielski,n
+problem światowy,world affair,0,i,-1,0,1,3,Angielski,n
+jest prawdopodobne że,be likely to,0,i,-2,0,1,3,Angielski,n
+główny temat,chef topic,0,i,-3,0,1,3,Angielski,n
+w towarzystwie,accompanied by,0,i,-1,0,1,3,Angielski,n
+mieć coś do zrobienia zgodnie z planem,be scheduled to do sth,0,i,-3,0,1,3,Angielski,n
+oficjalna podróż,office trip,0,i,-2,0,1,3,Angielski,n
+plan podróży;marszruta,itinerary,0,i,-2,0,1,3,Angielski,n
+koncentrować się na,focus on sth,0,i,-1,0,1,3,Angielski,n
+przeprowadzać rozmowy z kimś,hold talks with sb,0,i,-1,0,2,3,Angielski,n
+dowództwo,leadership,0,i,-2,0,2,3,Angielski,n
+dwudniowa wizyta,two-day visit,0,i,-3,0,2,3,Angielski,n
+złożyć wizytę,pay a visit,0,i,-1,0,2,3,Angielski,n
+otrzymać zaproszenie od kogoś,receive an invitation from sb,0,i,-1,0,2,3,Angielski,n
+ustalić datę,set a date for,0,i,-1,0,2,3,Angielski,n
+być wybranym na,be elected,0,i,-3,0,2,3,Angielski,n
+głowa państwa,head of state,0,i,-1,0,2,3,Angielski,n
+przybyć z wizytą do,arrive on a visit to,0,i,-1,0,2,3,Angielski,n
+z czterodniową wizytą,on a four-day visit,0,i,-3,0,2,3,Angielski,n
+coś ma być zrobione w określonym terminie,be due to,0,i,-3,0,2,3,Angielski,n
+publiczne oświadczenie,public statement,0,i,-2,0,2,3,Angielski,n
+wydać oświadczenie dla prasy,issue a press release,0,i,-2,0,2,3,Angielski,n
+zgodzić się na zrobienie czegoś,agree to do sth,0,i,-1,0,2,3,Angielski,n
+bliskie więzi,close ties,0,i,-2,0,2,3,Angielski,n
+wydarzenie międzynarodowe,international event,0,i,-3,0,2,3,Angielski,n
+źródło informacji,source,0,i,-3,0,2,3,Angielski,n
+cytować źródło,quote a source,0,i,-1,0,2,3,Angielski,n
+sprawy bezpieczeństwa,security issues,0,i,-1,0,2,3,Angielski,n
+Unia Europejska,the European Union,0,i,-2,0,2,3,Angielski,n
+prośba,request,0,i,-2,0,3,3,Angielski,n
+wraz z,along with,0,i,-1,0,3,3,Angielski,n
+przyłączyć się do UE,join the EU,0,i,-1,0,3,3,Angielski,n
+nadzieja na coś,expectation for sth,2,i,0,0,3,3,Angielski,n
+wzajemne stosunki,mutual relations,0,i,-2,0,3,3,Angielski,n
+prasa szeroko komentuje,press gives a wide coverage to,1,i,0,0,3,3,Angielski,n
+rozmowy na szczycie,summit talks,0,i,-2,0,3,3,Angielski,n
+oznaczają początek czegoś,mark the beginning of sth,3,i,0,0,3,3,Angielski,n
+poprawić swój wizerunek,improve the image of,2,i,0,0,3,3,Angielski,n
+zobowiązać się do czegoś,pledge sth,0,i,-1,0,3,3,Angielski,n
+odnośnie do czegoś,with regard to sth,0,i,-1,0,3,3,Angielski,n
+zaawansowana technologia,high-tech,2,i,0,0,3,3,Angielski,n
+wspólne przedsięwzięcie,joint project,0,i,-2,0,3,3,Angielski,n
+wystosować ostzeżenie,issue warning,2,i,0,0,3,3,Angielski,n
+zastosować się do czegoś,comply with sth,0,i,-1,0,3,3,Angielski,n
+inspekcja terenu,site inspection,0,i,-1,0,3,3,Angielski,n
+na bankiecie wydanym na jego czejść,at banquet given in his honour,4,i,0,0,3,3,Angielski,n
+przekazać coś,hand sth over,2,,0,0,3,3,Angielski,n
+zrobił to jako pierwszy,sb is the first to do sth,0,,-1,0,3,3,Angielski,n
+wyjechać do,leave for,1,i,0,0,3,3,Angielski,n
+wydać przyjęcie,host a reception,1,i,0,0,4,3,Angielski,n
+być zaszczyconym,be honoured,1,i,0,0,4,3,Angielski,n
+przełomowe wydarzenie,landmark development,1,i,0,0,4,3,Angielski,n
+przynieść komuś korzyść,benefit sb,1,i,0,0,4,3,Angielski,n
+dziedzictwo narodowe,national heritage,1,i,0,0,4,3,Angielski,n
+wysoko sobie cenić,appreciate sth,1,i,0,0,4,3,Angielski,n
+pomyślność,well being,1,i,0,0,4,3,Angielski,n
+poprosić,request,1,i,0,0,4,3,Angielski,n
+w czyimś imieniu,on behalf of,1,i,0,0,4,3,Angielski,n
+skierować,address,1,i,0,0,4,3,Angielski,n
+przyjąć kogoś gościnnie,give a hospitable reception to sb,1,i,0,0,4,3,Angielski,n
+dowód,evidence,1,i,0,0,4,3,Angielski,n
+gościnny,hospitable,1,i,0,0,4,3,Angielski,n
+wystawny,sumptuous,1,i,0,0,4,3,Angielski,n
+przyjacielski,amicable,1,i,0,0,4,3,Angielski,n
+podzielać czyjś pogląd,share sb's view,1,i,0,0,4,3,Angielski,n
+wysiłek,endeavour,1,i,0,0,4,3,Angielski,n

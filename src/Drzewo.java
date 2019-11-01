@@ -3050,7 +3050,6 @@ int flaga=0;
 
                     ObsługaNazwowa obsługaNazwowa= new ObsługaNazwowa();
                     String nazwea=obsługaNazwowa.zmienNaTeraz(aktualny_plik.get_nazwa_pliku());
-                    System.out.println("Zmien na teraz "+aktualny_plik.get_nazwa_pliku());
 
                     if(!((String) node.getUserObject()).contains("Archiwum")){
                     node.setUserObject(nazwea);
@@ -3080,7 +3079,7 @@ int flaga=0;
 
                    z.zmienNazwePakietuPoNumerze(aktualny_plik.numer,nazwea);
                    //z.zakutualizujPobrane();
-                   z.wypisz_zbiornik();
+
                     tree.revalidate();
                     tree.repaint();
                     p=z.zbiornik;
@@ -3690,7 +3689,6 @@ int flaga=0;
              for(Slownik s:slowniki)
              {
 
-                 System.out.println(s.jezyk1.toLowerCase().equals(aktualny_plik.statyplik.nasz.toLowerCase())&&s.jezyk2.toLowerCase().equals(aktualny_plik.statyplik.obcy.toLowerCase()));
                  if(s.jezyk1.toLowerCase().equals(aktualny_plik.statyplik.nasz.toLowerCase())&&s.jezyk2.toLowerCase().equals(aktualny_plik.statyplik.obcy.toLowerCase()))
                  {
                      wsk=s;

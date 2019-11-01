@@ -511,7 +511,7 @@ public class Zbiornik /*extends Pakiet*/ {
     }
     public boolean czyMamDziecko(Pakiet ojciec)
     {
-        wypisz_zbiornik();
+
         boolean b= false;
         for(int i=0;i<this.zbiornik.size();i++)
         {

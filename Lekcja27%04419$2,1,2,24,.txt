@@ -1,28 +1,28 @@
-polski,francuski,0,,69,123,0,3,Angielski,n,pronunciation
-Jest ładna pogoda.,Il fait beau.,0,i,-2,3,0,3,Angielski,n,pronunciation
-Jest brzydka pogoda.,Il fait mauvais.,0,i,-1,3,0,3,Angielski,n,pronunciation
-nawet jeśli,même si,0,i,-1,3,0,3,Angielski,n,pronunciation
-zachmurzony,couvert,0,i,-1,3,0,3,Angielski,n,pronunciation
-burza,la tempête,0,i,-1,3,0,3,Angielski,n,pronunciation
-śnieg,la neige,0,i,-1,3,0,3,Angielski,n,pronunciation
-temperatura,la température,0,i,-1,3,0,3,Angielski,n,pronunciation
-kontynuować,continuer,0,i,-3,3,0,3,Angielski,n,pronunciation
-ciepły,chaud,0,i,-3,3,0,3,Angielski,n,pronunciation
-wschód,l'est,0,i,-1,3,0,3,Angielski,n,pronunciation
-zeszły,passé,0,i,-1,3,0,3,Angielski,n,pronunciation
-deszcz,la pluie,0,i,-2,3,0,3,Angielski,n,pronunciation
-wiatr,le vent,0,i,-4,3,0,3,Angielski,n,pronunciation
-chmura,le nuage,0,i,-4,3,0,3,Angielski,n,pronunciation
-burza2,l'orange,0,i,-1,3,0,3,Angielski,n,pronunciation
-mgła,le brouillard,0,angi,-1,3,0,3,Angielski,n,pronunciation
-gołoledź,le verglas,0,i,-1,3,0,3,Angielski,n,pronunciation
-silny,violent,0,i,-1,3,0,3,Angielski,n,pronunciation
-świecić,briller,0,i,-1,3,0,3,Angielski,n,pronunciation
-zimny,froid,0,i,-4,3,0,3,Angielski,n,pronunciation
-zachód,l'ouest,0,i,-1,3,0,3,Angielski,n,pronunciation
-północ,le nord,0,i,-1,3,0,3,Angielski,n,pronunciation
-południe,le sud,0,i,-1,3,0,3,Angielski,n,pronunciation
-wiosna,le printemps,0,i,-1,3,0,3,Angielski,n,pronunciation
-lato,l'été,0,i,-1,3,0,3,Angielski,n,pronunciation
-jesień,l'automne,0,i,-1,3,0,3,Angielski,n,pronunciation
-zima,l'hiver,0,i,-1,3,0,3,Angielski,n,pronunciation
+polski,francuski,0,,69,123,0,3,Angielski,n
+Jest ładna pogoda.,Il fait beau.,0,i,-2,3,0,3,Angielski,n
+Jest brzydka pogoda.,Il fait mauvais.,0,i,-1,3,0,3,Angielski,n
+nawet jeśli,même si,0,i,-1,3,0,3,Angielski,n
+zachmurzony,couvert,0,i,-1,3,0,3,Angielski,n
+burza,la tempête,0,i,-1,3,0,3,Angielski,n
+śnieg,la neige,0,i,-1,3,0,3,Angielski,n
+temperatura,la température,0,i,-1,3,0,3,Angielski,n
+kontynuować,continuer,0,i,-3,3,0,3,Angielski,n
+ciepły,chaud,0,i,-3,3,0,3,Angielski,n
+wschód,l'est,0,i,-1,3,0,3,Angielski,n
+zeszły,passé,0,i,-1,3,0,3,Angielski,n
+deszcz,la pluie,0,i,-2,3,0,3,Angielski,n
+wiatr,le vent,0,i,-4,3,0,3,Angielski,n
+chmura,le nuage,0,i,-4,3,0,3,Angielski,n
+burza2,l'orange,0,i,-1,3,0,3,Angielski,n
+mgła,le brouillard,0,angi,-1,3,0,3,Angielski,n
+gołoledź,le verglas,0,i,-1,3,0,3,Angielski,n
+silny,violent,0,i,-1,3,0,3,Angielski,n
+świecić,briller,0,i,-1,3,0,3,Angielski,n
+zimny,froid,0,i,-4,3,0,3,Angielski,n
+zachód,l'ouest,0,i,-1,3,0,3,Angielski,n
+północ,le nord,0,i,-1,3,0,3,Angielski,n
+południe,le sud,0,i,-1,3,0,3,Angielski,n
+wiosna,le printemps,0,i,-1,3,0,3,Angielski,n
+lato,l'été,0,i,-1,3,0,3,Angielski,n
+jesień,l'automne,0,i,-1,3,0,3,Angielski,n
+zima,l'hiver,0,i,-1,3,0,3,Angielski,n

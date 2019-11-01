@@ -1,26 +1,26 @@
-polski,angielski,0,,0,0,0,3,Angielski,n,pronunciation
-radosny,gay,0,angi,-1,1,0,3,Angielski,n,pronunciation
-czarująca,charming,0,angi,-1,1,0,3,Angielski,n,pronunciation
-zachwycający,stunning,0,angi,-1,1,0,3,Angielski,n,pronunciation
-urzekający,entrancing,0,angi,-1,1,0,3,Angielski,n,pronunciation
-z powodu,for,0,angi,-1,1,0,3,Angielski,n,pronunciation
-współczuć,pity,0,angi,-1,1,0,3,Angielski,n,pronunciation
-głęboki szok,advanced state of shock,0,angi,-1,1,0,3,Angielski,n,pronunciation
-jedynie;tylko,merely,0,angi,-1,1,0,3,Angielski,n,pronunciation
-obłąkany,insane,0,angi,-1,1,0,3,Angielski,n,pronunciation
-temperatura(choroba),heat,0,angi,-1,1,0,3,Angielski,n,pronunciation
-choroba,disease,0,angi,-1,1,0,3,Angielski,n,pronunciation
-pchła,flea,0,angi,-1,1,0,3,Angielski,n,pronunciation
-trzymać się z daleka od,keep away from,0,angi,-1,1,0,3,Angielski,n,pronunciation
-wysłać po kogoś,send for sb,0,angi,-1,1,0,3,Angielski,n,pronunciation
-skromny,modest,0,angi,-1,1,0,3,Angielski,n,pronunciation
-niewinny;czysty,pure,0,angi,-1,1,0,3,Angielski,n,pronunciation
-uprzejmy,polite,0,ang,-1,1,0,3,Angielski,n,pronunciation
-czysty;wytworny,refined,0,ang,-1,1,0,3,Angielski,n,pronunciation
-dobrze wychowany,well-bred,0,angi,-1,1,0,3,Angielski,n,pronunciation
-dojrzały,mature,0,angi,-1,1,0,3,Angielski,n,pronunciation
-postradać zmysły,be out of one's mind,0,angi,-1,1,0,3,Angielski,n,pronunciation
-komitet,committee,0,angi,-1,1,0,3,Angielski,n,pronunciation
-honorować,honor,0,angi,-1,1,0,3,Angielski,n,pronunciation
-beztroski;oszołomiony,dizzy,0,ang,-1,1,0,3,Angielski,n,pronunciation
-pogodny,sunny,0,ang,-1,1,0,3,Angielski,n,pronunciation
+polski,angielski,0,,0,0,0,3,Angielski,n
+radosny,gay,0,angi,-1,1,0,3,Angielski,n
+czarująca,charming,0,angi,-1,1,0,3,Angielski,n
+zachwycający,stunning,0,angi,-1,1,0,3,Angielski,n
+urzekający,entrancing,0,angi,-1,1,0,3,Angielski,n
+z powodu,for,0,angi,-1,1,0,3,Angielski,n
+współczuć,pity,0,angi,-1,1,0,3,Angielski,n
+głęboki szok,advanced state of shock,0,angi,-1,1,0,3,Angielski,n
+jedynie;tylko,merely,0,angi,-1,1,0,3,Angielski,n
+obłąkany,insane,0,angi,-1,1,0,3,Angielski,n
+temperatura(choroba),heat,0,angi,-1,1,0,3,Angielski,n
+choroba,disease,0,angi,-1,1,0,3,Angielski,n
+pchła,flea,0,angi,-1,1,0,3,Angielski,n
+trzymać się z daleka od,keep away from,0,angi,-1,1,0,3,Angielski,n
+wysłać po kogoś,send for sb,0,angi,-1,1,0,3,Angielski,n
+skromny,modest,0,angi,-1,1,0,3,Angielski,n
+niewinny;czysty,pure,0,angi,-1,1,0,3,Angielski,n
+uprzejmy,polite,0,ang,-1,1,0,3,Angielski,n
+czysty;wytworny,refined,0,ang,-1,1,0,3,Angielski,n
+dobrze wychowany,well-bred,0,angi,-1,1,0,3,Angielski,n
+dojrzały,mature,0,angi,-1,1,0,3,Angielski,n
+postradać zmysły,be out of one's mind,0,angi,-1,1,0,3,Angielski,n
+komitet,committee,0,angi,-1,1,0,3,Angielski,n
+honorować,honor,0,angi,-1,1,0,3,Angielski,n
+beztroski;oszołomiony,dizzy,0,ang,-1,1,0,3,Angielski,n
+pogodny,sunny,0,ang,-1,1,0,3,Angielski,n

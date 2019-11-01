@@ -1,43 +1,43 @@
-polski,francuski,0,,110,194,0,3,Angielski,n,pronunciation
-zawód2,le métier,0,i,-1,3,0,3,Angielski,n,pronunciation
-miejsce pracy,le lieu de travail,0,i,-1,3,0,3,Angielski,n,pronunciation
-szpital,l'hôpital,0,i,-7,3,0,3,Angielski,n,pronunciation
-lekarz,le médicin,0,i,-2,3,0,3,Angielski,n,pronunciation
-policjant,le gendarme,0,i,-1,3,0,3,Angielski,n,pronunciation
-posterunek policji,la gendarmerie,0,i,-2,3,0,3,Angielski,n,pronunciation
-zmieniać(się),changer,0,i,-6,3,0,3,Angielski,n,pronunciation
-szczęście,la chance,0,i,-1,3,0,3,Angielski,n,pronunciation
-mieć rację,avoir raison,0,i,-1,3,0,3,Angielski,n,pronunciation
-jako,comme,0,i,-2,3,0,3,Angielski,n,pronunciation
-czasopismo o modzie,le magazine de mode,0,i,-1,3,0,3,Angielski,n,pronunciation
-pracować na własny rachunek,être à son compte,0,i,-1,3,0,3,Angielski,n,pronunciation
-fotograf,le photographe,0,i,-1,3,0,3,Angielski,n,pronunciation
-strażak,le pompier,0,i,-2,3,0,3,Angielski,n,pronunciation
-być bezrobotnym,être au chômage,0,i,-2,3,0,3,Angielski,n,pronunciation
-lotnisko,l'aéroport,0,i,-1,3,0,3,Angielski,n,pronunciation
-słyszeć o kimś,avoir des nouvelles de qn,0,i,-1,3,0,3,Angielski,n,pronunciation
-rzeźnik,le boucher,0,i,-1,3,0,3,Angielski,n,pronunciation
-kucharz,le cuisinier,0,i,-2,3,0,3,Angielski,n,pronunciation
-urzędnik,l'employé,0,i,-1,3,0,3,Angielski,n,pronunciation
-nauczyciel w szkole podstawowej,l'instituteur,0,i,-1,3,0,3,Angielski,n,pronunciation
-kelner,le serveur,0,i,-4,3,0,3,Angielski,n,pronunciation
-robotnik,l'ouvrier,0,,-1,3,0,3,Angielski,n,pronunciation
-technik,le technicien,0,i,-1,3,0,3,Angielski,n,pronunciation
-piekarz,le boulanger,0,i,-1,3,0,3,Angielski,n,pronunciation
-fryzjer,le coiffeur,0,i,-1,3,0,3,Angielski,n,pronunciation
-przewodnik,le quide,0,i,-2,3,0,3,Angielski,n,pronunciation
-dentysta,le dentiste,0,i,-2,3,0,3,Angielski,n,pronunciation
-recepcjonista,le réceptionniste,0,i,-1,3,0,3,Angielski,n,pronunciation
-nauczyciel,le professeur,0,i,-2,3,0,3,Angielski,n,pronunciation
-praca na pełny etat,le temps complet,0,,-1,3,0,3,Angielski,n,pronunciation
-praca na część etatu,le temps partiel,0,,-1,3,0,3,Angielski,n,pronunciation
-stopa bezrobocia,le taux de chômage,0,i,-1,3,0,3,Angielski,n,pronunciation
-Tyle czasu minęło!,Cela fait si longtemps!,0,ang,-1,0,0,0,angielski,n,pronunciation
-od czasu do czasu,de temps en temps,0,ang,-1,0,0,0,angielski,n,pronunciation
-żołnierz,le soldat,0,ang,-2,0,0,0,angielski,n,pronunciation
-żołnierz,le militaire,0,ang,-2,0,0,0,angielski,n,pronunciation
-student,le étudiant,0,ang,-1,0,0,0,angielski,n,pronunciation
-chwila,le instant,0,ang,-1,0,0,0,angielski,n,pronunciation
-oddzwaniać,rappeler,0,ang,-1,0,0,0,angielski,n,pronunciation
-halo,âllo,0,ang,-1,0,0,0,angielski,n,pronunciation
-spółka,la société,0,ang,-1,0,0,0,angielski,n,pronunciation
+polski,francuski,0,,110,194,0,3,Angielski,n
+zawód2,le métier,0,i,-1,3,0,3,Angielski,n
+miejsce pracy,le lieu de travail,0,i,-1,3,0,3,Angielski,n
+szpital,l'hôpital,0,i,-7,3,0,3,Angielski,n
+lekarz,le médicin,0,i,-2,3,0,3,Angielski,n
+policjant,le gendarme,0,i,-1,3,0,3,Angielski,n
+posterunek policji,la gendarmerie,0,i,-2,3,0,3,Angielski,n
+zmieniać(się),changer,0,i,-6,3,0,3,Angielski,n
+szczęście,la chance,0,i,-1,3,0,3,Angielski,n
+mieć rację,avoir raison,0,i,-1,3,0,3,Angielski,n
+jako,comme,0,i,-2,3,0,3,Angielski,n
+czasopismo o modzie,le magazine de mode,0,i,-1,3,0,3,Angielski,n
+pracować na własny rachunek,être à son compte,0,i,-1,3,0,3,Angielski,n
+fotograf,le photographe,0,i,-1,3,0,3,Angielski,n
+strażak,le pompier,0,i,-2,3,0,3,Angielski,n
+być bezrobotnym,être au chômage,0,i,-2,3,0,3,Angielski,n
+lotnisko,l'aéroport,0,i,-1,3,0,3,Angielski,n
+słyszeć o kimś,avoir des nouvelles de qn,0,i,-1,3,0,3,Angielski,n
+rzeźnik,le boucher,0,i,-1,3,0,3,Angielski,n
+kucharz,le cuisinier,0,i,-2,3,0,3,Angielski,n
+urzędnik,l'employé,0,i,-1,3,0,3,Angielski,n
+nauczyciel w szkole podstawowej,l'instituteur,0,i,-1,3,0,3,Angielski,n
+kelner,le serveur,0,i,-4,3,0,3,Angielski,n
+robotnik,l'ouvrier,0,,-1,3,0,3,Angielski,n
+technik,le technicien,0,i,-1,3,0,3,Angielski,n
+piekarz,le boulanger,0,i,-1,3,0,3,Angielski,n
+fryzjer,le coiffeur,0,i,-1,3,0,3,Angielski,n
+przewodnik,le quide,0,i,-2,3,0,3,Angielski,n
+dentysta,le dentiste,0,i,-2,3,0,3,Angielski,n
+recepcjonista,le réceptionniste,0,i,-1,3,0,3,Angielski,n
+nauczyciel,le professeur,0,i,-2,3,0,3,Angielski,n
+praca na pełny etat,le temps complet,0,,-1,3,0,3,Angielski,n
+praca na część etatu,le temps partiel,0,,-1,3,0,3,Angielski,n
+stopa bezrobocia,le taux de chômage,0,i,-1,3,0,3,Angielski,n
+Tyle czasu minęło!,Cela fait si longtemps!,0,ang,-1,0,0,0,angielski,n
+od czasu do czasu,de temps en temps,0,ang,-1,0,0,0,angielski,n
+żołnierz,le soldat,0,ang,-2,0,0,0,angielski,n
+żołnierz,le militaire,0,ang,-2,0,0,0,angielski,n
+student,le étudiant,0,ang,-1,0,0,0,angielski,n
+chwila,le instant,0,ang,-1,0,0,0,angielski,n
+oddzwaniać,rappeler,0,ang,-1,0,0,0,angielski,n
+halo,âllo,0,ang,-1,0,0,0,angielski,n
+spółka,la société,0,ang,-1,0,0,0,angielski,n

@@ -1,9 +1,9 @@
-polski,angielski,0,,0,0,0,0,Angielski,n,pronunciation
-rozbić/rozwalić,bust,3,ang,0,0,0,0,Angielski,n,pronunciation
-wypalać się,burn out,3,ang,0,0,0,0,Angielski,n,pronunciation
-nadawać,transmit,3,ang,0,0,0,0,Angielski,n,pronunciation
-złudzenie,delusion,3,ang,0,0,0,0,Angielski,n,pronunciation
-kręgosłup,spine,3,ang,0,0,0,0,Angielski,n,pronunciation
-podskakiwać,bob,3,ang,0,0,0,0,Angielski,n,pronunciation
-nerwowy/gorączkowy/napięty,hectic,3,ang,0,0,0,0,Angielski,n,pronunciation
-nieodparty,irresistible,3,ang,0,0,0,0,Angielski,n,pronunciation
+polski,angielski,0,,0,0,0,0,Angielski,n
+rozbić/rozwalić,bust,3,ang,0,0,0,0,Angielski,n
+wypalać się,burn out,3,ang,0,0,0,0,Angielski,n
+nadawać,transmit,3,ang,0,0,0,0,Angielski,n
+złudzenie,delusion,3,ang,0,0,0,0,Angielski,n
+kręgosłup,spine,3,ang,0,0,0,0,Angielski,n
+podskakiwać,bob,3,ang,0,0,0,0,Angielski,n
+nerwowy/gorączkowy/napięty,hectic,3,ang,0,0,0,0,Angielski,n
+nieodparty,irresistible,3,ang,0,0,0,0,Angielski,n

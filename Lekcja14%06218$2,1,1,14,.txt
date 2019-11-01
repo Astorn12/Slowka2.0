@@ -1,50 +1,50 @@
-polski,francuski,0,,0,0,0,3,Angielski,n,pronunciation
-mówić cicho,parler bas,3,ang,1,3,0,3,Angielski,n,pronunciation
-życie,la vie,3,ang,1,3,0,3,Angielski,n,pronunciation
-mówić(nie parle),dire,3,ang,1,3,0,3,Angielski,n,pronunciation
-wyraz,le mot,3,ang,1,3,0,3,Angielski,n,pronunciation
-miłość,le amour,3,ang,1,3,0,3,Angielski,n,pronunciation
-coś,quelque chose,3,ang,1,3,0,3,Angielski,n,pronunciation
-serce,le soeur,3,ang,1,3,0,3,Angielski,n,pronunciation
-znać,connaître,3,ang,1,3,0,3,Angielski,n,pronunciation
-powód,la cause,3,ang,1,3,0,3,Angielski,n,pronunciation
-przysięgać,jurer,3,ang,1,3,0,3,Angielski,n,pronunciation
-bić,battre,3,ang,1,3,0,3,Angielski,n,pronunciation
-nisko,bas,3,ang,1,3,0,3,Angielski,n,pronunciation
-wysko,haut,3,ang,1,3,0,3,Angielski,n,pronunciation
-nieszczęście,malheur,3,ang,1,3,0,3,Angielski,n,pronunciation
-czuć,sentir,3,ang,1,3,0,3,Angielski,n,pronunciation
-oceniać,apprécier,3,ang,1,3,0,3,Angielski,n,pronunciation
-widzieć,voir,3,ang,1,3,0,3,Angielski,n,pronunciation
-według,suivant,3,ang,1,3,0,3,Angielski,n,pronunciation
-wakacje,le vacance,3,ang,1,3,0,3,Angielski,n,pronunciation
-smycz,le laisse,3,ang,1,3,0,3,Angielski,n,pronunciation
-zostawiać,laisser,3,ang,1,3,0,3,Angielski,n,pronunciation
-roślina,la plante,3,ang,1,3,0,3,Angielski,n,pronunciation
-sąsiad,le voisin,3,ang,1,3,0,3,Angielski,n,pronunciation
-przybywać,venir,3,ang,1,3,0,3,Angielski,n,pronunciation
-wczoraj,hier,3,ang,1,3,0,3,Angielski,n,pronunciation
-aresztować,arrêter,3,ang,1,3,0,3,Angielski,n,pronunciation
-ale,mais,3,ang,1,3,0,3,Angielski,n,pronunciation
-zważywszy że,comme,3,ang,1,3,0,3,Angielski,n,pronunciation
-jak,comment,3,ang,1,3,0,3,Angielski,n,pronunciation
-jak2,comme,3,ang,1,3,0,3,Angielski,n,pronunciation
-prawda,le vrai,3,ang,1,3,0,3,Angielski,n,pronunciation
-mistrz patelni,le cordon-blue,3,ang,1,3,0,3,Angielski,n,pronunciation
-od,depuis,3,ang,1,3,0,3,Angielski,n,pronunciation
-rozrabiać,broyer,3,ang,1,3,0,3,Angielski,n,pronunciation
-żart,la blague,3,ang,1,3,0,3,Angielski,n,pronunciation
-zarabiać,gagner,3,ang,1,3,0,3,Angielski,n,pronunciation
-zdany,réussi,3,ang,1,3,0,3,Angielski,n,pronunciation
-kumpel,le copain,3,ang,1,3,0,3,Angielski,n,pronunciation
-trzymać,tenir,3,ang,1,3,0,3,Angielski,n,pronunciation
-bardzo,très,3,ang,1,3,0,3,Angielski,n,pronunciation
-pokazywać,montrer,3,ang,1,3,0,3,Angielski,n,pronunciation
-łapa,le patte,3,ang,1,3,0,3,Angielski,n,pronunciation
-zmierzch,la tombée,3,ang,1,3,0,3,Angielski,n,pronunciation
-defekt,la panne,3,ang,1,3,0,3,Angielski,n,pronunciation
-dziewczyna,fille,3,ang,1,3,0,3,Angielski,n,pronunciation
-dawać,donner,3,ang,1,3,0,3,Angielski,n,pronunciation
-oddawać,donner,3,ang,1,3,0,3,Angielski,n,pronunciation
-ogień,le feu,3,ang,1,3,0,3,Angielski,n,pronunciation
-modny,chic,3,ang,1,3,0,3,Angielski,n,pronunciation
+polski,francuski,0,,0,0,0,3,Angielski,n
+mówić cicho,parler bas,3,ang,1,3,0,3,Angielski,n
+życie,la vie,3,ang,1,3,0,3,Angielski,n
+mówić(nie parle),dire,3,ang,1,3,0,3,Angielski,n
+wyraz,le mot,3,ang,1,3,0,3,Angielski,n
+miłość,le amour,3,ang,1,3,0,3,Angielski,n
+coś,quelque chose,3,ang,1,3,0,3,Angielski,n
+serce,le soeur,3,ang,1,3,0,3,Angielski,n
+znać,connaître,3,ang,1,3,0,3,Angielski,n
+powód,la cause,3,ang,1,3,0,3,Angielski,n
+przysięgać,jurer,3,ang,1,3,0,3,Angielski,n
+bić,battre,3,ang,1,3,0,3,Angielski,n
+nisko,bas,3,ang,1,3,0,3,Angielski,n
+wysko,haut,3,ang,1,3,0,3,Angielski,n
+nieszczęście,malheur,3,ang,1,3,0,3,Angielski,n
+czuć,sentir,3,ang,1,3,0,3,Angielski,n
+oceniać,apprécier,3,ang,1,3,0,3,Angielski,n
+widzieć,voir,3,ang,1,3,0,3,Angielski,n
+według,suivant,3,ang,1,3,0,3,Angielski,n
+wakacje,le vacance,3,ang,1,3,0,3,Angielski,n
+smycz,le laisse,3,ang,1,3,0,3,Angielski,n
+zostawiać,laisser,3,ang,1,3,0,3,Angielski,n
+roślina,la plante,3,ang,1,3,0,3,Angielski,n
+sąsiad,le voisin,3,ang,1,3,0,3,Angielski,n
+przybywać,venir,3,ang,1,3,0,3,Angielski,n
+wczoraj,hier,3,ang,1,3,0,3,Angielski,n
+aresztować,arrêter,3,ang,1,3,0,3,Angielski,n
+ale,mais,3,ang,1,3,0,3,Angielski,n
+zważywszy że,comme,3,ang,1,3,0,3,Angielski,n
+jak,comment,3,ang,1,3,0,3,Angielski,n
+jak2,comme,3,ang,1,3,0,3,Angielski,n
+prawda,le vrai,3,ang,1,3,0,3,Angielski,n
+mistrz patelni,le cordon-blue,3,ang,1,3,0,3,Angielski,n
+od,depuis,3,ang,1,3,0,3,Angielski,n
+rozrabiać,broyer,3,ang,1,3,0,3,Angielski,n
+żart,la blague,3,ang,1,3,0,3,Angielski,n
+zarabiać,gagner,3,ang,1,3,0,3,Angielski,n
+zdany,réussi,3,ang,1,3,0,3,Angielski,n
+kumpel,le copain,3,ang,1,3,0,3,Angielski,n
+trzymać,tenir,3,ang,1,3,0,3,Angielski,n
+bardzo,très,3,ang,1,3,0,3,Angielski,n
+pokazywać,montrer,3,ang,1,3,0,3,Angielski,n
+łapa,le patte,3,ang,1,3,0,3,Angielski,n
+zmierzch,la tombée,3,ang,1,3,0,3,Angielski,n
+defekt,la panne,3,ang,1,3,0,3,Angielski,n
+dziewczyna,fille,3,ang,1,3,0,3,Angielski,n
+dawać,donner,3,ang,1,3,0,3,Angielski,n
+oddawać,donner,3,ang,1,3,0,3,Angielski,n
+ogień,le feu,3,ang,1,3,0,3,Angielski,n
+modny,chic,3,ang,1,3,0,3,Angielski,n

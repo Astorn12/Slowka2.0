@@ -15,7 +15,7 @@ public class Slowo  {
     public int reArchiwum;
     public String jezyk;
     public String powrotArchiwum;
-    public String pronunciation;
+
     Slowo()
     {
         this.pol=null;
@@ -26,7 +26,7 @@ public class Slowo  {
         this.reArchiwum=0;
         this.jezyk=null;
         this.powrotArchiwum="n";
-        this.pronunciation="pronunciation";
+
     }//
 
     Slowo(String pol,String fore,String language,int priority)
@@ -38,13 +38,13 @@ public class Slowo  {
 
         this.jezyk="angielski";
         this.powrotArchiwum="n";
-        this.pronunciation="pronunciation";
+
     }
 
     Slowo(String pol,String fore,String language,int priority,String pronunciation)
     {
        this(pol,fore,language,priority);
-       this.pronunciation=pronunciation;
+
     }
     Slowo(StatyPlik statyPlik)
     {
@@ -66,7 +66,6 @@ public class Slowo  {
         this.reArchiwum=statyPlik.dodatkowy;
         this.jezyk=statyPlik.extranull;
         this.powrotArchiwum="n";
-        this.pronunciation=statyPlik.extraPronunciation;
     }
     Slowo(Word wd)
     {
@@ -132,27 +131,26 @@ if(!(this.priority==Integer.parseInt(null))) this.priority=priority;
     }
     public void zapytanie() throws EndException
     {
-        System.out.println(this.pol);
-        System.out.println("");
+
         Scanner scanner= new Scanner(System.in);
         String odpowiedz=scanner.nextLine().toString();
         if (odpowiedz.equals("123")) throw  new EndException();
         if(odpowiedz.equals(this.fore)) {
             this.set_priority(this.get_priority() - 1);
-            System.out.println("DOBRA ODPOWIEDŹ");
+
         }
         else
 
         {
             this.set_priority(this.get_priority() + 1);
-            System.out.println("ZŁA ODPOWIEDŹ");
+
             String answer="Poprawna odpowiedź: "+this.fore;
 
         /*    if(!(this.pronunciation.equals("")|| this.pronunciation.equals("pronunciation"))){
                 answer+=" <"+this.pronunciation+">";
             }*/
             //System.out.println("Poprawna odpowiedź: "+this.fore+ " <"+this.pronunciation+">");
-            System.out.println(answer);
+
         }
 
     }
@@ -168,7 +166,6 @@ public Slowo clone()
     slowo.pol=this.pol;
     slowo.priority=this.priority;
     slowo.language= this.language;
-    slowo.pronunciation=pronunciation;
     return slowo;
 
 }

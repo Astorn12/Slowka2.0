@@ -1,7 +1,6 @@
 import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
 import net.miginfocom.swing.MigLayout;
 import org.omg.CORBA.ARG_OUT;
-
 import javax.swing.*;
 import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.tree.DefaultTreeModel;
@@ -92,23 +91,11 @@ public class Plik {
 
     public void zczytywanie() {
         Pomocnik_plikowy p = new Pomocnik_plikowy();
-       /* Slowo slowo= new Slowo();
-        slowo.pol="pol";
-        slowo.fore="ang";
-        slowo.priority=0;
-        slowo.enumeracja=0;
-        slowo.repriority=0;
-        slowo.language="";
-        this.lista.add(slowo);*/
         lista.clear();
         p.zczytywanie_z_pliku(this.nazwa_systemowa, ',', this.lista, Slowo.class);
 
         this.statyplik = new StatyPlik(lista.get(0));
         lista.remove(0);
-
-        //if(lista.size()>0)
-
-
     }
 
     public void zapis_zmian() {
@@ -120,33 +107,18 @@ public class Plik {
 
         this.wypisanie_listy();
         lista.add(0, slowo);
-        /*Slowo slowo= new Slowo();
-        slowo.pol="pol";
-        slowo.fore="ang";
-        slowo.priority=0;
-        slowo.enumeracja=0;
-        slowo.repriority=0;
-        slowo.language="";
-        this.lista.add(0,slowo);*/
+        if(this.nazwa_systemowa.equals("Lekcja16%04219$2,1,2,14,.txt")){
+                int x=2;
+        }
 
-       /* for (Slowo s: lista
-             ) {
-
-
-        }*/
-
-        /*for(Slowo s:lista)
-        {
-           s.powrotArchiwum="n,";
-        }*/
         p.zapisywanie_do_pliku(this.nazwa_systemowa, ',', this.lista, Slowo.class);
-        //  p.zapisywanie_do_pliku("^Metoda ciekawiaka%25018$2,5,1,.txt",',',this.lista,Slowo.class);
+
         lista.remove(0);
+        System.out.println("Zapis zmian");
     }
 
     public void wypisanie_listy() {
         for (int i = 0; i < this.lista.size(); i++) {
-            System.out.println(i + 1 + ". " + this.lista.get(i).get_pol() + "-" + this.lista.get(i).get_fore() + " " + this.lista.get(i).priority);
         }
     }
 
@@ -179,60 +151,7 @@ public class Plik {
         return this.lista;
     }
 
-    public Slowo get_slowo(int i) {
-        return this.lista.get(i);
-    }
 
-    public void dodaj(Slowo slowo) {
-        this.lista.add(slowo);
-    }
-
-    public void test() throws Exception {
-        try {
-            while (true) {
-
-                List<Slowo> test = new LinkedList();
-                for (int i = 0; i < this.lista.size(); i++) {
-                    for (int j = 0; j < this.lista.get(i).get_priority(); j++) {
-                        test.add(this.lista.get(i));
-                    }
-                }
-                if (test.size() == 0) {
-
-                    ObsługaNazwowa obsługaNazwowa = new ObsługaNazwowa();
-                    //  this.nazwa_pliku=obsługaNazwowa.zmienNaTeraz(this.get_nazwa_pliku());
-                    throw new GratulacjeException();
-                }
-                Plik plik = new Plik();
-                plik.lista = test;
-                // plik.wypisanie_listy();
-
-                Random random = new Random();
-                int a = random.nextInt(test.size());
-                test.get(a).zapytanie();
-            }
-        } catch (EndException e) {
-            this.zapis_zmian();
-        } catch (GratulacjeException e) {
-
-            System.out.println("Gratulacje umiesz już wszystkie słówka");
-            this.zapis_zmian();
-        }
-    }
-
-    public void powtorka() {
-        for (int i = 0; i < this.lista.size(); i++) {
-            if (this.lista.get(i).get_priority() == 0) this.lista.get(i).set_priority(1);
-        }
-    }
-
-    public void change_language() {
-        for (int i = 0; i < this.lista.size(); i++) {
-            String tmp = this.lista.get(i).get_pol();
-            this.lista.get(i).set_pol(this.lista.get(i).fore);
-            this.lista.get(i).set_fore(tmp);
-        }
-    }
 
     public Plik clone() {
         Plik plik = new Plik();
@@ -403,18 +322,20 @@ public class Plik {
                     }
 
 
-                    for(Slowo s:test)
-                    {
-                        System.out.println(s.toString());
-                    }
+
                     if (!manipulatorOdpowiedzi(fore.getText().toString(), test.get(aktualnePytanie).fore)) {
-                        String answer="Źle: \n" + "Twoja odpowiedź:\n " + fore.getText() + "\nPoprawna odpowiedź:\n " + test.get(aktualnePytanie).pol + "- " + test.get(aktualnePytanie).fore;
-                        if(!(test.get(aktualnePytanie).pronunciation.equals("")|| test.get(aktualnePytanie).pronunciation.equals("pronunciation"))){
-                            answer+=" <"+test.get(aktualnePytanie).pronunciation+">";
+
+                        Speaker speaker= new Speaker();
+                        try {
+                            speaker.speak(test.get(aktualnePytanie).fore);
+                        } catch (Exception e) {
+                            e.printStackTrace();
                         }
+                        String answer="Źle: \n" + "Twoja odpowiedź:\n " + fore.getText() + "\nPoprawna odpowiedź:\n " + test.get(aktualnePytanie).pol + "- " + test.get(aktualnePytanie).fore;
+
                         odpowiedz.setText(answer);
 
-                        if (test.get(aktualnePytanie).priority < 5) {
+                        if (test.get(aktualnePytanie).priority < Priority.priority) {
                             test.get(aktualnePytanie).priority++;
                             test.get(aktualnePytanie).archiwumLicznik = 0;
                             this.statyplik.iloscZlychOdpowiedzi+=1;
@@ -425,10 +346,19 @@ public class Plik {
                         }
 
                     } else {
-                        String answer="Dobrze: " + test.get(aktualnePytanie).pol + "- " + test.get(aktualnePytanie).fore;
-                        if(!(test.get(aktualnePytanie).pronunciation.equals("")|| test.get(aktualnePytanie).pronunciation.equals("pronunciation"))){
-                            answer+=" <"+test.get(aktualnePytanie).pronunciation+">";
+
+
+                        Speaker reader= new Speaker();
+
+                        try {
+                            reader.speak(test.get(aktualnePytanie).fore);
+                        } catch (Exception e) {
+                            e.printStackTrace();
                         }
+
+
+                        String answer="Dobrze: " + test.get(aktualnePytanie).pol + "- " + test.get(aktualnePytanie).fore;
+
                         odpowiedz.setText(answer);
                         test.get(aktualnePytanie).priority--;
                         this.statyplik.iloscDobrychOdpowiedzi++;
@@ -716,7 +646,7 @@ public class Plik {
 
                         odpowiedz.setText(answer);
 
-                        if (test.get(aktualnePytanie).repriority < 5) {
+                        if (test.get(aktualnePytanie).repriority < 2) {
                             test.get(aktualnePytanie).repriority++;
                             this.statyplik.iloscZlychOdpowiedzi++;
                             test.get(aktualnePytanie).reArchiwum = 0;
@@ -858,85 +788,7 @@ public class Plik {
             }
 
         }
-        /*else
-        {
 
-            if (pol.getText().isEmpty()) {
-                List<Slowo> test = new LinkedList();
-                for (int i = 0; i < this.lista.size(); i++) {
-                    for (int j = 0; j < this.lista.get(i).repriority; j++) {
-                        test.add(this.lista.get(i));
-                    }
-                }
-                if (!test.isEmpty()) {
-                    if (test.size() == 0) throw new GratulacjeException();
-                    Plik plik = new Plik();
-                    plik.lista = test;
-                    // plik.wypisanie_listy();
-
-                    Random random = new Random();
-                    aktualnePytanie = random.nextInt(test.size());
-                    pol.setText(test.get(aktualnePytanie).fore);
-                    pol.repaint();
-                } else {
-                    odpowiedz.setText("GRATULACJE!!! Umiesz już wszystkie słówka");
-
-                    throw new GratulacjeException();
-                }
-            } else {
-                try {
-                    // while (true) {
-                    List<Slowo> test = new LinkedList();
-                    for (int i = 0; i < this.lista.size(); i++) {
-                        for (int j = 0; j < this.lista.get(i).repriority; j++) {
-                            test.add(this.lista.get(i));
-                        }
-                    }
-                    if (test.size() == 0) throw new GratulacjeException();
-                    Plik plik = new Plik();
-                    plik.lista = test;
-                    // plik.wypisanie_listy();
-                    if (!pol.getText().equals(test.get(aktualnePytanie).fore)) {
-                        aktualnePytanie++;
-                    }
-                    //Random random = new Random();
-                    // int a = random.nextInt(test.size());
-                    if (fore.getText().equals("123")) {
-                        pol.setText("");
-                        fore.setText("");
-                        throw new EndException();
-
-                    }
-                    if (!((test.get(aktualnePytanie).pol).equals(fore.getText().toString()))) {
-
-                        odpowiedz.setText("Źle: \n" + "Twoja odpowiedź:\n " + fore.getText() + "\nPoprawna odpowiedź:\n " + test.get(aktualnePytanie).fore + "- " + test.get(aktualnePytanie).pol);
-
-                        if (test.get(aktualnePytanie).repriority < 5) {
-                            test.get(aktualnePytanie).repriority++;
-                            test.get(aktualnePytanie).archiwumLicznik = 0;
-
-                            podsumowania.podsumowanie.get(0).iloscOdpowiedzi++;
-                            podsumowania.podsumowanie.get(0).iloscNiepoprawnych++;
-                            podsumowania.zapis();
-                        }
-                        test.add(test.get(aktualnePytanie));
-                        //test.add(new Slowo());
-                    } else {
-                        odpowiedz.setText("Dobrze");
-                        test.get(aktualnePytanie).repriority--;
-                        if (test.get(aktualnePytanie).repriority == 0) {
-                            test.get(aktualnePytanie).archiwumLicznik--;
-                        }
-
-                        if (test.get(aktualnePytanie).archiwumLicznik < -4) {
-                            //tutaj trzeba usunąć słówko z tego pliku i przenieść do archiwum
-                            /*LinkedList<Slowo> l = new LinkedList<>();
-                            Pomocnik_plikowy pomocnik_plikowy = new Pomocnik_plikowy();
-                            Pomocnik_plikowy.zczytywanie_z_pliku(archiwum, ',', l, Slowo.class);
-                            l.add(test.get(aktualnePytanie));
-                            Pomocnik_plikowy.zapisywanie_do_pliku(archiwum, ',', l, Slowo.class);
-                            this.usunSlowoZListy(test.get(aktualnePytanie));
-                            this.zapis_zmian();*/
     }
 
 
@@ -1023,16 +875,7 @@ public class Plik {
         }
     }
 
-    //JLabel opanowaneSłówka=new JLabel("opanowane słówka");
-    //int opanowaneSlowka=0;
 
-
-    //JLabel iloscSlowekDoNauczenia= new JLabel("Ilość słówek do nauczenia");
-    // JLabel procentOpanowanychSłówek= new JLabel("Procent opanowanych słówek");
-    // JLabel iloscUdzielonychOdpowiedzi= new JLabel();
-    // JLabel iloscOdpowiedziDoZakonczeniaTematu= new JLabel("Ilość odpowiedzi do zakonczenia tematu");
-    //  JLabel najgorszeSłówko=new JLabel("Njagorsze słówko");
-    //JLabel procentOdpowiedziDoUdzielenia= new JLabel("Procent odpowiedzi do udzielenia");
     public int opanowaneSlowka() {
         int n = 0;
         for (int i = 0; i < this.lista.size(); i++) {
@@ -1596,830 +1439,4 @@ public class Plik {
     }
 
 
-    /* public void rightClickPopupMenu(JPopupMenu menu,final AplicationSlowka2 thi, final DefaultMutableTreeNode node)
-    {
-        JMenuItem listaSlowek = new JMenuItem("Lista słówek");
-        JMenuItem test = new JMenuItem("Test");
-        JMenuItem wpisywanie = new JMenuItem("Wpisywanie");
-        JMenuItem zmienNazwe = new JMenuItem("Zmień nazwę");
-        JMenuItem usunTemat = new JMenuItem("Usuń temat");
-        JMenuItem przemieszczenie = new JMenu("Przemieszczenie");
-
-        menu.add(listaSlowek);
-        menu.add(wpisywanie);
-        menu.add(test);
-        menu.add(zmienNazwe);
-        menu.add(usunTemat);
-        menu.add(przemieszczenie);
-
-        JMenuItem wGórę = new JMenuItem("W górę");
-        JMenuItem wDół = new JMenuItem("W dół");
-        przemieszczenie.add(wGórę);
-        przemieszczenie.add(wDół);
-
-        wGórę.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                if (thi.aktualny_plik.numer.get(thi.aktualny_plik.numer.size() - 1) > 1) {
-                    Vector<Integer> vector = new Vector<>();
-                    for (int i = 0; i < thi.aktualny_plik.numer.size() - 1; i++) {
-                        vector.add(thi.aktualny_plik.numer.get(i));
-                    }
-
-                    Pakiet pakiet = thi.z.poszukiwanie_pakietu(vector);
-                    vector.add(thi.aktualny_plik.numer.get(thi.aktualny_plik.numer.size() - 1) - 1);
-                    Plik poszkodowany = pakiet.getPlik(vector);
-                    thi.aktualny_plik.wGore(thi.getArchiwumForFile(thi.aktualny_plik, thi.z));
-                    poszkodowany.wDol(thi.getArchiwumForFile(thi.aktualny_plik, thi.z));
-                    thi.aktualny_plik.juzZmienione = false;
-                    poszkodowany.juzZmienione = false;
-                    String s = thi.getExpansionState();
-                    thi.z.zaktualizujZmiany();
-                    thi.drzewoReload(s);
-                }
-
-            }
-        });
-
-        wDół.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-
-                Vector<Integer> vector = new Vector<>();
-                for (int i = 0; i < thi.aktualny_plik.numer.size() - 1; i++) {
-                    vector.add(thi.aktualny_plik.numer.get(i));
-                }
-
-                Pakiet pakiet = thi.z.poszukiwanie_pakietu(vector);
-                vector.add(thi.aktualny_plik.numer.get(thi.aktualny_plik.numer.size() - 1) + 1);
-                Plik poszkodowany = pakiet.getPlik(vector);
-                if (poszkodowany != null) {
-                    thi.aktualny_plik.wDol(thi.getArchiwumForFile(thi.aktualny_plik, thi.z));
-                    poszkodowany.wGore(thi.getArchiwumForFile(thi.aktualny_plik, thi.z));
-                    thi.aktualny_plik.juzZmienione = false;
-                    poszkodowany.juzZmienione = false;
-                    String s = thi.getExpansionState();
-                    thi.z.zaktualizujZmiany();
-                    thi.drzewoReload(s);
-                }
-            }
-
-
-        });
-
-
-        listaSlowek.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-
-                //thi.panelRodzajuPracy=wepnijPanelListySlowek();
-                thi.panelRodzajuPracy.removeAll();
-                try {
-                    // thi.panelRodzajuPracy.add(wepnijPanelListySlowek(),"gapbefore 100,w 400:500:600, h 500:600:700");
-                    thi.wepnijPanelListySlowek1();
-
-                } catch (IOException e1) {
-                    e1.printStackTrace();
-                }
-                //thi.panelRodzajuPracy.add(createPanelListySlowek(),"gapbefore 100,w 400:500:600, h 500:600:700");
-                thi.panelRodzajuPracy.setVisible(true);
-                thi.panelRodzajuPracy.repaint();
-                thi.panelRodzajuPracy.revalidate();
-            }
-        });
-        wpisywanie.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                thi.panelRodzajuPracy.removeAll();
-                //thi.panelRodzajuPracy.add(createDodawanieSlowek(),"c,w 1000:1050:1100,h 1000:1050:10100");
-                thi.createDodawanieSlowek1();
-
-                thi.panelRodzajuPracy.revalidate();
-                thi.panelRodzajuPracy.setFocusable(true);
-                //add(createDodawanieSlowek(),"w 1000:1050:1100,h 1000:1050:10100");
-                // thi.panelRodzajuPracy.setVisible(true);
-                // thi.panelRodzajuPracy.repaint();
-            }
-        });
-        test.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                thi.panelRodzajuPracy.removeAll();
-                //thi.panelRodzajuPracy.add(createTest(),"gaptop 150,gapbefore 120,w 400:500:600,h 300:400:500,dock south");
-                thi.createTest1();
-                thi.panelRodzajuPracy.revalidate();
-                thi.panelRodzajuPracy.setVisible(true);
-                thi.panelRodzajuPracy.repaint();
-
-            }
-        });
-        zmienNazwe.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                final String staraNazwa;
-                final String[] nowaNazwa = new String[1];
-                staraNazwa = node.getUserObject() + "";
-                thi.tree.revalidate();
-                thi.tree.repaint();
-                final Vector<Vector<Integer>> numer = new Vector<>();
-                final JFrame jFrame = new JFrame();
-                JPanel jPanel = new JPanel();
-                jPanel.setLayout(new MigLayout());
-                JLabel jLabel = new JLabel("Nazwa nowej grupy");
-                JButton jButton = new JButton("Ustaw");
-                final JTextField jTextField = new JTextField();
-                jFrame.add(jPanel);
-
-                jPanel.add(jLabel);
-                jPanel.add(jTextField, "w 100:200:300,h 40:50:60,wrap");
-                jPanel.add(jButton, "cell 1 1 1 2");
-                jFrame.pack();
-                jFrame.setVisible(true);
-                jFrame.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
-                jButton.addActionListener(new ActionListener() {
-                    @Override
-                    public void actionPerformed(ActionEvent e) {
-
-
-                        numer.add(0, thi.numer_po_sciezce2(path, z.zbiornik));
-
-                        nowaNazwa[0] = jTextField.getText();
-                        if (nowaNazwa[0].contains("&")) {
-                            Pomocnik_plikowy pomocnik_plikowy = new Pomocnik_plikowy();
-                            ObsługaNazwowa ob = new ObsługaNazwowa();
-                            String plikZTekstem = ob.oddzielNazeOdDaty(nowaNazwa[0]).nazwa;
-                            plikZTekstem = "Tekst()" + plikZTekstem;
-                            plikZTekstem += ".txt";
-                            pomocnik_plikowy.CreateFile(plikZTekstem);
-                        } else if (node.getUserObject().toString().contains("&")) {
-                            Pomocnik_plikowy pomocnik_plikowy = new Pomocnik_plikowy();
-                            ObsługaNazwowa ob = new ObsługaNazwowa();
-                            String plikZTekstem = ob.oddzielNazeOdDaty(nowaNazwa[0]).nazwa;
-                            plikZTekstem = "Tekst()" + plikZTekstem;
-                            plikZTekstem += ".txt";
-                            pomocnik_plikowy.DeleteFile(plikZTekstem);
-                        } else if (nowaNazwa[0].substring(0, 1).contains("@")) {
-                            Pomocnik_plikowy pomocnik_plikowy = new Pomocnik_plikowy();
-                            ObsługaNazwowa ob = new ObsługaNazwowa();
-                            String plikZTekstem = ob.oddzielNazeOdDaty(nowaNazwa[0]).nazwa;
-                            plikZTekstem = "Tekst()" + plikZTekstem;
-                            plikZTekstem += ".txt";
-                            pomocnik_plikowy.CreateFile(plikZTekstem);
-                        } else if (node.getUserObject().toString().contains("@")) {
-                            Pomocnik_plikowy pomocnik_plikowy = new Pomocnik_plikowy();
-                            ObsługaNazwowa ob = new ObsługaNazwowa();
-                            String plikZTekstem = ob.oddzielNazeOdDaty(nowaNazwa[0]).nazwa;
-                            plikZTekstem = "Tekst()" + plikZTekstem;
-                            plikZTekstem += ".txt";
-                            pomocnik_plikowy.DeleteFile(plikZTekstem);
-                        } else if (nowaNazwa[0].substring(0, 1).contains("^")) {
-                            Pomocnik_plikowy pomocnik_plikowy = new Pomocnik_plikowy();
-                            ObsługaNazwowa ob = new ObsługaNazwowa();
-                            String plikZTekstem = ob.oddzielNazeOdDaty(nowaNazwa[0]).nazwa;
-                            plikZTekstem = "Skrót" + plikZTekstem;
-                            plikZTekstem += ".txt";
-                            pomocnik_plikowy.CreateFile(plikZTekstem);
-                            LinkedList<Word> wl = new LinkedList<>();
-                            wl.add(new Word(thi.aktualny_plik.statyplik));
-                            for (Slowo s : thi.aktualny_plik.lista) {
-                                wl.add(new Word(s));
-                            }
-                            Pomocnik_plikowy.zapisywanie_do_pliku(plikZTekstem, ',', wl, Word.class);
-                        } else if (node.getUserObject().toString().contains("^")) {
-                            Pomocnik_plikowy pomocnik_plikowy = new Pomocnik_plikowy();
-                            ObsługaNazwowa ob = new ObsługaNazwowa();
-                            String plikZTekstem = ob.oddzielNazeOdDaty(nowaNazwa[0]).nazwa;
-                            plikZTekstem = "Skrót" + plikZTekstem;
-                            plikZTekstem += ".txt";
-                            pomocnik_plikowy.DeleteFile(plikZTekstem);
-
-                        }
-
-
-
-
-
-                                        /*if(nowaNazwa[0].contains("!"))
-                                        {
-                                            Pomocnik_plikowy pomocnik_plikowy= new Pomocnik_plikowy();
-                                            ObsługaNazwowa ob=new ObsługaNazwowa();
-                                            String plikZTekstem=ob.oddzielNazeOdDaty(nowaNazwa[0]).nazwa;
-                                            plikZTekstem="Tekst()"+plikZTekstem;
-                                            plikZTekstem+=".txt";
-                                            pomocnik_plikowy.CreateFile(plikZTekstem);
-                                        }*/
-
-
-                  /*      Pomocnik_plikowy pomocnik_plikowy = new Pomocnik_plikowy();
-                        ObsługaNazwowa ob = new ObsługaNazwowa();
-                        String plikZTekstem = ob.oddzielNazeOdDaty(staraNazwa).nazwa;
-                        plikZTekstem = "Tekst()" + plikZTekstem;
-                        plikZTekstem += ".txt";
-
-                        pomocnik_plikowy.DeleteFile(plikZTekstem);
-                        String kolejen = nowaNazwa[0];
-                        ObsługaNazwowa obsługaNazwowa = new ObsługaNazwowa();
-                        nowaNazwa[0] += "%" + obsługaNazwowa.oddzielNazeOdDaty(staraNazwa).date;
-                        jFrame.dispose();
-                        Calendar calendar = Calendar.getInstance();
-                        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("DDDyy");
-
-                        String teraz = simpleDateFormat.format(calendar.getTime());
-
-                        obsługaNazwowa.roznicaDni(teraz, obsługaNazwowa.oddzielNazeOdDaty(nowaNazwa[0]).date);
-
-                        node.setUserObject(nowaNazwa[0]);
-                        //node.setUserObject(kolejen+"    "+obsługaNazwowa.roznicaDni(teraz,obsługaNazwowa.oddzielNazeOdDaty(nowaNazwa[0]).date));
-                                       /* tree.revalidate();
-                                        DefaultTreeModel model = (DefaultTreeModel)tree.getModel();
-                                        ;
-                                        DefaultMutableTreeNode root = (DefaultMutableTreeNode)model.getRoot();
-                                        //root.add(new DefaultMutableTreeNode("another_child"));
-                                        model.reload(root);
-                                        //node.getPath();
-                                        TreePath  treePath= new TreePath(node.getPath());
-                                        //tree.expandPath(treePath);
-                                        tree.setSelectionPath(new TreePath(node.getPath()));*/
-/* kara ? */
-                    /*    List<TreePath> expanded = new ArrayList<>();
-                        for (int i = 0; i < tree.getRowCount() - 1; i++) {
-                            TreePath currPath = tree.getPathForRow(i);
-                            TreePath nextPath = tree.getPathForRow(i + 1);
-                            if (currPath.isDescendant(nextPath)) {
-                                expanded.add(currPath);
-                            }
-                        }
-                        ((DefaultTreeModel) tree.getModel()).reload();
-                        for (TreePath path : expanded) {
-                            tree.expandPath(path);
-                        }
-
-
-                        for (int i = 0; i < z.zbiornik.size(); i++) {
-                            for (int j = 0; j < z.zbiornik.get(i).get_nazwy_plikow().size(); j++) {
-
-                                if (z.zbiornik.get(i).get_nazwy_plikow().get(j).numer.equals(numer.get(0))) {
-
-                                    z.zbiornik.get(i).get_nazwy_plikow().get(j).change_nazwa_pliku(nowaNazwa[0]);
-                                    z.zbiornik.get(i).get_nazwy_plikow().get(j).aktualizujNazweSystemowa();
-
-                                }
-                            }
-                        }
-                        z.zmienPobrane(staraNazwa, nowaNazwa[0], numer.get(0));
-                        z.zakualizuj_zbiornik();
-
-                        tree.revalidate();
-                        tree.repaint();
-
-                        p = z.zbiornik;
-
-                    }
-                });
-
-            }
-        });
-        usunTemat.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                if (!thi.aktualny_plik.get_nazwa_pliku().contains("Archiwum")) {
-                    Vector<Integer> vector = numer_po_sciezce2(path, z.zbiornik);
-                    Vector<Integer> numerOjca = new Vector<>();
-
-                    for (int i = 0; i < vector.size() - 1; i++) {
-                        numerOjca.add(vector.get(i));
-                    }
-                    Pakiet ojciec = z.zwrocPakietPoNumerze(numerOjca);
-
-                    if ((ojciec.get_nazwy_plikow().size() > 1 || z.czyMamDziecko(ojciec)) || z.poziom_nizej(z.getOjciec(ojciec.numer)).size() > 1) {
-                        final JFrame frame = new JFrame();
-                        JLabel czyUsunac = new JLabel("Jesteś pewnien, że chcesz usunąć temat: " + thi.aktualny_plik.get_nazwa_pliku());
-                        JButton tak = new JButton("Tak");
-                        JButton nie = new JButton("Nie");
-                        frame.setLayout(new MigLayout());
-                        frame.add(czyUsunac, "cell 0 0 1 0,wrap");
-                        frame.add(tak);
-                        frame.add(nie);
-                        frame.pack();
-                        frame.setVisible(true);
-                        frame.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
-                        tak.addActionListener(new ActionListener() {
-                            @Override
-                            public void actionPerformed(ActionEvent e) {
-                                Vector<Integer> wybranyNumer = numer_po_sciezce2(path, z.zbiornik);
-                                String nazwaWybranegoTematu = node.toString();
-
-                                // node.removeFromParent();
-                                DefaultTreeModel m = (DefaultTreeModel) tree.getModel();
-                                DefaultMutableTreeNode d = (DefaultMutableTreeNode) path.getLastPathComponent();
-                                m.removeNodeFromParent(d);
-                                nazwaWybranegoTematu += "$";
-                                for (int i = 0; i < wybranyNumer.size(); i++) {
-                                    nazwaWybranegoTematu += wybranyNumer.get(i) + ",";
-                                }
-                                nazwaWybranegoTematu += ".txt";
-                                Pomocnik_plikowy pomocnik_plikowy = new Pomocnik_plikowy();
-                                pomocnik_plikowy.DeleteFile(nazwaWybranegoTematu);
-                                z.removeChosenTemat(wybranyNumer, getArchiwumForFile(thi.aktualny_plik, z));
-
-                                ObsługaNazwowa ob = new ObsługaNazwowa();
-                                String plikZTekstem = ob.oddzielNazeOdDaty(nazwaWybranegoTematu).nazwa;
-                                plikZTekstem = "Tekst()" + plikZTekstem;
-                                plikZTekstem += ".txt";
-
-                                pomocnik_plikowy.DeleteFile(plikZTekstem);
-
-
-                                tree.revalidate();
-                                tree.repaint();
-                                frame.dispose();
-                            }
-                        });
-                        nie.addActionListener(new ActionListener() {
-                            @Override
-                            public void actionPerformed(ActionEvent e) {
-                                frame.dispose();
-                            }
-                        });
-                    }
-                                        /*Vector < Integer > wybranyNumer = numer_po_sciezce2(path, z.zbiornik);
-                                String nazwaWybranegoTematu=node.toString();
-
-                               // node.removeFromParent();
-                                DefaultTreeModel m= (DefaultTreeModel) tree.getModel();
-                                DefaultMutableTreeNode d=(DefaultMutableTreeNode)path.getLastPathComponent();
-                                m.removeNodeFromParent(d);
-                                nazwaWybranegoTematu+="$";
-                                for(int i=0;i<wybranyNumer.size();i++)
-                                {
-                                    nazwaWybranegoTematu+=wybranyNumer.get(i)+",";
-                                }
-                                nazwaWybranegoTematu+=".txt";
-                                Pomocnik_plikowy pomocnik_plikowy= new Pomocnik_plikowy();
-                                pomocnik_plikowy.DeleteFile(nazwaWybranegoTematu);
-                                z.removeChosenTemat(wybranyNumer);
-
-
-                                tree.revalidate();
-                                tree.repaint();*/
-
-/*
-                }
-            }
-        });
-
-
-        if (thi.aktualny_plik.nazwa_systemowa.contains("&")) {
-            JMenuItem tekstPiosenki = new JMenuItem("Tekst piosenki");
-            menu.add(tekstPiosenki);
-
-
-            tekstPiosenki.addActionListener(new ActionListener() {
-                @Override
-                public void actionPerformed(ActionEvent e) {
-                    thi.panelRodzajuPracy.removeAll();
-                    final JTextArea piosenka = new JTextArea();
-                    piosenka.setFont(new Font("Serif", Font.ITALIC, 20));//ustalanie czcionki tekstu piosenki
-                    piosenka.setBackground(new Color(204, 255, 204));//ustalanie koloru tła
-                    piosenka.setMargin(new Insets(30, 40, 10, 0));//ustalanie marginesów
-                    JScrollPane jScrollPane = new JScrollPane(piosenka);
-                    jScrollPane.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
-                    //jScrollPane.setSize(500,600);
-                    thi.panelRodzajuPracy.setLayout(new MigLayout());
-
-                    thi.panelRodzajuPracy.add(jScrollPane, "w 400:500:600,h 500:600:700,gapbefore 50,gaptop 40");
-                    Thread th[];
-                    JButton play = new JButton("Play");
-                    JButton off = new JButton("Off");
-                    JButton ustawTekst = new JButton(("Ustaw Tekst"));
-                    JButton otworzWNowymOknie = new JButton("Nowe okno");
-                    ObsługaNazwowa obs = new ObsługaNazwowa();
-                    String nazwaKlipu = obs.oddzielNazeOdDaty(thi.aktualny_plik.get_nazwa_pliku()).nazwa;
-                    nazwaKlipu = nazwaKlipu.substring(1, nazwaKlipu.length()) + ".mp3";
-
-                    final PuszMiTenMiusik[] miusik = new PuszMiTenMiusik[1];
-
-                    final String finalNazwaKlipu = nazwaKlipu;
-                    Pomocnik_plikowy pomocnik_plikowy = new Pomocnik_plikowy();
-                    List<Strin> list = new LinkedList<>();
-                    ObsługaNazwowa ob = new ObsługaNazwowa();
-                    //  PomocnikDrzewowy pomocnikDrzewowy= new PomocnikDrzewowy();
-                    String tekst = "Tekst()" + ob.oddzielNazeOdDaty(thi.aktualny_plik.get_nazwa_pliku()).nazwa;
-                    // Vector<Integer> vector=pomocnikDrzewowy.numerPoNazwie(thi.aktualny_plik.)
-                                    /*tekst+="$";
-                                    for(int i=0;i<thi.aktualny_plik.numer.size();i++)
-                                    {
-                                        tekst+=thi.aktualny_plik.numer.get(i)+",";
-                                    }*/
-            /*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    '
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    ;tekst += ".txt";
-                    play.addActionListener(new ActionListener() {
-                        @Override
-                        public void actionPerformed(ActionEvent e) {
-
-
-                            miusik[0] = new PuszMiTenMiusik("music//" + finalNazwaKlipu);
-                            miusik[0].start();
-
-                        }
-                    });
-                    off.addActionListener(new ActionListener() {
-                        @Override
-                        public void actionPerformed(ActionEvent e) {
-                            //puszczaczPiosenek.stop1();
-                            //  miusik.stop();
-                            miusik[0].terminate();
-
-
-                        }
-                    });
-                    final String finalTekst = tekst;
-                    ustawTekst.addActionListener(new ActionListener() {
-                        @Override
-                        public void actionPerformed(ActionEvent e) {
-                            String text = piosenka.getText();
-                            Pomocnik_plikowy pomocnik_plikowy = new Pomocnik_plikowy();
-                            LinkedList<Strin> l = new LinkedList<>();
-                            Strin strin = new Strin(text);
-                            l.add(strin);
-                            pomocnik_plikowy.zapisywanie_do_pliku(finalTekst, '&', l, Strin.class);
-
-                        }
-                    });
-                    otworzWNowymOknie.addActionListener(new ActionListener() {
-                        @Override
-                        public void actionPerformed(ActionEvent e) {
-                            JFrame jFrame = new JFrame();
-                            JPanel jPanel = new JPanel();
-                            jPanel.setLayout(new MigLayout());
-                            JTextArea jTextArea = new JTextArea(piosenka.getText());
-
-                            jTextArea.setFont(new Font("Serif", Font.ITALIC, 20));//ustalanie czcionki tekstu piosenki
-                            jTextArea.setBackground(new Color(204, 255, 204));//ustalanie koloru tła
-                            jTextArea.setMargin(new Insets(30, 40, 10, 0));//ustalanie marginesów
-                            JScrollPane jScrollPane = new JScrollPane(jTextArea);
-                            jScrollPane.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
-                            jPanel.add(jScrollPane, "w 400:500:600,h 500:600:700");
-                            jFrame.add(jPanel);
-                            jFrame.pack();
-                            jFrame.setVisible(true);
-                            jFrame.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
-
-
-                        }
-                    });
-                    thi.panelRodzajuPracy.add(play);
-                    thi.panelRodzajuPracy.add(off, "wrap");
-                    thi.panelRodzajuPracy.add(ustawTekst);
-                    thi.panelRodzajuPracy.add(otworzWNowymOknie);
-
-
-                    pomocnik_plikowy.zczytywanie_z_pliku(tekst, '&', list, Strin.class);
-                    for (int i = 0; i < list.size(); i++) {
-                        if (i != 0) {
-                            piosenka.append("\n");
-                        }
-                        piosenka.append(list.get(i).string);
-                    }
-                    piosenka.setCaretPosition(0);
-                    thi.panelRodzajuPracy.setVisible(true);
-                    thi.panelRodzajuPracy.repaint();
-                    thi.panelRodzajuPracy.revalidate();
-                }
-            });
-
-        }
-
-        if (thi.aktualny_plik.getClass().equals(PlikZTekstem.class)||thi.aktualny_plik.nazwa_systemowa.contains("@")) {
-            JMenuItem pracaZTekstem = new JMenuItem("Praca z tekstem");
-            menu.add(pracaZTekstem);
-            pracaZTekstem.addActionListener(new ActionListener() {
-                @Override
-                public void actionPerformed(ActionEvent e) {
-                    createPracaZTekstem();
-                }
-            });
-        }
-
-
-        menu.show((JComponent) e.getSource(), e.getX(), e.getY());
-        menu.setVisible(true);
-    }*/
-}
+   }

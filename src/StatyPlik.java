@@ -29,7 +29,7 @@ public class StatyPlik {
         this.dodatkowy = slowo.reArchiwum;
         this.extranull = slowo.jezyk;
         this.powrotArchiwum = slowo.powrotArchiwum;
-        this.extraPronunciation=slowo.pronunciation;
+
 
     }
 

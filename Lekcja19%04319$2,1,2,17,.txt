@@ -1,22 +1,22 @@
-polski,francuski,0,,38,80,0,3,Angielski,n,pronunciation
-ulubiony,préféré,0,i,-1,3,0,3,Angielski,n,pronunciation
-wycieczka,l'excursion,0,,-2,3,0,3,Angielski,n,pronunciation
-słuchać muzyki,écouter de la musique,0,i,-2,3,0,3,Angielski,n,pronunciation
-sportowy,sportif,0,i,-5,3,0,3,Angielski,n,pronunciation
-nienawidzić czegoś,détester qc,0,i,-1,3,0,3,Angielski,n,pronunciation
-basen,la piscine,0,i,-2,3,0,3,Angielski,n,pronunciation
-grać na instrumencie,jouer d'un instrument,0,i,-1,3,0,3,Angielski,n,pronunciation
-pianino,le piano,0,i,-5,3,0,3,Angielski,n,pronunciation
-grać w piłkę nożną,jouer au foot,0,i,-2,3,0,3,Angielski,n,pronunciation
-uprawiać sport,faire du sport,0,i,-5,3,0,3,Angielski,n,pronunciation
-jeździć na nartach,faire du ski,0,i,-1,3,0,3,Angielski,n,pronunciation
-uprawiać windsurfing,faire de la planche à voile,0,,-1,3,0,3,Angielski,n,pronunciation
-odwiedzać kogoś,rendre visite à qn,0,,-1,3,0,3,Angielski,n,pronunciation
-umieć,savoir,0,,-2,3,0,3,Angielski,n,pronunciation
-wiedzieć,savoir,0,,-1,3,0,3,Angielski,n,pronunciation
-bieg,la course,0,,-1,3,0,3,Angielski,n,pronunciation
-biegać,courir,0,i,-2,3,0,3,Angielski,n,pronunciation
-pływanie,la natation,0,i,-1,3,0,3,Angielski,n,pronunciation
-pływać,nager,0,i,-2,3,0,3,Angielski,n,pronunciation
-jogging,le footing,0,i,-2,3,0,3,Angielski,n,pronunciation
-uwielbiać,adorer,0,i,-3,3,0,3,Angielski,n,pronunciation
+polski,francuski,0,,38,80,0,3,Angielski,n
+ulubiony,préféré,0,i,-1,3,0,3,Angielski,n
+wycieczka,l'excursion,0,,-2,3,0,3,Angielski,n
+słuchać muzyki,écouter de la musique,0,i,-2,3,0,3,Angielski,n
+sportowy,sportif,0,i,-5,3,0,3,Angielski,n
+nienawidzić czegoś,détester qc,0,i,-1,3,0,3,Angielski,n
+basen,la piscine,0,i,-2,3,0,3,Angielski,n
+grać na instrumencie,jouer d'un instrument,0,i,-1,3,0,3,Angielski,n
+pianino,le piano,0,i,-5,3,0,3,Angielski,n
+grać w piłkę nożną,jouer au foot,0,i,-2,3,0,3,Angielski,n
+uprawiać sport,faire du sport,0,i,-5,3,0,3,Angielski,n
+jeździć na nartach,faire du ski,0,i,-1,3,0,3,Angielski,n
+uprawiać windsurfing,faire de la planche à voile,0,,-1,3,0,3,Angielski,n
+odwiedzać kogoś,rendre visite à qn,0,,-1,3,0,3,Angielski,n
+umieć,savoir,0,,-2,3,0,3,Angielski,n
+wiedzieć,savoir,0,,-1,3,0,3,Angielski,n
+bieg,la course,0,,-1,3,0,3,Angielski,n
+biegać,courir,0,i,-2,3,0,3,Angielski,n
+pływanie,la natation,0,i,-1,3,0,3,Angielski,n
+pływać,nager,0,i,-2,3,0,3,Angielski,n
+jogging,le footing,0,i,-2,3,0,3,Angielski,n
+uwielbiać,adorer,0,i,-3,3,0,3,Angielski,n

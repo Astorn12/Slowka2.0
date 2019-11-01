@@ -1,45 +1,45 @@
-polski,francuski,0,,0,0,0,3,Angielski,n,pronunciation
-rysować,dessiner,5,frai,1,3,0,3,Angielski,n,pronunciation
-uzupełniać,compléter,1,frai,1,3,0,3,Angielski,n,pronunciation
-czytać,lire,0,frai,1,3,0,3,Angielski,n,pronunciation
-przekreślać,barrer,0,frai,1,3,0,3,Angielski,n,pronunciation
-łączyć,relier,5,frai,1,3,0,3,Angielski,n,pronunciation
-otaczać,entourer,3,frai,1,3,0,3,Angielski,n,pronunciation
-zaznaczać,cocher,1,frai,1,3,0,3,Angielski,n,pronunciation
-podkreślać,souligner,0,frai,1,3,0,3,Angielski,n,pronunciation
-zakreślać,surligner,2,frai,1,3,0,3,Angielski,n,pronunciation
-łapać,attraper,0,frai,1,3,0,3,Angielski,n,pronunciation
-schodzić,descendre,3,frai,1,3,0,3,Angielski,n,pronunciation
-przemieszczać się,avancer,2,frai,1,3,0,3,Angielski,n,pronunciation
-wspinać się,grimper,4,frai,1,3,0,3,Angielski,n,pronunciation
-rzucać,lancer,0,frai,1,3,0,3,Angielski,n,pronunciation
-wchodzić,monter,2,frai,1,3,0,3,Angielski,n,pronunciation
-kucać,s'accroupir,6,frai,1,3,0,3,Angielski,n,pronunciation
-siadać,s'asseoir,0,frai,1,3,0,3,Angielski,n,pronunciation
-skakać,sauter,3,frai,1,3,0,3,Angielski,n,pronunciation
-schylać się,se baisser,1,frai,1,3,0,3,Angielski,n,pronunciation
-kłaść się,s'allonger,2,frai,1,3,0,3,Angielski,n,pronunciation
-wstawać,se lever,0,frai,1,3,0,3,Angielski,n,pronunciation
-pchać,pousser,2,frai,1,3,0,3,Angielski,n,pronunciation
-czołgać się,ramper,0,frai,1,3,0,3,Angielski,n,pronunciation
-ciągnąć,tirer,0,frai,1,3,0,3,Angielski,n,pronunciation
-chodzić,marcher,0,frai,1,3,0,3,Angielski,n,pronunciation
-cofać się,reculer,0,frai,1,3,0,3,Angielski,n,pronunciation
-biec,courir,3,frai,1,3,0,3,Angielski,n,pronunciation
-zawracać,replier,5,frai,1,3,0,3,Angielski,n,pronunciation
-musieć,devoir,1,frai,1,3,0,3,Angielski,n,pronunciation
-służba,le devoir,0,frai,1,3,0,3,Angielski,n,pronunciation
-chcieć,vouloir,1,frai,1,3,0,3,Angielski,n,pronunciation
-kupować,acheter,0,frai,1,3,0,3,Angielski,n,pronunciation
-bakłażan,le aubergine,0,frai,1,3,0,3,Angielski,n,pronunciation
-bagietka,la baguette,3,frai,1,3,0,3,Angielski,n,pronunciation
-jajko,le oeuf,2,frai,1,3,0,3,Angielski,n,pronunciation
-marchewka,la carrote,0,frai,1,3,0,3,Angielski,n,pronunciation
-cebula,la oignon,3,frai,1,3,0,3,Angielski,n,pronunciation
-papryka,le poivron,6,frai,1,3,0,3,Angielski,n,pronunciation
-masło,la beurre,5,frai,1,3,0,3,Angielski,n,pronunciation
-jabłko,la pomme,0,frai,1,3,0,3,Angielski,n,pronunciation
-ziemniak,la pomme de terre,0,frai,1,3,0,3,Angielski,n,pronunciation
-mleko,un lait,0,frai,1,3,0,3,Angielski,n,pronunciation
-Co jest dzisiaj za dzień?,Quel jouz on est?,4,frai,1,3,0,3,Angielski,n,pronunciation
-Jaka jest dzisiaj data?,Quelle est la date?,1,frai,1,3,0,3,Angielski,n,pronunciation
+polski,francuski,0,,0,0,0,3,Angielski,n
+rysować,dessiner,5,frai,1,3,0,3,Angielski,n
+uzupełniać,compléter,1,frai,1,3,0,3,Angielski,n
+czytać,lire,0,frai,1,3,0,3,Angielski,n
+przekreślać,barrer,0,frai,1,3,0,3,Angielski,n
+łączyć,relier,5,frai,1,3,0,3,Angielski,n
+otaczać,entourer,3,frai,1,3,0,3,Angielski,n
+zaznaczać,cocher,1,frai,1,3,0,3,Angielski,n
+podkreślać,souligner,0,frai,1,3,0,3,Angielski,n
+zakreślać,surligner,2,frai,1,3,0,3,Angielski,n
+łapać,attraper,0,frai,1,3,0,3,Angielski,n
+schodzić,descendre,3,frai,1,3,0,3,Angielski,n
+przemieszczać się,avancer,2,frai,1,3,0,3,Angielski,n
+wspinać się,grimper,4,frai,1,3,0,3,Angielski,n
+rzucać,lancer,0,frai,1,3,0,3,Angielski,n
+wchodzić,monter,2,frai,1,3,0,3,Angielski,n
+kucać,s'accroupir,6,frai,1,3,0,3,Angielski,n
+siadać,s'asseoir,0,frai,1,3,0,3,Angielski,n
+skakać,sauter,3,frai,1,3,0,3,Angielski,n
+schylać się,se baisser,1,frai,1,3,0,3,Angielski,n
+kłaść się,s'allonger,2,frai,1,3,0,3,Angielski,n
+wstawać,se lever,0,frai,1,3,0,3,Angielski,n
+pchać,pousser,2,frai,1,3,0,3,Angielski,n
+czołgać się,ramper,0,frai,1,3,0,3,Angielski,n
+ciągnąć,tirer,0,frai,1,3,0,3,Angielski,n
+chodzić,marcher,0,frai,1,3,0,3,Angielski,n
+cofać się,reculer,0,frai,1,3,0,3,Angielski,n
+biec,courir,3,frai,1,3,0,3,Angielski,n
+zawracać,replier,5,frai,1,3,0,3,Angielski,n
+musieć,devoir,1,frai,1,3,0,3,Angielski,n
+służba,le devoir,0,frai,1,3,0,3,Angielski,n
+chcieć,vouloir,1,frai,1,3,0,3,Angielski,n
+kupować,acheter,0,frai,1,3,0,3,Angielski,n
+bakłażan,le aubergine,0,frai,1,3,0,3,Angielski,n
+bagietka,la baguette,3,frai,1,3,0,3,Angielski,n
+jajko,le oeuf,2,frai,1,3,0,3,Angielski,n
+marchewka,la carrote,0,frai,1,3,0,3,Angielski,n
+cebula,la oignon,3,frai,1,3,0,3,Angielski,n
+papryka,le poivron,6,frai,1,3,0,3,Angielski,n
+masło,la beurre,5,frai,1,3,0,3,Angielski,n
+jabłko,la pomme,0,frai,1,3,0,3,Angielski,n
+ziemniak,la pomme de terre,0,frai,1,3,0,3,Angielski,n
+mleko,un lait,0,frai,1,3,0,3,Angielski,n
+Co jest dzisiaj za dzień?,Quel jouz on est?,4,frai,1,3,0,3,Angielski,n
+Jaka jest dzisiaj data?,Quelle est la date?,1,frai,1,3,0,3,Angielski,n

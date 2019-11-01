@@ -33,7 +33,7 @@ public class Pomocnik_plikowy {
                     file=new File(plik);
 
                 }
-                System.out.println("Plik "+plik);
+
                 test = new FileInputStream(plik);
                 istream = new FileInputStream(plik);
                 intest = new Scanner(test,"UTF-8");
@@ -145,9 +145,12 @@ public class Pomocnik_plikowy {
         Class<?> clazz = clasa;
         Field[] fields;
         fields = getFields(clasa);
-        FileWriter fileWriter;
+        //FileWriter fileWriter;
+        Writer fileWriter;
         try {
-            fileWriter = new FileWriter(new File(plik), true);
+            //fileWriter = new FileWriter(new File(plik), true);
+            fileWriter = new BufferedWriter(new OutputStreamWriter(
+                    new FileOutputStream(plik), "UTF-8"));
 
 
             for (int i = 0; i < lista.size(); i++) {
@@ -235,7 +238,7 @@ public class Pomocnik_plikowy {
         int i=0;
         for(Field f:clas.getDeclaredFields())
         {
-            System.out.println(f.toString());
+
             fields.add(i,f);
         i++;
         }

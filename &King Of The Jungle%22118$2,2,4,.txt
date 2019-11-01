@@ -1,16 +1,16 @@
-polski,francuski,0,,0,0,0,0,Angielski,n,pronunciation
-przychodzić,venir,3,ang,0,0,0,0,Angielski,n,pronunciation
-zabierać kogoś na coś,emmener qn au qc,3,ang,0,0,0,0,Angielski,n,pronunciation
-tutaj,ici,3,ang,0,0,0,0,Angielski,n,pronunciation
-jak(coś jak coś),comme,3,ang,0,0,0,0,Angielski,n,pronunciation
-sowa,la chouette,3,ang,0,0,0,0,Angielski,n,pronunciation
-startować,décoller,3,ang,0,0,0,0,Angielski,n,pronunciation
-wszędzie,partour,3,ang,0,0,0,0,Angielski,n,pronunciation
-sknera,le pingre,3,ang,0,0,0,0,Angielski,n,pronunciation
-połączenie,le lien,3,ang,0,0,0,0,Angielski,n,pronunciation
-dusić,éntrangler,3,ang,0,0,0,0,Angielski,n,pronunciation
-brać,prendre,3,ang,0,0,0,0,Angielski,n,pronunciation
-stopa,le pied,3,ang,0,0,0,0,Angielski,n,pronunciation
-dredy,les dreadlocks,3,ang,0,0,0,0,Angielski,n,pronunciation
-zabawa,le jeu,3,ang,0,0,0,0,Angielski,n,pronunciation
-szpilka,épingle,3,ang,0,0,0,0,Angielski,n,pronunciation
+polski,francuski,0,,0,0,0,0,Angielski,n
+przychodzić,venir,3,ang,0,0,0,0,Angielski,n
+zabierać kogoś na coś,emmener qn au qc,3,ang,0,0,0,0,Angielski,n
+tutaj,ici,3,ang,0,0,0,0,Angielski,n
+jak(coś jak coś),comme,3,ang,0,0,0,0,Angielski,n
+sowa,la chouette,3,ang,0,0,0,0,Angielski,n
+startować,décoller,3,ang,0,0,0,0,Angielski,n
+wszędzie,partour,3,ang,0,0,0,0,Angielski,n
+sknera,le pingre,3,ang,0,0,0,0,Angielski,n
+połączenie,le lien,3,ang,0,0,0,0,Angielski,n
+dusić,éntrangler,3,ang,0,0,0,0,Angielski,n
+brać,prendre,3,ang,0,0,0,0,Angielski,n
+stopa,le pied,3,ang,0,0,0,0,Angielski,n
+dredy,les dreadlocks,3,ang,0,0,0,0,Angielski,n
+zabawa,le jeu,3,ang,0,0,0,0,Angielski,n
+szpilka,épingle,3,ang,0,0,0,0,Angielski,n

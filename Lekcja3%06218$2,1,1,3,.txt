@@ -1,69 +1,69 @@
-polski,francuski,0,,0,0,0,3,Angielski,n,pronunciation
-stacja kolejowa,la gare,0,frai,1,3,0,3,Angielski,n,pronunciation
-samochód,la voiture,0,frai,1,3,0,3,Angielski,n,pronunciation
-szczęśliwy,content,0,frai,1,3,0,3,Angielski,n,pronunciation
-narzędzia,les outils,0,frai,1,3,0,3,Angielski,n,pronunciation
-chudy,mince,3,frai,1,3,0,3,Angielski,n,pronunciation
-ciężki,lourd,3,frai,1,3,0,3,Angielski,n,pronunciation
-lekki,lêge,0,frai,1,3,0,3,Angielski,n,pronunciation
-koń,le cheval,2,frai,1,3,0,3,Angielski,n,pronunciation
-widzieć,voir,3,frai,1,3,0,3,Angielski,n,pronunciation
-waliska,la valise,0,frai,1,3,0,3,Angielski,n,pronunciation
-zmęczony,fatigué,0,frai,1,3,0,3,Angielski,n,pronunciation
-łazienka,la salle de bains,1,frai,1,3,0,3,Angielski,n,pronunciation
-garaż,le garage,2,frai,1,3,0,3,Angielski,n,pronunciation
-sypialnia,la chambre,2,frai,1,3,0,3,Angielski,n,pronunciation
-kuchnia,la cuisine,4,frai,1,3,0,3,Angielski,n,pronunciation
-pobudka,le réveil,4,frai,1,3,0,3,Angielski,n,pronunciation
-salon,le salon,0,frai,1,3,0,3,Angielski,n,pronunciation
-balkon,le balcon,0,frai,1,3,0,3,Angielski,n,pronunciation
-biuro,le bureau,1,frai,1,3,0,3,Angielski,n,pronunciation
-stół,la table,1,frai,1,3,0,3,Angielski,n,pronunciation
-korytarz,le couloir,3,frai,1,3,0,3,Angielski,n,pronunciation
-wejście,l'entrée,2,frai,1,3,0,3,Angielski,n,pronunciation
-piwnica,la cave,2,frai,1,3,0,3,Angielski,n,pronunciation
-taras,la tarrasse,0,frai,1,3,0,3,Angielski,n,pronunciation
-toaleta,les toilettes,2,frai,1,3,0,3,Angielski,n,pronunciation
-schody,l'escalier,4,frai,1,3,0,3,Angielski,n,pronunciation
-jadalnia,la salle à manger,1,frai,1,3,0,3,Angielski,n,pronunciation
-obraz,le tableau,2,frai,1,3,0,3,Angielski,n,pronunciation
-strych,le grenier,2,frai,1,3,0,3,Angielski,n,pronunciation
-dach,le toit,1,frai,1,3,0,3,Angielski,n,pronunciation
-komin,la cheminée,0,frai,1,3,0,3,Angielski,n,pronunciation
-fotel,le fauteuil,0,frai,1,3,0,3,Angielski,n,pronunciation
-dywan,le tapis,0,frai,1,3,0,3,Angielski,n,pronunciation
-lampa,la lampe,0,frai,1,3,0,3,Angielski,n,pronunciation
-biblioteczka,la bibliothèque,1,frai,1,3,0,3,Angielski,n,pronunciation
-telewizor,la télévision,0,frai,1,3,0,3,Angielski,n,pronunciation
-odtwrzacz,le lecteur,3,frai,1,3,0,3,Angielski,n,pronunciation
-wieża stereo,la chaîne hi-fi,3,frai,1,3,0,3,Angielski,n,pronunciation
-stolik,la table basse,0,frai,1,3,0,3,Angielski,n,pronunciation
-kredens,la buffet,1,frai,1,3,0,3,Angielski,n,pronunciation
-prześcieradło,la drap,0,frai,1,3,0,3,Angielski,n,pronunciation
-poduszka do spania,la oreiller,3,frai,1,3,0,3,Angielski,n,pronunciation
-szafa,le armoire,1,frai,1,3,0,3,Angielski,n,pronunciation
-szkło,le glace,0,frai,1,3,0,3,Angielski,n,pronunciation
-lustro,la miroir,2,frai,1,3,0,3,Angielski,n,pronunciation
-komoda,la commode,0,frai,1,3,0,3,Angielski,n,pronunciation
-krzesło,la chaise,2,frai,1,3,0,3,Angielski,n,pronunciation
-zasłony,les rideaux,2,frai,1,3,0,3,Angielski,n,pronunciation
-plakat,le affiche,2,frai,1,3,0,3,Angielski,n,pronunciation
-młody,jeune,3,frai,1,3,0,3,Angielski,n,pronunciation
-kot,la chat,0,frai,1,3,0,3,Angielski,n,pronunciation
-w związku,en couple,0,frai,1,3,0,3,Angielski,n,pronunciation
-singiel,célibataire,2,frai,1,3,0,3,Angielski,n,pronunciation
-pisarz,le écrivain,2,frai,1,3,0,3,Angielski,n,pronunciation
-w dobrej formie,en bonne forme,0,frai,1,3,0,3,Angielski,n,pronunciation
-emerytura,le retraite,3,frai,1,3,0,3,Angielski,n,pronunciation
-dużo wolnego czasu,beaucop de temps libre,1,frai,1,3,0,3,Angielski,n,pronunciation
-śliczny,mignon,2,fra,1,3,0,3,Angielski,n,pronunciation
-często,souvent,2,frai,1,3,0,3,Angielski,n,pronunciation
-cudzioziemiec,étranger,1,frai,1,3,0,3,Angielski,n,pronunciation
-ładny,joli,0,frai,1,3,0,3,Angielski,n,pronunciation
-piękna,belle,0,frai,1,3,0,3,Angielski,n,pronunciation
-w dobrym zdrowiu,en bonne santé,3,frai,1,3,0,3,Angielski,n,pronunciation
-mieć,avoir,0,frai,1,3,0,3,Angielski,n,pronunciation
-być,étre,1,frai,1,3,0,3,Angielski,n,pronunciation
-chodzić,aller,2,frai,1,3,0,3,Angielski,n,pronunciation
-robić,faire,2,frai,1,3,0,3,Angielski,n,pronunciation
-kanapa,le canapé,2,frai,1,3,0,3,Angielski,n,pronunciation
+polski,francuski,0,,0,0,0,3,Angielski,n
+stacja kolejowa,la gare,0,frai,1,3,0,3,Angielski,n
+samochód,la voiture,0,frai,1,3,0,3,Angielski,n
+szczęśliwy,content,0,frai,1,3,0,3,Angielski,n
+narzędzia,les outils,0,frai,1,3,0,3,Angielski,n
+chudy,mince,3,frai,1,3,0,3,Angielski,n
+ciężki,lourd,3,frai,1,3,0,3,Angielski,n
+lekki,lêge,0,frai,1,3,0,3,Angielski,n
+koń,le cheval,2,frai,1,3,0,3,Angielski,n
+widzieć,voir,3,frai,1,3,0,3,Angielski,n
+waliska,la valise,0,frai,1,3,0,3,Angielski,n
+zmęczony,fatigué,0,frai,1,3,0,3,Angielski,n
+łazienka,la salle de bains,1,frai,1,3,0,3,Angielski,n
+garaż,le garage,2,frai,1,3,0,3,Angielski,n
+sypialnia,la chambre,2,frai,1,3,0,3,Angielski,n
+kuchnia,la cuisine,4,frai,1,3,0,3,Angielski,n
+pobudka,le réveil,4,frai,1,3,0,3,Angielski,n
+salon,le salon,0,frai,1,3,0,3,Angielski,n
+balkon,le balcon,0,frai,1,3,0,3,Angielski,n
+biuro,le bureau,1,frai,1,3,0,3,Angielski,n
+stół,la table,1,frai,1,3,0,3,Angielski,n
+korytarz,le couloir,3,frai,1,3,0,3,Angielski,n
+wejście,l'entrée,2,frai,1,3,0,3,Angielski,n
+piwnica,la cave,2,frai,1,3,0,3,Angielski,n
+taras,la tarrasse,0,frai,1,3,0,3,Angielski,n
+toaleta,les toilettes,2,frai,1,3,0,3,Angielski,n
+schody,l'escalier,4,frai,1,3,0,3,Angielski,n
+jadalnia,la salle à manger,1,frai,1,3,0,3,Angielski,n
+obraz,le tableau,2,frai,1,3,0,3,Angielski,n
+strych,le grenier,2,frai,1,3,0,3,Angielski,n
+dach,le toit,1,frai,1,3,0,3,Angielski,n
+komin,la cheminée,0,frai,1,3,0,3,Angielski,n
+fotel,le fauteuil,0,frai,1,3,0,3,Angielski,n
+dywan,le tapis,0,frai,1,3,0,3,Angielski,n
+lampa,la lampe,0,frai,1,3,0,3,Angielski,n
+biblioteczka,la bibliothèque,1,frai,1,3,0,3,Angielski,n
+telewizor,la télévision,0,frai,1,3,0,3,Angielski,n
+odtwrzacz,le lecteur,3,frai,1,3,0,3,Angielski,n
+wieża stereo,la chaîne hi-fi,3,frai,1,3,0,3,Angielski,n
+stolik,la table basse,0,frai,1,3,0,3,Angielski,n
+kredens,la buffet,1,frai,1,3,0,3,Angielski,n
+prześcieradło,la drap,0,frai,1,3,0,3,Angielski,n
+poduszka do spania,la oreiller,3,frai,1,3,0,3,Angielski,n
+szafa,le armoire,1,frai,1,3,0,3,Angielski,n
+szkło,le glace,0,frai,1,3,0,3,Angielski,n
+lustro,la miroir,2,frai,1,3,0,3,Angielski,n
+komoda,la commode,0,frai,1,3,0,3,Angielski,n
+krzesło,la chaise,2,frai,1,3,0,3,Angielski,n
+zasłony,les rideaux,2,frai,1,3,0,3,Angielski,n
+plakat,le affiche,2,frai,1,3,0,3,Angielski,n
+młody,jeune,3,frai,1,3,0,3,Angielski,n
+kot,la chat,0,frai,1,3,0,3,Angielski,n
+w związku,en couple,0,frai,1,3,0,3,Angielski,n
+singiel,célibataire,2,frai,1,3,0,3,Angielski,n
+pisarz,le écrivain,2,frai,1,3,0,3,Angielski,n
+w dobrej formie,en bonne forme,0,frai,1,3,0,3,Angielski,n
+emerytura,le retraite,3,frai,1,3,0,3,Angielski,n
+dużo wolnego czasu,beaucop de temps libre,1,frai,1,3,0,3,Angielski,n
+śliczny,mignon,2,fra,1,3,0,3,Angielski,n
+często,souvent,2,frai,1,3,0,3,Angielski,n
+cudzioziemiec,étranger,1,frai,1,3,0,3,Angielski,n
+ładny,joli,0,frai,1,3,0,3,Angielski,n
+piękna,belle,0,frai,1,3,0,3,Angielski,n
+w dobrym zdrowiu,en bonne santé,3,frai,1,3,0,3,Angielski,n
+mieć,avoir,0,frai,1,3,0,3,Angielski,n
+być,étre,1,frai,1,3,0,3,Angielski,n
+chodzić,aller,2,frai,1,3,0,3,Angielski,n
+robić,faire,2,frai,1,3,0,3,Angielski,n
+kanapa,le canapé,2,frai,1,3,0,3,Angielski,n

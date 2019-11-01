@@ -65,7 +65,7 @@ public class AplicationSlowka2 extends JFrame implements TreeSelectionListener{
     List<ListaSepcyficznychLiterek> zbiornikLiter;
     List<Slownik> slowniki;
     Object lastSelectionPathListener;
-
+    Speaker speaker;
     public AplicationSlowka2(String sciezkaDoUstawienSystemowych) throws IOException, InterruptedException {
         this.addWindowListener(new WindowAdapter() {
             public void windowClosing(WindowEvent e) {
@@ -86,7 +86,6 @@ public class AplicationSlowka2 extends JFrame implements TreeSelectionListener{
                     } catch (Exception ex) {
 
                     }
-                    System.out.println(paths.length);
                     for (String s : paths) {
                         //try {
                         //Files.copy(new File("tmp/"+s).toPath(),new File(s).toPath());
@@ -129,8 +128,10 @@ public class AplicationSlowka2 extends JFrame implements TreeSelectionListener{
         });
         //----------------Wstępne wczytanie plików systemowych + mechanizm pierwszego rozruchu-------------------------------//
         wczytaniePlikowSystemowych(sciezkaDoUstawienSystemowych);
-
+        this.speaker= new Speaker();
         //----------------------------Fake Panel--------------------------------------------------------------------------------//
+        Priority.loadPriority();
+        System.out.println("Priority is: "+Priority.priority);
         getContentPane().setLayout(new MigLayout());
         JPanel fakepanel= new JPanel();
         fakepanel.setBackground(Color.black);
@@ -1081,7 +1082,7 @@ int flaga=0;
 
 
                     if (path != null && node.isLeaf()) {
-                        System.out.println(aktualny_plik.getClass());
+
 
                         // RozwijaneMenuPliku menu1 = new RozwijaneMenuPliku();
 
@@ -2238,7 +2239,7 @@ int flaga=0;
 
 
         sp.setBackground(null);
-        System.out.println("Aktualny plik "+aktualny_plik.getClass());
+
         return sp;
     }
 
@@ -2427,7 +2428,7 @@ int flaga=0;
 
                     }
                     else {
-                        sl = new Slowo(pol, ang, jezyk, 3,pronunciation);
+                        sl = new Slowo(pol, ang, jezyk, Priority.priority,pronunciation);
                     }
                     aktualny_plik.lista.add(sl);
                     aktualny_plik.zapis_zmian();
@@ -2518,16 +2519,28 @@ int flaga=0;
                             WordFromBook slowo=(WordFromBook) defaultLista.getElementAt(jList.locationToIndex(e.getPoint()));
                             if (!slowo.pol.contains("-")) {
                                 defaultLista.setElementAt(new WordFromBook(slowo.pol + "-" + slowo.fore, slowo.fore, slowo.language, slowo.priority,slowo.link), jList.locationToIndex(e.getPoint()));
+                                try {
+                                    speaker.speak(slowo.fore);
+                                } catch (Exception e1) {
+                                    e1.printStackTrace();
+                                }
                             } else {
                                 int n = slowo.pol.indexOf("-");
                                 slowo.pol = slowo.pol.substring(0, n);
                                 defaultLista.setElementAt(slowo, jList.locationToIndex(e.getPoint()));
+
                             }}
 
                         else {
                             Slowo slowo = defaultLista.getElementAt(jList.locationToIndex(e.getPoint()));
                         if (!slowo.pol.contains("-")) {
-                            defaultLista.setElementAt(new Slowo(slowo.pol + "-" + slowo.fore+" <"+slowo.pronunciation+">", slowo.fore, slowo.language, slowo.priority,slowo.pronunciation), jList.locationToIndex(e.getPoint()));
+
+                            defaultLista.setElementAt(new Slowo(slowo.pol + "-" + slowo.fore, slowo.fore, slowo.language, slowo.priority), jList.locationToIndex(e.getPoint()));
+                            try {
+                                speaker.speak(slowo.fore);
+                            } catch (Exception e1) {
+                                e1.printStackTrace();
+                            }
                         } else {
                             int n = slowo.pol.indexOf("-");
                             slowo.pol = slowo.pol.substring(0, n);
@@ -2566,16 +2579,16 @@ int flaga=0;
                             jFrame.setLayout(new MigLayout());
                             final JTextField jTextField1= new JTextField();
                             final JTextField jTextField2= new JTextField();
-                            final JTextField jTextFieldPronunciation= new JTextField();
+
                             jFrame.add(jTextField1,"w 100:150:200");
                             jFrame.add(jTextField2,"w 100:150:200");
-                            jFrame.add(jTextFieldPronunciation,"w 100:150:200");
+
                             jTextField1.setFont(new Font("Dialog", Font.BOLD,18));
                             jTextField2.setFont(new Font("Dialog", Font.BOLD,18));
-                            jTextFieldPronunciation.setFont(new Font("Dialog", Font.BOLD,18));
+
                             jTextField1.setText(orginal.pol);
                             jTextField2.setText(orginal.fore);
-                            jTextFieldPronunciation.setText(orginal.pronunciation);
+
 
                             final char[] francuskieLitery={'à','â','ç','é','è','ê','ë','î','ï','ô','û','ù','ü','ÿ'};
                             final char[] capsLock={'À','Â', 'Ç', 'É', 'È','Ê','Ë' , 'Î','Ï', 'Ô', 'Û' ,'Ù', 'Ü', 'Ÿ'};
@@ -2653,10 +2666,10 @@ int flaga=0;
                                 public void actionPerformed(ActionEvent e) {
                                     slowo.fore=jTextField2.getText();
                                     slowo.pol=jTextField1.getText();
-                                    slowo.pronunciation=jTextFieldPronunciation.getText();
+
                                     orginal.pol=slowo.pol;
                                     orginal.fore=slowo.fore;
-                                    orginal.pronunciation=slowo.pronunciation;
+
                                     aktualny_plik.zapis_zmian();
                                     //z.zaktualizujZmiany();
                                     jFrame.dispose();
@@ -3138,7 +3151,7 @@ int flaga=0;
 
                     ObsługaNazwowa obsługaNazwowa= new ObsługaNazwowa();
                     String nazwea=obsługaNazwowa.zmienNaTeraz(aktualny_plik.get_nazwa_pliku());
-                    System.out.println("Zmien na teraz "+aktualny_plik.get_nazwa_pliku());
+
 
                     if(!((String) node.getUserObject()).contains("Archiwum")){
                     node.setUserObject(nazwea);
@@ -3168,7 +3181,7 @@ int flaga=0;
 
                    z.zmienNazwePakietuPoNumerze(aktualny_plik.numer,nazwea);
                    //z.zakutualizujPobrane();
-                   z.wypisz_zbiornik();
+
                     tree.revalidate();
                     tree.repaint();
                     p=z.zbiornik;
@@ -3403,7 +3416,7 @@ int flaga=0;
                     {
 
                     }
-                    System.out.println(paths.length);
+
                     for(String s:paths)
                     {
                         try {

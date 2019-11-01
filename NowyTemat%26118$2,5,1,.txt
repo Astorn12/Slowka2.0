@@ -1,2 +1,2 @@
-polski,francuski,0,,0,12,0,0,angielski,n,pronunciation
-ola,ola,1,ang,-9,0,0,-1,angielski,n,pronunciation
+polski,francuski,0,,0,12,0,0,angielski,n
+ola,ola,1,ang,-9,0,0,-1,angielski,n

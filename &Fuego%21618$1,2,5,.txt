@@ -1,8 +1,8 @@
-polski,angielski,0,,0,0,0,3,Angielski,n,pronunciation
-nur,dive,0,ang,-1,0,0,-1,Angielski,n,pronunciation
-lwica,lioness,0,ang,-3,0,0,-1,Angielski,n,pronunciation
-utrzymywać/kontynuować,keep up,0,ang,-1,0,0,-1,Angielski,n,pronunciation
-przespać się z kimś,get a doze of sb,0,ang,-1,0,0,-1,Angielski,n,pronunciation
-bardzo wysoko,way up,0,ang,-1,0,0,-1,Angielski,n,pronunciation
-być rozpalonym,be burning up,0,ang,-1,0,0,-1,Angielski,n,pronunciation
-ukryty cel/drugie dno,hidden agenda,0,ang,-2,0,0,-1,Angielski,n,pronunciation
+polski,angielski,0,,0,0,0,3,Angielski,n
+nur,dive,0,ang,-1,0,0,-1,Angielski,n
+lwica,lioness,0,ang,-3,0,0,-1,Angielski,n
+utrzymywać/kontynuować,keep up,0,ang,-1,0,0,-1,Angielski,n
+przespać się z kimś,get a doze of sb,0,ang,-1,0,0,-1,Angielski,n
+bardzo wysoko,way up,0,ang,-1,0,0,-1,Angielski,n
+być rozpalonym,be burning up,0,ang,-1,0,0,-1,Angielski,n
+ukryty cel/drugie dno,hidden agenda,0,ang,-2,0,0,-1,Angielski,n

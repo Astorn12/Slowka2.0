@@ -1,33 +1,33 @@
-polski,francuski,0,,0,0,0,3,angielski,n,pronunciation
-wynajmować,louer,3,ang,0,0,0,0,angielski,n,pronunciation
-uderzać,frapper,3,ang,0,0,0,0,angielski,n,pronunciation
-bardzo proszę(przy zapraszaniu do środka),je t'en prie,3,ang,0,0,0,0,angielski,n,pronunciation
-dekoracja, la déco,3,ang,0,0,0,0,angielski,n,pronunciation
-wreszcie,enfin,3,ang,0,0,0,0,angielski,n,pronunciation
-razem,ensemble,3,ang,0,0,0,0,angielski,n,pronunciation
-randkować(wychodzić),sortir,3,ang,0,0,0,0,angielski,n,pronunciation
-facet,le mec,3,ang,0,0,0,0,angielski,n,pronunciation
-wypełniony,rempli,3,ang,0,0,0,0,angielski,n,pronunciation
-żyć,vivre,3,ang,0,0,0,0,angielski,n,pronunciation
-ten sam,même,3,ang,0,0,0,0,angielski,n,pronunciation
-daleko,loin,3,ang,0,0,0,0,angielski,n,pronunciation
-łatwy,facile,3,ang,0,0,0,0,angielski,n,pronunciation
-naprawdę,vraiment,3,ang,0,0,0,0,angielski,n,pronunciation
-trouver,znajdować,3,ang,0,0,0,0,angielski,n,pronunciation
-zdrowy,saine,3,ang,0,0,0,0,angielski,n,pronunciation
-też,en plus,3,ang,0,0,0,0,angielski,n,pronunciation
-mięso,la viande,3,ang,0,0,0,0,angielski,n,pronunciation
-też nie,non plus,3,ang,0,0,0,0,angielski,n,pronunciation
-palić,dumer,3,ang,0,0,0,0,angielski,n,pronunciation
-wygląd,l'air,3,ang,0,0,0,0,angielski,n,pronunciation
-o(kimś),sur,3,ang,0,0,0,0,angielski,n,pronunciation
-wiedzieć,savoir,3,ang,0,0,0,0,angielski,n,pronunciation
-poczycie humoru,sens de l'humour,3,ang,0,0,0,0,angielski,n,pronunciation
-śmieszny,drôle,3,ang,0,0,0,0,angielski,n,pronunciation
-czekać,attendre,3,ang,0,0,0,0,angielski,n,pronunciation
-co nie?,n'est-ce pas?,3,ang,0,0,0,0,angielski,n,pronunciation
-że,que,3,ang,0,0,0,0,angielski,n,pronunciation
-musieć,devoir,3,ang,0,0,0,0,angielski,n,pronunciation
-plan,le projet,3,ang,0,0,0,0,angielski,n,pronunciation
-ciężkie przemyślenia,müre réflexion,3,ang,0,0,0,0,angielski,n,pronunciation
-zdawać sobie sprawę,réaliser,3,ang,0,0,0,0,angielski,n,pronunciation
+polski,francuski,0,,0,0,0,3,angielski,n
+wynajmować,louer,3,ang,0,0,0,0,angielski,n
+uderzać,frapper,3,ang,0,0,0,0,angielski,n
+bardzo proszę(przy zapraszaniu do środka),je t'en prie,3,ang,0,0,0,0,angielski,n
+dekoracja, la déco,3,ang,0,0,0,0,angielski,n
+wreszcie,enfin,3,ang,0,0,0,0,angielski,n
+razem,ensemble,3,ang,0,0,0,0,angielski,n
+randkować(wychodzić),sortir,3,ang,0,0,0,0,angielski,n
+facet,le mec,3,ang,0,0,0,0,angielski,n
+wypełniony,rempli,3,ang,0,0,0,0,angielski,n
+żyć,vivre,3,ang,0,0,0,0,angielski,n
+ten sam,même,3,ang,0,0,0,0,angielski,n
+daleko,loin,3,ang,0,0,0,0,angielski,n
+łatwy,facile,3,ang,0,0,0,0,angielski,n
+naprawdę,vraiment,3,ang,0,0,0,0,angielski,n
+trouver,znajdować,3,ang,0,0,0,0,angielski,n
+zdrowy,saine,3,ang,0,0,0,0,angielski,n
+też,en plus,3,ang,0,0,0,0,angielski,n
+mięso,la viande,3,ang,0,0,0,0,angielski,n
+też nie,non plus,3,ang,0,0,0,0,angielski,n
+palić,dumer,3,ang,0,0,0,0,angielski,n
+wygląd,l'air,3,ang,0,0,0,0,angielski,n
+o(kimś),sur,3,ang,0,0,0,0,angielski,n
+wiedzieć,savoir,3,ang,0,0,0,0,angielski,n
+poczycie humoru,sens de l'humour,3,ang,0,0,0,0,angielski,n
+śmieszny,drôle,3,ang,0,0,0,0,angielski,n
+czekać,attendre,3,ang,0,0,0,0,angielski,n
+co nie?,n'est-ce pas?,3,ang,0,0,0,0,angielski,n
+że,que,3,ang,0,0,0,0,angielski,n
+musieć,devoir,3,ang,0,0,0,0,angielski,n
+plan,le projet,3,ang,0,0,0,0,angielski,n
+ciężkie przemyślenia,müre réflexion,3,ang,0,0,0,0,angielski,n
+zdawać sobie sprawę,réaliser,3,ang,0,0,0,0,angielski,n

@@ -1,18 +1,18 @@
-polski,francuski,0,,0,0,0,3,Angielski,n,pronunciation
-pasztet,la terrine,3,ang,1,3,0,3,Angielski,n,pronunciation
-wiejski,campagnard,3,ang,1,3,0,3,Angielski,n,pronunciation
-koza,la chèvre,3,ang,1,3,0,3,Angielski,n,pronunciation
-ciepły,chaud,3,ang,1,3,0,3,Angielski,n,pronunciation
-czas gotowania,la cuisson,3,ang,1,3,0,3,Angielski,n,pronunciation
-mięso,la viande,3,ang,1,3,0,3,Angielski,n,pronunciation
-płat,le pavé,3,ang,1,3,0,3,Angielski,n,pronunciation
-rekomendować,recommander,3,ang,1,3,0,3,Angielski,n,pronunciation
-radzić,conseiller,3,ang,1,3,0,3,Angielski,n,pronunciation
-it will be,ça sera,3,ang,1,3,0,3,Angielski,n,pronunciation
-miejsce,le endroit,3,ang,1,3,0,3,Angielski,n,pronunciation
-surówka,la crudité,3,ang,1,3,0,3,Angielski,n,pronunciation
-zwilżać,mouiller,3,ang,1,3,0,3,Angielski,n,pronunciation
-nakrycie,le couvert,3,ang,1,3,0,3,Angielski,n,pronunciation
-zamiast,par contre,3,ang,1,3,0,3,Angielski,n,pronunciation
-zamiast2,en revanche,3,ang,1,3,0,3,Angielski,n,pronunciation
-posadzić,mettre,3,ang,1,3,0,3,Angielski,n,pronunciation
+polski,francuski,0,,0,0,0,3,Angielski,n
+pasztet,la terrine,3,ang,1,3,0,3,Angielski,n
+wiejski,campagnard,3,ang,1,3,0,3,Angielski,n
+koza,la chèvre,3,ang,1,3,0,3,Angielski,n
+ciepły,chaud,3,ang,1,3,0,3,Angielski,n
+czas gotowania,la cuisson,3,ang,1,3,0,3,Angielski,n
+mięso,la viande,3,ang,1,3,0,3,Angielski,n
+płat,le pavé,3,ang,1,3,0,3,Angielski,n
+rekomendować,recommander,3,ang,1,3,0,3,Angielski,n
+radzić,conseiller,3,ang,1,3,0,3,Angielski,n
+it will be,ça sera,3,ang,1,3,0,3,Angielski,n
+miejsce,le endroit,3,ang,1,3,0,3,Angielski,n
+surówka,la crudité,3,ang,1,3,0,3,Angielski,n
+zwilżać,mouiller,3,ang,1,3,0,3,Angielski,n
+nakrycie,le couvert,3,ang,1,3,0,3,Angielski,n
+zamiast,par contre,3,ang,1,3,0,3,Angielski,n
+zamiast2,en revanche,3,ang,1,3,0,3,Angielski,n
+posadzić,mettre,3,ang,1,3,0,3,Angielski,n

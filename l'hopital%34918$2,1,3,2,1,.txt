@@ -1,14 +1,14 @@
-polski,francuski,0,,19,47,0,0,angielski,n,pronunciation
-myśleć,penser,0,angi,-2,0,0,0,angielski,n,pronunciation
-przypuszczać,croire,0,angi,-1,0,0,0,angielski,n,pronunciation
-wątroba,le foie,0,angi,-2,0,0,0,angielski,n,pronunciation
-cukierek,le bonbon,0,angi,-1,0,0,0,angielski,n,pronunciation
-parzyć,brùler,0,angi,-2,0,0,0,angielski,n,pronunciation
-Jest bardzo źle.,Ça va très mal.,0,angi,-2,0,0,0,angielski,n,pronunciation
-leczenie,le traitement,0,ang,-1,0,0,0,angielski,n,pronunciation
-kumpel,le pote,0,ang,-1,0,0,0,angielski,n,pronunciation
-leczyć,soigner,0,angi,-1,0,0,0,angielski,n,pronunciation
-zbyt wcześnie,trop tôt,0,angi,-2,0,0,0,angielski,n,pronunciation
-tak!,ouais!,0,angi,-1,0,0,0,angielski,n,pronunciation
-prowadzić,conduire,0,ang,-1,0,0,0,angielski,n,pronunciation
-Bzdury.,N'importe quoi.,0,ang,-1,0,0,0,angielski,n,pronunciation
+polski,francuski,0,,19,47,0,0,angielski,n
+myśleć,penser,0,angi,-2,0,0,0,angielski,n
+przypuszczać,croire,0,angi,-1,0,0,0,angielski,n
+wątroba,le foie,0,angi,-2,0,0,0,angielski,n
+cukierek,le bonbon,0,angi,-1,0,0,0,angielski,n
+parzyć,brùler,0,angi,-2,0,0,0,angielski,n
+Jest bardzo źle.,Ça va très mal.,0,angi,-2,0,0,0,angielski,n
+leczenie,le traitement,0,ang,-1,0,0,0,angielski,n
+kumpel,le pote,0,ang,-1,0,0,0,angielski,n
+leczyć,soigner,0,angi,-1,0,0,0,angielski,n
+zbyt wcześnie,trop tôt,0,angi,-2,0,0,0,angielski,n
+tak!,ouais!,0,angi,-1,0,0,0,angielski,n
+prowadzić,conduire,0,ang,-1,0,0,0,angielski,n
+Bzdury.,N'importe quoi.,0,ang,-1,0,0,0,angielski,n

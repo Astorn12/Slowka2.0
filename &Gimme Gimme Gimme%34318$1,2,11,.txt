@@ -1,5 +1,5 @@
-polski,angielski,0,,2,6,0,0,angielski,n,pronunciation
-mrok,gloom,0,ang,-1,0,0,0,angielski,n,pronunciation
-przegonić/przepędzić,chase away,0,ang,-1,0,0,0,angielski,n,pronunciation
-świt/brzask,break of day,0,ang,-1,0,0,0,angielski,n,pronunciation
-wpatrywać się intensywnie,gaze,0,ang,-1,0,0,0,angielski,n,pronunciation
+polski,angielski,0,,2,6,0,0,angielski,n
+mrok,gloom,0,ang,-1,0,0,0,angielski,n
+przegonić/przepędzić,chase away,0,ang,-1,0,0,0,angielski,n
+świt/brzask,break of day,0,ang,-1,0,0,0,angielski,n
+wpatrywać się intensywnie,gaze,0,ang,-1,0,0,0,angielski,n

@@ -1,67 +1,67 @@
-polski,francuski,0,,0,0,0,3,Angielski,n,pronunciation
-kamizelka,le gilet,3,angi,1,3,0,3,Angielski,n,pronunciation
-płaszcz,le manteau,2,angi,1,3,0,3,Angielski,n,pronunciation
-sweter,le pull,1,angi,1,3,0,3,Angielski,n,pronunciation
-piżama,le pyjama,3,angi,1,3,0,3,Angielski,n,pronunciation
-pierścionek,la bague,2,angi,1,3,0,3,Angielski,n,pronunciation
-guzik,le bouton,5,angi,1,3,0,3,Angielski,n,pronunciation
-szelki,la bretelles,4,angi,1,3,0,3,Angielski,n,pronunciation
-mieszak,le cintre,3,angi,1,3,0,3,Angielski,n,pronunciation
-naszyjnik,le collier,5,angi,1,3,0,3,Angielski,n,pronunciation
-apaszka,le foulard,3,angi,1,3,0,3,Angielski,n,pronunciation
-okulary,la lunettes,5,angi,1,3,0,3,Angielski,n,pronunciation
-zegarek,la montre,4,ang,1,3,0,3,Angielski,n,pronunciation
-chusteczka,le mouchoir,5,ang,1,3,0,3,Angielski,n,pronunciation
-kieszeń,la poche,0,angi,1,3,0,3,Angielski,n,pronunciation
-pasek,la ceinture,5,angi,1,3,0,3,Angielski,n,pronunciation
-koszula,la chemise,1,angi,1,3,0,3,Angielski,n,pronunciation
-sukienka,la robe,4,angi,1,3,0,3,Angielski,n,pronunciation
-kapelusz,le chapeau,3,angi,1,3,0,3,Angielski,n,pronunciation
-czapka,la casquette,3,angi,1,3,0,3,Angielski,n,pronunciation
-buty,la bottes,2,angi,1,3,0,3,Angielski,n,pronunciation
-spódnica,la jupe,0,angi,1,3,0,3,Angielski,n,pronunciation
-skarpetki,les chaussettes,3,angi,1,3,0,3,Angielski,n,pronunciation
-spodnie,le pantalon,2,angi,1,3,0,3,Angielski,n,pronunciation
-tenisówki,les chaussures,2,angi,1,3,0,3,Angielski,n,pronunciation
-t-shirt,le tee-shirt,5,angi,1,3,0,3,Angielski,n,pronunciation
-palec u ręki,un doigt,4,angi,1,3,0,3,Angielski,n,pronunciation
-ręka,la main,4,angi,1,3,0,3,Angielski,n,pronunciation
-głowa,la tête,2,angi,1,3,0,3,Angielski,n,pronunciation
-szyja,le cou,2,angi,1,3,0,3,Angielski,n,pronunciation
-bark,l'épaule,1,angi,1,3,0,3,Angielski,n,pronunciation
-ramię,le bras,1,angi,1,3,0,3,Angielski,n,pronunciation
-tułów,le torse,3,angi,1,3,0,3,Angielski,n,pronunciation
-łokieć,le coude,5,angi,1,3,0,3,Angielski,n,pronunciation
-przedramię,l'avant-bras,5,angi,1,3,0,3,Angielski,n,pronunciation
-ramię,le bras,4,angi,1,3,0,3,Angielski,n,pronunciation
-nadgarstek,le poignet,4,angi,1,3,0,3,Angielski,n,pronunciation
-brzuch,le ventre,3,angi,1,3,0,3,Angielski,n,pronunciation
-miednica,le bassin,3,angi,1,3,0,3,Angielski,n,pronunciation
-udo,la cuisse,1,ang,1,3,0,3,Angielski,n,pronunciation
-kolano,le genou,5,angi,1,3,0,3,Angielski,n,pronunciation
-noga,la jambe,1,angi,1,3,0,3,Angielski,n,pronunciation
-kostka,la cheville,1,angi,1,3,0,3,Angielski,n,pronunciation
-stopa,le pied,5,angi,1,3,0,3,Angielski,n,pronunciation
-palec u nogi,les orteils,4,angi,1,3,0,3,Angielski,n,pronunciation
-brew,le sourcil,4,angi,1,3,0,3,Angielski,n,pronunciation
-skroń,la tempe,5,angi,1,3,0,3,Angielski,n,pronunciation
-czaszka,la crâne,3,angi,1,3,0,3,Angielski,n,pronunciation
-włosy,les cheveux,5,angi,1,3,0,3,Angielski,n,pronunciation
-czoło,le front,1,angi,1,3,0,3,Angielski,n,pronunciation
-ucho,l'oreille,0,angi,1,3,0,3,Angielski,n,pronunciation
-oko,l'oeil,3,angi,1,3,0,3,Angielski,n,pronunciation
-oczy,les yeux,3,angi,1,3,0,3,Angielski,n,pronunciation
-płatek ucha,le lobe de l'oreille,4,angi,1,3,0,3,Angielski,n,pronunciation
-policzek,la joue,3,angi,1,3,0,3,Angielski,n,pronunciation
-nos,le nez,1,angi,1,3,0,3,Angielski,n,pronunciation
-usta,la buche,1,angi,1,3,0,3,Angielski,n,pronunciation
-usta,les lévres,3,ang,1,3,0,3,Angielski,n,pronunciation
-jabłko adama,la pomme d'Adam,1,angi,1,3,0,3,Angielski,n,pronunciation
-broda,le menton,4,ang,1,3,0,3,Angielski,n,pronunciation
-nos psa,la truffe,3,angi,1,3,0,3,Angielski,n,pronunciation
-pysk,le museau,5,angi,1,3,0,3,Angielski,n,pronunciation
-pysk2,la gueule,4,ang,1,3,0,3,Angielski,n,pronunciation
-blisko,prés,3,ang,1,3,0,3,Angielski,n,pronunciation
-ilość,quantité,1,angi,1,3,0,3,Angielski,n,pronunciation
-pożywienie,la nourriture,5,ang,1,3,0,3,Angielski,n,pronunciation
-jeszcze,encore,2,angi,1,3,0,3,Angielski,n,pronunciation
+polski,francuski,0,,0,0,0,3,Angielski,n
+kamizelka,le gilet,3,angi,1,3,0,3,Angielski,n
+płaszcz,le manteau,2,angi,1,3,0,3,Angielski,n
+sweter,le pull,1,angi,1,3,0,3,Angielski,n
+piżama,le pyjama,3,angi,1,3,0,3,Angielski,n
+pierścionek,la bague,2,angi,1,3,0,3,Angielski,n
+guzik,le bouton,5,angi,1,3,0,3,Angielski,n
+szelki,la bretelles,4,angi,1,3,0,3,Angielski,n
+mieszak,le cintre,3,angi,1,3,0,3,Angielski,n
+naszyjnik,le collier,5,angi,1,3,0,3,Angielski,n
+apaszka,le foulard,3,angi,1,3,0,3,Angielski,n
+okulary,la lunettes,5,angi,1,3,0,3,Angielski,n
+zegarek,la montre,4,ang,1,3,0,3,Angielski,n
+chusteczka,le mouchoir,5,ang,1,3,0,3,Angielski,n
+kieszeń,la poche,0,angi,1,3,0,3,Angielski,n
+pasek,la ceinture,5,angi,1,3,0,3,Angielski,n
+koszula,la chemise,1,angi,1,3,0,3,Angielski,n
+sukienka,la robe,4,angi,1,3,0,3,Angielski,n
+kapelusz,le chapeau,3,angi,1,3,0,3,Angielski,n
+czapka,la casquette,3,angi,1,3,0,3,Angielski,n
+buty,la bottes,2,angi,1,3,0,3,Angielski,n
+spódnica,la jupe,0,angi,1,3,0,3,Angielski,n
+skarpetki,les chaussettes,3,angi,1,3,0,3,Angielski,n
+spodnie,le pantalon,2,angi,1,3,0,3,Angielski,n
+tenisówki,les chaussures,2,angi,1,3,0,3,Angielski,n
+t-shirt,le tee-shirt,5,angi,1,3,0,3,Angielski,n
+palec u ręki,un doigt,4,angi,1,3,0,3,Angielski,n
+ręka,la main,4,angi,1,3,0,3,Angielski,n
+głowa,la tête,2,angi,1,3,0,3,Angielski,n
+szyja,le cou,2,angi,1,3,0,3,Angielski,n
+bark,l'épaule,1,angi,1,3,0,3,Angielski,n
+ramię,le bras,1,angi,1,3,0,3,Angielski,n
+tułów,le torse,3,angi,1,3,0,3,Angielski,n
+łokieć,le coude,5,angi,1,3,0,3,Angielski,n
+przedramię,l'avant-bras,5,angi,1,3,0,3,Angielski,n
+ramię,le bras,4,angi,1,3,0,3,Angielski,n
+nadgarstek,le poignet,4,angi,1,3,0,3,Angielski,n
+brzuch,le ventre,3,angi,1,3,0,3,Angielski,n
+miednica,le bassin,3,angi,1,3,0,3,Angielski,n
+udo,la cuisse,1,ang,1,3,0,3,Angielski,n
+kolano,le genou,5,angi,1,3,0,3,Angielski,n
+noga,la jambe,1,angi,1,3,0,3,Angielski,n
+kostka,la cheville,1,angi,1,3,0,3,Angielski,n
+stopa,le pied,5,angi,1,3,0,3,Angielski,n
+palec u nogi,les orteils,4,angi,1,3,0,3,Angielski,n
+brew,le sourcil,4,angi,1,3,0,3,Angielski,n
+skroń,la tempe,5,angi,1,3,0,3,Angielski,n
+czaszka,la crâne,3,angi,1,3,0,3,Angielski,n
+włosy,les cheveux,5,angi,1,3,0,3,Angielski,n
+czoło,le front,1,angi,1,3,0,3,Angielski,n
+ucho,l'oreille,0,angi,1,3,0,3,Angielski,n
+oko,l'oeil,3,angi,1,3,0,3,Angielski,n
+oczy,les yeux,3,angi,1,3,0,3,Angielski,n
+płatek ucha,le lobe de l'oreille,4,angi,1,3,0,3,Angielski,n
+policzek,la joue,3,angi,1,3,0,3,Angielski,n
+nos,le nez,1,angi,1,3,0,3,Angielski,n
+usta,la buche,1,angi,1,3,0,3,Angielski,n
+usta,les lévres,3,ang,1,3,0,3,Angielski,n
+jabłko adama,la pomme d'Adam,1,angi,1,3,0,3,Angielski,n
+broda,le menton,4,ang,1,3,0,3,Angielski,n
+nos psa,la truffe,3,angi,1,3,0,3,Angielski,n
+pysk,le museau,5,angi,1,3,0,3,Angielski,n
+pysk2,la gueule,4,ang,1,3,0,3,Angielski,n
+blisko,prés,3,ang,1,3,0,3,Angielski,n
+ilość,quantité,1,angi,1,3,0,3,Angielski,n
+pożywienie,la nourriture,5,ang,1,3,0,3,Angielski,n
+jeszcze,encore,2,angi,1,3,0,3,Angielski,n

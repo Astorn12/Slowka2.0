@@ -20,7 +20,7 @@ public class ImageViewport extends JViewport {
         int h=600;
         //int w = component.getY();//image.getWidth() / 2;
         //int h = component.getX();//image.getHeight() / 2;
-        System.out.println("X i Y "+w+" "+h);
+
         //int w = image.getWidth() / 2;
         //int h = image.getHeight() / 2;
         Rectangle2D r = new Rectangle2D.Double(0, 0, w, h);
